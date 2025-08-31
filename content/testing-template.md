@@ -52,15 +52,15 @@ and, i will have images.
 
 perhaps one; like so: 
 
-![[ws-qr.jpg]]
+![[template-folder/ws-qr.jpg]]
 
 or a bigger one, like so: 
 
-![[O1.webp]]
+![[template-folder/O1.webp]]
 
 or, perhaps two images together: 
 
-| ![[O2.webp]] | ![[O3.webp]] |
+| ![[template-folder/O2.webp]] | ![[template-folder/O3.webp]] |
 | ------------ | ------------ |
 |              |              |
 |              |              |
