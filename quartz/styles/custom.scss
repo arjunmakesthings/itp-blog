@@ -84,3 +84,17 @@ figcaption {
 img , video {
     margin-bottom: 0; 
 }
+
+blockquote {
+  background-color: var(--tertiary-color);
+  padding: 1.2em;
+  border-radius: 4px; 
+}
+blockquote p {
+//   font-style: italic;
+  color: var(--secondary-color);
+  line-height: 1.3em;
+  font-size: var(--base-minus-one); 
+  font-weight: 300;
+}
+
