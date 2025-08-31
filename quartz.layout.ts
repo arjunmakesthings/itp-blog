@@ -4,7 +4,7 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(), //this doesn't appear on the page, and is only responsible for the metadata about the document; like title, scripts and styles. also has favicon though.
-  header: [],
+  header: [], // this comes before the 'beforeBody' section, but was discontinued in quartz 4. i keep it discontinued, because i like the idea of having the left-sidebar be a way for people to search through notes.
   afterBody: [],
   footer: Component.Footer({
     links: {
