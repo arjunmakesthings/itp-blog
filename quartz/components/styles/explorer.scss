@@ -127,7 +127,7 @@ button.desktop-explorer {
 
       &.active {
         opacity: 1;
-        color: var(--tertiary);
+        color: inherit;
       }
     }
   }
@@ -157,7 +157,7 @@ button.desktop-explorer {
   user-select: none;
 
   & div > a {
-    color: var(--secondary);
+    color: inherit;
     font-family: var(--headerFont);
     font-size: 0.95rem;
     font-weight: $semiBoldWeight;
@@ -207,7 +207,7 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
 }
 
 .folder-icon:hover {
-  color: var(--tertiary);
+  color: inherit;
 }
 
 .explorer {
