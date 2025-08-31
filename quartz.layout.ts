@@ -5,6 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(), //this doesn't appear on the page, and is only responsible for the metadata about the document; like title, scripts and styles.
   header: [],
+  head: Component.Head(), //this doesn't appear on the page, and is only responsible for the metadata about the document; like title, scripts and styles. also has favicon though.
   afterBody: [],
   footer: Component.Footer({
     links: {
