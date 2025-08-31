@@ -56,13 +56,11 @@ or a bigger one, like so:
 
 ![[template-folder/O1.webp]]
 
-or, perhaps two images together: 
+or, perhaps two images together (in a table): 
 
 | ![[template-folder/O2.webp]] | ![[template-folder/O3.webp]] |
-| ------------ | ------------ |
-|              |              |
-|              |              |
-### h3 heading, which is supposed to be a caption. 
+| ---------------------------- | ---------------------------- |
+<figcaption>something, something.</figcaption> 
 
 or i can have a figcaption here, like so: 
 
