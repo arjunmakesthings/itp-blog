@@ -68,8 +68,8 @@ or, perhaps two images together:
 
 or i can have a figcaption here, like so: 
 
-![[template-folder/O1.webp]]
-<figcaption>something, something.</figcaption>
+![[template-folder/O1.webp]] <figcaption>something, something.</figcaption>
+
 
 ---
 # another heading:
