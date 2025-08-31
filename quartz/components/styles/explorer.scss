@@ -30,6 +30,8 @@
   display: flex;
   flex-direction: column;
   overflow-y: hidden;
+  font-size: var(--base-minus-one);
+  color: inherit;
 
   min-height: 1.2rem;
   flex: 0 1 auto;
@@ -97,12 +99,13 @@ button.desktop-explorer {
   text-align: left;
   cursor: pointer;
   padding: 0;
-  color: var(--dark);
+  color: "var(--dark)";
   display: flex;
   align-items: center;
 
   & h2 {
-    font-size: 1rem;
+    // font-size: 1rem;
+    font-size: inherit;
     display: inline-block;
     margin: 0;
   }
@@ -121,13 +124,13 @@ button.desktop-explorer {
     overscroll-behavior: contain;
 
     & li > a {
-      color: var(--dark);
+      color: "var(--dark)";
       opacity: 0.75;
       pointer-events: all;
 
       &.active {
         opacity: 1;
-        color: var(--tertiary);
+        color: var(--primary-color);
       }
     }
   }
@@ -147,6 +150,8 @@ button.desktop-explorer {
     margin-left: 6px;
     padding-left: 0.8rem;
     border-left: 1px solid var(--lightgray);
+  } & li + li {
+    margin-top: 0.6em; 
   }
 }
 
@@ -157,20 +162,22 @@ button.desktop-explorer {
   user-select: none;
 
   & div > a {
-    color: var(--secondary);
-    font-family: var(--headerFont);
-    font-size: 0.95rem;
-    font-weight: $semiBoldWeight;
-    line-height: 1.5rem;
+    color: var(--secondary-color);
+    // font-family: "Alegreya Sans";
+    // font-size: 0.95rem;
+    font-size: inherit;
+    // font-weight: $semiBoldWeight;
+    font-weight: lighter;
+    line-height: 1.6em;
     display: inline-block;
   }
 
-  & div > a:hover {
-    color: var(--tertiary);
-  }
+  // & div > a:hover {
+  //   // color: var(--tertiary);
+  // }
 
   & div > button {
-    color: var(--dark);
+    color: inherit;
     background-color: transparent;
     border: none;
     text-align: left;
@@ -179,7 +186,7 @@ button.desktop-explorer {
     padding-right: 0;
     display: flex;
     align-items: center;
-    font-family: var(--headerFont);
+    // font-family: var(--headerFont);
 
     & span {
       font-size: 0.95rem;
@@ -207,7 +214,7 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
 }
 
 .folder-icon:hover {
-  color: var(--tertiary);
+  color: inherit;
 }
 
 .explorer {

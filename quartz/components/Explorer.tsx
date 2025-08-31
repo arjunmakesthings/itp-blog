@@ -4,7 +4,7 @@ import style from "./styles/explorer.scss"
 // @ts-ignore
 import script from "./scripts/explorer.inline"
 import { classNames } from "../util/lang"
-import { i18n } from "../i18n"
+// import { i18n } from "../i18n"
 import { FileTrieNode } from "../util/fileTrie"
 import OverflowListFactory from "./OverflowList"
 import { concatenateResources } from "../util/resources"
@@ -60,7 +60,8 @@ export default ((userOpts?: Partial<Options>) => {
   const opts: Options = { ...defaultOptions, ...userOpts }
   const { OverflowList, overflowListAfterDOMLoaded } = OverflowListFactory()
 
-  const Explorer: QuartzComponent = ({ cfg, displayClass }: QuartzComponentProps) => {
+  // const Explorer: QuartzComponent = ({ cfg, displayClass }: QuartzComponentProps) => {
+  const Explorer: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
     const id = `explorer-${numExplorers++}`
 
     return (
@@ -82,6 +83,7 @@ export default ((userOpts?: Partial<Options>) => {
           data-mobile={true}
           aria-controls={id}
         >
+          {/* <h2>see all notes:</h2> */}
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="24"
@@ -97,7 +99,7 @@ export default ((userOpts?: Partial<Options>) => {
             <line x1="4" x2="20" y1="18" y2="18" />
           </svg>
         </button>
-        <button
+        {/* <button
           type="button"
           class="title-button explorer-toggle desktop-explorer"
           data-mobile={false}
@@ -118,7 +120,7 @@ export default ((userOpts?: Partial<Options>) => {
           >
             <polyline points="6 9 12 15 18 9"></polyline>
           </svg>
-        </button>
+        </button> */}
         <div id={id} class="explorer-content" aria-expanded={false} role="group">
           <OverflowList class="explorer-ul" />
         </div>
@@ -130,7 +132,7 @@ export default ((userOpts?: Partial<Options>) => {
         <template id="template-folder">
           <li>
             <div class="folder-container">
-              <svg
+              {/* <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="12"
                 height="12"
@@ -143,7 +145,7 @@ export default ((userOpts?: Partial<Options>) => {
                 class="folder-icon"
               >
                 <polyline points="6 9 12 15 18 9"></polyline>
-              </svg>
+              </svg> */}
               <div>
                 <button class="folder-button">
                   <span class="folder-title"></span>
