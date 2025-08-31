@@ -37,7 +37,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
+    // Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
 }
@@ -57,7 +57,7 @@ export const defaultListPageLayout: PageLayout = {
         // { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer({ title: "all:", folderDefaultState: "open", useSavedState: false }),
+    Component.Explorer({title: "all:" , folderDefaultState: "open" , useSavedState: false }),
   ],
   right: [],
 }
