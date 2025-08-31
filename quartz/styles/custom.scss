@@ -1,6 +1,7 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
 h1 {
   font-family: "Alegreya Sans";
   font-weight: 600;
@@ -57,4 +58,7 @@ a.active, .folder-container div > a.active {
 .explorer{
     padding-top: 0; 
     margin-top: 0; 
+}
+.folder-title{
+    margin-bottom: 0.3em;
 }

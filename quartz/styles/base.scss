@@ -211,7 +211,7 @@ a {
   margin: 0 auto;
   & article {
     & > h1 {
-      font-size: 2rem;
+      // font-size: 2rem;
     }
 
     & li:has(> input[type="checkbox"]) {
@@ -231,7 +231,7 @@ a {
     }
 
     p > strong {
-      color: var(--dark);
+      // color: var(--dark);
     }
   }
 
@@ -506,7 +506,7 @@ pre {
   & > code {
     background: none;
     padding: 0;
-    font-size: 0.85rem;
+    font-size: var(--base-minus-one);
     counter-reset: line;
     counter-increment: line 0;
     display: grid;
@@ -550,7 +550,7 @@ pre {
 }
 
 code {
-  font-size: 0.9em;
+  font-size: var(--base-minus-one);
   color: var(--dark);
   font-family: var(--codeFont);
   border-radius: 5px;
@@ -558,11 +558,11 @@ code {
   background: var(--lightgray);
 }
 
-tbody,
-li,
-p {
-  line-height: 1.6rem;
-}
+// tbody,
+// li,
+// p {
+  // line-height: 1.6rem;
+// }
 
 .table-container {
   overflow-x: auto;
