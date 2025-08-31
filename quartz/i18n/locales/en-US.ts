@@ -36,7 +36,7 @@ export default {
       title: "Explorer",
     },
     footer: {
-      createdWith: "Created with",
+      createdWith: "made by arjun; with",
     },
     graph: {
       title: "Graph View",
@@ -50,8 +50,8 @@ export default {
       linkToOriginal: "Link to original",
     },
     search: {
-      title: "Search",
-      searchBarPlaceholder: "Search for something",
+      title: "search",
+      searchBarPlaceholder: "search",
     },
     tableOfContents: {
       title: "Table of Contents",
@@ -73,7 +73,7 @@ export default {
     folderContent: {
       folder: "Folder",
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? "1 item under this folder." : `${count} items under this folder.`,
+        count === 1 ? "1 note in this folder." : `${count} notes in this folder.`,
     },
     tagContent: {
       tag: "Tag",

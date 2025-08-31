@@ -19,7 +19,7 @@ i may have quotes, like so:
 ### h3 heading, since i want this to be a caption. 
 
 ---
-
+# another heading: 
 i may have lists, like so: 
 
 1. this thing. 
@@ -52,22 +52,27 @@ and, i will have images.
 
 perhaps one; like so: 
 
-![[ws-qr.jpg]]
+![[template-folder/ws-qr.jpg]]
 
 or a bigger one, like so: 
 
-![[O1.webp]]
+![[template-folder/O1.webp]]
 
 or, perhaps two images together: 
 
-| ![[O2.webp]] | ![[O3.webp]] |
+| ![[template-folder/O2.webp]] | ![[template-folder/O3.webp]] |
 | ------------ | ------------ |
 |              |              |
 |              |              |
 ### h3 heading, which is supposed to be a caption. 
 
----
+or i can have a figcaption here, like so: 
 
+![[template-folder/O1.webp]] <figcaption>something, something.</figcaption>
+
+
+---
+# another heading:
 finally, i may have footnotes [^1]. 
 
 ---
