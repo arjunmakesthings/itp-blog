@@ -21,11 +21,24 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Alegreya Sans",
+        body: "Alegreya Sans",
+        code: "Fira Code",
       },
-      colors: {
+      /*
+      colors: controls the theming of the site.
+
+      light: page background
+      lightgray: borders
+      gray: graph links, heavier borders
+      darkgray: body text
+      dark: header text and icons
+      secondary: link colour, current graph node
+      tertiary: hover states and visited graph nodes
+      highlight: internal link background, highlighted text, highlighted lines of code
+      textHighlight: markdown highlighted text background
+
+      original colours: 
         lightMode: {
           light: "#faf8f8",
           lightgray: "#e5e5e5",
@@ -37,6 +50,20 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
+      */
+      colors: {
+        lightMode: {
+          light: "rgb(253, 253, 253)", //for bg.
+          lightgray: "rgb(240, 240, 240)", //for borders, and links.
+          gray: "#b8b8b8", //graph links, and heavier borders — but i don't know what this is for.
+          darkgray: "rgb(60, 60, 60)", //for body.
+          dark: "rgb(60, 60, 60)", //header text and icons.
+          secondary: "#284b63", //link colour, current graph node.
+          tertiary: "#84a59d",
+          highlight: "rgba(143, 159, 169, 0.15)", //internal link background, highlights. unchanged right now.
+          textHighlight: "#fff6d1",
+        },
+        /* the below colours aren't technically needed, because people cannot shift between light & dark modes on the website. but, because of the way that it's set up, i need to include these. */
         darkMode: {
           light: "#161618",
           lightgray: "#393639",
