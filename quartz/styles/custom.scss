@@ -84,6 +84,7 @@ figcaption {
 
 img , video {
     margin-bottom: 0; 
+    box-sizing: border-box; /* box sizing allows you to include padding in the width & height calculation */
 }
 
 blockquote {

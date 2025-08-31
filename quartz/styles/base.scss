@@ -357,8 +357,8 @@ a {
 }
 
 .footnotes {
-  margin-top: 2rem;
-  border-top: 1px solid var(--lightgray);
+  margin-top: 2em;
+  // border-top: 1px solid var(--lightgray);
 }
 
 input[type="checkbox"] {
@@ -586,7 +586,7 @@ code {
 th {
   text-align: left;
   padding: 0.4rem 0.7rem;
-  border-bottom: 2px solid var(--gray);
+  // border-bottom: 2px solid var(--gray);
 }
 
 td {
