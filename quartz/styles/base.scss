@@ -9,9 +9,9 @@
 :root {
   /* colour-variables: */
   --bg: rgb(253, 253, 253);
-  --primary: rgb(60, 60, 60);
-  --secondary: rgb(120, 120, 120);
-  --tertiary: rgb(240, 240, 240);
+  --primary-color: rgb(60, 60, 60);
+  --secondary-color: rgb(120, 120, 120);
+  --tertiary-color: rgb(240, 240, 240);
 
   --base-minus-one: clamp(0.625rem, 0.5833rem + 0.2083vw, 0.8333rem);
   --base_size: clamp(0.75rem, 0.7rem + 0.25vw, 1rem);
