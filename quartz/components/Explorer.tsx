@@ -83,6 +83,7 @@ export default ((userOpts?: Partial<Options>) => {
           data-mobile={true}
           aria-controls={id}
         >
+          {/* <h2>see all notes:</h2> */}
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="24"
