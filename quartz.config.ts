@@ -25,6 +25,19 @@ const config: QuartzConfig = {
         body: "Alegreya Sans",
         code: "Fira Code",
       },
+      /*
+      colors: controls the theming of the site.
+
+      light: page background
+      lightgray: borders
+      gray: graph links, heavier borders
+      darkgray: body text
+      dark: header text and icons
+      secondary: link colour, current graph node
+      tertiary: hover states and visited graph nodes
+      highlight: internal link background, highlighted text, highlighted lines of code
+      textHighlight: markdown highlighted text background
+      */
       colors: {
         lightMode: {
           light: "#faf8f8",
