@@ -17,7 +17,7 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta({ showReadingTime: false , showComma: false}), //remove reading-time. 
+    Component.ContentMeta({ showReadingTime: false, showComma: false }), //remove reading-time.
     Component.TagList(),
   ],
   left: [
@@ -33,7 +33,7 @@ export const defaultContentPageLayout: PageLayout = {
         // { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({title: "all:" , folderDefaultState: "open" , useSavedState: false }),
+    Component.Explorer({ title: "all:", folderDefaultState: "open", useSavedState: false }),
   ],
   right: [
     Component.Graph(),
@@ -57,7 +57,7 @@ export const defaultListPageLayout: PageLayout = {
         // { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer({title: "all:" , folderDefaultState: "open" , useSavedState: false }),
+    Component.Explorer({ title: "all:", folderDefaultState: "open", useSavedState: false }),
   ],
   right: [],
 }
