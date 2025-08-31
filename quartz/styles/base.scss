@@ -4,6 +4,42 @@
 @use "./syntax.scss";
 @use "./callouts.scss";
 
+/* from my website */
+/* #region */
+:root {
+  /* colour-variables: */
+  --bg: rgb(253, 253, 253);
+  --primary: rgb(60, 60, 60);
+  --secondary: rgb(120, 120, 120);
+  --tertiary: rgb(240, 240, 240);
+
+  --base-minus-one: clamp(0.625rem, 0.5833rem + 0.2083vw, 0.8333rem);
+  --base_size: clamp(0.75rem, 0.7rem + 0.25vw, 1rem);
+
+    /* others: */
+  --global_horizontal-margin: 16vw;
+}
+
+/* for anything 600px and down (phones, portrait tablets, etc): */
+@media (max-width: 768px) {
+  /* phones, portrait */
+  :root {
+    --global_horizontal-margin: 2vw;
+  }
+}
+@media (min-width: 768px) {
+  /* landscape tablets, small laptops */
+  :root {
+    --global_horizontal-margin: 8vw;
+  }
+}
+@media (min-width: 1200px) {
+  :root {
+    --global_horizontal-margin: 16vw; /* big landscape devices  */
+  }
+}
+/* #endregion */
+
 html {
   scroll-behavior: smooth;
   text-size-adjust: none;
@@ -11,8 +47,8 @@ html {
   width: 100vw;
   text-transform: lowercase;
   print-color-adjust: exact;
-  text-wrap: pretty; 
-  // font-family: "Alegreya-Sans"; 
+  text-wrap: pretty;
+  // font-family: "Alegreya-Sans";
 }
 
 body {
