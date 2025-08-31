@@ -20,7 +20,7 @@ export default ((opts?: Options) => {
           <a href="https://arjunmakesthings.github.io" target="_blank">
             arjun
           </a>
-          ; using: <a href="https://quartz.jzhao.xyz/">quartz v{version}</a> © {year}.
+          ; using <a href="https://quartz.jzhao.xyz/">quartz v{version}</a> © {year}.
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
