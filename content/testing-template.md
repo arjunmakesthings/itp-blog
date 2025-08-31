@@ -66,6 +66,11 @@ or, perhaps two images together:
 |              |              |
 ### h3 heading, which is supposed to be a caption. 
 
+or i can have a figcaption here, like so: 
+
+![[template-folder/O1.webp]]
+<figcaption>something, something.</figcaption>
+
 ---
 # another heading:
 finally, i may have footnotes [^1]. 
