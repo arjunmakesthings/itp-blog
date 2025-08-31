@@ -37,6 +37,19 @@ const config: QuartzConfig = {
       tertiary: hover states and visited graph nodes
       highlight: internal link background, highlighted text, highlighted lines of code
       textHighlight: markdown highlighted text background
+
+      original colours: 
+        lightMode: {
+          light: "#faf8f8",
+          lightgray: "#e5e5e5",
+          gray: "#b8b8b8",
+          darkgray: "#4e4e4e",
+          dark: "#2b2b2b",
+          secondary: "#284b63",
+          tertiary: "#84a59d",
+          highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#fff23688",
+        },
       */
       colors: {
         lightMode: {
@@ -50,6 +63,7 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
+        /* the below colours aren't technically needed, because people cannot shift between light & dark modes on the website. but, because of the way that it's set up, i need to include these. */
         darkMode: {
           light: "#161618",
           lightgray: "#393639",
