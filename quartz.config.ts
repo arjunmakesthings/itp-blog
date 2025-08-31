@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "arjunmakesthings.github.io/itp-blog",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
