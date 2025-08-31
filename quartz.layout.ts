@@ -33,7 +33,7 @@ export const defaultContentPageLayout: PageLayout = {
         // { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({title: "all:" , folderDefaultState: "open" , useSavedState: false }),
   ],
   right: [
     Component.Graph(),
