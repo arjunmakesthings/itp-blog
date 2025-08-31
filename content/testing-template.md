@@ -51,10 +51,12 @@ and, i will have images.
 perhaps one; like so: 
 
 ![[template-folder/ws-qr.jpg]]
+<figcaption></figcaption>
 
-or a bigger one, like so: 
+or a bigger one, like so (with an empty figcaption for spacing): 
 
 ![[template-folder/O1.webp]]
+<figcaption></figcaption>
 
 or, perhaps two images together (in a table): 
 
