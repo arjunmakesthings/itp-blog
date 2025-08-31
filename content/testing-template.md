@@ -19,7 +19,7 @@ i may have quotes, like so:
 ### h3 heading, since i want this to be a caption. 
 
 ---
-
+# another heading: 
 i may have lists, like so: 
 
 1. this thing. 
@@ -67,7 +67,7 @@ or, perhaps two images together:
 ### h3 heading, which is supposed to be a caption. 
 
 ---
-
+# another heading:
 finally, i may have footnotes [^1]. 
 
 ---
