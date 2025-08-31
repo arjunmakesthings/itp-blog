@@ -134,7 +134,8 @@ a {
   color: var(--secondary);
 
   &:hover {
-    color: var(--tertiary);
+    // color: var(--tertiary);
+    color: inherit;
   }
 
   &.internal {
@@ -265,7 +266,7 @@ a {
     }
 
     & .sidebar {
-      gap: 2rem;
+      gap: 1.6rem;
       top: 0;
       box-sizing: border-box;
       padding: $topSpacing 2rem 2rem 2rem;

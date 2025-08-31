@@ -19,3 +19,23 @@ h2.page-title{
     padding-top: 0;
     padding-bottom: 0;
 }
+
+/* links */
+a {
+  font-size: inherit;
+  font-weight: inherit;
+  color: inherit;
+  text-decoration: underline dashed 0.04em;
+  text-underline-offset: 0.2em;
+}
+a:hover {
+  text-decoration: none;
+  /* color: var(--primary); */
+}
+a:active {
+  color: var(--primary);
+}
+a.active {
+  text-decoration: none;
+  color: var(--primary);
+}
