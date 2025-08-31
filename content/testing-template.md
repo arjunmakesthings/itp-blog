@@ -13,10 +13,8 @@ high school; study numbers; begin to realise that i'm decent at many things. spe
 i may have quotes, like so: 
 
 > Look again at that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar," every "supreme leader," every saint and sinner in the history of our species lived there-on a mote of dust suspended in a sunbeam.
-> 
->  carl sagan, in *pale blue dot*. 
 
-### h3 heading, since i want this to be a caption. 
+<figcaption>carl sagan, in *pale blue dot*. </figcaption>
 
 ---
 # another heading: 
@@ -69,7 +67,6 @@ or, perhaps two images together:
 or i can have a figcaption here, like so: 
 
 ![[template-folder/O1.webp]] <figcaption>something, something.</figcaption>
-
 
 ---
 # another heading:

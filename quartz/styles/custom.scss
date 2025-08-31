@@ -7,58 +7,80 @@ h1 {
   font-weight: 600;
   font-size: var(--base_size);
   line-height: 1.2em;
-  margin: 0; 
-  padding: 0; 
+  margin: 0;
+  padding: 0;
 }
 h2 {
   font-family: "Alegreya Sans";
   font-weight: 500;
   font-size: var(--base_size-minus-one);
   line-height: 1.2em;
-  margin-top: 0; 
-  padding-top: 0; 
-  margin-bottom: 0; 
-  padding-bottom: 0; 
-  color: var(--secondary-color); 
+  margin-top: 0;
+  padding-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  color: var(--secondary-color);
 }
 p {
   font-family: "Alegreya Sans";
   font-weight: 400;
   font-size: var(--base_size);
   line-height: 1.6em;
-  margin: 0; 
+  margin: 0;
 }
-h1.page-title{
-    margin-top: 0; 
-    margin-bottom: 0; 
-    padding-top: 0;
-    padding-bottom: 0;
+h1.page-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 /* links */
-a{
+a {
   font-size: inherit;
   font-weight: inherit;
   color: inherit;
   text-decoration: underline dashed 0.04em;
   text-underline-offset: 0.2em;
 }
-a:hover, .folder-container div > a:hover {
+a:hover,
+.folder-container div > a:hover {
   text-decoration: none;
   /* color: var(--primary); */
 }
-a:active, .folder-container div > a:active {
-  color: var(--primary-color) !important; 
+a:active,
+.folder-container div > a:active {
+  color: var(--primary-color) !important;
 }
-a.active, .folder-container div > a.active {
+a.active,
+.folder-container div > a.active {
   text-decoration: none;
   color: var(--primary-color);
 }
 
-.explorer{
-    padding-top: 0; 
-    margin-top: 0; 
+.explorer {
+  padding-top: 0;
+  margin-top: 0;
 }
-.folder-title{
-    margin-bottom: 0.3em;
+.folder-title {
+  margin-bottom: 0.3em;
+}
+
+.search-button h2 {
+  padding: 0 0.8em;
+}
+
+figcaption {
+  font-family: "Alegreya Sans";
+  font-weight: 400;
+  font-size: var(--base-minus-one);
+  line-height: 1.3em;
+  color: var(--secondary-color);
+  margin-top: 0;
+  border-left: calc(var(--base_size) * 0.3) solid var(--secondary-color);
+  padding-left: 0.4em;
+}
+
+img , video {
+    margin-bottom: 0; 
 }
