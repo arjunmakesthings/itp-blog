@@ -1,5 +1,6 @@
 ---
-title: philosophy
+title: philosophy & system
 tags:
   - writing
 ---
+ldsfmdsf

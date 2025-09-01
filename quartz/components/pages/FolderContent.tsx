@@ -50,22 +50,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
               let maybeDates: QuartzPluginData["dates"] | undefined = undefined
               for (const child of node.children) {
                 if (child.data?.dates) {
-                  // compare all dates and assign to maybeDates if its more recent or its not set
-                  if (!maybeDates) {
-                    maybeDates = { ...child.data.dates }
-                  } else {
-                    if (child.data.dates.created > maybeDates.created) {
-                      maybeDates.created = child.data.dates.created
-                    }
-
-                    if (child.data.dates.modified > maybeDates.modified) {
-                      maybeDates.modified = child.data.dates.modified
-                    }
-
-                    if (child.data.dates.published > maybeDates.published) {
-                      maybeDates.published = child.data.dates.published
-                    }
-                  }
+                  maybeDates = { ...child.data.dates }
                 }
               }
               return (
