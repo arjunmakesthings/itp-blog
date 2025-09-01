@@ -3,6 +3,7 @@ tags:
   - typography
   - something-else
 date: 30 august 2025
+noteOrder: "2"
 ---
 # h1: 
 this is what i use for everything.  here's a long paragraph, to check for comfortable leading: 

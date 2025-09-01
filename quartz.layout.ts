@@ -12,6 +12,8 @@ export const sortFn: Options["sortFn"] = (a, b) => {
   //      to find ways to retrieve folderOrder and noteOrder from frontmatter
   //      we now have to include frontmatter in ContentDetails and linkIndex.set()
 
+
+
   // extract order from frontmatter
   const orderA = a.isFolder
     ? (a.data?.frontmatter?.folderOrder as number | undefined)
@@ -20,8 +22,10 @@ export const sortFn: Options["sortFn"] = (a, b) => {
     ? (b.data?.frontmatter?.folderOrder as number | undefined)
     : (b.data?.frontmatter?.noteOrder as number | undefined)
 
+    console.log(b.data?.frontmatter?.noteOrder); 
+
   // // method I: folders first, then files, sort folders and files separately
-  // // compare orderA and orderB, those undefined will be placed at the end
+  // compare orderA and orderB, those undefined will be placed at the end
   // if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
   //   if (orderA !== undefined && orderB !== undefined) {
   //     // compare based on the order
@@ -44,7 +48,7 @@ export const sortFn: Options["sortFn"] = (a, b) => {
   //   return -1
   // }
 
-  // method II: sort folders together with files, treat folders as files
+  // // method II: sort folders together with files, treat folders as files
   // compare orderA and orderB, those undefined will be placed at the end
   if (orderA !== undefined && orderB !== undefined) {
     return orderA - orderB
