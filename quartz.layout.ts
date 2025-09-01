@@ -92,7 +92,14 @@ export const defaultContentPageLayout: PageLayout = {
         // { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({ title: "all:", folderDefaultState: "open", useSavedState: false }),
+    Component.Explorer({
+      title: "all:",
+      folderDefaultState: "open",
+      useSavedState: false,
+      mapFn,
+      filterFn,
+      sortFn,
+    }),
   ],
   right: [
     Component.Graph(),
@@ -117,7 +124,14 @@ export const defaultListPageLayout: PageLayout = {
         // { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer({ title: "all:", folderDefaultState: "open", useSavedState: false }),
+    Component.Explorer({
+      title: "all:",
+      folderDefaultState: "open",
+      useSavedState: false,
+      mapFn,
+      filterFn,
+      sortFn,
+    }),
   ],
   right: [],
 }
