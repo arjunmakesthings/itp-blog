@@ -5,7 +5,7 @@
 h1 {
   font-family: "Alegreya Sans";
   font-weight: 600;
-  font-size: var(--base_size);
+  // font-size: var(--base_size);
   line-height: 1.2em;
   margin: 0;
   padding: 0;
@@ -105,17 +105,27 @@ blockquote p {
   margin-top: 0.4em;
 }
 
-.lucide-menu{
-    width: 0.8em;
+.lucide-menu {
+  width: 0.8em;
 }
-explorer-toggle mobile-explorer{
-    width: 1em;
-}
-
-.page-title a{
-    text-decoration: none !important; 
+explorer-toggle mobile-explorer {
+  width: 1em;
 }
 
-.search-container input{
+.page-title a {
+  text-decoration: none !important;
+}
+
+.search-container input {
   font-size: var(--base-size);
 }
+
+.page-listing p {
+  font-size: var(--base-minus-one);
+  color: var(--secondary-color);
+  margin-top: 0;
+  font-weight: 300;
+}
+ ul{
+  margin-top: 0;
+ }
