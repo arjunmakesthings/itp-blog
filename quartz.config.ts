@@ -54,7 +54,7 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "rgb(253, 253, 253)", //for bg.
-          lightgray: "rgb(240, 240, 240)", //for borders, and links.
+          lightgray: "rgb(220, 220, 220)", //for borders, and links.
           gray: "#b8b8b8", //graph links, and heavier borders — but i don't know what this is for.
           darkgray: "rgb(60, 60, 60)", //for body.
           dark: "rgb(60, 60, 60)", //header text and icons.
