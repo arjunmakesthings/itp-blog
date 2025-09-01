@@ -192,7 +192,7 @@ button.desktop-explorer {
     & span {
       font-size: 0.95rem;
       display: inline-block;
-      color: var(--secondary);
+      color: var(--secondary-color);
       font-weight: $semiBoldWeight;
       margin: 0;
       line-height: 1.5rem;
@@ -203,7 +203,7 @@ button.desktop-explorer {
 
 .folder-icon {
   margin-right: 5px;
-  color: var(--secondary);
+  color: var(--secondary-color);
   cursor: pointer;
   transition: transform 0.3s ease;
   backface-visibility: visible;
