@@ -6,7 +6,7 @@ tags:
 # h1: 
 this is what i use for everything.  here's a long paragraph, to check for comfortable leading: 
 
-high school; study numbers; begin to realise that i'm decent at many things. spend summers in mountaineering schools; meet older people; observe mid-life crises; read thoreau; climb peaks; nearly die, survive. find friends; get into a relationship; watch sunsets with the dog. feel lonely. 
+high school; study numbers; begin to realise that i'm decent at many things. spend summers in mountaineering schools; meet older people; observe <mark>mid-life</mark> crises; read thoreau; climb peaks; nearly die, survive. find friends; get into a relationship; watch sunsets with the dog. feel lonely. 
 
 checking for tags; this thing, that is perhaps linked to note: [[index]], and tags: #typography and #something-else. 
 
