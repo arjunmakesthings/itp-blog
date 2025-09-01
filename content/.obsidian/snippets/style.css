@@ -1,0 +1,110 @@
+/* custom styles for obsidian-editor */
+
+:root {
+  /* colour-variables: */
+  --bg: rgb(253, 253, 253);
+  --primary: rgb(60, 60, 60);
+  --secondary: rgb(120, 120, 120);
+  --tertiary: rgb(240, 240, 240);
+
+  /* font-sizes */
+  /* employing a fluid-typography-scale, the settings of which are here:
+https://utopia.fyi/type/calculator?c=320,12,1.2,1920,16,1.2,3,1,&s=0.75|0.5|0.25,1.5|2|3|4|6,s-l&g=s,l,xl,12 */
+
+  --base-minus-one: clamp(0.625rem, 0.5833rem + 0.2083vw, 0.8333rem);
+  --base_size: clamp(0.75rem, 0.7rem + 0.25vw, 1rem);
+
+  /* gallery */
+  --no_of_items: 3;
+  --gallery-gap: calc(var(--base_size) * 2);
+
+  /* others: */
+  --global_horizontal-margin: 16vw;
+}
+html {
+  text-transform: lowercase;
+  color: var(--primary); 
+}
+h1,
+.markdown-preview-view h1,
+.cm-s-obsidian .cm-header.cm-header-1 {
+  font-family: "Alegreya Sans";
+  font-weight: 600;
+  font-size: var(--base_size);
+  line-height: 1.2em;
+  margin: 0;
+  padding: 0;
+  color: var(--primary); 
+}
+h2 {
+  font-family: "Alegreya Sans";
+  font-weight: 500;
+  font-size: var(--base-minus-one);
+  line-height: 1.2em;
+  margin-top: 0;
+  padding-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  color: var(--secondary-color);
+}
+p {
+  font-family: "Alegreya Sans";
+  font-weight: 400;
+  font-size: var(--base_size);
+  line-height: 1.6em;
+  margin: 0;
+  color: var(--primary); 
+}
+h1.article-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  font-size: var(--base_size);
+}
+
+figcaption {
+  font-family: "Alegreya Sans";
+  font-weight: 400;
+  font-size: var(--base-minus-one);
+  line-height: 1.3em;
+  color: var(--secondary);
+
+  border-left: calc(var(--base_size) * 0.3) solid var(--secondary);
+  padding-left: 0.4em;
+  margin-top: 0;
+}
+
+img {
+  margin-bottom: 0;
+}
+mark {
+  background-color: #fff6d1;
+}
+
+body {
+  --h1-size: var(--base-size);
+  --h2-size: var(--base-minus-one);
+  --h3-size: var(--base-minus-one);
+  --h4-size: var(--base-minus-one);
+  --h5-size: var(--base-minus-one);
+  --h6-size: var(--base-minus-one);
+}
+
+pre,
+code,
+.cm-s-obsidian .HyperMD-codeblock {
+    font-family: "Fira Code"; 
+  font-size: calc(var(--base-minus-one) * 0.9);
+}
+
+.workspace{
+    background: var(--bg); 
+}
+h1 , p{
+    color: var(--primary); 
+}
+
+.side-dock-ribbon {
+    font-size: var(--base-minus-one); 
+}

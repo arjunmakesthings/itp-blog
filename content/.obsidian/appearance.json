@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 14,
+  "interfaceFontFamily": "Alegreya Sans",
+  "textFontFamily": "Alegreya Sans",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "style"
+  ],
+  "accentColor": "#d6205b"
+}
