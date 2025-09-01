@@ -1,9 +1,7 @@
 ---
 tags:
-  - typography
-  - something-else
 date: 30 august 2025
-noteOrder: "2"
+draft: "true"
 ---
 # h1: 
 this is what i use for everything.  here's a long paragraph, to check for comfortable leading: 
@@ -54,23 +52,23 @@ and, i will have images.
 
 perhaps one; like so: 
 
-![[z_images/ws-qr.jpg]]
+![[z_images/template_ws-qr.jpg]]
 <figcaption></figcaption>
 
 or a bigger one, like so (with an empty figcaption for spacing): 
 
-![[z_images/O1.webp]]
+![[z_images/template_O1.webp]]
 <figcaption></figcaption>
 
 or, perhaps two images together (in a table): 
 
-| ![[z_images/O2.webp]] | ![[z_images/O3.webp]] |
+| ![[z_images/template_O2.webp]] | ![[z_images/template_O3.webp]] |
 | ---------------------------- | ---------------------------- |
 <figcaption>something, something.</figcaption> 
 
 or i can have a figcaption here, like so: 
 
-![[z_images/O1.webp]]<figcaption>something, something.</figcaption>
+![[z_images/template_O1.webp]]<figcaption>something, something.</figcaption>
 
 ---
 # another heading:
