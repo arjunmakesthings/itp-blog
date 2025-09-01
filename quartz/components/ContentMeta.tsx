@@ -36,7 +36,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       if (fileData.dates) {
         segments.push(
           <span>
-            posted on <Date date={getDate(cfg, fileData)!} locale={cfg.locale} />
+            written on <Date date={getDate(cfg, fileData)!} locale={cfg.locale} />
           </span>,
         )
       }

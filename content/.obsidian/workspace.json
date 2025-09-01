@@ -4,95 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "162dada64b6b528b",
+        "id": "b19dd6545261e6a9",
         "type": "tabs",
         "children": [
           {
-            "id": "3ad772c7162cdbd2",
+            "id": "47785c3dfc52f58f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
+                "file": "testing-template.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "testing-template"
             }
           },
           {
-            "id": "c6fc12856aa8fa31",
+            "id": "de8bb4118035dfb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "note 1 made on sep 1 0911.md",
+                "file": "zz_templates/title.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "note 1 made on sep 1 0911"
+              "title": "title"
             }
           },
           {
-            "id": "f08ac99d6295ea33",
+            "id": "061d55efcbffdb15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aa sd.md",
+                "file": "zz_templates/title.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "aa sd"
+              "title": "title"
             }
           },
           {
-            "id": "924e942021fca90b",
+            "id": "700335746aa57c84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem-1_intro-to-physical-computing/trial note.md",
+                "file": "sem-1_hypercinema/antitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "trial note"
+              "title": "antitled"
             }
           },
           {
-            "id": "19f68562ccb0ea60",
+            "id": "69aca3645cc723b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem-1_hypercinema/trial more.md",
+                "file": "zzzzzzz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "trial more"
-            }
-          },
-          {
-            "id": "6bfc3f0c99beb35d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem-1_hypercinema/trial more.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "trial more"
+              "title": "zzzzzzz"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -221,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem-1_hypercinema/trial more.md",
+                "file": "zzzzzzz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for trial more"
+              "title": "Backlinks for zzzzzzz"
             }
           }
         ],
@@ -253,14 +239,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6bfc3f0c99beb35d",
+  "active": "69aca3645cc723b9",
   "lastOpenFiles": [
-    "aa sd.md",
-    "note 1 made on sep 1 0911.md",
-    "testing-template.md",
+    "sem-1_hypercinema/antitled.md",
+    "zzzzzzz.md",
+    "Untitled 1.md",
+    "zz_templates/title.md",
+    "trial note for dates.md",
     "index.md",
-    "sem-1_intro-to-physical-computing/z note.md",
+    "note 1 made on sep 1 0911.md",
+    "aa sd.md",
+    "sdsadsad.md",
+    "zz_templates/{title}.md",
+    "testing-template.md",
+    "sadads.md",
     "sem-1_hypercinema/trial more.md",
+    "zz_templates",
+    "sem-1_intro-to-physical-computing/z note.md",
     "sem-1_intro-to-physical-computing/trial note.md",
     "sem-1_intro-to-fabrication",
     "sem-1_hypercinema",
@@ -275,7 +270,6 @@
     "dot-obsidian_backup/workspace.json",
     "dot-obsidian_backup/graph.json",
     "dot-obsidian_backup/core-plugins.json",
-    "dot-obsidian_backup/appearance.json",
     "serve local samples on strudel.md",
     "quotes.md",
     "from henry's ode — everything is the same.md",
@@ -285,14 +279,6 @@
     "moral foundations.md",
     "4.2 - image junkyard/Pasted image 20250822140600.png",
     "nyu policies.md",
-    "accessing current news at nyu.md",
-    "public-networks & office-owned computers aren't safe anymore.md",
-    "README.md",
-    "250813 • kirthana's feedback for my game.md",
-    "equation for a heart.md",
-    "Excalidraw/Drawing 2025-08-13 16.23.42.excalidraw.md",
-    "Excalidraw/Drawing 2025-08-13 16.05.27.excalidraw.md",
-    "sa.md",
     "4.2 - image junkyard/Pasted image 20250813153032.png",
     "4.2 - image junkyard/Screenshot 2025-08-13 at 12.27.37.png",
     "4.2 - image junkyard/Screenshot 2025-08-13 at 12.26.53.png",
