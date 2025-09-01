@@ -65,8 +65,7 @@ body {
   border-radius: 5px;
 }
 ::selection {
-  // background: color-mix(in srgb, var(--tertiary-color) 60%, rgba(255, 255, 255, 0));
-  background: #eee6f3; 
+  background: color-mix(in srgb, var(--tertiary-color) 60%, rgba(255, 255, 255, 0));
   color: var(--darkgray);
 }
 
@@ -366,7 +365,7 @@ a {
 input[type="checkbox"] {
   transform: translateY(2px);
   color: var(--secondary-color);
-  border: 1px solid var(--tertiary-color);
+  border: 1px solid var(--lightgray);
   border-radius: 3px;
   background-color: var(--light);
   position: relative;
@@ -481,7 +480,7 @@ figure[data-rehype-pretty-code-figure] {
     font-family: var(--codeFont);
     font-size: var(--base-minus-one);
     padding: 0.1rem 0.5rem;
-    border: 1px solid var(--tertiary-color);
+    border: 1px solid var(--lightgray);
     width: fit-content;
     border-radius: 5px;
     margin-bottom: -0.5rem;
@@ -498,7 +497,7 @@ pre {
   padding: 0 0.5rem;
   border-radius: 5px;
   overflow-x: auto;
-  border: 1px solid var(--tertiary-color);
+  border: 1px solid var(--lightgray);
   position: relative;
   background: var(--tertiary-color); 
 
@@ -559,7 +558,7 @@ code {
   font-family: var(--codeFont);
   border-radius: 5px;
   padding: 0.1rem 0.2rem;
-  background: var(--tertiary-color);
+  background: var(--lightgray);
 }
 
 // tbody,
@@ -598,7 +597,7 @@ td {
 }
 
 tr {
-  border-bottom: 1px solid var(--tertiary-color);
+  border-bottom: 1px solid var(--lightgray);
   &:last-child {
     border-bottom: none;
   }
