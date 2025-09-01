@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sem-1_intro-to-physical-computing/z note.md",
+                "file": "sem-1_hypercinema/trial more.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "z note"
+              "title": "trial more"
             }
           }
         ],
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem-1_intro-to-physical-computing/z note.md",
+                "file": "sem-1_hypercinema/trial more.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for z note"
+              "title": "Backlinks for trial more"
             }
           }
         ],
@@ -253,14 +253,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32f876c5ef6f4df6",
+  "active": "6bfc3f0c99beb35d",
   "lastOpenFiles": [
-    "sem-1_hypercinema/trial more.md",
-    "sem-1_intro-to-physical-computing/z note.md",
-    "sem-1_intro-to-physical-computing/trial note.md",
     "aa sd.md",
     "note 1 made on sep 1 0911.md",
+    "testing-template.md",
     "index.md",
+    "sem-1_intro-to-physical-computing/z note.md",
+    "sem-1_hypercinema/trial more.md",
+    "sem-1_intro-to-physical-computing/trial note.md",
     "sem-1_intro-to-fabrication",
     "sem-1_hypercinema",
     "sem-1_applications",
@@ -268,7 +269,6 @@
     "sem-1_intro-to-physical-computing",
     "template-folder/blank note to check for backlinks.md",
     "template-folder/note 2.md",
-    "testing-template.md",
     "z_images/ws-qr.jpg",
     "z_images",
     "lds.md",
