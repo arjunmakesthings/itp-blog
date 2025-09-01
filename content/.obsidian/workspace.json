@@ -20,8 +20,79 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "c6fc12856aa8fa31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note 1 made on sep 1 0911.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "note 1 made on sep 1 0911"
+            }
+          },
+          {
+            "id": "f08ac99d6295ea33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aa sd.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aa sd"
+            }
+          },
+          {
+            "id": "924e942021fca90b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem-1_intro-to-physical-computing/trial note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "trial note"
+            }
+          },
+          {
+            "id": "19f68562ccb0ea60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem-1_hypercinema/trial more.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "trial more"
+            }
+          },
+          {
+            "id": "6bfc3f0c99beb35d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sem-1_intro-to-physical-computing/z note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "z note"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -89,25 +160,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8fbcbbdc428937b8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "2.2 - resources/typography/typography index, glossary.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for typography index, glossary"
-            }
-          },
-          {
             "id": "55b422eea2561b01",
             "type": "leaf",
             "state": {
@@ -162,9 +214,28 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "0546de2d6fe51147",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sem-1_intro-to-physical-computing/z note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for z note"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -182,17 +253,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ad772c7162cdbd2",
+  "active": "32f876c5ef6f4df6",
   "lastOpenFiles": [
-    "testing-template.md",
-    "lds.md",
+    "sem-1_hypercinema/trial more.md",
+    "sem-1_intro-to-physical-computing/z note.md",
+    "sem-1_intro-to-physical-computing/trial note.md",
+    "aa sd.md",
+    "note 1 made on sep 1 0911.md",
     "index.md",
+    "sem-1_intro-to-fabrication",
+    "sem-1_hypercinema",
+    "sem-1_applications",
+    "sem-1_intro-to-computational-media",
+    "sem-1_intro-to-physical-computing",
+    "template-folder/blank note to check for backlinks.md",
+    "template-folder/note 2.md",
+    "testing-template.md",
+    "z_images/ws-qr.jpg",
+    "z_images",
+    "lds.md",
     "dot-obsidian_backup/workspace.json",
     "dot-obsidian_backup/graph.json",
     "dot-obsidian_backup/core-plugins.json",
     "dot-obsidian_backup/appearance.json",
-    "dot-obsidian_backup/app.json",
-    "dot-obsidian_backup",
     "serve local samples on strudel.md",
     "quotes.md",
     "from henry's ode — everything is the same.md",
@@ -208,13 +291,8 @@
     "250813 • kirthana's feedback for my game.md",
     "equation for a heart.md",
     "Excalidraw/Drawing 2025-08-13 16.23.42.excalidraw.md",
-    "4.2 - image junkyard/Untitled.excalidraw",
-    "Excalidraw",
     "Excalidraw/Drawing 2025-08-13 16.05.27.excalidraw.md",
-    "4.2 - image junkyard/Untitled.excalidraw 2",
-    "Untitled.excalidraw",
     "sa.md",
-    "2508 • international student arts incubator info-session.md",
     "4.2 - image junkyard/Pasted image 20250813153032.png",
     "4.2 - image junkyard/Screenshot 2025-08-13 at 12.27.37.png",
     "4.2 - image junkyard/Screenshot 2025-08-13 at 12.26.53.png",
@@ -223,13 +301,6 @@
     "4.2 - image junkyard/Screenshot 2025-08-13 at 12.19.20.png",
     "4.2 - image junkyard/Screenshot 2025-08-13 at 12.16.57.png",
     "4.2 - image junkyard/Screenshot 2025-08-13 at 12.13.20.png",
-    "4.2 - image junkyard/Screenshot 2025-08-13 at 12.12.10.png",
-    "2.2 - resources/typography/typography index, glossary.md",
-    "3.1 - research/reflection/reflection research.md",
-    "3.1 - research/research on persuasive design.md",
-    "3.1 - research/research.md",
-    "3.1 - research/web typography research.md",
-    "3.1 - research/what font helps you write better?.md",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"
