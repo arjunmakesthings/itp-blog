@@ -1,0 +1,27 @@
+{
+  "appliedMigrations": [
+    "_SupportLeadingZerosAndCustomSeparatorInLegacyConfigurationMigration"
+  ],
+  "idDefinitions": [
+    {
+      "name": "Global ID",
+      "currentIteration": 0,
+      "prefix": "GUID",
+      "separator": "-",
+      "leadingZeros": {
+        "enabled": false,
+        "numberOfZeros": 8
+      }
+    },
+    {
+      "prefix": "note",
+      "currentIteration": 0,
+      "name": "note",
+      "separator": "-",
+      "leadingZeros": {
+        "enabled": false,
+        "numberOfZeros": 0
+      }
+    }
+  ]
+}
