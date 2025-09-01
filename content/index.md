@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: philosophy
 ---
 
 This is a blank Quartz installation.
