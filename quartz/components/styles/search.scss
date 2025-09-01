@@ -22,6 +22,7 @@
     white-space: nowrap;
     width: 100%;
     justify-content: space-between;
+    min-width: 6em; 
 
     & > p {
       display: inline;
@@ -224,7 +225,7 @@
               margin: 0 0.1rem;
               line-height: 1.4rem;
               font-weight: $boldWeight;
-              color: var(--secondary);
+              color: var(--secondary-color);
 
               &.match-tag {
                 color: var(--tertiary);

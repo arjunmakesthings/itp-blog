@@ -65,7 +65,7 @@ body {
   border-radius: 5px;
 }
 ::selection {
-  background: color-mix(in srgb, var(--tertiary) 60%, rgba(255, 255, 255, 0));
+  background: color-mix(in srgb, var(--tertiary-color) 60%, rgba(255, 255, 255, 0));
   color: var(--darkgray);
 }
 
@@ -131,22 +131,23 @@ a {
   font-weight: $semiBoldWeight;
   text-decoration: none;
   transition: color 0.2s ease;
-  color: var(--secondary);
+  color: var(--secondary-color);
 
   &:hover {
     // color: var(--tertiary);
     color: inherit;
   }
-
+ //this is note tag.
   &.internal {
     text-decoration: none;
     background-color: var(--highlight);
-    padding: 0 0.1rem;
+    padding: 0.2rem 0.4rem;
+    margin: 0.8em 0;
     border-radius: 5px;
     line-height: 1.4rem;
 
     &.broken {
-      color: var(--secondary);
+      color: var(--secondary-color);
       opacity: 0.5;
       transition: opacity 0.2s ease;
       &:hover {
@@ -210,9 +211,9 @@ a {
   max-width: calc(#{map.get($breakpoints, desktop)} + 300px);
   margin: 0 auto;
   & article {
-    & > h1 {
-      // font-size: 2rem;
-    }
+    // & > h1 {
+    //   // font-size: 2rem;
+    // }
 
     & li:has(> input[type="checkbox"]) {
       list-style-type: none;
@@ -230,9 +231,9 @@ a {
       margin-bottom: 0;
     }
 
-    p > strong {
-      // color: var(--dark);
-    }
+    // p > strong {
+    //   // color: var(--dark);
+    // }
   }
 
   & > #quartz-body {
@@ -363,7 +364,7 @@ a {
 
 input[type="checkbox"] {
   transform: translateY(2px);
-  color: var(--secondary);
+  color: var(--secondary-color);
   border: 1px solid var(--lightgray);
   border-radius: 3px;
   background-color: var(--light);
@@ -375,8 +376,8 @@ input[type="checkbox"] {
   height: 16px;
 
   &:checked {
-    border-color: var(--secondary);
-    background-color: var(--secondary);
+    border-color: var(--secondary-color);
+    background-color: var(--secondary-color);
 
     &::after {
       content: "";
@@ -444,19 +445,19 @@ h6 {
 
 // typography improvements
 h1 {
-  font-size: 1.75rem;
+  font-size: var(--base-size);
   margin-top: 2.25rem;
   margin-bottom: 1rem;
 }
 
 h2 {
-  font-size: 1.4rem;
+  font-size: var(--base-minus-one);
   margin-top: 1.9rem;
   margin-bottom: 1rem;
 }
 
 h3 {
-  font-size: 1.12rem;
+  font-size: var(--base-minus-one);
   margin-top: 1.62rem;
   margin-bottom: 1rem;
 }
@@ -464,7 +465,7 @@ h3 {
 h4,
 h5,
 h6 {
-  font-size: 1rem;
+  font-size: var(--base-minus-one);
   margin-top: 1.5rem;
   margin-bottom: 1rem;
 }
@@ -477,7 +478,7 @@ figure[data-rehype-pretty-code-figure] {
 
   & > [data-rehype-pretty-code-title] {
     font-family: var(--codeFont);
-    font-size: 0.9rem;
+    font-size: var(--base-minus-one);
     padding: 0.1rem 0.5rem;
     border: 1px solid var(--lightgray);
     width: fit-content;
@@ -525,7 +526,7 @@ pre {
 
       &[data-highlighted-line] {
         background-color: var(--highlight);
-        border-left: 3px solid var(--secondary);
+        border-left: 3px solid var(--secondary-color);
       }
 
       &::before {
@@ -690,7 +691,7 @@ iframe.pdf {
   left: 0;
   width: 0;
   height: 3px;
-  background: var(--secondary);
+  background: var(--secondary-color);
   transition: width 0.2s ease;
   z-index: 9999;
 }

@@ -14,14 +14,14 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <p>
+        <h2>
           {/* {i18n(cfg.locale).components.footer.createdWith}{" "} */}
           made by{" "}
           <a href="https://arjunmakesthings.github.io" target="_blank">
             arjun
           </a>
           ; using <a href="https://quartz.jzhao.xyz/">quartz v{version}</a> © {year}.
-        </p>
+        </h2>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>

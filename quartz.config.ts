@@ -58,8 +58,8 @@ const config: QuartzConfig = {
           gray: "#b8b8b8", //graph links, and heavier borders — but i don't know what this is for.
           darkgray: "rgb(60, 60, 60)", //for body.
           dark: "rgb(60, 60, 60)", //header text and icons.
-          secondary: "#284b63", //link colour, current graph node.
-          tertiary: "#84a59d",
+          secondary: "var(--primary-color)", //link colour, current graph node.
+          tertiary: "var(--secondary-color)",
           highlight: "rgba(143, 159, 169, 0.15)", //internal link background, highlights. unchanged right now.
           textHighlight: "#fff6d1",
         },
@@ -92,7 +92,7 @@ const config: QuartzConfig = {
         keepBackground: false,
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
-      Plugin.GitHubFlavoredMarkdown(),
+      Plugin.GitHubFlavoredMarkdown({linkHeadings:false,}!),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),

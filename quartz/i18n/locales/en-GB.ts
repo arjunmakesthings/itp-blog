@@ -39,7 +39,7 @@ export default {
       createdWith: "made by arjun; with",
     },
     graph: {
-      title: "Graph View",
+      title: "connections:",
     },
     recentNotes: {
       title: "Recent Notes",
@@ -79,7 +79,7 @@ export default {
       tag: "Tag",
       tagIndex: "Tag Index",
       itemsUnderTag: ({ count }) =>
-        count === 1 ? "1 item with this tag." : `${count} items with this tag.`,
+        count === 1 ? "1 note with this tag." : `${count} notes with this tag.`,
       showingFirst: ({ count }) => `Showing first ${count} tags.`,
       totalTags: ({ count }) => `Found ${count} total tags.`,
     },

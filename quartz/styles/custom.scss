@@ -5,7 +5,7 @@
 h1 {
   font-family: "Alegreya Sans";
   font-weight: 600;
-  font-size: var(--base_size);
+  // font-size: var(--base_size);
   line-height: 1.2em;
   margin: 0;
   padding: 0;
@@ -13,7 +13,7 @@ h1 {
 h2 {
   font-family: "Alegreya Sans";
   font-weight: 500;
-  font-size: var(--base_size-minus-one);
+  font-size: var(--base-minus-one);
   line-height: 1.2em;
   margin-top: 0;
   padding-top: 0;
@@ -82,25 +82,50 @@ figcaption {
   margin-bottom: 1rem;
 }
 
-img , video {
-    margin-bottom: 0; 
-    box-sizing: border-box; /* box sizing allows you to include padding in the width & height calculation */
+img,
+video {
+  margin-bottom: 0;
+  box-sizing: border-box; /* box sizing allows you to include padding in the width & height calculation */
 }
 
 blockquote {
   background-color: var(--tertiary-color);
   padding: 1.2em;
-  border-radius: 4px; 
+  border-radius: 4px;
 }
 blockquote p {
-//   font-style: italic;
+  //   font-style: italic;
   color: var(--secondary-color);
   line-height: 1.3em;
-  font-size: var(--base-minus-one); 
+  font-size: var(--base-minus-one);
   font-weight: 300;
 }
 
-.article-title{
-    margin-top: 0.4em; 
+.article-title {
+  margin-top: 0.4em;
 }
 
+.lucide-menu {
+  width: 0.8em;
+}
+explorer-toggle mobile-explorer {
+  width: 1em;
+}
+
+.page-title a {
+  text-decoration: none !important;
+}
+
+.search-container input {
+  font-size: var(--base-size);
+}
+
+.page-listing p {
+  font-size: var(--base-minus-one);
+  color: var(--secondary-color);
+  margin-top: 0;
+  font-weight: 300;
+}
+ ul{
+  margin-top: 0;
+ }

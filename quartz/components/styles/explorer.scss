@@ -150,8 +150,9 @@ button.desktop-explorer {
     margin-left: 6px;
     padding-left: 0.8rem;
     border-left: 1px solid var(--lightgray);
-  } & li + li {
-    margin-top: 0.6em; 
+  }
+  & li + li {
+    margin-top: 0.6em;
   }
 }
 
@@ -191,7 +192,7 @@ button.desktop-explorer {
     & span {
       font-size: 0.95rem;
       display: inline-block;
-      color: var(--secondary);
+      color: var(--secondary-color);
       font-weight: $semiBoldWeight;
       margin: 0;
       line-height: 1.5rem;
@@ -202,7 +203,7 @@ button.desktop-explorer {
 
 .folder-icon {
   margin-right: 5px;
-  color: var(--secondary);
+  color: var(--secondary-color);
   cursor: pointer;
   transition: transform 0.3s ease;
   backface-visibility: visible;
@@ -264,7 +265,7 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       z-index: 101;
 
       .lucide-menu {
-        stroke: var(--darkgray);
+        stroke: var(--primary-color);
       }
     }
   }
