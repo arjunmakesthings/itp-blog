@@ -39,7 +39,7 @@ export default {
       createdWith: "made by arjun; with",
     },
     graph: {
-      title: "Graph View",
+      title: "connections:",
     },
     recentNotes: {
       title: "Recent Notes",
