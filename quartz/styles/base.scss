@@ -210,9 +210,9 @@ a {
   max-width: calc(#{map.get($breakpoints, desktop)} + 300px);
   margin: 0 auto;
   & article {
-    & > h1 {
-      // font-size: 2rem;
-    }
+    // & > h1 {
+    //   // font-size: 2rem;
+    // }
 
     & li:has(> input[type="checkbox"]) {
       list-style-type: none;
@@ -230,9 +230,9 @@ a {
       margin-bottom: 0;
     }
 
-    p > strong {
-      // color: var(--dark);
-    }
+    // p > strong {
+    //   // color: var(--dark);
+    // }
   }
 
   & > #quartz-body {
