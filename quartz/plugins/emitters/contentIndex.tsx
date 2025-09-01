@@ -10,6 +10,8 @@ import { toHtml } from "hast-util-to-html"
 import { write } from "./helpers"
 import { i18n } from "../../i18n"
 
+import { QuartzPluginData } from "../vfile"
+
 export type ContentIndexMap = Map<FullSlug, ContentDetails>
 export type ContentDetails = {
   slug: FullSlug
@@ -21,6 +23,7 @@ export type ContentDetails = {
   richContent?: string
   date?: Date
   description?: string
+  frontmatter?: QuartzPluginData["frontmatter"]
 }
 
 interface Options {
