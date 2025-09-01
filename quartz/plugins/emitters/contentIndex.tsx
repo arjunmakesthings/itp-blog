@@ -1,3 +1,5 @@
+/* edits with: https://draftz.felixnie.com/Digital-Garden/Sorting-Objects-in-Explorer */
+
 import { Root } from "hast"
 import { GlobalConfiguration } from "../../cfg"
 import { getDate } from "../../components/Date"
