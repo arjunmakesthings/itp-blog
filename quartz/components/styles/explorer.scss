@@ -150,8 +150,9 @@ button.desktop-explorer {
     margin-left: 6px;
     padding-left: 0.8rem;
     border-left: 1px solid var(--lightgray);
-  } & li + li {
-    margin-top: 0.6em; 
+  }
+  & li + li {
+    margin-top: 0.6em;
   }
 }
 
@@ -264,7 +265,7 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       z-index: 101;
 
       .lucide-menu {
-        stroke: var(--darkgray);
+        stroke: var(--primary-color);
       }
     }
   }
