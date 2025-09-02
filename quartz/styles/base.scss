@@ -361,6 +361,10 @@ a {
   margin-top: 2em;
   // border-top: 1px solid var(--lightgray);
 }
+.footnotes p{
+    font-size: var(--base-minus-one); 
+    color: var(--secondary-color); 
+}
 
 input[type="checkbox"] {
   transform: translateY(2px);
