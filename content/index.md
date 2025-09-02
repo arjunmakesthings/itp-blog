@@ -1,5 +1,5 @@
 ---
-title: philosophy & system
+title: philosophy, system & navigation
 tags:
   - writings
 date: 01 september 2025
