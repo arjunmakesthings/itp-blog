@@ -1,7 +1,7 @@
 ---
 title: philosophy & system
 tags:
-  - writing
+  - writings
 date: 01 september 2025
 ---
 # philosophy: 
@@ -21,17 +21,24 @@ i <mark>collect</mark> notes (or images). these may arise from:
 - #lectures (i consider podcasts — or any other unidirectional audio-exchange as lectures too). 
 - #observations 
 
+![[z_images/250901 • temporal-drawings(1).webp]]
+
 these may then interconnect amongst themselves, and / or <mark>evolve</mark> into: 
 - #ideas
 - #experiments
 - #research
 - #writings  (writings deemed complete may find their way to my [website](https://arjunmakesthings.github.io/notes.html) )
 
+![[z_images/250901 • temporal-drawings(2).webp]]
+
 at the end of this tryst between the abstract (collection; some evolution) and the concrete (artifacts during evolution, often via *making*), i may be <mark>left with</mark>: 
 - #projects (which may then find their way to my [website](https://arjunmakesthings.github.io/projects.html))
 - #reflections (which will also be considered #writings)
 
-i *may* require folders with all the entries for specific courses, and they will show up on the left (or inside the kebab-menu on a phone). 
+![[z_images/250901 • temporal-drawings(3).webp]]
+these, i may choose to share with the outside world. 
+
+i *may* also require folders with all the entries for specific courses, and they will show up on the left (or inside the kebab-menu on a phone). 
 
 ---
 # navigation:
@@ -42,8 +49,9 @@ i *may* require folders with all the entries for specific courses, and they will
 perhaps the best way is to wander, and tell me about the new paths that you discovered. 
 
 however, in general, navigation on the desktop looks like so: 
-
-and on the phone, it looks like so: 
+![[z_images/250901 • explainer-1.webp]]
+similar on the phone, but with these differences: 
+![[z_images/250901 • explainer-2.webp]]
 
 
 ---

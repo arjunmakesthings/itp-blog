@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "49ecf398f42b0466",
+        "id": "429c1a10ee885a22",
         "type": "tabs",
         "children": [
           {
-            "id": "46b695ec0c436c66",
+            "id": "03deea0724bebcc6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "04cd406b112abf9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,10 +178,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04cd406b112abf9e",
+  "active": "03deea0724bebcc6",
   "lastOpenFiles": [
-    "mock-note.md",
     "index.md",
+    "mock-note.md",
+    "z_images/250901 • temporal-drawings(3).webp",
+    "z_images/250901 • temporal-drawings(2).webp",
+    "z_images/250901 • temporal-drawings(1).webp",
+    "z_images/250901 • explainer-2.webp",
+    "z_images/250901 • explainer-1.webp",
     "zz_templates/testing-template.md",
     "z_images/template_ws-qr.jpg",
     "z_images/template_O3.webp",
@@ -218,12 +204,8 @@
     "sem-1_hypercinema/trial more.md",
     "sem-1_hypercinema/antitled.md",
     "sem-1_hypercinema",
-    "template-folder/ws-qr.jpg",
     "template-folder/note 2.md",
     "template-folder/blank note to check for backlinks.md",
-    "template-folder/O3.webp",
-    "template-folder/O2.webp",
-    "template-folder/O1.webp",
     "template-folder",
     "lds.md",
     "testing template.md",
@@ -243,7 +225,6 @@
     "sem-1_intro-to-fabrication",
     "sem-1_applications",
     "sem-1_intro-to-computational-media",
-    "4.2 - image junkyard/Pasted image 20250822140600.png",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"

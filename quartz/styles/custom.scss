@@ -140,3 +140,10 @@ explorer-toggle mobile-explorer {
 li + li{
   margin-top: 0.3em;
 }
+sup{
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+  height: 0.2em;
+  padding: 0; 
+}

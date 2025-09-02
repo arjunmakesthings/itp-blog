@@ -5,5 +5,6 @@
   "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "z_images"
+  "attachmentFolderPath": "z_images",
+  "promptDelete": false
 }
