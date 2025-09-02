@@ -137,13 +137,16 @@ explorer-toggle mobile-explorer {
  mark {
   background-color: #fff6d1;
 }
+/* same padding for notes & links */
+a.internal, a.internal.tag-link {
+  padding: 0.3em;
+}
+
 li + li{
   margin-top: 0.3em;
 }
 sup{
-  vertical-align: baseline;
-  position: relative;
-  top: -0.4em;
-  height: 0.2em;
-  padding: 0; 
+  vertical-align: super;
+  font-size: 0.6em;
+  line-height: 1;
 }
