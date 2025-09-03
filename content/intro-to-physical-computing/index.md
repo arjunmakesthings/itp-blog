@@ -10,6 +10,10 @@ taken by [[people/tom igoe|tom igoe]] in semester-1.
 > from the [syllabus](https://itp.nyu.edu/physcomp/) webpage.
 
 ---
+# why i took this class: 
+
+
+---
 # resources: 
 - [syllabus](https://itp.nyu.edu/physcomp/)
 
