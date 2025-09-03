@@ -6,7 +6,7 @@ tags:
 noteOrder: "4"
 draft: "false"
 ---
-a list of electrical components, and what they do; as learnt in [[intro to physical computing]].
+a list of electrical components, and what they do; as learnt in [[intro to physical computing]]. 
 
 # resistor: 
 a resistor essentially takes electricity as input, and limits the output. the resistance (see [[intro-to-physical-computing/electricity]]) used must be appropriate for the output, and is usually understood by the type of band that is present on the resistor. 
