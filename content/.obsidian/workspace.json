@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy, system & navigation.md",
+                "file": "people/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "philosophy, system & navigation"
+              "title": "index"
             }
           }
         ]
@@ -195,16 +195,17 @@
   },
   "active": "6f9143312e5a2e99",
   "lastOpenFiles": [
+    "people/tom igoe.md",
+    "people/index.md",
+    "philosophy, system & navigation.md",
     "intro-to-physical-computing/electrical components.md",
     "intro-to-physical-computing/index.md",
     "intro-to-physical-computing/ipc-class-1.md",
-    "people/index.md",
     "nothing is intuitive, everything is learned.md",
     "it is our duty to make people notice things.md",
     "explicit vs implicit machine interaction.md",
     "electromagnetism.md",
     "all computing is physical.md",
-    "philosophy, system & navigation.md",
     "perfect flushing mechanism.md",
     "making things that invite people to play.md",
     "intro-to-physical-computing/how a breadboard works.md",
@@ -213,7 +214,6 @@
     "z_images/IMG_6095.heic",
     "z_images/Pasted image 20250903000550.png",
     "intro-to-physical-computing/electricity.md",
-    "people/tom igoe.md",
     "people",
     "index.md",
     "z_images/Pasted image 20250902233034.png",
