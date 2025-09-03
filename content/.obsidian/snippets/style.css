@@ -89,6 +89,9 @@ body {
   --h4-size: var(--base-minus-one);
   --h5-size: var(--base-minus-one);
   --h6-size: var(--base-minus-one);
+
+  --list-bullet-end-padding: 20px;
+  --list-bullet-size: 3px;
 }
 
 pre,
@@ -100,8 +103,6 @@ code,
 
 .workspace{
     background: var(--bg); 
-}
-h1 , p{
     color: var(--primary); 
 }
 
