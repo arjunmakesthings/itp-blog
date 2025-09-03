@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "all design (technically) excludes people.md",
+                "file": "philosophy, system & navigation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "all design (technically) excludes people"
+              "title": "philosophy, system & navigation"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#conversations",
+                "query": "tom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,22 +195,22 @@
   },
   "active": "79d30a72b546c719",
   "lastOpenFiles": [
+    "intro-to-physical-computing/index.md",
+    "intro-to-physical-computing/is it is our duty to make people notice things?.md",
+    "intro-to-physical-computing/making things that invite people to play.md",
+    "all design (technically) excludes people.md",
     "never make products that try to assume what human beings want to do.md",
     "intro-to-physical-computing/ipc-class-1.md",
     "intro-to-physical-computing/all computing is physical.md",
     "intro-to-physical-computing/electrical components.md",
     "intro-to-physical-computing/nothing is intuitive, everything is learned.md",
-    "intro-to-physical-computing/is it is our duty to make people notice things?.md",
     "intro-to-physical-computing/explicit vs implicit machine interaction.md",
     "intro-to-physical-computing/how a breadboard works.md",
     "philosophy, system & navigation.md",
-    "intro-to-physical-computing/making things that invite people to play.md",
     "people/shobhan.md",
-    "intro-to-physical-computing/index.md",
     "intro-to-physical-computing/electricity.md",
     "what makes people want to touch or play with objects?.md",
     "electromagnetism.md",
-    "all design (technically) excludes people.md",
     "what is intuitive design?.md",
     "perfect flushing mechanism.md",
     "people/tom igoe.md",

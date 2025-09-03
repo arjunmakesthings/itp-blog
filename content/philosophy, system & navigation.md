@@ -15,33 +15,35 @@ for the last 3 years, i have carefully maintained a closed *[zettlekasten](https
 ---
 # system:
 i <mark>collect</mark> notes (or images). these may arise from:
-- #conversations
-- #thoughts
-- #reading
-- #lectures (i consider classes, podcasts, and any other (primarily) unidirectional audio-exchange as lectures). 
-- #observations 
-
+- conversations
+- thoughts
+- reading 
+- lectures (i consider classes, podcasts, and any other (primarily) unidirectional audio-exchange as lectures). 
+- observations
 ![[z_images/250901 • temporal-drawings(1).webp]]
 
 these may then interconnect amongst themselves, and / or <mark>evolve</mark> into: 
-- #ideas
-- #experiments
-- #research
-- #writings  (writings deemed complete may find their way to my [website](https://arjunmakesthings.github.io/notes.html) )
+- ideas
+- experiments
+- research
+- writings (writings deemed complete may find their way to my [website](https://arjunmakesthings.github.io/notes.html) )
 
 ![[z_images/250901 • temporal-drawings(2).webp]]
 
 at the end of this tryst between the abstract (collection; some evolution) and the concrete (artifacts during evolution, often via *making*), i may be <mark>left with</mark>: 
-- #projects (which may then find their way to my [website](https://arjunmakesthings.github.io/projects.html))
-- #reflections (which will also be considered #writings)
+- projects (which may then find their way to my [website](https://arjunmakesthings.github.io/projects.html))
+- reflections (which will also be considered *writings*)
 
-![[z_images/250901 • temporal-drawings(3).webp]]
 these, i may choose to share with the outside world. 
 
-i *may* also require folders with all the entries for specific courses, and they will show up on the left (or inside the kebab-menu on a phone). 
+![[z_images/250901 • temporal-drawings(3).webp]]
+the above-mentioned list items are also searchable as tags (for example, search for #writings). i can't link them all on this page because of the way quartz is structured. 
+
+i may, also, require folders — containing all entries made during / related to a specific course. these will show up on the left (or inside the kebab-menu on a phone). 
 
 ---
 # navigation:
+
 > The garden is the web as topology. Every walk through the garden creates new paths, new meanings, and when we add things to the garden we add them in a way that allows many future, unpredicted relationships.
 > 
 > from [*the garden and the stream*, by jacky](https://jzhao.xyz/thoughts/the-garden-and-the-stream).
