@@ -56,7 +56,7 @@ similar on the phone, but with these differences:
 
 ---
 # acknowledgements: 
-[kezia](https://klogs.e-kezia.com/) & [matt](https://mattblanco.me/) for generously sharing their time to help me debug; [jacky](https://jzhao.xyz/) for making [quartz](https://quartz.jzhao.xyz/); [andre](https://andre-lira.com/), [lucia](https://www.lucia-gomez.dev/about-me) & [jasmine](https://www.jnackash.com/) for sharing their blogs; [itp](https://itp.nyu.edu/itp/) for requiring a blog; [shobhan](https://setwrite.in/) for introducing me to discipline; and [sakina](https://www.sakinaattarwala.com/) for bearing my unhealthy obsession with getting this right. 
+[kezia](https://klogs.e-kezia.com/) & [matt](https://mattblanco.me/) for generously sharing their time to help me debug; [jacky](https://jzhao.xyz/) for making [quartz](https://quartz.jzhao.xyz/); [felixnie](https://draftz.felixnie.com/Digital-Garden/Sorting-Objects-in-Explorer) for helping people with custom-sort; [andre](https://andre-lira.com/), [lucia](https://www.lucia-gomez.dev/about-me) & [jasmine](https://www.jnackash.com/) for sharing their blogs; [itp](https://itp.nyu.edu/itp/) for requiring a blog; [shobhan](https://setwrite.in/) for introducing me to discipline; and [sakina](https://www.sakinaattarwala.com/) for bearing my unhealthy obsession with getting this right. 
 
 [^1]: on the flight from delhi to new-york, i penned down 5 [vows](https://arjunmakesthings.github.io/notes/2025_vows-for-graduate-school/page.html) for graduate-school. 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/electrical components.md",
+                "file": "philosophy, system & navigation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "electrical components"
+              "title": "philosophy, system & navigation"
             }
           }
         ]
@@ -195,10 +195,10 @@
   },
   "active": "6f9143312e5a2e99",
   "lastOpenFiles": [
+    "intro-to-physical-computing/electrical components.md",
     "intro-to-physical-computing/index.md",
     "intro-to-physical-computing/ipc-class-1.md",
     "people/index.md",
-    "intro-to-physical-computing/electrical components.md",
     "nothing is intuitive, everything is learned.md",
     "it is our duty to make people notice things.md",
     "explicit vs implicit machine interaction.md",
