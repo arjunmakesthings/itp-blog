@@ -14,4 +14,4 @@ from the syllabus:
 
 > All computing is physical. We work with computational systems by taking action with our bodies, on devices. The construction of computing devices, and their use, consumes raw materials and energy as well. Computing, even when we call it “virtual”, “cloud”, or other names, always has physical consequences. This course is about how to design physical devices that we interact with using our bodies.
 
-this thought ties into my larger idea of [[making computation visible]]. 
+i'm still chewing on this. 
