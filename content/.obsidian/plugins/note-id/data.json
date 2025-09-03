@@ -1,0 +1,13 @@
+{
+  "includeFolders": [],
+  "excludeFolders": [
+    "zz_templates"
+  ],
+  "showNotesWithoutId": true,
+  "idField": "noteOrder",
+  "tocField": "",
+  "autoToc": true,
+  "tocLevel": 1,
+  "splitLevel": 0,
+  "indentation": false
+}

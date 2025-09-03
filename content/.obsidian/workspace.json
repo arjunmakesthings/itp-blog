@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy, system & navigation.md",
+                "file": "intro-to-physical-computing/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "philosophy, system & navigation"
+              "title": "index"
             }
           }
         ]
@@ -162,9 +162,19 @@
               "icon": "links-coming-in",
               "title": "Backlinks for index"
             }
+          },
+          {
+            "id": "81a35a2c85c50b6c",
+            "type": "leaf",
+            "state": {
+              "type": "id-side-panel",
+              "state": {},
+              "icon": "file-digit",
+              "title": "Notes by ID"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -179,57 +189,58 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "note-id:Open side panel": false
     }
   },
   "active": "6f9143312e5a2e99",
   "lastOpenFiles": [
-    "index.md",
+    "intro-to-physical-computing/ipc-class-1.md",
+    "people/index.md",
+    "intro-to-physical-computing/electrical components.md",
+    "intro-to-physical-computing/index.md",
+    "nothing is intuitive, everything is learned.md",
+    "it is our duty to make people notice things.md",
+    "explicit vs implicit machine interaction.md",
+    "electromagnetism.md",
+    "all computing is physical.md",
     "philosophy, system & navigation.md",
+    "perfect flushing mechanism.md",
+    "making things that invite people to play.md",
+    "intro-to-physical-computing/how a breadboard works.md",
+    "z_images/Pasted image 20250903001927.png",
+    "z_images/arduino.jpg",
+    "z_images/IMG_6095.heic",
+    "z_images/Pasted image 20250903000550.png",
+    "intro-to-physical-computing/electricity.md",
+    "people/tom igoe.md",
+    "people",
+    "index.md",
+    "z_images/Pasted image 20250902233034.png",
+    "z_images/Pasted image 20250902233017.png",
+    "z_images/Screenshot 2025-09-02 at 23.05.35.png",
+    "zz_templates/index.md",
+    "intro to physical computing.md",
+    "Untitled (1).md",
+    "intro-to-physical-computing/all computing is physical.md",
+    "zz_templates/testing-template.md",
+    "zz_templates/note.md",
+    "intro-to-physicial-computing/index-2.md",
+    "intro-to-physicial-computing/index-2.md",
+    "intro-to-physical-computing",
     "mock-note.md",
     "z_images/250901 • temporal-drawings(3).webp",
     "z_images/250901 • temporal-drawings(2).webp",
     "z_images/250901 • temporal-drawings(1).webp",
     "z_images/250901 • explainer-2.webp",
-    "z_images/250901 • explainer-1.webp",
-    "zz_templates/testing-template.md",
-    "z_images/template_ws-qr.jpg",
-    "z_images/template_O3.webp",
-    "z_images/template_O1.webp",
-    "z_images/template_O2.webp",
-    "z_images/250901 • obsidian-map.webp",
     "note 1.md",
-    "zzzz.md",
-    "zz_templates/title.md",
     "zz_templates",
     "z_images",
-    "sem-1_intro-to-physical-computing/z note.md",
-    "sem-1_intro-to-physical-computing/trial note.md",
     "sem-1_intro-to-physical-computing",
-    "sem-1_hypercinema/trial more.md",
-    "sem-1_hypercinema/antitled.md",
     "sem-1_hypercinema",
-    "template-folder/note 2.md",
-    "template-folder/blank note to check for backlinks.md",
     "template-folder",
-    "lds.md",
-    "testing template.md",
-    "zzz.md",
-    "aaa.md",
-    "note 2.md",
-    "note 2 older note june 8 2024.md",
-    "note 1 made on sep 8 2025.md",
-    "sadsad.md",
-    "another testing note.md",
-    "sem -1-itp/spmepjpaf.md",
-    "sem -1-itp/index.md",
-    "Untitled",
     "sem -1-itp",
-    "tester for noteorder thing.md",
-    "ttsdaodasd.md",
     "sem-1_intro-to-fabrication",
-    "sem-1_applications",
-    "sem-1_intro-to-computational-media",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"

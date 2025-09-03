@@ -18,7 +18,7 @@ i <mark>collect</mark> notes (or images). these may arise from:
 - #conversations
 - #thoughts
 - #reading
-- #lectures (i consider podcasts — or any other unidirectional audio-exchange as lectures too). 
+- #lectures (i consider classes, podcasts, and any other (primarily) unidirectional audio-exchange as lectures). 
 - #observations 
 
 ![[z_images/250901 • temporal-drawings(1).webp]]

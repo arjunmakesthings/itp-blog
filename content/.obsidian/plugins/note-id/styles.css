@@ -1,0 +1,25 @@
+.workspace-leaf-content[data-type="id-side-panel"] .view-content {
+	padding: 0;
+	display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.workspace-leaf-content[data-type="id-side-panel"] .nav-header {
+    flex-shrink: 0; /* Keeps the header at its natural height */
+}
+
+.note-id {
+	color: var(--text-faint);
+}
+
+.virtual-list .tree-item-self {
+	padding-left: var(--size-4-2);
+}
+
+.virtual-list-item {
+	flex-grow: 1;
+	left: 0;
+	right: 0;
+	overflow: hidden;
+}
