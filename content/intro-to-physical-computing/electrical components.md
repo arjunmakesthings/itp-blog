@@ -14,6 +14,10 @@ a resistor essentially takes electricity as input, and limits the output. the re
 ![[z_images/Screenshot 2025-09-02 at 23.05.35.png]]
 <figcaption>image from <a href = "https://resistorcolorcodecalc.com/">resistor color code calculator</a>.</figcaption>
 
+there are different types of resistors; some are variable (change resistance based on data such as light or force). 
+
+![[z_images/Screenshot 2025-09-03 at 18.14.18.png]]
+
 ---
 # microcontrollers: 
 simple computers designed to take input and give output; essentially a fancy voltage-manipulator. arduino is a type of microcontroller, and [[people/tom igoe]] co-founded it. 
