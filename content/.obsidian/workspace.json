@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/experiment-log_week-1.md",
+                "file": "intro-to-physical-computing/electrical components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "experiment-log_week-1"
+              "title": "electrical components"
             }
           },
           {
@@ -266,8 +266,11 @@
   },
   "active": "c81e75b45dfc70f6",
   "lastOpenFiles": [
-    "intro-to-physical-computing/you can conduct electricity through so many materials.md",
+    "z_images/Screenshot 2025-09-04 at 18.10.01.png",
+    "z_images/Pasted image 20250904180858.png",
+    "z_images/Screenshot 2025-09-04 at 18.07.43.png",
     "intro-to-physical-computing/experiment-log_week-1.md",
+    "intro-to-physical-computing/you can conduct electricity through so many materials.md",
     "z_images/IMG_6127.mov",
     "z_images/IMG_6128.jpg",
     "z_images/IMG_6126.jpg",
@@ -278,9 +281,7 @@
     "intro-to-physical-computing/ohm's law.md",
     "z_images/Screenshot 2025-09-04 at 16.38.33.png",
     "z_images/Screenshot 2025-09-04 at 16.35.24.png",
-    "z_images/Screenshot 2025-09-04 at 16.33.51.png",
     "intro-to-physical-computing/electricity.md",
-    "z_images/IMG_6119 1.jpg",
     "people/octavio.md",
     "intro-to-physical-computing/electrical components.md",
     "intro-to-physical-computing/index.md",

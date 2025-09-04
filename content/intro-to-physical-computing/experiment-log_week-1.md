@@ -77,5 +77,6 @@ the water also made bubbles, which i thought were very cool. this is perhaps bec
 ![[z_images/IMG_6127.mov]]
 
 ---
+# understanding  transistors: 
 
 

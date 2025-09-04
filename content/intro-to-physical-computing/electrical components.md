@@ -30,7 +30,18 @@ here is a diagram for the nano-33, which we use in class:
 # multimeters: 
 played around with in [[intro-to-physical-computing/experiment-log_week-1|experiment-log_week-1]]. 
 
-these measure voltage, resistance and amperage. 
+these measure voltage, resistance and amperage; and are good tools to check circuits and different components. 
 
+![[z_images/Screenshot 2025-09-04 at 18.07.43.png]]
+
+---
+# voltage regulators:
+change fluctuating voltage to consistent voltage. 
+
+![[z_images/Pasted image 20250904180858.png]]
+the pins are easy to remember: 
+
+![[z_images/Screenshot 2025-09-04 at 18.10.01.png]]
+
+---
 more parts to read about are here: https://itp.nyu.edu/physcomp/labs/components/
-
