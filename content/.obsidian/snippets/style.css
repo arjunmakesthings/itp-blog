@@ -22,7 +22,7 @@ https://utopia.fyi/type/calculator?c=320,12,1.2,1920,16,1.2,3,1,&s=0.75|0.5|0.25
   --global_horizontal-margin: 16vw;
 }
 html {
-  text-transform: lowercase;
+  /* text-transform: lowercase; */
   color: var(--primary); 
 }
 h1,
@@ -35,6 +35,7 @@ h1,
   margin: 0;
   padding: 0;
   color: var(--primary); 
+  text-transform: lowercase;
 }
 h2 {
   font-family: "Alegreya Sans";
@@ -54,6 +55,7 @@ p {
   line-height: 1.6em;
   margin: 0;
   color: var(--primary); 
+  text-transform: lowercase;
 }
 h1.article-title {
   margin-top: 0;
@@ -108,4 +110,8 @@ code,
 
 .side-dock-ribbon {
     font-size: var(--base-minus-one); 
+}
+
+code{
+  text-transform: none; 
 }
