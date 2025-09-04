@@ -22,6 +22,10 @@ there are different types of resistors; some are variable (change resistance bas
 # microcontrollers: 
 simple computers designed to take input and give output; essentially a fancy voltage-manipulator. arduino is a type of microcontroller, and [[people/tom igoe]] co-founded it. 
 
+here is a diagram for the nano-33, which we use in class: 
+
+![[z_images/Pasted image 20250903235131.png]]
+
 ---
 more parts to read about are here: https://itp.nyu.edu/physcomp/labs/components/
 
