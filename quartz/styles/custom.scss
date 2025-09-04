@@ -164,3 +164,6 @@ a.internal, .internal.tag{
   // color: var(--pink-col); 
   // background-color: color-mix(in srgb, var(--pink-col), transparent 93%);
 }
+code{
+  text-transform: none; 
+}
