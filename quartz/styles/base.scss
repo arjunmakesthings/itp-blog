@@ -49,7 +49,7 @@ html {
   width: 100vw;
   text-transform: lowercase;
   print-color-adjust: exact;
-  text-wrap: pretty;
+  text-wrap: pretty; 
   // font-family: "Alegreya-Sans";
 }
 
@@ -86,7 +86,7 @@ ul,
 .typst-doc * {
   color: var(--darkgray);
   fill: var(--darkgray);
-  hyphens: auto;
+  // hyphens: auto;
 }
 
 p,
