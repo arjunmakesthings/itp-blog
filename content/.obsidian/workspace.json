@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/index.md",
+                "file": "applications/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -195,11 +195,13 @@
   },
   "active": "5c7576bcd989ee26",
   "lastOpenFiles": [
+    "people/aidan nelson.md",
     "hypercinema/index.md",
+    "applications/applications-class-1.md",
+    "intro-to-physical-computing/index.md",
     "philosophy, system & navigation.md",
     "people/kezia.md",
     "people/matt.md",
-    "people/adrian nelson.md",
     "people/tom igoe.md",
     "intro-to-physical-computing/how a breadboard works.md",
     "hypercinema",
@@ -208,13 +210,11 @@
     "z_images/IMG_6114.jpg",
     "z_images/IMG_6113.jpg",
     "intro-to-physical-computing/electrical components.md",
-    "intro-to-physical-computing/index.md",
     "intro-to-physical-computing/ipc-class-1.md",
     "intro-to-physical-computing/you need to have space for physical computing.md",
     "z_images/IMG_6110.jpg",
     "case against ai.md",
     "intro-to-computational-media/index.md",
-    "applications/applications-class-1.md",
     "applications/index.md",
     "intro-to-computational-media/icm-class-1.md",
     "intro-to-computational-media/a pretty definition of wonder.md",

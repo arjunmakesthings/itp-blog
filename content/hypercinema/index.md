@@ -4,7 +4,7 @@ date: 2025-09-04
 folderOrder: "4"
 draft: "false"
 ---
-taken by [[adrian nelson]], in semester-1. 
+taken by [[people/aidan nelson]], in semester-1. 
 
 ---
 # why: 
