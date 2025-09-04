@@ -1,0 +1,1 @@
+senior at itp; nyu-'26. works at the shop. 

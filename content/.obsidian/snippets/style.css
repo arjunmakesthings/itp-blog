@@ -115,3 +115,7 @@ code,
 code{
   text-transform: none; 
 }
+
+katex-html{
+  text-align: left; 
+}

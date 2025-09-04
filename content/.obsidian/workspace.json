@@ -13,15 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "applications/index.md",
+                "file": "intro-to-physical-computing/experiment-log_week-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "experiment-log_week-1"
+            }
+          },
+          {
+            "id": "a6da84954a9a252e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro-to-physical-computing/ohm's law.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ohm's law"
+            }
+          },
+          {
+            "id": "c81e75b45dfc70f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro-to-physical-computing/experiment-log_week-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "experiment-log_week-1"
+            }
+          },
+          {
+            "id": "592e5e09fae92d32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro-to-physical-computing/electricity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "electricity"
+            }
+          },
+          {
+            "id": "43d8a147ad8e4201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro-to-physical-computing/electrical components.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "electrical components"
+            }
+          },
+          {
+            "id": "3778b691e4dbf690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro-to-physical-computing/electrical components.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "electrical components"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tom",
+                "query": "code book",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,54 +264,53 @@
       "note-id:Open side panel": false
     }
   },
-  "active": "5c7576bcd989ee26",
+  "active": "c81e75b45dfc70f6",
   "lastOpenFiles": [
+    "intro-to-physical-computing/you can conduct electricity through so many materials.md",
+    "intro-to-physical-computing/experiment-log_week-1.md",
+    "z_images/IMG_6127.mov",
+    "z_images/IMG_6128.jpg",
+    "z_images/IMG_6126.jpg",
+    "z_images/IMG_6125.jpg",
+    "z_images/IMG_6122.jpg",
+    "z_images/IMG_6121 2.jpg",
+    "z_images/IMG_6121.jpg",
+    "intro-to-physical-computing/ohm's law.md",
+    "z_images/Screenshot 2025-09-04 at 16.38.33.png",
+    "z_images/Screenshot 2025-09-04 at 16.35.24.png",
+    "z_images/Screenshot 2025-09-04 at 16.33.51.png",
+    "intro-to-physical-computing/electricity.md",
+    "z_images/IMG_6119 1.jpg",
+    "people/octavio.md",
+    "intro-to-physical-computing/electrical components.md",
+    "intro-to-physical-computing/index.md",
+    "people/audrey.md",
+    "applications/index.md",
     "people/aidan nelson.md",
     "hypercinema/index.md",
     "applications/applications-class-1.md",
-    "intro-to-physical-computing/index.md",
     "philosophy, system & navigation.md",
     "people/kezia.md",
     "people/matt.md",
     "people/tom igoe.md",
     "intro-to-physical-computing/how a breadboard works.md",
     "hypercinema",
-    "intro-to-physical-computing/experiment-log_week-1.md",
-    "z_images/IMG_6115.jpg",
-    "z_images/IMG_6114.jpg",
-    "z_images/IMG_6113.jpg",
-    "intro-to-physical-computing/electrical components.md",
     "intro-to-physical-computing/ipc-class-1.md",
     "intro-to-physical-computing/you need to have space for physical computing.md",
-    "z_images/IMG_6110.jpg",
     "case against ai.md",
     "intro-to-computational-media/index.md",
-    "applications/index.md",
     "intro-to-computational-media/icm-class-1.md",
     "intro-to-computational-media/a pretty definition of wonder.md",
     "parallel or series-based circuits.md",
-    "z_images/Screenshot 2025-09-03 at 23.55.48.png",
-    "z_images/Pasted image 20250903235131.png",
     "is it a human need to want to communicate or express?.md",
-    "z_images/introduction-map-image_250824.jpg",
     "z_images/introduction-map-image_250824.heic",
-    "z_images/Screenshot 2025-09-03 at 23.38.04.png",
-    "index.md",
-    "people/sharon de la cruz.md",
-    "people/mimi yin.md",
-    "zz_templates/index.md",
     "applications",
-    "icm class-2.md",
-    "z_images/IMG_6106.jpg",
-    "people/index.md",
-    "z_images/Screenshot 2025-09-03 at 18.14.18.png",
     "intro-to-computational-media",
     "z_images/IMG_6044.mp4",
     "z_images/IMG_6095.heic",
     "people",
     "intro-to-physical-computing",
     "zz_templates",
-    "z_images",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"

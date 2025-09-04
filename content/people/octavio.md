@@ -1,0 +1,1 @@
+resident at itp in 2025. interested in sound. 
