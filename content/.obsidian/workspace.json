@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/you need to have space for physical computing.md",
+                "file": "intro-to-physical-computing/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "you need to have space for physical computing"
+              "title": "index"
             }
           }
         ]
@@ -193,48 +193,27 @@
       "note-id:Open side panel": false
     }
   },
-  "floating": {
-    "id": "b83e24b1f59710aa",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5e74d0db6ecc0e52",
-        "type": "window",
-        "children": [
-          {
-            "id": "20bdd28cdd883248",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c0d2ecd5240922d2",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 900,
-        "y": 45,
-        "width": 900,
-        "height": 1080,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "5c7576bcd989ee26",
   "lastOpenFiles": [
-    "z_images/IMG_6110.jpg",
+    "hypercinema/index.md",
+    "philosophy, system & navigation.md",
+    "people/kezia.md",
+    "people/matt.md",
+    "people/adrian nelson.md",
+    "people/tom igoe.md",
+    "intro-to-physical-computing/how a breadboard works.md",
+    "hypercinema",
+    "intro-to-physical-computing/experiment-log_week-1.md",
+    "z_images/IMG_6115.jpg",
+    "z_images/IMG_6114.jpg",
+    "z_images/IMG_6113.jpg",
+    "intro-to-physical-computing/electrical components.md",
+    "intro-to-physical-computing/index.md",
+    "intro-to-physical-computing/ipc-class-1.md",
     "intro-to-physical-computing/you need to have space for physical computing.md",
+    "z_images/IMG_6110.jpg",
     "case against ai.md",
     "intro-to-computational-media/index.md",
-    "intro-to-physical-computing/electrical components.md",
     "applications/applications-class-1.md",
     "applications/index.md",
     "intro-to-computational-media/icm-class-1.md",
@@ -242,7 +221,6 @@
     "parallel or series-based circuits.md",
     "z_images/Screenshot 2025-09-03 at 23.55.48.png",
     "z_images/Pasted image 20250903235131.png",
-    "intro-to-physical-computing/index.md",
     "is it a human need to want to communicate or express?.md",
     "z_images/introduction-map-image_250824.jpg",
     "z_images/introduction-map-image_250824.heic",
@@ -253,29 +231,16 @@
     "zz_templates/index.md",
     "applications",
     "icm class-2.md",
-    "intro-to-physical-computing/ipc-class-1.md",
     "z_images/IMG_6106.jpg",
     "people/index.md",
     "z_images/Screenshot 2025-09-03 at 18.14.18.png",
-    "people/tom igoe.md",
-    "people/shobhan.md",
-    "zz_templates/note.md",
-    "philosophy, system & navigation.md",
     "intro-to-computational-media",
-    "what is intuitive design?.md",
-    "what makes people want to touch or play with objects?.md",
-    "intro-to-physical-computing/making things that invite people to play.md",
-    "z_images/Pasted image 20250903085117.png",
-    "z_images/Pasted image 20250903085049.png",
     "z_images/IMG_6044.mp4",
-    "z_images/Pasted image 20250903001927.png",
-    "z_images/arduino.jpg",
     "z_images/IMG_6095.heic",
     "people",
     "intro-to-physical-computing",
     "zz_templates",
     "z_images",
-    "sem-1_intro-to-physical-computing",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"

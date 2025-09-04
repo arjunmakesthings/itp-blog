@@ -17,6 +17,6 @@ i wish to use this course to understand how electricity works, and how it may be
 
 ---
 # resources: 
-- [syllabus](https://itp.nyu.edu/physcomp/)
+- [syllabus](https://itp.nyu.edu/physcomp/syllabus-fall-2025/) for fall-'25. 
 
 ---

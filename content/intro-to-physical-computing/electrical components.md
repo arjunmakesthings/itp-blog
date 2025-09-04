@@ -27,5 +27,10 @@ here is a diagram for the nano-33, which we use in class:
 ![[z_images/Pasted image 20250903235131.png]]
 
 ---
+# multimeters: 
+played around with in [[intro-to-physical-computing/experiment-log_week-1|experiment-log_week-1]]. 
+
+these measure voltage, resistance and amperage. 
+
 more parts to read about are here: https://itp.nyu.edu/physcomp/labs/components/
 
