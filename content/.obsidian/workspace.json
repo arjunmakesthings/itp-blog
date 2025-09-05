@@ -4,95 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "5737141fe56dd014",
+        "id": "b48d173295c64733",
         "type": "tabs",
         "children": [
           {
-            "id": "5c7576bcd989ee26",
+            "id": "fc03ceee4d610a95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/experiment-log_week-1.md",
+                "file": "hypercinema/hypercinema-class-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "experiment-log_week-1"
+              "title": "hypercinema-class-1"
             }
           },
           {
-            "id": "a6da84954a9a252e",
+            "id": "a847498df02a1abb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/ohm's law.md",
+                "file": "cool places or studios to look at.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ohm's law"
-            }
-          },
-          {
-            "id": "c81e75b45dfc70f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-physical-computing/electrical components.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "electrical components"
-            }
-          },
-          {
-            "id": "592e5e09fae92d32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-physical-computing/electricity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "electricity"
-            }
-          },
-          {
-            "id": "43d8a147ad8e4201",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-physical-computing/electrical components.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "electrical components"
-            }
-          },
-          {
-            "id": "3778b691e4dbf690",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-physical-computing/electrical components.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "electrical components"
+              "title": "cool places or studios to look at"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "code book",
+                "query": "tag:projects-by-other-people",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -264,12 +207,27 @@
       "note-id:Open side panel": false
     }
   },
-  "active": "c81e75b45dfc70f6",
+  "active": "fc03ceee4d610a95",
   "lastOpenFiles": [
+    "people/emilia.md",
+    "people/matt.md",
+    "people/octavio.md",
+    "hypercinema/hypercinema-class-1.md",
+    "cool places or studios to look at.md",
+    "intro-to-physical-computing/electrical components.md",
+    "intro-to-physical-computing/electricity.md",
+    "intro-to-physical-computing/experiment-log_week-1.md",
+    "intro-to-physical-computing/ohm's law.md",
+    "testing for racial-biases on thispersondoesnotexist.md",
+    "z_images/Screenshot 2025-09-05 at 11.22.21.png",
+    "thispersondoesnotexist.md",
+    "z_images/Screenshot 2025-09-05 at 11.21.06.png",
+    "hypercinema/index.md",
+    "applications/applications-class-1.md",
+    "applications/index.md",
     "z_images/Screenshot 2025-09-04 at 18.10.01.png",
     "z_images/Pasted image 20250904180858.png",
     "z_images/Screenshot 2025-09-04 at 18.07.43.png",
-    "intro-to-physical-computing/experiment-log_week-1.md",
     "intro-to-physical-computing/you can conduct electricity through so many materials.md",
     "z_images/IMG_6127.mov",
     "z_images/IMG_6128.jpg",
@@ -277,22 +235,11 @@
     "z_images/IMG_6125.jpg",
     "z_images/IMG_6122.jpg",
     "z_images/IMG_6121 2.jpg",
-    "z_images/IMG_6121.jpg",
-    "intro-to-physical-computing/ohm's law.md",
-    "z_images/Screenshot 2025-09-04 at 16.38.33.png",
-    "z_images/Screenshot 2025-09-04 at 16.35.24.png",
-    "intro-to-physical-computing/electricity.md",
-    "people/octavio.md",
-    "intro-to-physical-computing/electrical components.md",
     "intro-to-physical-computing/index.md",
     "people/audrey.md",
-    "applications/index.md",
     "people/aidan nelson.md",
-    "hypercinema/index.md",
-    "applications/applications-class-1.md",
     "philosophy, system & navigation.md",
     "people/kezia.md",
-    "people/matt.md",
     "people/tom igoe.md",
     "intro-to-physical-computing/how a breadboard works.md",
     "hypercinema",
@@ -300,10 +247,6 @@
     "intro-to-physical-computing/you need to have space for physical computing.md",
     "case against ai.md",
     "intro-to-computational-media/index.md",
-    "intro-to-computational-media/icm-class-1.md",
-    "intro-to-computational-media/a pretty definition of wonder.md",
-    "parallel or series-based circuits.md",
-    "is it a human need to want to communicate or express?.md",
     "z_images/introduction-map-image_250824.heic",
     "applications",
     "intro-to-computational-media",
