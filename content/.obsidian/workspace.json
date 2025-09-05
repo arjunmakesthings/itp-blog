@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc03ceee4d610a95",
+            "id": "609a0223714ae874",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hypercinema/hypercinema-class-1.md",
+                "file": "intro-to-computational-media/self portrait.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hypercinema-class-1"
-            }
-          },
-          {
-            "id": "a847498df02a1abb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cool places or studios to look at.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "cool places or studios to look at"
+              "title": "self portrait"
             }
           }
         ]
@@ -92,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -207,16 +194,22 @@
       "note-id:Open side panel": false
     }
   },
-  "active": "fc03ceee4d610a95",
+  "active": "609a0223714ae874",
   "lastOpenFiles": [
+    "intro-to-computational-media/icm-experiments_week-1.md",
+    "intro-to-computational-media/self portrait.md",
+    "intro-to-computational-media/accuracy vs precision.md",
+    "z_images/Screenshot 2025-09-05 at 11.50.17.png",
+    "z_images/Pasted image 20250905114955.png",
+    "intro-to-computational-media/icm-class-1.md",
+    "intro-to-physical-computing/ipc-experiments_week-1.md",
+    "hypercinema/hypercinema-class-1.md",
     "people/emilia.md",
     "people/matt.md",
     "people/octavio.md",
-    "hypercinema/hypercinema-class-1.md",
     "cool places or studios to look at.md",
     "intro-to-physical-computing/electrical components.md",
     "intro-to-physical-computing/electricity.md",
-    "intro-to-physical-computing/experiment-log_week-1.md",
     "intro-to-physical-computing/ohm's law.md",
     "testing for racial-biases on thispersondoesnotexist.md",
     "z_images/Screenshot 2025-09-05 at 11.22.21.png",
@@ -233,8 +226,6 @@
     "z_images/IMG_6128.jpg",
     "z_images/IMG_6126.jpg",
     "z_images/IMG_6125.jpg",
-    "z_images/IMG_6122.jpg",
-    "z_images/IMG_6121 2.jpg",
     "intro-to-physical-computing/index.md",
     "people/audrey.md",
     "people/aidan nelson.md",
@@ -243,10 +234,6 @@
     "people/tom igoe.md",
     "intro-to-physical-computing/how a breadboard works.md",
     "hypercinema",
-    "intro-to-physical-computing/ipc-class-1.md",
-    "intro-to-physical-computing/you need to have space for physical computing.md",
-    "case against ai.md",
-    "intro-to-computational-media/index.md",
     "z_images/introduction-map-image_250824.heic",
     "applications",
     "intro-to-computational-media",

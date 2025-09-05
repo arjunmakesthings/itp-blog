@@ -28,7 +28,7 @@ here is a diagram for the nano-33, which we use in class:
 
 ---
 # multimeters: 
-played around with in [[intro-to-physical-computing/experiment-log_week-1|experiment-log_week-1]]. 
+played around with in [[intro-to-physical-computing/ipc-experiments_week-1|ipc-experiments_week-1]]. 
 
 these measure voltage, resistance and amperage; and are good tools to check circuits and different components. 
 
