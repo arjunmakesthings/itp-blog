@@ -18,6 +18,24 @@ there are different types of resistors; some are variable (change resistance bas
 
 ![[z_images/Screenshot 2025-09-03 at 18.14.18.png]]
 
+video used: https://www.youtube.com/watch?v=QHk8vS5c1iE
+two main types that i see in the shop: 
+
+![[z_images/Screenshot 2025-09-06 at 13.06.07.png]]
+
+left is carbon-based, and the right is metal-based. higher resistance (ohm-values) have more 'grooves', for the current to bounce around more (and lose heat). 
+
+![[z_images/Screenshot 2025-09-06 at 13.07.14.png]]
+
+then saw this: https://www.youtube.com/watch?v=O2hFh6w0FRw
+
+understood that the resistance is calculated like so: 
+
+```
+r = (v(source) - v(load)) / i (current)
+```
+
+
 ---
 # microcontrollers: 
 simple computers designed to take input and give output; essentially a fancy voltage-manipulator. arduino is a type of microcontroller, and [[people/tom igoe]] co-founded it. 
@@ -42,6 +60,22 @@ change fluctuating voltage to consistent voltage.
 the pins are easy to remember: 
 
 ![[z_images/Screenshot 2025-09-04 at 18.10.01.png]]
+
+---
+# capacitors: 
+store energy when energy comes in, and then releases it when the energy stops. 
+
+![[z_images/Pasted image 20250906115657.png]]
+
+---
+# diodes
+permit voltage to flow in one direction, and block it in another. leds are a type of diodes. 
+
+---
+# transistors: 
+
+ 
+
 
 ---
 more parts to read about are here: https://itp.nyu.edu/physcomp/labs/components/

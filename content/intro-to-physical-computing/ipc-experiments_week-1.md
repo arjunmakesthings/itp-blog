@@ -77,6 +77,51 @@ the water also made bubbles, which i thought were very cool. this is perhaps bec
 ![[z_images/IMG_6127.mov]]
 
 ---
-# understanding  transistors: 
+# making "bad-mapping": 
+have an idea that i want to execute. 
 
+![[z_images/IMG_6139 1.jpg]]
+
+the idea is to make the led next to the potentiometer light up when the switch is pressed on, and vice-versa; as an example of bad mapping. 
+
+i want electricity to come in, and be controlled at 3.3v first. couldn't figure out which resistor to use. learnt that; notes on [[intro-to-physical-computing/electrical components|electrical components]]. 
+
+realised that to measure current, i need to put the multimeter in series with the circuit. so, i did that. 
+
+realised that i've been wiring my circuit wrong all along. the power throughout the board is not controlled, and is powered straight through the dc power-supply (12v). 
+
+i'm so confused. 
+
+i don't think i'm conceptually wrong, so i'm going to try again. first, i have power throughout the bus of the breadboard at 12v, because the buses are connected and power flows through them. now, these buses can become power-strips of sorts. 
+
+![[z_images/IMG_6141.jpg]]
+
+now i have that: 
+
+![[z_images/IMG_6144.jpg]]
+
+![[z_images/IMG_6143.jpg]]
+
+now this means, my electricity came in at 12v, got reduced to 5v, then consumed by the resistor and the led. 
+
+next, i'm going to add a switch. 
+
+for some reason, i got a reverse-switch. the circuit closes when i press it, and remains on by default. 
+
+![[z_images/IMG_6145.mov]]
+
+got the potentiometer to work, but burned an led. 
+
+![[z_images/IMG_6146.jpg]]
+
+![[z_images/IMG_6147.mov]]
+
+made leds light up in parallel. 
+
+![[z_images/IMG_6148.jpg]]
+
+moved on to making switches. i destroyed so many leds, that i felt bad, and reused the leds as my switch: 
+
+![[z_images/IMG_6151.mov]]
+<figcaption>"the fallen led-s"</figcaption>
 
