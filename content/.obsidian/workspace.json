@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-computational-media/how computation applies to my interests.md",
+                "file": "intro-to-computational-media/icm-experiments_week-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "how computation applies to my interests"
+              "title": "icm-experiments_week-1"
             }
           },
           {
@@ -224,9 +224,9 @@
   },
   "active": "11b21796e27187a6",
   "lastOpenFiles": [
-    "intro-to-computational-media/icm-experiments_week-1.md",
     "intro-to-computational-media/icm-class-1.md",
     "intro-to-computational-media/how computation applies to my interests.md",
+    "intro-to-computational-media/icm-experiments_week-1.md",
     "is it a human need to want to communicate or express?.md",
     "testing for racial-biases on thispersondoesnotexist.md",
     "philosophy, system & navigation.md",
