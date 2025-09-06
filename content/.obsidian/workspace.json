@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-computational-media/self-portrait.md",
+                "file": "intro-to-computational-media/icm-experiments_week-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "self-portrait"
+              "title": "icm-experiments_week-1"
             }
           },
           {
@@ -209,6 +209,7 @@
   },
   "active": "15fe8c40a655059c",
   "lastOpenFiles": [
+    "intro-to-computational-media/self-portrait.md",
     "z_images/Screenshot 2025-09-06 at 18.36.16.png",
     "z_images/Screenshot 2025-09-06 at 18.35.01.png",
     "z_images/Screenshot 2025-09-06 at 18.34.23.png",
@@ -223,7 +224,6 @@
     "z_images/Screenshot 2025-09-06 at 17.53.45.png",
     "z_images/Screenshot 2025-09-06 at 17.41.50.png",
     "intro-to-computational-media/index.md",
-    "intro-to-computational-media/self-portrait.md",
     "intro-to-physical-computing/index.md",
     "intro-to-computational-media/accuracy vs precision.md",
     "sarah's what-if mixer.md",
@@ -236,7 +236,6 @@
     "z_images/IMG_6147.mov",
     "z_images/IMG_6146.jpg",
     "z_images/IMG_6145.mov",
-    "z_images/IMG_6143.jpg",
     "intro-to-physical-computing/electrical components.md",
     "intro-to-physical-computing/ohm's law.md",
     "intro-to-physical-computing/ipc-class-1.md",
