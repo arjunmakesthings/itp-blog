@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/index.md",
+                "file": "intro-to-computational-media/self-portrait.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "self-portrait"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/ipc-experiments_week-1.md",
+                "file": "intro-to-computational-media/accuracy vs precision.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ipc-experiments_week-1"
+              "title": "accuracy vs precision"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "i = v /r",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,54 +207,54 @@
       "note-id:Open side panel": false
     }
   },
-  "active": "1b8cefcd645c5436",
+  "active": "15fe8c40a655059c",
   "lastOpenFiles": [
+    "z_images/Screenshot 2025-09-06 at 18.36.16.png",
+    "z_images/Screenshot 2025-09-06 at 18.35.01.png",
+    "z_images/Screenshot 2025-09-06 at 18.34.23.png",
+    "z_images/Screen Recording 2025-09-06 at 18.31.46.mov",
+    "z_images/Screenshot 2025-09-06 at 18.16.52.png",
+    "z_images/moving.mov",
+    "z_images/vid 1.mov",
+    "z_images/Screen Recording 2025-09-06 at 18.22.14.mov",
+    "z_images/Screenshot 2025-09-06 at 18.19.03.png",
+    "z_images/Screenshot 2025-09-06 at 17.54.52.png",
+    "z_images/Screen Recording 2025-09-06 at 17.53.01.mov",
+    "z_images/Screenshot 2025-09-06 at 17.53.45.png",
+    "z_images/Screenshot 2025-09-06 at 17.41.50.png",
+    "intro-to-computational-media/index.md",
+    "intro-to-computational-media/self-portrait.md",
+    "intro-to-physical-computing/index.md",
+    "intro-to-computational-media/accuracy vs precision.md",
+    "sarah's what-if mixer.md",
+    "zz_templates/note.md",
+    "is it a human need to want to communicate or express?.md",
+    "zz_templates/index.md",
+    "intro-to-physical-computing/ipc-experiments_week-1.md",
     "z_images/IMG_6151.mov",
     "z_images/IMG_6148.jpg",
     "z_images/IMG_6147.mov",
     "z_images/IMG_6146.jpg",
     "z_images/IMG_6145.mov",
     "z_images/IMG_6143.jpg",
-    "z_images/IMG_6144.jpg",
-    "z_images/IMG_6141.jpg",
     "intro-to-physical-computing/electrical components.md",
     "intro-to-physical-computing/ohm's law.md",
-    "intro-to-physical-computing/ipc-experiments_week-1.md",
-    "z_images/Screenshot 2025-09-06 at 13.07.14.png",
-    "z_images/Screenshot 2025-09-06 at 13.06.07.png",
-    "z_images/IMG_6139 1.jpg",
-    "z_images/IMG_6139.jpg",
-    "z_images/Pasted image 20250906115657.png",
     "intro-to-physical-computing/ipc-class-1.md",
-    "intro-to-physical-computing/index.md",
-    "sarah's what-if mixer.md",
     "people/sarah rothberg.md",
     "people/cody frost.md",
     "applications/index.md",
     "hypercinema/index.md",
-    "intro-to-computational-media/index.md",
     "people/index.md",
-    "intro-to-computational-media/self portrait.md",
     "2025-09-05.md",
     "intro-to-computational-media/icm-experiments_week-1.md",
     "z_images/vid.mov",
-    "intro-to-computational-media/accuracy vs precision.md",
     "intro-to-computational-media/icm-class-1.md",
     "hypercinema/hypercinema-class-1.md",
     "people/emilia.md",
     "people/matt.md",
     "people/octavio.md",
     "cool places or studios to look at.md",
-    "intro-to-physical-computing/electricity.md",
-    "testing for racial-biases on thispersondoesnotexist.md",
-    "thispersondoesnotexist.md",
     "z_images/IMG_6127.mov",
-    "hypercinema",
-    "z_images/introduction-map-image_250824.heic",
-    "applications",
-    "intro-to-computational-media",
-    "z_images/IMG_6044.mp4",
-    "z_images/IMG_6095.heic",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"

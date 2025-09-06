@@ -2,7 +2,7 @@
 title: intro-to-computational-media
 date: 2025-09-03
 folderOrder: "2"
-draft: "true"
+draft: "false"
 ---
 taken by [[people/mimi yin|mimi yin]], in semester-1. 
 

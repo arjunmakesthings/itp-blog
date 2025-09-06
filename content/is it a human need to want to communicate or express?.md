@@ -5,7 +5,7 @@ tags:
   - lectures
   - research
 noteOrder:
-draft: "true"
+draft: "false"
 ---
 i read this, in [[applications/applications-class-1|applications-class-1]]. 
 
