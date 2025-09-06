@@ -4,7 +4,7 @@ tags:
   - thoughts
   - lectures
   - research
-noteOrder:
+noteOrder: "33"
 draft: "false"
 ---
 i read this, in [[applications/applications-class-1|applications-class-1]]. 
