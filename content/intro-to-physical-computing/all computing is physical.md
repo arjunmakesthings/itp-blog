@@ -6,7 +6,7 @@ tags:
 noteOrder: "3"
 draft: "false"
 ---
-tom said this in [[intro-to-physical-computing/ipc-class-1|ipc-class-1]]: 
+tom said this in [[intro-to-physical-computing/ipc_class-1|ipc_class-1]]: 
 
 > all computing is physical. 
 

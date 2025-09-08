@@ -5,7 +5,7 @@ tags:
 noteOrder: "31"
 draft: "false"
 ---
-[[people/mimi yin|mimi yin]]'s brief in [[intro-to-computational-media/icm-class-1|icm-class-1]] was: 
+[[people/mimi yin|mimi yin]]'s brief in [[intro-to-computational-media/icm_class-1|icm_class-1]] was: 
 
 > Create a <mark>"self" portrait</mark> using <mark>2D primitive shapes</mark>. Play with <mark>symmetry</mark> in your portrait. Shapes include – arc(), curve(), ellipse(), line(), point(), quad(), rect(), triangle() – and basic color functions – background(), colorMode(), fill(), noFill(), noStroke(), stroke(). Remember to use createCanvas() to specify the dimensions of your window and <mark>wrap all of your code inside a setup() function</mark>. Here's an example: [Zoog](https://editor.p5js.org/mimiyin/sketches/SiMFwzSGS)
 

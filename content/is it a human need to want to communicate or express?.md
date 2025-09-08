@@ -7,7 +7,7 @@ tags:
 noteOrder: "33"
 draft: "false"
 ---
-i read this, in [[applications/applications-class-1|applications-class-1]]. 
+i read this, in [[applications/applications_class-1|applications_class-1]]. 
 
 ![[z_images/Screenshot 2025-09-03 at 23.38.04.png]]
 
