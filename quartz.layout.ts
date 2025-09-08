@@ -113,7 +113,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer({
       title: "all:",
       folderDefaultState: "open",
-      useSavedState: false,
+      useSavedState: true,
       mapFn,
       filterFn,
       sortFn,
