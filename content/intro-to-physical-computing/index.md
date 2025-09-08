@@ -1,6 +1,6 @@
 ---
 title: intro-to-physical-computing
-date: 02 september 2025
+date: 2025-09-02
 folderOrder: "1"
 ---
 taken by [[people/tom igoe|tom igoe]] in semester-1.

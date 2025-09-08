@@ -1,6 +1,6 @@
 ---
 tags:
-date: 30 august 2025
+date: 2025-08-30
 draft: "true"
 ---
 # h1: 

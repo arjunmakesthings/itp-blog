@@ -1,5 +1,5 @@
 ---
-date: 01 september 2025
+date: 2025-09-01
 tags:
   - writings
 noteOrder: "1"

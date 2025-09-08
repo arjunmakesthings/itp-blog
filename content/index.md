@@ -1,7 +1,7 @@
 ---
 title: arjun's itp-blog
 tags:
-date: 01 september 2025
+date: 2025-09-01
 ---
 this is a weblog of my time as a graduate-student at the [interactive-telecommunications-programme](https://itp.nyu.edu/itp/) at new-york university. read more in [[philosophy, system & navigation]]. 
 

@@ -1,5 +1,5 @@
 ---
-date: 02 september 2025
+date: 2025-09-02
 tags:
   - lectures
 noteOrder: "2"
