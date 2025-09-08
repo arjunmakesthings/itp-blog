@@ -16,6 +16,6 @@ draft: "false"
 > 
 > from [itp personal statement](https://arjunmakesthings.github.io/notes/2024_itp-personal-statement/page.html), 2024.
 
-my work is inspired by wonder, and expressed via logic; making computation central to the themes of my work. i want to break everything — from (biologically) micro-interactions to complex sociological ones — into appreciable systems of logic that poke other people to wonder too. 
+my work is inspired by wonder, and expressed via logic; making computation central to the themes of my work. i want to break everything — from (biologically) micro-interactions to (sociologically) complex ones — into appreciable systems of logic that poke other people to wonder too. this act of reification helps me situate myself in the world — moving closer towards some version of absolute truth.
 
-personally, the act of reification through computation helps me situate myself in the world — moving me closer to some version of the truth.
+computation doesn't *apply* to my interest(s) — it is the medium through which my voice is carried to other people. 
