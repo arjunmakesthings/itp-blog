@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-fabrication/index.md",
+                "file": "recurse center.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "recurse center"
             }
           }
         ],
@@ -224,11 +224,12 @@
   },
   "active": "daf440e309462f1a",
   "lastOpenFiles": [
+    "10 bullets. by tom sachs.md",
+    "intro-to-fabrication/index.md",
     "intro-to-fabrication/fab_experiments_week-1.md",
     "intro-to-fabrication/theme for intro-to-fabrication.md",
     "z_images/ map.jpg",
     "intro-to-fabrication/fab_class-1.md",
-    "10 bullets. by tom sachs.md",
     "z_images/Screenshot 2025-09-08 at 14.08.18.png",
     "the lack of rigour in creatives.md",
     "recurse center.md",
@@ -240,7 +241,6 @@
     "intro-to-computational-media/icm_class-1.md",
     "intro-to-computational-media/icm_experiments_week-1.md",
     "hypercinema/hypercinema_class-1.md",
-    "intro-to-fabrication/index.md",
     "to do.md",
     "all design (technically) excludes people.md",
     "perfect flushing mechanism.md",
