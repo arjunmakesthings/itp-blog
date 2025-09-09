@@ -6,7 +6,7 @@ tags:
 noteOrder: "21"
 draft: "false"
 ---
-related to [[intro to physical computing]]. 
+related to [[intro-to-physical-computing]]. 
 
 useful to connect multiple components to a single power source. 
 

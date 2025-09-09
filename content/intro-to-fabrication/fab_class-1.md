@@ -9,6 +9,6 @@ draft: "false"
 - trying & failing is okay. you are free to bring a bunch of scrap that proves your failure (and, therefore, work). 
 - [[people/phil|phil]] said [[technology=magic]]. 
 - introduced us to [[recurse center]], and their [social rules](https://www.recurse.com/social-rules). interesting, but hard to enforce. 
-- showed us [[10 bullets. by tom sachs ]]. 
+- showed us [[intro-to-fabrication/10 bullets. by tom sachs]]. 
 - we create objects in the course, and all objects must fit a [[intro-to-fabrication/theme for intro-to-fabrication|theme for intro-to-fabrication]]. 
 

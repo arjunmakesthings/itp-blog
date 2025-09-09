@@ -4,5 +4,9 @@ tags:
 noteOrder:
 draft: "true"
 ---
-- readings from: https://itp.nyu.edu/physcomp/week-to-week-activity/#Week_1
-- write america, freedom post
+an always evolving list of things to do and read; hidden from the public website. 
+
+- [ ] readings for p-comp: https://itp.nyu.edu/physcomp/week-to-week-activity/#Week_1
+- [ ] write america, freedom post
+- [ ] read this: where the action is: the foundations of embodied interaction: https://archive.ph/JMA90; found in [[intro-to-physical-computing/no to noui, by timo arnall (against invisible design)|no to noui, by timo arnall (against invisible design)]]
+- [ ] 

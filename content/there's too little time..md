@@ -21,7 +21,7 @@ draft: "false"
 > 
 > from [tick, tick...boom!](www.springfieldspringfield.co.uk/movie_script.php?movie=tick-tick-boom)
 
-it's been a week into the program. i just read [[intro-to-physical-computing/a brief rant on the future of interaction design, bret victor|a brief rant on the future of interaction design, bret victor]]. people on the floor keep talking, laughing. some are working. i can't breathe. 
+it's been a week into the program. i just read [[intro-to-physical-computing/a brief rant on the future of interaction design, by bret victor|a brief rant on the future of interaction design, by bret victor]]. people on the floor keep talking, laughing. some are working. i can't breathe. 
 
 ---
 
