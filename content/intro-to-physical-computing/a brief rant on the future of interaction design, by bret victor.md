@@ -40,5 +40,15 @@ i think the reading was so inspiring, but so overwhelming. there's so much to le
 
 ---
 
+this article shared by [[people/mimi yin|mimi yin]] is also related: https://drive.google.com/drive/folders/1cPo3n0YWy2_Urc5XIwUewzmg34994w9T
+
+> The human hand is a marvel of nature. No other creature on Earth, not even our
+closest primate relatives, has hands structured quite like ours, capable of such
+precise grasping and manipulation.
+But we’re doing less intricate hands-on work than we used to. A lot of modern life
+involves simple movements, such as tapping screens and pushing buttons, and
+some experts believe our shift away from more complex hand activities could have
+consequences for how we think and feel.
+
 
 

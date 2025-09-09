@@ -125,3 +125,8 @@ moved on to making switches. i destroyed so many leds, that i felt bad, and reus
 ![[z_images/IMG_6151.mov]]
 <figcaption>"the fallen led-s"</figcaption>
 
+---
+
+after making things, and reading ([[intro-to-physical-computing/a brief rant on the future of interaction design, by bret victor|a brief rant on the future of interaction design, by bret victor]] & [[intro-to-physical-computing/no to noui, by timo arnall (against invisible design)|no to noui, by timo arnall (against invisible design)]]), i realise that displays are fundamentally arrays of leds on a screen. 
+
+we could've (and still could) do so much with basic electricity, controlling how different parts of a surface light up. 
