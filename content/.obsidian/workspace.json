@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recurse center.md",
+                "file": "intro-to-physical-computing/a brief rant on the future of interaction design, bret victor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "recurse center"
+              "title": "a brief rant on the future of interaction design, bret victor"
             }
           }
         ],
@@ -224,6 +224,10 @@
   },
   "active": "daf440e309462f1a",
   "lastOpenFiles": [
+    "z_images/Pasted image 20250909104735.png",
+    "z_images/Pasted image 20250909104050.png",
+    "recurse center.md",
+    "intro-to-physical-computing/a brief rant on the future of interaction design, bret victor.md",
     "10 bullets. by tom sachs.md",
     "intro-to-fabrication/index.md",
     "intro-to-fabrication/fab_experiments_week-1.md",
@@ -232,7 +236,6 @@
     "intro-to-fabrication/fab_class-1.md",
     "z_images/Screenshot 2025-09-08 at 14.08.18.png",
     "the lack of rigour in creatives.md",
-    "recurse center.md",
     "cool places or studios to look at.md",
     "technology=magic.md",
     "applications/applications_class-1.md",
@@ -250,8 +253,6 @@
     "intro-to-computational-media/accuracy vs precision.md",
     "intro-to-computational-media/index.md",
     "intro-to-computational-media/self-portrait.md",
-    "intro-to-computational-media/how computation applies to my interests.md",
-    "intro-to-physical-computing/electricity.md",
     "intro-to-fabrication/Untitled.base",
     "intro-to-fabrication",
     "z_images/Screenshot 2025-09-06 at 18.36.16.png",
@@ -266,7 +267,6 @@
     "z_images/Screenshot 2025-09-06 at 17.54.52.png",
     "z_images/Screen Recording 2025-09-06 at 17.53.01.mov",
     "z_images/Screenshot 2025-09-06 at 17.53.45.png",
-    "z_images/Screenshot 2025-09-06 at 17.41.50.png",
     "z_images/IMG_6151.mov",
     "z_images/IMG_6147.mov",
     "z_images/IMG_6145.mov",
