@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "applications/finite & infinite games.md",
+                "file": "hypercinema/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "finite & infinite games"
+              "title": "index"
             }
           }
         ]
@@ -195,8 +195,10 @@
   },
   "active": "959184cbbccb822d",
   "lastOpenFiles": [
-    "intro-to-physical-computing/ipc_experiments_week-1.md",
+    "intro-to-computational-media/icm_class-2.md",
+    "z_images/Screenshot 2025-09-10 at 13.56.38.png",
     "applications/finite & infinite games.md",
+    "intro-to-physical-computing/ipc_experiments_week-1.md",
     "intro-to-physical-computing/ipc_class-1.md",
     "intro-to-physical-computing/a brief rant on the future of interaction design, by bret victor.md",
     "intro-to-physical-computing/index.md",
@@ -220,8 +222,6 @@
     "all design (technically) excludes people.md",
     "never make products that try to assume what human beings want to do.md",
     "intro-to-physical-computing/parallel or series-based circuits.md",
-    "intro-to-physical-computing/explicit vs implicit machine interaction.md",
-    "intro-to-physical-computing/how a breadboard works.md",
     "z_images/Pasted image 20250909104735.png",
     "z_images/Pasted image 20250909104050.png",
     "z_images/ map.jpg",
@@ -236,7 +236,6 @@
     "z_images/moving.mov",
     "z_images/vid 1.mov",
     "z_images/Screen Recording 2025-09-06 at 18.22.14.mov",
-    "z_images/Screenshot 2025-09-06 at 18.19.03.png",
     "z_images/Screen Recording 2025-09-06 at 17.53.01.mov",
     "z_images/IMG_6151.mov",
     "z_images/IMG_6147.mov",
