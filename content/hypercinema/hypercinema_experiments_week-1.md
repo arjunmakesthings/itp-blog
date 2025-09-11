@@ -24,3 +24,8 @@ emilia & i both recorded sounds. i couldn't do so with the zoom recorder; felt a
 
 we then worked together to simulate scenarios (such as running behind her, bumping into her, et-cetera) to record the other sounds. 
 
+---
+
+learnt about stacking sounds via [this](https://transom.org/2018/sound-design-haley-shaw/) article, and heard *[flurry](https://thehabitat.bandcamp.com/album/the-habitat-soundtrack)* by haley shaw.
+
+
