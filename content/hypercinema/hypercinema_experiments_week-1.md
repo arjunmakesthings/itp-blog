@@ -26,6 +26,6 @@ we then worked together to simulate scenarios (such as running behind her, bumpi
 
 ---
 
-learnt about stacking sounds via [this](https://transom.org/2018/sound-design-haley-shaw/) article, and heard *[flurry](https://thehabitat.bandcamp.com/album/the-habitat-soundtrack)* by haley shaw.
+learnt about stacking sounds via [this](https://transom.org/2018/sound-design-haley-shaw/) article, and heard *[flurry](https://thehabitat.bandcamp.com/album/the-habitat-soundtrack)* by haley shaw. liked the [album](https://thehabitat.bandcamp.com/album/the-habitat-soundtrack) actually. 
 
 
