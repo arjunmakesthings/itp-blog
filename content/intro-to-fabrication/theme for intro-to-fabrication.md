@@ -5,13 +5,13 @@ tags:
 noteOrder: "39"
 draft: "false"
 ---
+[[intro-to-fabrication]] requires each student to think of a theme. 
+
 ![[z_images/ map.jpg]]
 
-fabrication is a class about making things. 
+fabrication is a class about making things. for me, it's about learning to confidently convert abstract (thoughts) into concrete (form(s)).  
 
-for me, it's about converting abstract (thoughts) into concrete (form(s)). 
-
-my theme is: (objects that) *feel like me*.
+the most abstract thing that i could think of was myself, and i'd like to use the process of making to better understand myself. my theme is: (objects that) *feel* like me.
 
 ---
 
@@ -21,5 +21,5 @@ i liked this definition about fabrication too:
 > 
 > from [cambridge dictionary (online)](https://dictionary.cambridge.org/dictionary/english/fabrication). 
 
-an alternate theme could be to produce *things that aren't what they seem*. however, i like the theme i have right now. 
+an alternate theme could be to produce *things that aren't what they seem*. however, i'll stick with the theme i have now. 
 

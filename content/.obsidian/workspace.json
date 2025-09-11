@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hypercinema/index.md",
+                "file": "intro-to-fabrication/theme for intro-to-fabrication.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "theme for intro-to-fabrication"
             }
           }
         ]
@@ -195,9 +195,14 @@
   },
   "active": "959184cbbccb822d",
   "lastOpenFiles": [
+    "intro-to-fabrication/fab_class-1.md",
+    "intro-to-fabrication/index.md",
+    "intro-to-fabrication/theme for intro-to-fabrication.md",
+    "applications/applications_class-1.md",
+    "applications/finite & infinite games.md",
+    "hypercinema/index.md",
     "intro-to-computational-media/icm_class-2.md",
     "z_images/Screenshot 2025-09-10 at 13.56.38.png",
-    "applications/finite & infinite games.md",
     "intro-to-physical-computing/ipc_experiments_week-1.md",
     "intro-to-physical-computing/ipc_class-1.md",
     "intro-to-physical-computing/a brief rant on the future of interaction design, by bret victor.md",
@@ -218,10 +223,6 @@
     "is it a human need to want to communicate or express?.md",
     "index.md",
     "sarah's what-if mixer.md",
-    "testing for racial-biases on thispersondoesnotexist.md",
-    "all design (technically) excludes people.md",
-    "never make products that try to assume what human beings want to do.md",
-    "intro-to-physical-computing/parallel or series-based circuits.md",
     "z_images/Pasted image 20250909104735.png",
     "z_images/Pasted image 20250909104050.png",
     "z_images/ map.jpg",
