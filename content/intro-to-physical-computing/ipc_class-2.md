@@ -17,4 +17,21 @@ learnt how to program a microcontroller.
 	- a-pin (analog): takes a range of values. 
 	- d-pin (digital): takes binary (0,1 | HIGH, LOW)
 - arduino code needs to be complied (txt to binary). 
-- 
+
+---
+
+learnt how to program a microcontroller. 
+
+![[z_images/IMG_6177.jpg]] 
+
+---
+
+[[people/tom igoe|tom igoe]] also showed physical components from a big computing system: 
+
+![[z_images/IMG_6175.jpg]]
+
+![[z_images/IMG_6176.jpg]]
+
+i realise that [[making computing visible]] is not about making every single thing about the computer visible, but choosing what is important for a person to see instead of it being magically done on the computer. 
+
+is the algorithm important? is the cooling important? are the wires important? is electricity important? is everything important? 

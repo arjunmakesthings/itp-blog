@@ -1,6 +1,6 @@
 ---
 title: people
-date: 02 september 2025
+date: 2025-09-02
 folderOrder: "0"
 draft: "false"
 ---

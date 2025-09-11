@@ -73,8 +73,47 @@ permit voltage to flow in one direction, and block it in another. leds are a typ
 
 ---
 # transistors: 
+act as electronic switches. when a small voltage is put to the base and emitter, it allows a larger current and voltage to flow from the collector to the emitter. 
 
- 
+![[z_images/Pasted image 20250911093921.png]]
+
+look very similar to voltage regulators. 
+
+---
+# microcontrollerS: 
+a simple processor (see below for definition) that can do only one task, like listening to sensors. 
+
+> Other devices, like light, heat, or motion sensors, motors, lights, our sound devices, are attached to these pins to allow the microcontroller to be sensitive to the world and to express itself.
+> 
+> from the [itp-physcomp-page](https://itp.nyu.edu/physcomp/lessons/microcontrollers-the-basics/).
+
+
+Generally, the term microcontroller refers to [[terms & concepts/firmware|firmware]]-only processor. 
+
+from: https://itp.nyu.edu/physcomp/lessons/microcontrollers-the-basics/
+
+---
+# computer  / processor: 
+anything that can run a program. 
+
+---
+# development boards: 
+
+a processor needs a bunch of other components, which is pre-packaged into a development board. 
+
+> A processor, whether microcontroller or multimedia processor, can’t operate alone. It needs support components. For a microcontoller, you need at least a voltage regulator and usually an external clock called a crystal. You might also add circuitry to protect it in case it’s powered wrong, or in case the wrong voltage and current are plugged into the IO pins. You might include communications interfaces as well. This extra circuitry determines the base cost of a development board like the Arduino (Figure 5) or the Raspberry Pi (Figure 6).
+
+![[z_images/Screenshot 2025-09-11 at 10.23.43.png]]
+
+---
+# activity boards: 
+Activity boards contain a pre-programmed microcontroller and some sensors and actuators along with a communications interface and a communications protocol so that you can interface the board and its sensors and actuators with software running on your personal computer. Boards like the MaKey MaKey (Figure 7) or the PicoBoard (Figure 8, now retired) are activity boards. Activity boards generally can’t operate on their own without being connected to a personal computer, while development boards can.
+
+![[z_images/Pasted image 20250911102609.png]]
+
+https://itp.nyu.edu/physcomp/lessons/microcontrollers-the-basics/
+
+---
 
 
 ---

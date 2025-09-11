@@ -1,0 +1,3 @@
+Any processor that runs an operating system will run a Basic Input-Output System, or BIOS as well. A BIOS may be loaded onto a processor using a bootloader. A BIOS runs before, or instead of, the operating system. It can control any display device attached to the processor, and any storage attached (such as a disk drive), and any input device attached as well.
+
+https://itp.nyu.edu/physcomp/lessons/microcontrollers-the-basics/
