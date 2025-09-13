@@ -41,3 +41,50 @@ used the dremmel to make the circles squares.
 ![[z_images/IMG_6184.jpg]]
 <figcaption>this method to clamp the wood, and then clamp the clamp was shown by someone who works at the shop. i don't know his name yet.</figcaption>
 
+made a boo-boo by not considering that a cube has adjacent sides, and that holes must account for that. [[people/prachi|prachi]] was right when she said i can't think in 3-dimensions. 
+
+also cut the wrong size for the lid. 
+
+![[z_images/IMG_6202.jpg]]
+
+decided to start again, after a conversation with [[ian]]. 
+
+---
+
+first looked at the hinges to calculate depths required. 
+
+![[z_images/IMG_6206.jpg]]
+
+![[z_images/IMG_6207.jpg]]
+
+drew it all out instead of doing it in my brain. 
+
+![[z_images/IMG_6209.jpg]]
+
+realised it's better to make sure that the saw is on the outside of the line i want to cut at, and not at the line. <mark>extra surface can always be sanded down, but more surface cannot be added</mark>. 
+
+![[z_images/IMG_6203.jpg]]
+
+[[people/ian|ian]] showed me how to create a sink for the screw, so that the screw doesn't crack the wood. used his personal drill-bit. 
+
+![[z_images/IMG_6210.jpg]]
+
+dremelled the inside, with more caution & with more time. 
+
+![[z_images/IMG_6211.jpg]]
+
+attached the hinges wrong, but liked it. kept it. it's <mark>playful</mark>. 
+
+![[z_images/IMG_6212.mov]]
+
+---
+realised that the course will make me make 7 projects. in line with my [[intro-to-fabrication/theme for intro-to-fabrication|theme for intro-to-fabrication]], i stuck a small map in my room which shall help me derive words for and from each object, to better understand myself. 
+
+![[z_images/IMG_6218.jpg]]
+
+for the box: 
+
+![[z_images/IMG_6219.jpg]]
+
+---
+realised that the tools & material we work with have some amount of control over our outcome. we mustn't fight that — it's never going to turn out *exactly* as you envisioned it. it shouldn't; the things you work with *should* have some control. 

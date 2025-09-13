@@ -1,0 +1,1 @@
+professor at itp. i learnt how to code via his [videos](https://www.youtube.com/@TheCodingTrain) on the internet, and sent him a thank-you-email after my [undergraduate thesis](https://arjunmakesthings.github.io/projects/2022_in-between-life-and-death/page.html). 

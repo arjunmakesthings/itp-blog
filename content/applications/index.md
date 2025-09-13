@@ -14,6 +14,11 @@ it was mandatory. however, i like the premise of the class:
 > 
 > from the [syllabus](https://sharonleedelacruz.notion.site/APPLICATIONS-2025-262e22880bc3808cafccf7945441aa52) page.
 
+### update on 250913: 
+i currently don't believe that the course sets students up to *engage in a critical dialogue with leaders*. the fact that the course is *designed* as a 116-student lecture-format, with the additional sprinkle of 'q & a-s' is not enough to foster critical dialogue; especially when dialogue is supposed to be two-way. 
+
+i believe there are better ways to execute this class, and more honestly meet the mission. 
+
 ---
 # resources: 
 - [syllabus](https://sharonleedelacruz.notion.site/APPLICATIONS-2025-262e22880bc3808cafccf7945441aa52). 

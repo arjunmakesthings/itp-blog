@@ -6,7 +6,7 @@ tags:
 noteOrder: "47"
 draft: "false"
 ---
-[karthik](https://www.linkedin.com/in/kartpat/overlay/contact-info/?profileId=ACoAABeRNisBiWHdDR2bDxZ-XWWI4tSguzYrsf4) gave a talk about his work at new-york times with technology-based news-storytelling. his talk was inspiring. 
+[karthik](https://www.linkedin.com/in/kartpat/overlay/contact-info/?profileId=ACoAABeRNisBiWHdDR2bDxZ-XWWI4tSguzYrsf4) gave a talk about his work at new-york times with technology-based news-storytelling in [[applications/applications_class-2|applications_class-2]]. his talk was inspiring. 
 
 # notes: 
 - says the goal for this team is to <mark>make complex information easier to consume</mark>. however, when probed, he did not answer how they test so [^1] . 
