@@ -80,8 +80,9 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       title: "all:",
-      folderDefaultState: "open",
-      useSavedState: false,
+      folderDefaultState: "collapsed",
+      folderClickBehavior: "link",
+      useSavedState: true,
       mapFn,
       filterFn,
       sortFn,
@@ -112,7 +113,8 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer({
       title: "all:",
-      folderDefaultState: "open",
+      folderDefaultState: "collapsed",
+      folderClickBehavior: "link",
       useSavedState: true,
       mapFn,
       filterFn,
