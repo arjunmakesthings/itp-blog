@@ -733,7 +733,9 @@ void generate_sequence(int seq[], int sequence_length) {
 
 ```
 
+i spent a long time on this, but it did not work. i'll book some time with a resident — i know that the problem is just in the code (because i'm not familiar with c syntax). but it's okay. 
 
+i will focus on other things till tuesday. 
 
 ---
 
