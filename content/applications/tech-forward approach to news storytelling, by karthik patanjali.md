@@ -25,3 +25,4 @@ he made me re-believe in rigour ([[the lack of rigour in creatives]]), and i und
 just keep making (and reflecting on what you made). 
 
 [^1]: he said they do a lot of internal tests, and that the internal feedback (plus reader comments) are positive. i wonder whether that's a good method to gauge success, and whether this sort of work *is*, in-fact, helping readers. 
+

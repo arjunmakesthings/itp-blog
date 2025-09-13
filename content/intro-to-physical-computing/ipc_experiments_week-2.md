@@ -349,6 +349,393 @@ line 80
 ---
 on the train ride back home, i figured out a simpler way to generate a new sequence every time the play gets the right answer. it is not mathematically pure, but probabilistically accurate. 
 
+### 250913_1837: 
+failing to generate a new sequence, and running into programming problems. 
+
+``` cpp
+// memory-game; september, 2025.
+
+// the idea is to play a sequence through a program. the person is supposed to replicate the sequence. if they fail to do so accurately, they lose. else, they win.
+// i might add sound too.
+
+// i have buttons & led-s to manipulate, and a program to keep track of them.
+
+int buttons[] = { 2, 3, 4, 5 };   //pin-numbers of buttons.
+int leds[] = { 21, 20, 19, 18 };  //pin-numbers of leds.
+
+//initialise readable name variables.
+int blue_button = buttons[0];
+int yellow_button = buttons[1];
+int red_button = buttons[2];
+int green_button = buttons[3];
+
+int blue_button_value, yellow_button_value, red_button_value, green_button_value;
+
+int led_1 = leds[0];
+int led_2 = leds[1];
+int led_3 = leds[2];
+int led_4 = leds[3];
+
+int seq[] = { 0, 1, 2, 3 };  //this is the base sequence, which is just the leds in sequence.
+
+int led_length = 4;  //number of leds.
+
+void setup() {
+  Serial.begin(9600);  // start serial communication at 9600 baud rate
+
+  //set pinModes:
+
+  for (int i = 0; i < 4; i++) {  //christina: i have to use a number here, because c++ is a lower level language.
+    pinMode(buttons[i], INPUT);
+    pinMode(leds[i], OUTPUT);
+  };
+
+  check();  //always perform a check when the program starts.
+}
+
+//function to check if leds & switches are working. essentially a "boot-animation".
+void check() {
+  //check leds:
+  for (int i = 0; i < led_length; i++) {
+    digitalWrite(leds[i], HIGH);
+    delay(500);
+    digitalWrite(leds[i], LOW);
+    delay(500);
+  }
+}
+
+//this is essentially the game.
+void loop() {
+  //calculate the size of the sequence array:
+  int sequence_length = sizeof(seq) / sizeof(seq[0]);
+
+  //then, generate a random sequence of leds to play out:
+int newArra [] =   generate_sequence(seq, sequence_length);
+
+  //show the sequence: 
+  for (int i = 0; i<sequence_length; i++){
+    digitalWrite(buttons[i], HIGH); //turn on
+    delay (500); 
+    digitalWrite(buttons[i], LOW); //turn off.
+  }
+
+  //check what the player enters. 
+  int player_sequence [sequence_length] = {}; 
+
+  
+  int player_sequence_length = sizeof(player_sequence) / sizeof(player_sequence[0]);
+  
+
+  if (playerSequence)
+  if (blue_button_value==HIGH){
+
+  }
+  //always read button-presses:
+  blue_button_value = digitalRead(buttons[0]);
+  yellow_button_value = digitalRead(buttons[1]);
+  red_button_value = digitalRead(buttons[2]);
+  green_button_value = digitalRead(buttons[3]);
+}
+
+//for the random sequence, we'll take an old sequence, put random numbers between 0 and 3.
+//then, if three concurrent numbers are the same, we'll change both of them. this does not guarantee that the numbers won't repeat, but it's probabalistically rare.
+
+void generate_sequence(int seq[], int sequence_length) {
+
+  //whatever the sequence length was, add 2 to it.
+  int new_sequence_length = sequence_length + 2;
+
+  Serial.println(new_sequence_length); 
+
+  //initialise a new sequence.
+  int new_sequence[new_sequence_length];
+
+  //assign a random pattern of indices to the new sequence:
+  for (int i = 0; i < new_sequence_length; i++) {
+    //pick a random number between 0 and the number of leds.
+    int n = random(0, led_length);
+    new_sequence[i] = n;
+
+    //check for three consecutive numbers being the same. while so, keep changing them until they aren't.
+    //i can tell that this is not the most efficient way to do this. but, it's fine. 
+    //enter the loop only if new_sequence>3 elements.
+    if (new_sequence_length > 3) {
+      // while (new_sequence[i] == new_sequence[i - 1] == new_sequence[i + 1]) {
+      while (new_sequence[i] == new_sequence[i - 1] && new_sequence[i] == new_sequence[i - 2]) {
+
+        int n_minus_one = random(0, led_length);
+        int n_minus_two = random(0, led_length);
+
+        new_sequence[i - 1] = n_minus_one;
+        new_sequence[i - 2] = n_minus_one;
+      }
+    }
+    //else in both cases:
+
+    //push the new numbers into the old array.
+    return new_sequence[i];
+  }
+}
+
+//christina's suggestion, but i decided against using it / wasn't able to implement it well .
+// void generate_sequence(int seq[], int sequence_length) {
+//   //decide new sequence length:
+//   int new_sequence_length = sequence_length + (sizeof(seq[0]) * 2);  //always add 2 to the previous number.
+
+//   //declare a new sequence, of the length decided above.
+//   int new_sequence[new_sequence_length];
+//   int old_sequence[sequence_length];
+
+//   //make last played sequence the old sequence:
+//   for (int i = 0; i < sequence_length; i++) {
+//     old_sequence[i] = { seq[i] };
+//   }
+
+//   for (int i = 0; i < new_sequence_length; i++) {
+//     int count = 0;
+
+//     //for as many elements in old sequence, use old sequence:
+//     while (count < sequence_length) {
+//       int n = random(0, sequence_length);
+//       while (old_sequence[n] == 99) {
+//         int n = random(0, sequence_length);
+//       }
+//       new_sequence[i] = old_sequence[n];
+//       old_sequence[n] = 99;
+//       count++;
+//     }
+//     seq[i] = new_sequence[i];
+//   }
+// }
+
+```
+
+[[william]] helped me understand how to push objects into a new array. 
+
+![[z_images/IMG_6225.jpg]]
+
+so, i wanted to refactor my code. however, at this point, i really want this to work. so, i'm going to think through the rest of the steps, and then step back in to change the size of the array. 
+
+this made sense in my head, but the code is not working. 
+
+``` cpp
+// memory-game; september, 2025.
+
+// the idea is to play a sequence through a program. the person is supposed to replicate the sequence. if they fail to do so accurately, they lose. else, they win.
+// i might add sound too.
+
+// i have buttons & led-s to manipulate, and a program to keep track of them.
+
+int buttons[] = { 2, 3, 4, 5 };   //pin-numbers of buttons.
+int leds[] = { 21, 20, 19, 18 };  //pin-numbers of leds.
+
+//initialise readable name variables.
+int blue_button = buttons[0];
+int yellow_button = buttons[1];
+int red_button = buttons[2];
+int green_button = buttons[3];
+
+int blue_button_value, yellow_button_value, red_button_value, green_button_value;
+
+int led_1 = leds[0];
+int led_2 = leds[1];
+int led_3 = leds[2];
+int led_4 = leds[3];
+
+int red_led = 6; 
+int green_led = 17; 
+
+int seq[] = { 0, 1, 2, 3 };      //this is the base sequence, which is just the leds in sequence.
+int played_sequence[0];          //generate a played array.
+int played_sequence_length = 0;  //initialise a length of zero.
+
+int led_length = 4;  //number of leds.
+
+bool player_input = false;
+
+void setup() {
+  Serial.begin(9600);  // start serial communication at 9600 baud rate
+
+  //set pinModes:
+
+  for (int i = 0; i < 4; i++) {  //christina: i have to use a number here, because c++ is a lower level language.
+    pinMode(buttons[i], INPUT);
+    pinMode(leds[i], OUTPUT);
+  };
+
+  check();  //always perform a check when the program starts.
+}
+
+//function to check if leds & switches are working. essentially a "boot-animation".
+void check() {
+  //check leds:
+  for (int i = 0; i < led_length; i++) {
+    digitalWrite(leds[i], HIGH);
+    delay(500);
+    digitalWrite(leds[i], LOW);
+    delay(500);
+  }
+}
+
+//this is essentially the game.
+void loop() {
+  //calculate the size of the sequence array:
+  int sequence_length = sizeof(seq) / sizeof(seq[0]);
+
+  if (player_input == false) {
+    //then, generate a random sequence of leds to play out:
+    generate_sequence(seq, sequence_length);
+
+    //show the sequence:
+    for (int i = 0; i < sequence_length; i++) {
+      digitalWrite(leds[i], HIGH);  //turn on
+      delay(500);
+      digitalWrite(leds[i], LOW);  //turn off.
+    }
+
+    delay(5000);  //delay for 5 seconds, then make a new sequence. this means the device is on, but the player didn't pay attention.
+  }
+  delay(100);  //arbitrary delay of 100ms.
+               //  int played_sequence_length = sizeof(played_sequence) / sizeof(played_sequence[0]);
+  player_input = true;
+
+  if (player_input == true) {
+    blue_button_value = digitalRead(buttons[0]);
+    yellow_button_value = digitalRead(buttons[1]);
+    red_button_value = digitalRead(buttons[2]);
+    green_button_value = digitalRead(buttons[3]);
+
+    //keep track of the length:
+    int played_sequence_length = sizeof(played_sequence) / sizeof(played_sequence[0]);
+
+    if (played_sequence_length < sequence_length + 1) {
+      //if inputted numbers are lesser than expected, keep track.
+      if (blue_button_value == HIGH) {
+        insert_at_end(played_sequence, &played_sequence_length, blue_button);
+        Serial.println("this works"); 
+      }
+      if (yellow_button_value == HIGH) {
+        insert_at_end(played_sequence, &played_sequence_length, yellow_button);
+      }
+      if (green_button_value == HIGH) {
+        insert_at_end(played_sequence, &played_sequence_length, green_button);
+      }
+      if (blue_button_value == HIGH) {
+        insert_at_end(played_sequence, &played_sequence_length, blue_button);
+      }
+    } else {
+      //now evaluate:
+      bool win = false;
+      for (int i = 0; i < sequence_length; i++) {
+        if (played_sequence[i] == seq[i]) {
+          //correct answer:
+          win = true;
+        } else {
+          //wrong answer:
+          win = false;
+        }
+      }
+
+      if (win==true){
+        // all true: 
+        digitalWrite (green_led, HIGH); 
+        delay (300); 
+        digitalWrite (green_led, LOW); 
+      }else{
+        //failed.
+        digitalWrite (red_led, HIGH); 
+        delay (300); 
+        digitalWrite (red_led, LOW); 
+      }
+      player_input = false;  //exit the loop, and start again.
+    }
+  }
+  delay(500);  //small delay before next level.
+}
+
+void insert_at_end(int arr[], int *n, int val) {
+
+  // Insert val at last
+  arr[*n] = val;
+
+  // Increase the current size
+  (*n)++;
+}
+
+//for the random sequence, we'll take an old sequence, put random numbers between 0 and 3.
+//then, if three concurrent numbers are the same, we'll change both of them. this does not guarantee that the numbers won't repeat, but it's probabalistically rare.
+
+void generate_sequence(int seq[], int sequence_length) {
+
+  //whatever the sequence length was, add 2 to it.
+  int new_sequence_length = sequence_length + 2;
+
+  //initialise a new sequence.
+  int new_sequence[new_sequence_length];
+
+  //assign a random pattern of indices to the new sequence:
+  for (int i = 0; i < new_sequence_length; i++) {
+    //pick a random number between 0 and the number of leds.
+    int n = random(0, led_length);
+    new_sequence[i] = n;
+
+    //check for three consecutive numbers being the same. while so, keep changing them until they aren't.
+    //i can tell that this is not the most efficient way to do this. but, it's fine.
+    //enter the loop only if new_sequence>3 elements.
+    if (new_sequence_length > 3) {
+      // while (new_sequence[i] == new_sequence[i - 1] == new_sequence[i + 1]) {
+      while (new_sequence[i] == new_sequence[i - 1] && new_sequence[i] == new_sequence[i - 2]) {
+
+        int n_minus_one = random(0, led_length);
+        int n_minus_two = random(0, led_length);
+
+        new_sequence[i - 1] = n_minus_one;
+        new_sequence[i - 2] = n_minus_two;
+      }
+    }
+    //else in both cases:
+
+    //push the new numbers into the old array.
+    seq[i] = new_sequence[i];
+  }
+}
+
+//christina's suggestion, but i decided against using it / wasn't able to implement it well .
+// void generate_sequence(int seq[], int sequence_length) {
+//   //decide new sequence length:
+//   int new_sequence_length = sequence_length + (sizeof(seq[0]) * 2);  //always add 2 to the previous number.
+
+//   //declare a new sequence, of the length decided above.
+//   int new_sequence[new_sequence_length];
+//   int old_sequence[sequence_length];
+
+//   //make last played sequence the old sequence:
+//   for (int i = 0; i < sequence_length; i++) {
+//     old_sequence[i] = { seq[i] };
+//   }
+
+//   for (int i = 0; i < new_sequence_length; i++) {
+//     int count = 0;
+
+//     //for as many elements in old sequence, use old sequence:
+//     while (count < sequence_length) {
+//       int n = random(0, sequence_length);
+//       while (old_sequence[n] == 99) {
+//         int n = random(0, sequence_length);
+//       }
+//       new_sequence[i] = old_sequence[n];
+//       old_sequence[n] = 99;
+//       count++;
+//     }
+//     seq[i] = new_sequence[i];
+//   }
+// }
+
+```
+
+
+
 ---
 
 i also realised during this week that <mark>helping other people debug soldifies my understanding</mark> of the medium. this same line of thought carries forward in teaching too. perhaps this is why [[people/tom igoe|tom igoe]] still teaches intro-to-physical-computing. and maybe because he loves it. 
+

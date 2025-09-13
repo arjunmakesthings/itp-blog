@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "applications/applications_assignment-1.md",
+                "file": "applications/tech-forward approach to news storytelling, by karthik patanjali.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "applications_assignment-1"
+              "title": "tech-forward approach to news storytelling, by karthik patanjali"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -223,18 +221,21 @@
       "note-id:Open side panel": false
     }
   },
-  "active": "7dd934db49838c3b",
+  "active": "ce771d5f4f8a9ce9",
   "lastOpenFiles": [
-    "applications/applications_class-2.md",
-    "applications/applications_assignment-1.md",
+    "z_images/IMG_6225.jpg",
+    "people/william.md",
+    "intro-to-physical-computing/ipc_experiments_week-2.md",
     "applications/tech-forward approach to news storytelling, by karthik patanjali.md",
+    "people/mimi yin.md",
+    "applications/applications_assignment-1.md",
+    "applications/applications_class-2.md",
     "applications/index.md",
     "applications/Untitled.md",
     "applications/note about a computer- keyboard.md",
     "z_images/IMG_6221 1.jpg",
     "z_images/IMG_6221.jpg",
     "what is technology?.md",
-    "intro-to-physical-computing/ipc_experiments_week-2.md",
     "z_images/IMG_6220.jpg",
     "inferiority, narcissism & the time i spend working.md",
     "work, by zimoun.md",
@@ -260,9 +261,6 @@
     "people/daniel shiffman.md",
     "mercer labs.md",
     "conversation with tanika williams.md",
-    "people/dan-o.md",
-    "people/tanika williams.md",
-    "people/nausheen.md",
     "z_images/IMG_6193.mov",
     "terms & concepts",
     "z_images/quiz.pdf",
