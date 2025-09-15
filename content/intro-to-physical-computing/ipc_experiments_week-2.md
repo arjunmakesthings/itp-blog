@@ -738,6 +738,249 @@ i spent a long time on this, but it did not work. i'll book some time with a res
 i will focus on other things till tuesday. 
 
 ---
+i couldn't. it kept me up at night. 
 
-i also realised during this week that <mark>helping other people debug soldifies my understanding</mark> of the medium. this same line of thought carries forward in teaching too. perhaps this is why [[people/tom igoe|tom igoe]] still teaches intro-to-physical-computing. and maybe because he loves it. 
+[[people/yuxin|yuxin]] helped, by offering to work on it for an hour. she 'vibe-coded', but wrote a piece that i couldn't understand. 
+
+``` cpp
+// 3-step RGB memory game (robust input, debug prints)
+// Buttons: {2,3,4,5}  -> BLUE, YELLOW, RED, GREEN
+// Game LEDs: {21,20,19,18} -> BLUE, YELLOW, RED, GREEN
+// Status LEDs: red_led=6 (fail), green_led=17 (success)
+// Sequence uses only BLUE(0), RED(2), GREEN(3). Yellow(1) is ignored for input.
+
+
+const byte buttons[4] = {2, 3, 4, 5};
+const byte leds[4]    = {21, 20, 19, 18};
+const byte red_led    = 6;
+const byte green_led  = 17;
+
+
+const char* NAMES[4]  = {"BLUE","YELLOW","RED","GREEN"};
+
+
+const byte SEQ_LEN = 3;
+const unsigned long STEP_ON_MS   = 400;
+const unsigned long STEP_OFF_MS  = 180;
+const unsigned long DEBOUNCE_MS  = 20;    // slightly larger for stability
+
+
+inline bool isAllowed(byte idx){ return (idx == 0 || idx == 2 || idx == 3); } // BLUE, RED, GREEN
+
+
+byte seq[SEQ_LEN];
+byte user[SEQ_LEN];
+byte inputPos = 0;
+
+
+// Non-blocking edge-detection state (INPUT_PULLUP: idle HIGH, pressed LOW)
+bool          armed[4] = {true, true, true, true};  // true = ready to fire on next LOW
+int           lastRead[4] = {HIGH, HIGH, HIGH, HIGH};
+unsigned long lastT[4] = {0,0,0,0};
+
+
+enum class Phase { Show, Input, Evaluate };
+Phase phase = Phase::Show;
+
+
+void setup() {
+ Serial.begin(115200);
+ #if defined(ARDUINO_ARCH_SAMD) || defined(USBCON)
+   unsigned long t0 = millis(); while (!Serial && millis()-t0 < 1500) {} // brief wait on native-USB boards
+ #endif
+
+
+ for (byte i=0;i<4;i++){
+   pinMode(buttons[i], INPUT_PULLUP);  // wire each button to GND
+   pinMode(leds[i], OUTPUT);
+   digitalWrite(leds[i], LOW);
+   lastRead[i] = digitalRead(buttons[i]); // initialize debouncer baseline
+ }
+
+
+ pinMode(red_led, OUTPUT);   digitalWrite(red_led, LOW);
+ pinMode(green_led, OUTPUT); digitalWrite(green_led, LOW);
+
+
+ randomSeed(analogRead(A0) ^ micros());
+
+
+ makeNewSequence();          // create the first round's sequence
+}
+
+
+void loop() {
+ switch (phase) {
+   case Phase::Show: {
+     printSequence();
+     playSequence();
+     prepInputState();       // <-- critical: prevents phantom first press
+     inputPos = 0;
+     phase = Phase::Input;
+   } break;
+
+
+   case Phase::Input: {
+     int p = readPressEventNonBlocking();       // -1 or 0..3
+     if (p >= 0) {
+       if (isAllowed((byte)p)) {
+         user[inputPos] = (byte)p;
+         Serial.print("DEBUG: Press #"); Serial.print(inputPos+1);
+         Serial.print(" = "); Serial.println(NAMES[user[inputPos]]);
+         inputPos++;
+       } else {
+         Serial.println("DEBUG: Ignored YELLOW press.");
+       }
+     }
+     if (inputPos >= SEQ_LEN) {
+       phase = Phase::Evaluate;
+     }
+   } break;
+
+
+   case Phase::Evaluate: {
+     // Compare
+     bool ok = true;
+     for (byte i=0;i<SEQ_LEN;i++){
+       if (user[i] != seq[i]) { ok = false; break; }
+     }
+
+
+     Serial.print("Your input: [");
+     for (byte i=0;i<SEQ_LEN;i++){ Serial.print(NAMES[user[i]]); if (i<SEQ_LEN-1) Serial.print(", "); }
+     Serial.println("]");
+
+
+     if (ok) {
+       Serial.println("RESULT: CORRECT");
+       digitalWrite(green_led, HIGH); delay(450); digitalWrite(green_led, LOW);
+     } else {
+       Serial.println("RESULT: WRONG");
+       digitalWrite(red_led, HIGH);   delay(450); digitalWrite(red_led, LOW);
+     }
+
+
+     // Only AFTER comparing, build the next round's sequence
+     makeNewSequence();
+     phase = Phase::Show;
+   } break;
+ }
+}
+
+
+/* ----------------- Helpers ----------------- */
+
+
+void makeNewSequence(){
+ for (byte i=0;i<SEQ_LEN;i++){
+   byte pick;
+   do { pick = (byte)random(0,4); } while (!isAllowed(pick));
+   seq[i] = pick;
+ }
+}
+
+
+void printSequence(){
+ Serial.println();
+ Serial.print("Sequence idx: [");
+ for (byte i=0;i<SEQ_LEN;i++){ Serial.print(seq[i]); if(i<SEQ_LEN-1) Serial.print(", "); }
+ Serial.println("]");
+ Serial.print("Sequence colors: [");
+ for (byte i=0;i<SEQ_LEN;i++){ Serial.print(NAMES[seq[i]]); if(i<SEQ_LEN-1) Serial.print(", "); }
+ Serial.println("]");
+}
+
+
+void playSequence(){
+ delay(250);
+ for (byte i=0;i<SEQ_LEN;i++){
+   byte idx = seq[i];
+   digitalWrite(leds[idx], HIGH); delay(STEP_ON_MS);
+   digitalWrite(leds[idx], LOW);  delay(STEP_OFF_MS);
+ }
+}
+
+
+void prepInputState(){
+ // Re-sync debouncer and arm only released keys to prevent phantom press
+ unsigned long now = millis();
+ for (byte i=0;i<4;i++){
+   int r = digitalRead(buttons[i]);
+   lastRead[i] = r;
+   lastT[i]    = now;
+   armed[i]    = (r == HIGH);      // only keys that are released can fire next
+   digitalWrite(leds[i], LOW);     // ensure game LEDs are off at input start
+ }
+ // Optional: print starting states
+ Serial.print("DEBUG start states: ");
+ for (byte i=0;i<4;i++){
+   Serial.print("D"); Serial.print(buttons[i]); Serial.print("=");
+   Serial.print(digitalRead(buttons[i])==LOW ? "LOW " : "HIGH ");
+ }
+ Serial.println();
+ delay(30); // tiny settle time
+}
+
+
+// Non-blocking, debounced press event detector with per-button arming.
+// Returns -1 if none; else 0..3 on a new press. Mirrors the pressed LED while held.
+int readPressEventNonBlocking() {
+ unsigned long now = millis();
+ int fired = -1;
+
+
+ for (byte i=0;i<4;i++){
+   int raw = digitalRead(buttons[i]);
+
+
+   // Debounce: note time of last change
+   if (raw != lastRead[i]) { lastRead[i] = raw; lastT[i] = now; }
+
+
+   bool stableLow  = (raw == LOW)  && (now - lastT[i] > DEBOUNCE_MS);
+   bool stableHigh = (raw == HIGH) && (now - lastT[i] > DEBOUNCE_MS);
+
+
+   // Visual: light the matching LED while held (non-blocking)
+   digitalWrite(leds[i], stableLow ? HIGH : LOW);
+
+
+   // Fire once when LOW and armed
+   if (stableLow && armed[i]) {
+     armed[i] = false;
+     fired = i; // report this press (don’t break; we finish LED updates)
+   }
+
+
+   // Re-arm when fully released
+   if (stableHigh && !armed[i]) {
+     armed[i] = true;
+   }
+ }
+ return fired;
+}
+
+```
+
+i decided fine. despite my hatred for ai, let me not be averse and *try*. 
+
+i gave it this prompt: 
+
+```
+no, something's not right,. the programmatic flow is very simple: when it turns on for the first time, light up (and shut) all the leds one after the other (except red and green of course) with a delay of 500ms. then generate a sequence. play that sequence out. each led turns on for 300ms, and then turns off. when the sequence is completed, all leds should be off (because only one led, as part of the sequence, turns on during the moment in the sequence). then, wait for player input. when player has inputted the required number (length of sequence), evaluate whether it was right or wrong. if it was wrong, light the red led for 500ms. generate another seqeunce of the same length (say, 4 in this case). if it was right, light the green led for the same duration. then turn it off, and generate a new sequence of n+2 items (say 6 leds). then play them out. repeat.
+```
+
+after rounds of back & forth, it produced this: 
+
+![[z_images/IMG_6247.mov]]
+
+this example is handy for my [[case against ai]]. it just doesn't get the intricacy right — maybe it gets 75% right, but why is that good enough? 
+
+---
+
+i booked an appointment with a human ([[people/lucia|lucia]]), and i will work with her to fix *my* code, and not machine-generated cacophony (yes it did many things right, but it made space for many tiny things to go wrong). 
+
+---
+
+i also realised this week that <mark>helping other people debug soldifies my understanding</mark> of the medium. this same line of thought carries forward in teaching too. perhaps this is why [[people/tom igoe|tom igoe]] still teaches intro-to-physical-computing. and maybe because he loves it. 
 

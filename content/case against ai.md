@@ -11,6 +11,7 @@ yet to formulate.
 ---
 # incidents: 
 - mimi asking the computer to draw {emotion} rectangle in [[intro-to-computational-media/icm_class-1|icm_class-1]], and it failing to do so. 
+- asking the computer to make a game on an arduino, but it not understanding the intricacies (and getting them wrong); in [[intro-to-physical-computing/ipc_experiments_week-2|ipc_experiments_week-2]]. 
 
 ---
 
