@@ -43,7 +43,7 @@ used the dremmel to make the circles squares.
 
 made a boo-boo by not considering that a cube has adjacent sides, and that holes must account for that. [[people/prachi|prachi]] was right when she said i can't think in 3-dimensions. 
 
-![[z_images/IMG_6251.jpg]]
+[![[z_images/IMG_6251.jpg]]]([]())
 
 ![[z_images/IMG_6250.jpg]]
 

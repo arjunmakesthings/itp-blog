@@ -981,6 +981,254 @@ this example is handy for my [[case against ai]]. it just doesn't get the intric
 i booked an appointment with a human ([[people/lucia|lucia]]), and i will work with her to fix *my* code, and not machine-generated cacophony (yes it did many things right, but it made space for many tiny things to go wrong). 
 
 ---
+### 250915_1416: 
+[[people/lucia|lucia]] was patient with me, and helped me debug a lot of the code; line by line. i understood how to debug in complex programs like these, and to always build complexity incrementally. i think [[people/yuxin|yuxin]] also taught me this. 
 
-i also realised this week that <mark>helping other people debug soldifies my understanding</mark> of the medium. this same line of thought carries forward in teaching too. perhaps this is why [[people/tom igoe|tom igoe]] still teaches intro-to-physical-computing. and maybe because he loves it. 
+here's the code for now: 
+
+``` cpp
+// memory-game; september, 2025.
+
+// the idea is to play a sequence through a program. the person is supposed to replicate the sequence. if they fail to do so accurately, they lose. else, they win.
+// i might add sound too.
+
+// i have buttons & led-s to manipulate, and a program to keep track of them.
+
+int buttons[] = { 2, 3, 4, 5 };   //pin-numbers of buttons.
+int leds[] = { 21, 20, 19, 18 };  //pin-numbers of leds.
+
+int led_length = 4;  //number of leds.
+
+//readable name variables, that point to buttons[].
+int blue_button = buttons[0];
+int yellow_button = buttons[1];
+int red_button = buttons[2];
+int green_button = buttons[3];
+
+//values to keep track of current button values.
+int blue_button_value, yellow_button_value, red_button_value, green_button_value;
+
+//variables to keep track of previous values (we need this to understand when the button when from low to high, otherwise there are multiple values for each high-press).
+int prev_blue_button_value = 0;
+int prev_yellow_button_value = 0;
+int prev_red_button_value = 0;
+int prev_green_button_value = 0;
+
+//readable name variables, that point to leds[].
+int led_1 = leds[0];
+int led_2 = leds[1];
+int led_3 = leds[2];
+int led_4 = leds[3];
+
+//separate leds for correct / incorrect signifiers.
+int red_led = 6;
+int green_led = 17;
+
+//base sequence, and the array that will keep track of the sequence.
+int seq[] = { 0, 1, 2, 3 };
+
+int played_sequence[50];              //an array to keep track of what a person enters. the max this game goes up to is 50.
+int max_played_sequence_length = 50;  //variable to keep track of the length of the max_played_length.
+
+int played_sequence_length = 0;  //variable to keep track of the actual length of played sequence, to mainpulate stages in the game.
+
+bool player_input_expected = false;  //boolean to keep track of when a person is supposed to input value.
+
+void setup() {
+  Serial.begin(9600);  // start serial communication at 9600 baud rate. don't know what that is yet.
+
+  //set input / output for pinModes:
+  for (int i = 0; i < led_length; i++) {  //christina: i have to use a number here, because c++ is a lower level language.
+    pinMode(buttons[i], INPUT);
+    pinMode(leds[i], OUTPUT);
+  };
+
+  check();  //always perform a check when the program starts, which just lights up the leds.
+}
+
+//function to check if leds & switches are working. essentially a "boot-animation".
+void check() {
+  //check leds:
+  for (int i = 0; i < led_length; i++) {
+    digitalWrite(leds[i], HIGH);
+    delay(500);
+    digitalWrite(leds[i], LOW);
+    delay(500);
+  }
+}
+
+//this is the game:
+void loop() {
+  //calculate the size of the sequence array:
+  int sequence_length = sizeof(seq) / sizeof(seq[0]);
+
+  if (player_input_expected == false) {
+    //clear played sequence:
+    for (int i = 0; i < played_sequence_length; i++) {
+      played_sequence[i] = 0;
+    }
+
+    //reset played sequence length to 0;
+    played_sequence_length = 0;
+
+    //then, generate a random sequence of leds to play out:
+    generate_sequence(seq, sequence_length);
+
+    //show the sequence:
+    for (int i = 0; i < sequence_length; i++) {
+      digitalWrite(leds[seq[i]], HIGH);  //turn on
+      delay(500);
+      digitalWrite(leds[seq[i]], LOW);  //turn off.
+    }
+  }
+  delay(10);  //arbitrary delay of 10ms.
+
+  player_input_expected = true;  //the person has registered the sequence, and is prepared to input it via buttons.
+
+  if (player_input_expected == true) {
+    blue_button_value = digitalRead(buttons[0]);
+    yellow_button_value = digitalRead(buttons[1]);
+    red_button_value = digitalRead(buttons[2]);
+    green_button_value = digitalRead(buttons[3]);
+
+    if (played_sequence_length < sequence_length) {
+      //if inputted numbers are lesser than expected, keep track.
+      if (blue_button_value == HIGH && prev_blue_button_value == LOW) {
+        insert_at_end(played_sequence, blue_button);
+        for (int i = 0; i < played_sequence_length; i++) {
+          Serial.print(played_sequence[i]);
+        }
+        Serial.println("");
+      } else if (yellow_button_value == HIGH && prev_yellow_button_value == LOW) {
+        insert_at_end(played_sequence, yellow_button);
+      } else if (green_button_value == HIGH && prev_green_button_value == LOW) {
+        insert_at_end(played_sequence, green_button);
+      } else if (red_button_value == HIGH && prev_red_button_value == LOW) {
+        insert_at_end(played_sequence, red_button);
+      }
+    } else {
+      //means the played sequence is >= sequence_length. now evaluate:
+      bool win = false;
+      for (int i = 0; i < sequence_length; i++) {
+        if (played_sequence[i] == seq[i]) {
+          //correct answer:
+          win = true;
+        } else {
+          //wrong answer:
+          win = false;
+        }
+      }
+
+      //print result:
+      if (win == true) {
+        // all true:
+        digitalWrite(green_led, HIGH);
+        delay(300);
+        digitalWrite(green_led, LOW);
+      } else {
+        //failed.
+        digitalWrite(red_led, HIGH);
+        delay(300);
+        digitalWrite(red_led, LOW);
+      }
+      player_input_expected = false;  //exit the loop, and start again.
+    }
+  }
+  prev_blue_button_value = blue_button_value;
+  prev_yellow_button_value = yellow_button_value;
+  prev_red_button_value = red_button_value;
+  prev_green_button_value = green_button_value;
+}
+
+
+// delay(500);  //small delay before next level.
+
+
+void insert_at_end(int arr[], int val) {
+
+  // insert val at last:
+  if (played_sequence_length < max_played_sequence_length) {
+    arr[played_sequence_length] = val;
+  }
+  played_sequence_length++;
+}
+
+//for the random sequence, we'll take an old sequence, put random numbers between 0 and 3.
+//then, if three concurrent numbers are the same, we'll change both of them. this does not guarantee that the numbers won't repeat, but it's probabalistically rare.
+
+void generate_sequence(int seq[], int sequence_length) {
+
+  //whatever the sequence length was, add 2 to it.
+  // int new_sequence_length = sequence_length + 2; //this is not working, because of the way c handles arrays.
+  int new_sequence_length = sequence_length;
+
+  //initialise a new sequence.
+  // int new_sequence[new_sequence_length];
+
+  //assign a random pattern of indices to the new sequence:
+  for (int i = 0; i < new_sequence_length; i++) {
+    //pick a random number between 0 and the number of leds.
+    int n = random(0, led_length);
+    // new_sequence[i] = n;
+
+    //check for three consecutive numbers being the same. while so, keep changing them until they aren't.
+    //i can tell that this is not the most efficient way to do this. but, it's fine.
+    //enter the loop only if new_sequence>3 elements.
+    if (i > 3) {
+      // while (new_sequence[i] == new_sequence[i - 1] == new_sequence[i + 1]) {
+      while (new_sequence[i] == new_sequence[i - 1] && new_sequence[i] == new_sequence[i - 2]) {
+
+        int n_minus_one = random(0, led_length);
+        int n_minus_two = random(0, led_length);
+
+        new_sequence[i - 1] = n_minus_one;
+        new_sequence[i - 2] = n_minus_two;
+      }
+    }
+    //else in both cases:
+
+    //push the new numbers into the old array.
+    seq[i] = n;
+  }
+}
+
+//christina's suggestion, but i decided against using it / wasn't able to implement it well .
+// void generate_sequence(int seq[], int sequence_length) {
+//   //decide new sequence length:
+//   int new_sequence_length = sequence_length + (sizeof(seq[0]) * 2);  //always add 2 to the previous number.
+
+//   //declare a new sequence, of the length decided above.
+//   int new_sequence[new_sequence_length];
+//   int old_sequence[sequence_length];
+
+//   //make last played sequence the old sequence:
+//   for (int i = 0; i < sequence_length; i++) {
+//     old_sequence[i] = { seq[i] };
+//   }
+
+//   for (int i = 0; i < new_sequence_length; i++) {
+//     int count = 0;
+
+//     //for as many elements in old sequence, use old sequence:
+//     while (count < sequence_length) {
+//       int n = random(0, sequence_length);
+//       while (old_sequence[n] == 99) {
+//         int n = random(0, sequence_length);
+//       }
+//       new_sequence[i] = old_sequence[n];
+//       old_sequence[n] = 99;
+//       count++;
+//     }
+//     seq[i] = new_sequence[i];
+//   }
+// }
+```
+
+i still need to figure out why the yellow button on my breadboard doesn't work (my guess is that it's on the bad row of my breadboard), why the success & error led-s aren't working, and how to increment the sequence to be played by 2. 
+
+i now have to do all the other work that has piled up because of my p-comp obsession. 
+
+---
+
+i also realised this week that <mark>helping other people debug soldifies my understanding</mark> of the medium. this same line of thought carries forward in teaching too. perhaps this is why [[people/tom igoe|tom igoe]] still teaches intro-to-physical-computing. and maybe because he loves it too. 
 
