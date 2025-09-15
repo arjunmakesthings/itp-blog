@@ -87,4 +87,17 @@ for the box:
 ![[z_images/IMG_6219.jpg]]
 
 ---
+i couldn't sleep with an unfinished outcome. so, i wanted to drill in more holes and sand it. but the drill was busy, and the shop closed by the time i got my hands on it. 
+
+while waiting, i needed to do something. so, i found paint and painted the entire box. 
+
+![[z_images/IMG_6249.jpg]]
+
+![[z_images/IMG_6248.jpg]]
+
+maybe i'm also <mark>impulsive & impatient</mark>. 
+
+---
 realised that the tools & material we work with have some amount of control over our outcome. we mustn't fight that — it's never going to turn out *exactly* as you envisioned it. it shouldn't; the things you work with *should* have some control. 
+
+and, also, that there is no room for impatience in fabrication. it takes the amount of time it needs to take, forced to fulfil its [eigenzeit](https://forum.zettelkasten.de/discussion/2323/eigenzeit). 

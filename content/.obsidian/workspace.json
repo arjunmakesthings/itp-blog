@@ -4,63 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f1f5822d20a19ece",
+        "id": "efce60a044f5be6d",
         "type": "tabs",
         "children": [
           {
-            "id": "ce771d5f4f8a9ce9",
+            "id": "a5e497965da625e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/ipc_experiments_week-2.md",
+                "file": "intro-to-fabrication/fab_experiments_week-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ipc_experiments_week-2"
-            }
-          },
-          {
-            "id": "06ed8cf152bfda63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "case against ai.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "case against ai"
-            }
-          },
-          {
-            "id": "7dd934db49838c3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "applications/tech-forward approach to news storytelling, by karthik patanjali.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tech-forward approach to news storytelling, by karthik patanjali"
-            }
-          },
-          {
-            "id": "b7744a10b3b4e955",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "applications/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "fab_experiments_week-1"
             }
           }
         ]
@@ -235,27 +193,30 @@
       "note-id:Open side panel": false
     }
   },
-  "active": "ce771d5f4f8a9ce9",
+  "active": "a5e497965da625e7",
   "lastOpenFiles": [
-    "people/lucia.md",
-    "intro-to-physical-computing/ipc_experiments_week-2.md",
+    "applications/index.md",
+    "applications/tech-forward approach to news storytelling, by karthik patanjali.md",
     "case against ai.md",
+    "inferiority, narcissism & the time i spend working.md",
+    "intro-to-physical-computing/ipc_experiments_week-2.md",
+    "intro-to-fabrication/fab_experiments_week-1.md",
+    "z_images/IMG_6248.jpg",
+    "z_images/IMG_6249.jpg",
+    "people/lucia.md",
     "z_images/IMG_6247.mov",
     "applications/applications_assignment-1.md",
-    "applications/tech-forward approach to news storytelling, by karthik patanjali.md",
     "applications/finite & infinite games.md",
     "z_images/IMG_6225.jpg",
     "people/william.md",
     "people/mimi yin.md",
     "applications/applications_class-2.md",
-    "applications/index.md",
     "applications/Untitled.md",
     "applications/note about a computer- keyboard.md",
     "z_images/IMG_6221 1.jpg",
     "z_images/IMG_6221.jpg",
     "what is technology?.md",
     "z_images/IMG_6220.jpg",
-    "inferiority, narcissism & the time i spend working.md",
     "work, by zimoun.md",
     "z_images/IMG_6214.mov",
     "z_images/IMG_6213.jpg",
@@ -265,9 +226,6 @@
     "people/christina tang.md",
     "z_images/IMG_6198.jpg",
     "z_images/IMG_6194.jpg",
-    "z_images/IMG_6191.jpg",
-    "intro-to-fabrication/fab_experiments_week-1.md",
-    "z_images/IMG_6219.jpg",
     "z_images/IMG_6212.mov",
     "intro-to-fabrication/theme for intro-to-fabrication.md",
     "intro-to-physical-computing/electrical components.md",
@@ -275,7 +233,6 @@
     "electrical walks, by christina kubisch.md",
     "i am sitting in a room, by alvin lucier.md",
     "conversation with dan-o-sullivan.md",
-    "people/daniel shiffman.md",
     "z_images/IMG_6193.mov",
     "terms & concepts",
     "z_images/quiz.pdf",
