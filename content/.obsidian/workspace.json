@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "efce60a044f5be6d",
+        "id": "ff006c1f42dccc8e",
         "type": "tabs",
         "children": [
           {
-            "id": "a5e497965da625e7",
+            "id": "a248e4eaeda0ae9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/ipc_experiments_week-2.md",
+                "file": "intro-to-computational-media/icm_experiments_week-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ipc_experiments_week-2"
+              "title": "icm_experiments_week-2"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,8 +193,11 @@
       "note-id:Open side panel": false
     }
   },
-  "active": "a5e497965da625e7",
+  "active": "a248e4eaeda0ae9e",
   "lastOpenFiles": [
+    "z_images/Screenshot 2025-09-15 at 20.55.33.png",
+    "intro-to-computational-media/icm_experiments_week-2.md",
+    "intro-to-physical-computing/ipc_experiments_week-2.md",
     "intro-to-fabrication/fab_experiments_week-1.md",
     "z_images/IMG_6250.jpg",
     "z_images/IMG_6251.jpg",
@@ -203,7 +205,6 @@
     "applications/tech-forward approach to news storytelling, by karthik patanjali.md",
     "case against ai.md",
     "inferiority, narcissism & the time i spend working.md",
-    "intro-to-physical-computing/ipc_experiments_week-2.md",
     "z_images/IMG_6248.jpg",
     "z_images/IMG_6249.jpg",
     "people/lucia.md",
@@ -233,7 +234,6 @@
     "hypercinema/hypercinema_class-2.md",
     "electrical walks, by christina kubisch.md",
     "i am sitting in a room, by alvin lucier.md",
-    "conversation with dan-o-sullivan.md",
     "z_images/IMG_6193.mov",
     "terms & concepts",
     "z_images/quiz.pdf",
