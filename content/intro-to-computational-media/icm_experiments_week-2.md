@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=YJB1QnEmlTs
 
 ![[z_images/Screenshot 2025-09-15 at 20.55.33.png]]
 
-made this for one of the assignments; 
+made this for one of the assignments:
 
 ![[z_images/Screen Recording 2025-09-15 at 20.56.10.mov]]
 
@@ -82,7 +82,6 @@ function draw() {
 }
 
 ```
-
 
 
 ---
