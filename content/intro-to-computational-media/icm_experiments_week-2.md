@@ -83,6 +83,3 @@ function draw() {
 
 ```
 
-
----
-
