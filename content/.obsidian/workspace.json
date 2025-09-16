@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/ipc_experiments_week-2.md",
+                "file": "intro-to-fabrication/fab_class-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ipc_experiments_week-2"
+              "title": "fab_class-2"
+            }
+          },
+          {
+            "id": "2b36a731e2a382a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/fabri.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fabri"
             }
           }
         ]
@@ -195,47 +209,46 @@
   },
   "active": "a248e4eaeda0ae9e",
   "lastOpenFiles": [
+    "intro-to-physical-computing/ipc_experiments_week-2.md",
+    "z_images/IMG_6264 1.jpg",
+    "intro-to-fabrication/fab_class-2.md",
+    "z_images/IMG_6264.jpg",
+    "z_images/IMG_6253.jpg",
+    "z_images/IMG_6252.jpg",
+    "z_images/IMG_6254.jpg",
+    "z_images/IMG_6265.jpg",
+    "z_images/IMG_6266.jpg",
+    "people/fabri.md",
     "z_images/IMG_6255.jpg",
     "intro-to-computational-media/icm_experiments_week-2.md",
     "z_images/Screen Recording 2025-09-15 at 21.58.31.mov",
     "people/daniel shiffman.md",
     "z_images/Screen Recording 2025-09-15 at 20.56.10.mov",
     "z_images/Screenshot 2025-09-15 at 20.55.33.png",
-    "intro-to-physical-computing/ipc_experiments_week-2.md",
     "intro-to-fabrication/fab_experiments_week-1.md",
     "z_images/IMG_6250.jpg",
-    "z_images/IMG_6251.jpg",
     "applications/index.md",
     "applications/tech-forward approach to news storytelling, by karthik patanjali.md",
     "case against ai.md",
     "inferiority, narcissism & the time i spend working.md",
-    "z_images/IMG_6248.jpg",
-    "z_images/IMG_6249.jpg",
     "people/lucia.md",
     "z_images/IMG_6247.mov",
     "applications/applications_assignment-1.md",
     "applications/finite & infinite games.md",
-    "z_images/IMG_6225.jpg",
     "people/william.md",
     "people/mimi yin.md",
     "applications/applications_class-2.md",
     "applications/Untitled.md",
     "applications/note about a computer- keyboard.md",
-    "z_images/IMG_6221 1.jpg",
-    "z_images/IMG_6221.jpg",
     "what is technology?.md",
-    "z_images/IMG_6220.jpg",
     "work, by zimoun.md",
     "z_images/IMG_6214.mov",
-    "z_images/IMG_6213.jpg",
     "people/yuxin.md",
     "people/gabriel.md",
     "people/christina tang.md",
     "z_images/IMG_6212.mov",
     "intro-to-fabrication/theme for intro-to-fabrication.md",
     "intro-to-physical-computing/electrical components.md",
-    "hypercinema/hypercinema_class-2.md",
-    "electrical walks, by christina kubisch.md",
     "z_images/IMG_6193.mov",
     "terms & concepts",
     "z_images/quiz.pdf",

@@ -1235,6 +1235,13 @@ i still need to figure out why the yellow button on my breadboard doesn't work (
 i now have to do all the other work that has piled up because of my p-comp obsession. 
 
 ---
+i also changed the batteries for a multimeter i had found on the junk-shelf, which previously belonged to [[fabri]]. 
+
+![[z_images/IMG_6264 1.jpg]]
+
+it's so pretty to look at — the circuitry. wow. 
+
+---
 
 i also realised this week that <mark>helping other people debug soldifies my understanding</mark> of the medium. this same line of thought carries forward in teaching too. perhaps this is why [[people/tom igoe|tom igoe]] still teaches intro-to-physical-computing. and maybe because he loves it too. 
 
