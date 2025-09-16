@@ -984,6 +984,12 @@ i booked an appointment with a human ([[people/lucia|lucia]]), and i will work w
 ### 250915_1416: 
 [[people/lucia|lucia]] was patient with me, and helped me debug a lot of the code; line by line. i understood how to debug in complex programs like these, and to always build complexity incrementally. i think [[people/yuxin|yuxin]] also taught me this. 
 
+lucia also helped me rising detection and falling detection. 
+
+![[z_images/IMG_6255.jpg]]
+
+basically, for a button-press you don't need to *only* see whether the output is high, but compare it to its previous state (and you want that to be low). a function executed on button-press is only meant to execute when `current_button_value = HIGH`, and `previous_button_value = LOW`
+
 here's the code for now: 
 
 ``` cpp
@@ -1231,4 +1237,6 @@ i now have to do all the other work that has piled up because of my p-comp obses
 ---
 
 i also realised this week that <mark>helping other people debug soldifies my understanding</mark> of the medium. this same line of thought carries forward in teaching too. perhaps this is why [[people/tom igoe|tom igoe]] still teaches intro-to-physical-computing. and maybe because he loves it too. 
+
+had a question about dead batteries. <mark>if i pass electricity through them, (a) do they conduct, and (b) will they explode? what do batteries do, really?</mark>
 
