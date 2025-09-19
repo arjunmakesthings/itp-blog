@@ -59,3 +59,15 @@ void loop() {
 ```
 
 ---
+
+i had a bunch of experiences this week, that solidified my understanding of [[intro-to-physical-computing/no to noui, by timo arnall (against invisible design)|no to noui, by timo arnall (against invisible design)]]. 
+
+it is not merely about making everything visible, but <mark>tangible</mark>, because [[tangibility makes magic more plausible]] & <mark>tangible objects  can be manipulated in infinite humanly-imaginable ways</mark> (that software just can't — because software assumes strong pre-determination about the course of actions a person will take).
+
+but, and owing to my past work with behaviour-design, i know that people are irrational (and will use objects in the strangest of ways to make it do the task they want). 
+
+the perfect example of this is [[durell bishop's answering machine]]. the marbles can be manipulated in far too many ways — i may choose to have different shelves, i may choose to discard them in a dustbin, i may choose to keep them in plates, carry them around, listen to them on the toilet, and what-not. 
+
+---
+
+

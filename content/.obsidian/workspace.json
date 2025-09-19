@@ -4,53 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "ff006c1f42dccc8e",
+        "id": "84b5db5aca28d81a",
         "type": "tabs",
         "children": [
           {
-            "id": "2b36a731e2a382a7",
+            "id": "9400643a8d433222",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/fabri.md",
+                "file": "intro-to-physical-computing/ipc_experiments_week-3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fabri"
+              "title": "ipc_experiments_week-3"
             }
           },
           {
-            "id": "0f60866ceeda45ef",
+            "id": "5d617bdc29c3739f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/ipc_class-3.md",
+                "file": "durell bishop's answering machine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ipc_class-3"
-            }
-          },
-          {
-            "id": "8102bccfdf1d8891",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "applications/gerp-meeting_1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gerp-meeting_1"
+              "title": "durell bishop's answering machine"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "answering",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,14 +207,26 @@
       "note-id:Open side panel": false
     }
   },
-  "active": "8102bccfdf1d8891",
+  "active": "9400643a8d433222",
   "lastOpenFiles": [
+    "applications/gerp-meeting_1.md",
+    "intro-to-physical-computing/ipc_experiments_week-3.md",
+    "durell bishop's answering machine.md",
+    "tangibility makes magic more plausible.md",
+    "intro-to-fabrication/fab_experiments_week-2.md",
+    "people/fabri.md",
+    "intro-to-physical-computing/no to noui, by timo arnall (against invisible design).md",
+    "intro-to-physical-computing/ipc_experiments_week-2.md",
+    "intro-to-physical-computing/ipc_class-3.md",
+    "why i don't want to do vr.md",
+    "people/summer.md",
+    "z_images/IMG_6273.jpg",
+    "z_images/IMG_6275.jpg",
+    "z_images/IMG_6277.mov",
     "z_images/1.jpg",
     "z_images/2.jpg",
     "applications/kelli anderson's talk.md",
-    "applications/gerp-meeting_1.md",
     "applications/applications_class-3.md",
-    "intro-to-physical-computing/ipc_experiments_week-3.md",
     "z_images/IMG_6293.mov",
     "z_images/IMG_6291.jpg",
     "z_images/IMG_6290.jpg",
@@ -241,13 +238,8 @@
     "intro-to-physical-computing/Untitled.md",
     "hypercinema/hypercinema_class-3.md",
     "library of congress.md",
-    "tangibility makes magic more plausible.md",
     "terms & concepts/magic.md",
-    "z_images/IMG_6282.jpg",
     "applications/applications_class-2.md",
-    "intro-to-fabrication/fab_experiments_week-2.md",
-    "z_images/Screenshot 2025-09-19 at 10.42.32.png",
-    "z_images/IMG_6300.jpg",
     "z_images/IMG_6269.mov",
     "z_images/IMG_6281.mov",
     "z_images/IMG_6270.mov",
@@ -258,18 +250,11 @@
     "applications/finite & infinite games.md",
     "intro-to-computational-media/icm_class_week-3.md",
     "conversation with tom-igoe.md",
-    "intro-to-physical-computing/ipc_class-3.md",
-    "my approach to itp.md",
-    "people/shikha.md",
-    "people/mum.md",
-    "people/fabri.md",
-    "plotclock.md",
     "z_images/Screen Recording 2025-09-15 at 21.58.31.mov",
     "z_images/Screen Recording 2025-09-15 at 20.56.10.mov",
     "z_images/IMG_6247.mov",
     "z_images/IMG_6214.mov",
     "z_images/IMG_6212.mov",
-    "z_images/IMG_6193.mov",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"
