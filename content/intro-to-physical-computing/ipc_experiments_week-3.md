@@ -123,7 +123,7 @@ my servo doesn't get enough power. it brr-s (like a machine when you listen to i
 
 ![[z_images/IMG_6318.jpg]]
 
-by debugging (and using other people's motors), i realised that the problem *may* be in my jump wires / loose connections. 
+by debugging (and using other people's motors / a smaller motor), i realised that the problem *may* be in my jump wires / loose connections. 
 
 ---
 
