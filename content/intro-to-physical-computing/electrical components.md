@@ -114,6 +114,14 @@ Activity boards contain a pre-programmed microcontroller and some sensors and ac
 https://itp.nyu.edu/physcomp/lessons/microcontrollers-the-basics/
 
 ---
+# servo motors: 
+Servomotors are motors with a combination of gears and an embedded potentiometer (variable resistor) that allows you to set their position fairly precisely within a 180-degree range. They’re very common in toys and other small mechanical devices. They have three wires:
+
+- power (usually 5v)
+- ground
+- control
+
+---
 
 
 ---

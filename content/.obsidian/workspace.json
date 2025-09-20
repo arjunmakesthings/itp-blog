@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "84b5db5aca28d81a",
+        "id": "0b2c6f3a22ddba2e",
         "type": "tabs",
         "children": [
           {
-            "id": "9400643a8d433222",
+            "id": "3a85dc1714256ebf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,17 +22,45 @@
             }
           },
           {
-            "id": "5d617bdc29c3739f",
+            "id": "0885af17e938ef0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "durell bishop's answering machine.md",
+                "file": "intro-to-physical-computing/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "durell bishop's answering machine"
+              "title": "index"
+            }
+          },
+          {
+            "id": "35af0264e6ad3da0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro-to-physical-computing/electrical components.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "electrical components"
+            }
+          },
+          {
+            "id": "e598569938532a9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro-to-physical-computing/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -207,34 +235,39 @@
       "note-id:Open side panel": false
     }
   },
-  "active": "9400643a8d433222",
+  "active": "3a85dc1714256ebf",
   "lastOpenFiles": [
-    "applications/gerp-meeting_1.md",
+    "z_images/IMG_6316.mov",
+    "z_images/IMG_6321.jpg",
+    "z_images/IMG_6320.jpg",
+    "z_images/IMG_6318.jpg",
+    "z_images/IMG_6319.jpg",
+    "z_images/IMG_6317.jpg",
+    "intro-to-physical-computing/index.md",
     "intro-to-physical-computing/ipc_experiments_week-3.md",
+    "z_images/Screenshot 2025-09-19 at 22.11.56.png",
+    "z_images/Screenshot 2025-09-19 at 21.50.47.png",
+    "z_images/IMG_6314.jpg",
+    "intro-to-physical-computing/electrical components.md",
+    "z_images/quiz-2.pdf",
+    "z_images/IMG_6313.jpg",
+    "z_images/IMG_6312.jpg",
+    "intro-to-fabrication/fab_experiments_week-2.md",
+    "people/nikolai.md",
     "durell bishop's answering machine.md",
     "tangibility makes magic more plausible.md",
-    "intro-to-fabrication/fab_experiments_week-2.md",
+    "why i don't want to do vr.md",
+    "applications/gerp-meeting_1.md",
     "people/fabri.md",
     "intro-to-physical-computing/no to noui, by timo arnall (against invisible design).md",
     "intro-to-physical-computing/ipc_experiments_week-2.md",
     "intro-to-physical-computing/ipc_class-3.md",
-    "why i don't want to do vr.md",
     "people/summer.md",
-    "z_images/IMG_6273.jpg",
-    "z_images/IMG_6275.jpg",
     "z_images/IMG_6277.mov",
-    "z_images/1.jpg",
-    "z_images/2.jpg",
     "applications/kelli anderson's talk.md",
     "applications/applications_class-3.md",
     "z_images/IMG_6293.mov",
-    "z_images/IMG_6291.jpg",
-    "z_images/IMG_6290.jpg",
     "people/b.md",
-    "z_images/IMG_6292.jpg",
-    "z_images/IMG_6283.jpg",
-    "z_images/IMG_6289.jpg",
-    "z_images/IMG_6288.jpg",
     "intro-to-physical-computing/Untitled.md",
     "hypercinema/hypercinema_class-3.md",
     "library of congress.md",
@@ -245,16 +278,11 @@
     "z_images/IMG_6270.mov",
     "people/may.md",
     "hypercinema/index.md",
-    "intro-to-physical-computing/electrical components.md",
-    "intro-to-physical-computing/index.md",
     "applications/finite & infinite games.md",
-    "intro-to-computational-media/icm_class_week-3.md",
-    "conversation with tom-igoe.md",
     "z_images/Screen Recording 2025-09-15 at 21.58.31.mov",
     "z_images/Screen Recording 2025-09-15 at 20.56.10.mov",
     "z_images/IMG_6247.mov",
     "z_images/IMG_6214.mov",
-    "z_images/IMG_6212.mov",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"
