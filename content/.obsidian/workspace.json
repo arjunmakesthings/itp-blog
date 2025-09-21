@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "be7c3ad83287cacf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro-to-physical-computing/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
             "id": "0885af17e938ef0a",
             "type": "leaf",
             "state": {
@@ -237,21 +251,22 @@
   },
   "active": "3a85dc1714256ebf",
   "lastOpenFiles": [
+    "z_images/IMG_6331.mov",
+    "z_images/Pasted image 20250921160303.png",
+    "intro-to-physical-computing/index.md",
+    "intro-to-physical-computing/ipc_experiments_week-3.md",
+    "z_images/IMG_6325.jpg",
+    "z_images/Screenshot 2025-09-20 at 13.46.02.png",
+    "z_images/Screenshot 2025-09-20 at 13.21.26.png",
+    "z_images/IMG_6324.jpg",
     "z_images/IMG_6316.mov",
     "z_images/IMG_6321.jpg",
     "z_images/IMG_6320.jpg",
     "z_images/IMG_6318.jpg",
     "z_images/IMG_6319.jpg",
     "z_images/IMG_6317.jpg",
-    "intro-to-physical-computing/index.md",
-    "intro-to-physical-computing/ipc_experiments_week-3.md",
-    "z_images/Screenshot 2025-09-19 at 22.11.56.png",
-    "z_images/Screenshot 2025-09-19 at 21.50.47.png",
-    "z_images/IMG_6314.jpg",
     "intro-to-physical-computing/electrical components.md",
     "z_images/quiz-2.pdf",
-    "z_images/IMG_6313.jpg",
-    "z_images/IMG_6312.jpg",
     "intro-to-fabrication/fab_experiments_week-2.md",
     "people/nikolai.md",
     "durell bishop's answering machine.md",
@@ -282,7 +297,6 @@
     "z_images/Screen Recording 2025-09-15 at 21.58.31.mov",
     "z_images/Screen Recording 2025-09-15 at 20.56.10.mov",
     "z_images/IMG_6247.mov",
-    "z_images/IMG_6214.mov",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"

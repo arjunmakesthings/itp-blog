@@ -132,3 +132,59 @@ i also opened the servo to see what was inside there. i believe the left side mo
 ![[z_images/IMG_6321.jpg]]
 
 ---
+this is the circuit: 
+
+![[z_images/IMG_6324.jpg]]
+
+this is the code: 
+
+``` cpp
+//servo tests; september 2025. 
+
+#include <Servo.h>
+
+Servo servo; 
+
+int servo_pin = 9; 
+
+void setup() {
+  Serial.begin(9600); 
+  servo.attach(servo_pin); 
+}
+
+void loop() { 
+servo.write(90); 
+delay (1000); 
+servo.write(90); 
+delay (1000); 
+}
+
+```
+
+nothing happens. <mark>need to ask this in class.</mark>
+
+i thought the library isn't included. but it reads servo.read.
+
+![[z_images/Screenshot 2025-09-20 at 13.46.02.png]]
+
+---
+
+i then went to [[people/fabri|fabri]] at the shop. my hunch was either a damaged port (on my computer) or the wire. we tested each component, checked it on his computer and it was, indeed, the stupid usb-wire. 
+
+![[z_images/IMG_6325.jpg]]
+
+and here's the thing: my wire is not bad. here's proof: 
+
+![[z_images/IMG_6331.mov]]
+
+but whenever i connect a servo, it fails to communicate with it. i am so confused (and irritated, because i wanted to do things with the servo). i checked out a wire from the shop too, but it did not work. 
+
+---
+
+i <mark>did not understand this at all</mark>, and failed to replicate it too.
+
+![[z_images/Pasted image 20250921160303.png]]
+
+
+---
+
