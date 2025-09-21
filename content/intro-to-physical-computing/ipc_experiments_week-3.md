@@ -188,3 +188,131 @@ i <mark>did not understand this at all</mark>, and failed to replicate it too.
 
 ---
 
+i'm also confused about the what the arduino sends from the 5v port. internet research says 5v (then why do i have to power my breadboard with 5v?). 
+
+okay, i resolved this. 
+
+![[z_images/Pasted image 20250921162511.png]]
+
+without sending power out, my led still lights up. i assume this is through 5v. 
+
+![[z_images/IMG_6331 1.mov]]
+
+---
+
+i then moved to some play. 
+
+i wanted to make an led light up to the bounce of a ball. 
+
+circuit: 
+
+![[z_images/IMG_6334.jpg]]
+
+code: 
+
+``` cpp
+//bouncing ball led; september, 2025.
+
+// want to bounce a ball, and reflect the bouncing (height-reduction) via an led. i don't know why.
+
+int led_pin = A1;
+int potentio_pin = A0;
+
+void setup() {
+  Serial.begin(9600);
+
+  pinMode(potentio_pin, INPUT);
+  pinMode(led_pin, OUTPUT);
+
+  // test();  //always test everything on the breadboard.
+}
+
+void loop() {
+  //read the potentiometer:
+  int potentio_val = analogRead(potentio_pin);
+
+  //remap to brightness:
+  int p_val_mapped = map(potentio_val, 0, 1023, 0, 255);
+
+  int val_to_pass = constrain(p_val_mapped, 0, 200);
+
+  //pass values to led:
+  analogWrite(led_pin, val_to_pass);
+}
+
+void test() {
+  //led-blink:
+  digitalWrite(led_pin, HIGH);
+  delay(1000);
+  digitalWrite(led_pin, LOW);
+}
+```
+
+
+output: 
+
+![[z_images/IMG_6335.mov]]
+
+realised that a ball bounces on & off pressure too fast for the led to pass signal. so, i'm going to change this to digital output. 
+
+i also fixed the bug of the potentio-meter having values due to electric noise with a state-change check. to avoid more, we might have to add three conditions checks, instead of the current two. 
+
+![[z_images/IMG_6337 2.mov]]
+
+``` cpp
+//bouncing ball led; september, 2025.
+
+// want to bounce a ball, and reflect the bouncing (height-reduction) via an led. i don't know why.
+
+int led_pin = 9;
+int potentio_pin = A0;
+int last_potentio_val = 0; 
+
+void setup() {
+  Serial.begin(9600);
+
+  pinMode(potentio_pin, INPUT);
+  pinMode(led_pin, OUTPUT);
+
+  // test();  //always test everything on the breadboard.
+}
+
+void loop() {
+  //read the potentiometer:
+  int potentio_val = analogRead(potentio_pin);
+
+  // //remap to brightness:
+  // int p_val_mapped = map(potentio_val, 0, 1023, 0, 255);
+
+  // int val_to_pass = constrain(p_val_mapped, 0, 200);
+
+  //you pass this value to the led: 
+  if (last_potentio_val > 10 && potentio_val > 10){
+    digitalWrite (led_pin, HIGH); 
+  }else{
+    digitalWrite (led_pin, LOW); 
+  }
+
+    last_potentio_val = potentio_val; 
+
+
+
+  // //pass values to led:
+  // analogWrite(led_pin, val_to_pass);
+}
+
+void test() {
+  //led-blink:
+  digitalWrite(led_pin, HIGH);
+  delay(1000);
+  digitalWrite(led_pin, LOW);
+}
+
+```
+
+i think there's some sort of potential with <mark>a switch that can move</mark>. this goes more with my line of thought that [[tangibility makes data more manipulative]]. this is (also) the bedrock of flat tangible interfaces, like so: 
+
+![[z_images/Pasted image 20250921171330.png]]
+
+---
+
