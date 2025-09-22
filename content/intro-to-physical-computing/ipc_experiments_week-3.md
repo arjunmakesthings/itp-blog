@@ -316,3 +316,5 @@ i think there's some sort of potential with <mark>a switch that can move</mark>.
 
 ---
 
+also read [[intro-to-physical-computing/explicit vs implicit machine interaction|explicit vs implicit machine interaction]] (<- click this for notes). 
+
