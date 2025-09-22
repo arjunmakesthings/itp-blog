@@ -29,7 +29,17 @@
               "state": {
                 "file": "intro-to-physical-computing/ipc_experiments_week-3.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "ipc_experiments_week-3"
@@ -282,10 +292,10 @@
   "active": "a37752d1f39b3ca9",
   "lastOpenFiles": [
     "intro-to-physical-computing/the design of implicit interactions, wendy ju & larry leifer.md",
+    "intro-to-physical-computing/ipc_experiments_week-3.md",
     "z_images/implicit vs explicit 1.jpeg",
     "z_images/implicit vs explicit.jpeg",
     "z_images/design of implicit interactions_annotated.pdf",
-    "intro-to-physical-computing/ipc_experiments_week-3.md",
     "hypercinema/hypercinema_class-3.md",
     "intro-to-computational-media/index.md",
     "intro-to-computational-media/icm_class_week-3.md",

@@ -181,6 +181,59 @@ but whenever i connect a servo, it fails to communicate with it. i am so confuse
 
 ---
 
+also helped [[people/summer|summer]] with understanding this piece of code: 
+
+``` cpp
+int speakerPin = 8;
+
+float f = 0;
+
+void setup() {
+  // nothing to do here
+  Serial.begin(9600);
+  pinMode(speakerPin, OUTPUT);
+  // pinMode(speakerPin, HIGH);
+}
+
+void loop() {
+  // get a sensor reading:
+  // int sensorReading = analogRead(A0);
+  // Serial.println(sensorReading);
+  // // map the results from the sensor reading's range
+  // // to the desired pitch range:
+  //  float frequency = map(sensorReading, 10, 900, 100, 1000);
+  // // change the pitch, play for 10 ms:
+  int millisec = millis();
+  int seconds = millisec / 1000;
+
+  if (seconds % 5 == 0) {
+    f = random(260.00, 1000.00);
+  }
+
+  Serial.println(f);
+  makeTone(f);
+
+  // tone(speakerPin, f, 1000);
+}
+
+void makeTone(float frequency) {
+  // set the period in microseconds:
+  int period = (1 / frequency) * 1000000;
+  // turn the speaker on:,
+  digitalWrite(speakerPin, HIGH);
+  // delay half the period:
+  delayMicroseconds(period / 2);
+  // turn the speaker off:
+  digitalWrite(speakerPin, LOW);
+  // delay half the period:
+  delayMicroseconds(period / 2);
+}
+```
+
+in the process, i understood frequency & periods a little bit better.
+
+---
+
 i <mark>did not understand this at all</mark>, and failed to replicate it too.
 
 ![[z_images/Pasted image 20250921160303.png]]
@@ -317,4 +370,3 @@ i think there's some sort of potential with <mark>a switch that can move</mark>.
 ---
 
 also read [[intro-to-physical-computing/explicit vs implicit machine interaction|explicit vs implicit machine interaction]] (<- click this for notes). 
-
