@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frustrations.md",
+                "file": "hypercinema/hypercinema_experiments_week-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "frustrations"
+              "title": "hypercinema_experiments_week-1"
             }
           },
           {
@@ -267,6 +267,9 @@
   "active": "a37752d1f39b3ca9",
   "lastOpenFiles": [
     "intro-to-fabrication/fab_experiments_week-2.md",
+    "z_images/IMG_6341.jpg",
+    "z_images/IMG_6340.jpg",
+    "z_images/IMG_6339.jpg",
     "frustrations.md",
     "people/aram.md",
     "z_images/IMG_6338.jpg",
@@ -283,10 +286,7 @@
     "intro-to-physical-computing/index.md",
     "z_images/IMG_6325.jpg",
     "z_images/Screenshot 2025-09-20 at 13.46.02.png",
-    "z_images/Screenshot 2025-09-20 at 13.21.26.png",
-    "z_images/IMG_6324.jpg",
     "z_images/IMG_6316.mov",
-    "z_images/IMG_6321.jpg",
     "intro-to-physical-computing/electrical components.md",
     "z_images/quiz-2.pdf",
     "people/nikolai.md",
@@ -311,7 +311,6 @@
     "applications/applications_class-2.md",
     "z_images/IMG_6269.mov",
     "z_images/IMG_6281.mov",
-    "people/may.md",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"

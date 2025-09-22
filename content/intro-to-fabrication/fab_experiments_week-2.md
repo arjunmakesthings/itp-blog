@@ -78,3 +78,15 @@ pasted, and screwed-in pieces. realised wood-glue takes time to try. made many b
 decided that wasn't the assignment — to spend time sanding — and focused on other things instead. i think i learnt a bit about replication (although i wish i'd done something with angled cuts), focusing on the ask of the assignment, sketching (or modelling), and this contributed in the change to [[my approach to itp]]. 
 
 ![[z_images/IMG_6338.jpg]]
+
+---
+
+![[z_images/IMG_6340.jpg]]
+
+
+![[z_images/IMG_6339.jpg]]
+
+
+
+![[z_images/IMG_6341.jpg]]
+
