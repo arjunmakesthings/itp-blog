@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-computational-media/icm_experiments_week-3.md",
+                "file": "intro-to-physical-computing/the design of implicit interactions, wendy ju & larry leifer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "icm_experiments_week-3"
+              "title": "the design of implicit interactions, wendy ju & larry leifer"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "answering",
+                "query": "shawn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,13 +195,22 @@
   },
   "active": "e598569938532a9a",
   "lastOpenFiles": [
+    "intro-to-physical-computing/ipc_experiments_week-3.md",
+    "intro-to-physical-computing/explicit vs implicit machine interaction.md",
+    "my principles as a designer.md",
+    "conversation with shawn.md",
+    "my approach to itp.md",
+    "perfect flushing mechanism.md",
+    "intro-to-computational-media/icm_experiments_week-3.md",
+    "people/prachi.md",
+    "people/shobhan.md",
+    "people/tom.md",
+    "z_images/IMG_6347.jpg",
     "z_images/vid 2.mov",
     "intro-to-computational-media/index.md",
-    "intro-to-computational-media/icm_experiments_week-3.md",
     "intro-to-physical-computing/index.md",
     "intro-to-physical-computing/electrical components.md",
     "intro-to-physical-computing/the design of implicit interactions, wendy ju & larry leifer.md",
-    "intro-to-physical-computing/ipc_experiments_week-3.md",
     "intro-to-fabrication/fab_experiments_week-2.md",
     "z_images/implicit vs explicit 1.jpeg",
     "z_images/implicit vs explicit.jpeg",
@@ -223,7 +232,6 @@
     "z_images/IMG_6331 1.mov",
     "z_images/Pasted image 20250921162511.png",
     "z_images/IMG_6331.mov",
-    "z_images/Pasted image 20250921160303.png",
     "z_images/IMG_6316.mov",
     "z_images/quiz-2.pdf",
     "people/nikolai.md",
@@ -231,16 +239,8 @@
     "tangibility makes magic more plausible.md",
     "why i don't want to do vr.md",
     "applications/gerp-meeting_1.md",
-    "people/fabri.md",
-    "intro-to-physical-computing/no to noui, by timo arnall (against invisible design).md",
-    "intro-to-physical-computing/ipc_experiments_week-2.md",
-    "intro-to-physical-computing/ipc_class-3.md",
-    "people/summer.md",
     "z_images/IMG_6277.mov",
-    "applications/kelli anderson's talk.md",
-    "applications/applications_class-3.md",
     "z_images/IMG_6293.mov",
-    "z_images/IMG_6269.mov",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"

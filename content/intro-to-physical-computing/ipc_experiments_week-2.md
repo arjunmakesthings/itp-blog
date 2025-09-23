@@ -17,7 +17,7 @@ read about microcontrollers. liked this:
 
 got interested in differences between a microcontroller and a computer. 
 
-asked [[people/tom igoe|tom igoe]] this: 
+asked [[people/tom|tom]] this: 
 
 > i'm not sure i understand the difference here: 
 > 
@@ -1243,7 +1243,7 @@ it's so pretty to look at — the circuitry. wow.
 
 ---
 
-i also realised this week that <mark>helping other people debug soldifies my understanding</mark> of the medium. this same line of thought carries forward in teaching too. perhaps this is why [[people/tom igoe|tom igoe]] still teaches intro-to-physical-computing. and maybe because he loves it too. 
+i also realised this week that <mark>helping other people debug soldifies my understanding</mark> of the medium. this same line of thought carries forward in teaching too. perhaps this is why [[people/tom|tom]] still teaches intro-to-physical-computing. and maybe because he loves it too. 
 
 had a question about dead batteries. <mark>if i pass electricity through them, (a) do they conduct, and (b) will they explode? what do batteries do, really?</mark>
 

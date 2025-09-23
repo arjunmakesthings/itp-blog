@@ -6,7 +6,7 @@ tags:
 noteOrder: "9"
 draft: "false"
 ---
-[[people/tom igoe|tom igoe]], in [[intro-to-physical-computing/ipc_class-1|ipc_class-1]], spoke about how it's our duty to make people notice things, and want to interact with it. he uses the kinetic-project at itp as an example to explain this: 
+[[people/tom|tom]], in [[intro-to-physical-computing/ipc_class-1|ipc_class-1]], spoke about how it's our duty to make people notice things, and want to interact with it. he uses the kinetic-project at itp as an example to explain this: 
 
 ![[z_images/IMG_6044.mp4]]
 

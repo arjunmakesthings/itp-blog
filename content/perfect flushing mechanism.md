@@ -4,7 +4,7 @@ tags:
 noteOrder: "12"
 draft: "false"
 ---
-[[people/tom igoe|tom igoe]] brought up an interesting problem in [[intro-to-physical-computing/ipc_class-1|ipc_class-1]]: 
+[[people/tom|tom]] brought up an interesting problem in [[intro-to-physical-computing/ipc_class-1|ipc_class-1]]: 
 
 the flush in nyu-bathrooms are controlled by a motion-sensor, meaning that the flush runs when it senses an object leaving. however, people in [[intro-to-physical-computing/ipc_class-1|ipc_class-1]] complained (and i've experienced this too), that sometimes the flush will run as you sit on the toilet (because you may be too far from the sensor), or as you're getting up (you may bend forward too much). 
 

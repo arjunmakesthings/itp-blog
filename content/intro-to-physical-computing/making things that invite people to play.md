@@ -6,7 +6,7 @@ tags:
 noteOrder: "11"
 draft: "false"
 ---
-[[people/tom igoe|tom igoe]] discussed a round knob on the edge of a drilling machine in [[intro-to-physical-computing/ipc_class-1|ipc_class-1]]; something like so: 
+[[people/tom|tom]] discussed a round knob on the edge of a drilling machine in [[intro-to-physical-computing/ipc_class-1|ipc_class-1]]; something like so: 
 
 ![[z_images/Pasted image 20250903085117.png]]
 

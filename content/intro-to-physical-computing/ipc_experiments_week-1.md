@@ -10,7 +10,7 @@ couldn't get multimeter to beep, as said here: https://itp.nyu.edu/physcomp/labs
 
 tried two multimeters. but i know they're working, because [[people/matt | matt]] & i tested it on an active circuit. 
 
-i asked [[people/tom igoe|tom igoe]], and he told me that i was using the wrong mode. the dials on the multimeter select different modes. for continuity, you want to put the dial on continuity. 
+i asked [[people/tom|tom]], and he told me that i was using the wrong mode. the dials on the multimeter select different modes. for continuity, you want to put the dial on continuity. 
 
 ![[z_images/IMG_6113.jpg]]
 

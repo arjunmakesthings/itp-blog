@@ -7,7 +7,7 @@ draft: "false"
 ---
 https://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/
 
-[[people/tom igoe|tom igoe]] included this in the recommended reading for [[intro-to-physical-computing/ipc_class-1|ipc_class-1]]. 
+[[people/tom|tom]] included this in the recommended reading for [[intro-to-physical-computing/ipc_class-1|ipc_class-1]]. 
 
 ---
 bret talks about how future digital-devices don't think about *amplifying* human capabilities, as a good tool must. 

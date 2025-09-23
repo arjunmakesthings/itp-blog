@@ -369,4 +369,14 @@ i think there's some sort of potential with <mark>a switch that can move</mark>.
 
 ---
 
-also read [[intro-to-physical-computing/explicit vs implicit machine interaction|explicit vs implicit machine interaction]] (<- click this for notes). 
+also read [[intro-to-physical-computing/the design of implicit interactions, wendy ju & larry leifer|the design of implicit interactions, wendy ju & larry leifer]] (<- click this for notes). 
+
+---
+### 250922_2244: 
+this class feels like a symphony rising up to a grand crescendo. there are so many ideas that [[people/tom|tom]] has been sharing in class, pulling us to think of interaction in different ways. 
+
+we first looked at interaction; gathered collective vocabulary; touched the surface(s) of 'good' tool-making, 'invisible' design, and implicit machine interaction. 
+
+then there are other courses that pull you in directions of 'magic', 'tool-making', and play. <mark>i can feel things boil</mark>, and i know the <mark>broth is exciting</mark>; but perhaps too pungent for me to handle this first semester. but i'll let it play out; i'll trust everyone who said "<mark>trust the process</mark>", and people's faith in my ability (largely [[people/shobhan|shobhan]] & [[people/prachi|prachi]]). 
+
+![[z_images/IMG_6347.jpg]]
