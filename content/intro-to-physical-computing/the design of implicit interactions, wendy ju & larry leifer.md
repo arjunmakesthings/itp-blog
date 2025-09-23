@@ -1,3 +1,10 @@
+---
+date: 2025-09-22
+tags:
+  - reading
+noteOrder: "82"
+draft: "false"
+---
 read this: 
 
 ![[z_images/design of implicit interactions_annotated.pdf]]

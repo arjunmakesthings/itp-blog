@@ -21,9 +21,9 @@ i also soldered a force-sensing-resistor (fsr).
 ![[z_images/IMG_6292.jpg]]
 
 ---
-i borrwed fsr-s for a bunch of ideas that i have. i need them flat on a counter, and, since they're borrowed, i can't solder them. 
+i borrwed fsr-s for a bunch of ideas that i have. i needed them flat on a counter, and, since they're borrowed, i couldn't solder them. 
 
-[[b]] & audrey showed me how to use (i forgot the name) this tool: 
+[[b]] & [[people/audrey|audrey]] showed me how to use (i forgot the name) this tool: 
 
 ![[z_images/IMG_6290.jpg]]
 
@@ -100,8 +100,6 @@ if you <mark>decrease the pulse-width (make it communicate more), then the effec
 got alligator clips, and got a stable voltage of 5.2v. 
 
 ![[z_images/IMG_6314.jpg]]
-
-
 
 ---
 helped [[people/summer|summer]] with [analog output](https://itp.nyu.edu/physcomp/videos/videos-digital-and-analog-input-and-output/#Analog_Output) and understood it better myself. 
