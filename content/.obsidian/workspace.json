@@ -8,115 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a85dc1714256ebf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-fabrication/fab_experiments_week-2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fab_experiments_week-2"
-            }
-          },
-          {
-            "id": "a37752d1f39b3ca9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-physical-computing/ipc_experiments_week-3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ipc_experiments_week-3"
-            }
-          },
-          {
-            "id": "4d8f52f2f69a937e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-physical-computing/the design of implicit interactions, wendy ju & larry leifer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "the design of implicit interactions, wendy ju & larry leifer"
-            }
-          },
-          {
-            "id": "be7c3ad83287cacf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-physical-computing/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "0885af17e938ef0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-physical-computing/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "35af0264e6ad3da0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-physical-computing/electrical components.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "electrical components"
-            }
-          },
-          {
             "id": "e598569938532a9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/index.md",
+                "file": "intro-to-computational-media/icm_experiments_week-3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "icm_experiments_week-3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -289,18 +193,22 @@
       "note-id:Open side panel": false
     }
   },
-  "active": "a37752d1f39b3ca9",
+  "active": "e598569938532a9a",
   "lastOpenFiles": [
+    "z_images/vid 2.mov",
+    "intro-to-computational-media/index.md",
+    "intro-to-computational-media/icm_experiments_week-3.md",
+    "intro-to-physical-computing/index.md",
+    "intro-to-physical-computing/electrical components.md",
     "intro-to-physical-computing/the design of implicit interactions, wendy ju & larry leifer.md",
     "intro-to-physical-computing/ipc_experiments_week-3.md",
+    "intro-to-fabrication/fab_experiments_week-2.md",
     "z_images/implicit vs explicit 1.jpeg",
     "z_images/implicit vs explicit.jpeg",
     "z_images/design of implicit interactions_annotated.pdf",
     "hypercinema/hypercinema_class-3.md",
-    "intro-to-computational-media/index.md",
     "intro-to-computational-media/icm_class_week-3.md",
     "hypercinema/hypercinema_experiments_week-1.md",
-    "intro-to-fabrication/fab_experiments_week-2.md",
     "z_images/IMG_6341.jpg",
     "z_images/IMG_6340.jpg",
     "z_images/IMG_6339.jpg",
@@ -316,9 +224,7 @@
     "z_images/Pasted image 20250921162511.png",
     "z_images/IMG_6331.mov",
     "z_images/Pasted image 20250921160303.png",
-    "intro-to-physical-computing/index.md",
     "z_images/IMG_6316.mov",
-    "intro-to-physical-computing/electrical components.md",
     "z_images/quiz-2.pdf",
     "people/nikolai.md",
     "durell bishop's answering machine.md",
@@ -334,7 +240,6 @@
     "applications/kelli anderson's talk.md",
     "applications/applications_class-3.md",
     "z_images/IMG_6293.mov",
-    "people/b.md",
     "z_images/IMG_6269.mov",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
