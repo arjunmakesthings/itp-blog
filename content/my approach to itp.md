@@ -15,3 +15,5 @@ it got too much. [[shikha]], [[mum]] & [[people/matt|matt]] helped me see that, 
 however, advice on the floor (and by my inner self) says differently. i'm split, and still trying to find a balance. 
 
 ---
+# 250924:
+[[shawn]]
