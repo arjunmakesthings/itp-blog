@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -196,8 +195,9 @@
   },
   "active": "a13aba95224e9cc9",
   "lastOpenFiles": [
-    "my approach to itp.md",
+    "intro-to-computational-media/index.md",
     "intro-to-computational-media/icm_experiments_week-4.md",
+    "my approach to itp.md",
     "z_images/Screen Recording 2025-09-27 at 22.36.09.mov",
     "z_images/Screen Recording 2025-09-27 at 22.30.32.mov",
     "z_images/Screen Recording 2025-09-27 at 21.43.57.mov",
@@ -206,7 +206,6 @@
     "intro-to-computational-media/icm_experiments_week-3.md",
     "maybe my work is meant to be consumed by a tiny audience.md",
     "intro-to-computational-media/self-portrait.md",
-    "intro-to-computational-media/index.md",
     "intro-to-computational-media/icm_class-1.md",
     "people/jaye.md",
     "intro-to-physical-computing/ipc_experiments_week-3.md",

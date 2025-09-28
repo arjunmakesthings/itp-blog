@@ -160,6 +160,9 @@ function choose_curve() {
 */
 
 ```
+
+i'd also spent some time explaining speed to [[people/aram|aram]] this week, and used that understanding to explore a little bit of speed too (i tried making it dynamic (according to the distance), but left it constant towards the end). 
+
 ---
 # process + thinking: 
 initially, i wanted to make an explainer for a for() loop, inspired by ben fry's [deprocess](https://www.benfry.com/deprocess/). i worked on it a little bit too, but it felt like i would use some of the same things i have in the past, and not learn anything new. 
