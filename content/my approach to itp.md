@@ -15,5 +15,9 @@ it got too much. [[shikha]], [[mum]] & [[people/matt|matt]] helped me see that, 
 however, advice on the floor (and by my inner self) says differently. i'm split, and still trying to find a balance. 
 
 ---
-# 250924:
-[[shawn]]
+# 250927:
+i spoke with [[people/shawn|shawn]], [[people/daniel shiffman|daniel shiffman]] and [[people/tom|tom]], and understood that the first semester is about exposing everyone to a bunch of new things; some of which *i* may have already done. 
+
+so, [[people/daniel shiffman|daniel shiffman]] recommended that i use the first semester to <mark>play</mark> & explore things that i want to, <mark>help</mark> others around me (and form connections), and <mark>not aim for big projects</mark>. i think i need to operate in [light-project](https://www.workingtheorys.com/p/make-something-heavy)-mode. 
+
+---

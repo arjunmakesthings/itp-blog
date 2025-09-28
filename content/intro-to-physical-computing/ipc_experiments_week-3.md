@@ -23,7 +23,7 @@ i also soldered a force-sensing-resistor (fsr).
 ---
 i borrwed fsr-s for a bunch of ideas that i have. i needed them flat on a counter, and, since they're borrowed, i couldn't solder them. 
 
-[[b]] & [[people/audrey|audrey]] showed me how to use (i forgot the name) this tool: 
+[[people/b(ethany)]] & [[people/audrey|audrey]] showed me how to use (i forgot the name) this tool: 
 
 ![[z_images/IMG_6290.jpg]]
 

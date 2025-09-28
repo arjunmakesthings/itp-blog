@@ -1,0 +1,1 @@
+part of itp-'26. works at the shop. does not like her name for some reason; likes to be called 'b'.
