@@ -1,1 +1,1 @@
-part of itp-'27; studied at chinese academy of art; was a gymnast earlier. can draw.
+part of itp-'27; studied at china academy of art; was a gymnast earlier. can draw.
