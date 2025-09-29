@@ -81,4 +81,96 @@ i'm going to come in tomorrow and just mess around with sensors, reading data, a
 
 ---
 
+# 250929_1411: 
+i wanted to make a servo work first. 
 
+i knew i needed more current, to give it enough inertia. i grabbed 3 components, all from the transistor rack and read their data-sheets. one turned out to be a voltage regulator. 
+
+![[z_images/IMG_6453 1.jpg]]
+
+tip102 is an npn transistor. i chose to use that, because i understand how they work. 
+
+in this case, the idea is that the servo has voltage coming in
+
+![[z_images/IMG_6454.jpg]]
+
+great; so, this doesn't work. 
+
+![[z_images/IMG_6456.jpg]]
+
+i'm going to figure out why. my first guess is that the motor is not receiving enough current. 
+
+second test: 
+the idea is to use a transistor to amplify the voltage given to the servo. 
+
+![[z_images/IMG_6457.jpg]]
+
+i also tried this, since the problem was with the current not being regulated last time. 
+
+![[z_images/IMG_6458.jpg]]
+
+i then bugged [[people/nikolai|nikolai]] for help. we discussed how transistors are used, and how i may use a different power source to power the servo. he also suggested using an oscilloscope to debug my circuit. 
+
+![[z_images/IMG_6459 1.jpg]]
+
+i decided to do this, and have two different circuits. 
+
+![[z_images/IMG_6460.jpg]]
+
+this worked. 
+
+![[z_images/IMG_6461.mov]]
+
+i then started to look at the oscilloscope. 
+
+this is the pulse my arduino sends via the digital output pin. 
+
+![[z_images/IMG_6462.mov]]
+
+voltage through the circuit, without & with a capacitor. 
+
+![[z_images/IMG_6465.mov]]
+
+![[z_images/IMG_6470.mov]]
+
+another without: 
+
+![[z_images/IMG_6466.mov]]
+
+even if nothing was plugged in, the voltage was still fluctuating exactly like when i last measured it, even if i clicked the 'auto' button. that was weird. 
+
+![[z_images/IMG_6471.mov]]
+
+at this point, i only know how to see the pulse width modulation via an oscilloscope. i realised that the pulse width was too little. maybe that is what needs to be amplified via the transistor.
+
+i then tried this. essentially, 3.3v (and whatever current) comes in through the arduino into the transistor. since digital-output sends less current, the transistor should amplify this current to the motor; thereby sending it more current to move. 
+
+![[z_images/IMG_6473.jpg]]
+
+that didn't work, and i'm not quite sure why. it should just connect 1 & 3. 
+
+![[z_images/IMG_6475.jpg]]
+
+i don't get it. what is wrong?  this should essentially boost the pulse going into the arduino. 
+
+![[z_images/IMG_6476.jpg]]
+
+but, when i measure with an oscilloscope, there *is* an increased voltage being passed via the transistor. 
+
+![[z_images/IMG_6478.mov]]
+
+to verify this, i plugged in another scope to measure the 'in' and 'out' via the transistor. 
+
+![[z_images/IMG_6479.jpg]]
+
+and, as expected, the voltage out from the transistor is much higher. why, then, does it not affect the servo motor? 
+
+![[z_images/IMG_6480.mov]]
+
+why, then, does this not work? 
+
+![[z_images/IMG_6481.mov]]
+
+but, i understood transistors a lot more in this week. i might come in tomorrow and work a bit on trying to make a beat-maker of sorts, with fsr-s as the interface. 
+
+---

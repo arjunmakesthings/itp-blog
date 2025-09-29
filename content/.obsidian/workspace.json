@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-fabrication/fab_class-5.md",
+                "file": "intro-to-physical-computing/ipc_experiments_week-4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fab_class-5"
+              "title": "ipc_experiments_week-4"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -195,8 +196,30 @@
   },
   "active": "34f11067ab4ff612",
   "lastOpenFiles": [
-    "intro-to-fabrication/fab_class-3.md",
+    "z_images/IMG_6481.mov",
+    "z_images/IMG_6480.mov",
+    "z_images/IMG_6479.jpg",
+    "z_images/IMG_6478.mov",
+    "z_images/IMG_6476.jpg",
+    "z_images/IMG_6475.jpg",
+    "z_images/IMG_6473.jpg",
+    "z_images/IMG_6472 1.jpg",
+    "z_images/IMG_6472.jpg",
+    "z_images/IMG_6471.mov",
+    "z_images/IMG_6466.mov",
+    "z_images/IMG_6465.mov",
+    "z_images/IMG_6470.mov",
+    "z_images/IMG_6462.mov",
+    "z_images/IMG_6461.mov",
+    "z_images/IMG_6460.jpg",
+    "z_images/IMG_6459 1.jpg",
+    "z_images/IMG_6459.jpg",
+    "z_images/IMG_6458.jpg",
+    "intro-to-physical-computing/ipc_class-3.md",
+    "intro-to-physical-computing/ipc_class-4.md",
+    "intro-to-physical-computing/ipc_experiments_week-4.md",
     "intro-to-fabrication/fab_class-5.md",
+    "intro-to-fabrication/fab_class-3.md",
     "people/jaye.md",
     "people/b(ethany).md",
     "people/fabri.md",
@@ -214,33 +237,11 @@
     "intro-to-fabrication/fab_class-4.md",
     "perfect flushing mechanism.md",
     "anxiety.md",
-    "intro-to-physical-computing/ipc_experiments_week-4.md",
     "intro-to-physical-computing/electrical components.md",
     "my approach to itp.md",
     "my principles as a creator.md",
-    "z_images/Screenshot 2025-09-28 at 20.18.50.png",
-    "maybe my work is meant to be consumed by a tiny audience.md",
-    "conversation with shawn.md",
-    "programmable resistors.md",
     "z_images/IMG_6443.mov",
     "z_images/IMG_6441.mov",
-    "z_images/IMG_6439.jpg",
-    "z_images/IMG_6444.jpg",
-    "z_images/IMG_6376 1.jpg",
-    "z_images/IMG_6376.jpg",
-    "z_images/IMG_6372.jpg",
-    "z_images/IMG_6370 1.jpg",
-    "z_images/IMG_6369 1.jpg",
-    "z_images/IMG_6368 1.jpg",
-    "z_images/IMG_6368.jpg",
-    "z_images/IMG_6437.mov",
-    "z_images/IMG_6361.mov",
-    "z_images/Screen Recording 2025-09-27 at 22.36.09.mov",
-    "z_images/Screen Recording 2025-09-27 at 22.30.32.mov",
-    "z_images/Screen Recording 2025-09-27 at 21.43.57.mov",
-    "z_images/Screen Recording 2025-09-27 at 21.17.44.mov",
-    "z_images/vid 2.mov",
-    "z_images/design of implicit interactions_annotated.pdf",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"
