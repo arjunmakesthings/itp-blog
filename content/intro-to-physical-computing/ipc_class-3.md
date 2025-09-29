@@ -8,7 +8,7 @@ draft: "false"
 # notes: 
 - we spoke about [[all design (technically) excludes people]], and [[people/tom|tom]] reiterated that this class is about <mark>finding your way as a designer</mark> (by asking what is our philosophy). i think, owing to the absence of absolute-rights, it might be helpful to <mark>operate via principles</mark> (see [[inventing on principle, by bret victor]]).
   
-  this makes me want to explore this for myself: [[my principles as a designer]]. 
+  this makes me want to explore this for myself: [[my principles as a creator]]. 
 - discussed how the computer and microcontroller operate at a [[terms & concepts/baud rate | baud rate]], which is the number of symbols (bits / pulses) passed every second. traditionally it's kept at 9600 for the arduino. 
 - <mark>every electrical thing has some charge</mark>, even when not connected. important to <mark>account for that noise.</mark> i think this is something [[people/cody frost|cody frost]] also told me.
 - spoke about state change detection, which i stumbled opon myself in [[intro-to-physical-computing/ipc_experiments_week-2|ipc_experiments_week-2]]. 

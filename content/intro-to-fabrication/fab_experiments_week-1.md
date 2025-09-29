@@ -105,3 +105,20 @@ maybe i'm also <mark>impulsive & impatient</mark>.
 realised that the tools & material we work with have some amount of control over our outcome. we mustn't fight that — it's never going to turn out *exactly* as you envisioned it. it shouldn't; the things you work with *should* have some control. 
 
 and, also, that there is no room for impatience in fabrication. it takes the amount of time it needs to take, forced to fulfil its [eigenzeit](https://forum.zettelkasten.de/discussion/2323/eigenzeit). 
+
+---
+# output: 
+
+![[z_images/IMG_6428.jpg]]
+
+![[z_images/IMG_6427.jpg]]
+
+![[z_images/IMG_6426.jpg]]
+
+![[z_images/IMG_6425.jpg]]
+
+![[z_images/IMG_6424.jpg]]
+
+![[z_images/IMG_6423.jpg]]
+
+![[z_images/IMG_6422.jpg]]

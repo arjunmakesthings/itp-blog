@@ -79,6 +79,12 @@ act as electronic switches. when a small voltage is put to the base and emitter,
 
 look very similar to voltage regulators. 
 
+explained by [[people/christina tang|christina tang]] in [[intro-to-physical-computing/ipc_experiments_week-4|ipc_experiments_week-4]]: 
+
+> essentially, transistors are of two types: npn or pnp, meaning that npn (negative positive negative) closes the switch to allow current to pass through it (when the switch or base receives voltage), whereas pnp opens the gate (not allowing current to pass). every transistor falls within these two types. 
+
+![[z_images/IMG_6376.jpg]]
+
 ---
 # microcontrollerS: 
 a simple processor (see below for definition) that can do only one task, like listening to sensors. 

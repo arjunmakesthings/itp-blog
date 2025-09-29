@@ -5,6 +5,8 @@ tags:
 noteOrder: "92"
 draft: "false"
 ---
+# ask: 
+> Our ability to see patterns is what makes us human. However we also see patterns where none exist because our brains are biased towards detecting certain kinds of patterns over others (e.g. faces). Create a pattern by making something with a lot of repetition.
 # output: 
 i (joyfully) watched [[people/gabriel|gabriel]] get annoyed with bezier-curves. they've always seemed really pretty to me. 
 
@@ -616,3 +618,10 @@ i've been feeling very anxious (see [[anxiety]]), not getting enough sleep, and 
 
 i <mark>need to do my icm-assignments alone</mark>, and in the night. the loudness & chaos of the floor is not something that i can handle. i work best in quiet environments — this week's experiments are testament. 
 
+---
+
+![[z_images/Screenshot 2025-09-28 at 20.18.50.png]]
+
+i think this is what [[people/shawn|shawn]] meant. perhaps there are people who will just not understand the work i do, or the work that i like doing (and the magic & complexity behind it). instead of trying to fight it, i think i need to start being okay with it now. 
+
+<mark>i don't need to impress (or mean anything to) anyone</mark>. i just need to <mark>be true to my own curiosity</mark>.

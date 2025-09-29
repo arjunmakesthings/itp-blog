@@ -35,4 +35,4 @@ also expressed as:
 opposition to current flowing in a circuit. this is usually created by intentionally or unintentionally (because every material has some resistance) causing collisions of electrons, and getting them to expend heat. air has resistance, but an infinitely higher one, and therefore does not allow any current to pass through the conductive-points it touches. a resistor on the other hand has a lower resistance, and, therefore, allows some current to pass through.  
 
 ---
-electricity can also produce magnetic-fields, with [[electromagnetism]]. 
+electricity can also produce magnetic-fields, with [[intro-to-physical-computing/electromagnetism]]. 

@@ -90,3 +90,11 @@ decided that wasn't the assignment — to spend time sanding — and focused on
 
 ![[z_images/IMG_6341.jpg]]
 
+---
+# output: 
+
+![[z_images/IMG_6408.jpg]]
+
+![[z_images/IMG_6407.jpg]]
+
+![[z_images/IMG_6403.jpg]]

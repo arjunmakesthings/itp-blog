@@ -21,3 +21,7 @@ i spoke with [[people/shawn|shawn]], [[people/daniel shiffman|daniel shiffman]] 
 so, [[people/daniel shiffman|daniel shiffman]] recommended that i use the first semester to <mark>play</mark> & explore things that i want to, <mark>help</mark> others around me (and form connections), and <mark>not aim for big projects</mark>. i think i need to operate in [light-project](https://www.workingtheorys.com/p/make-something-heavy)-mode. 
 
 ---
+# 250928: 
+addition: 
+
+> be true to your own curiosity. 
