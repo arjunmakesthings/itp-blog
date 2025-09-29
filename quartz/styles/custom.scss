@@ -172,3 +172,8 @@ code{
 width: 8; 
 height: 8; 
 }
+
+.katex-display, .katex, .katex-html{
+  font-size: var(--base_size); 
+  text-align: left; 
+}
