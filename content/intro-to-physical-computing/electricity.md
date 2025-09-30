@@ -36,3 +36,7 @@ opposition to current flowing in a circuit. this is usually created by intention
 
 ---
 electricity can also produce magnetic-fields, with [[intro-to-physical-computing/electromagnetism]]. 
+
+---
+# 250930_1506: 
+think about electricity as electrons moving from high potential areas t 

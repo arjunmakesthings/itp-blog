@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/ipc_experiments_week-4.md",
+                "file": "intro-to-physical-computing/electricity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ipc_experiments_week-4"
+              "title": "electricity"
             }
           }
         ],
@@ -89,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,10 +210,10 @@
   },
   "active": "1f0ceef59cbe80f0",
   "lastOpenFiles": [
+    "intro-to-physical-computing/ipc_experiments_week-4.md",
     "z_images/IMG_6489.jpg",
     "case against ai.md",
     "intro-to-physical-computing/electrical components.md",
-    "intro-to-physical-computing/ipc_experiments_week-4.md",
     "z_images/Pasted image 20250930132754.png",
     "intro-to-physical-computing/ipc_class-4.md",
     "z_images/IMG_6488.jpg",
@@ -241,7 +240,6 @@
     "z_images/IMG_6476.jpg",
     "z_images/IMG_6475.jpg",
     "z_images/IMG_6473.jpg",
-    "z_images/IMG_6472 1.jpg",
     "z_images/IMG_6471.mov",
     "z_images/IMG_6466.mov",
     "z_images/IMG_6465.mov",
