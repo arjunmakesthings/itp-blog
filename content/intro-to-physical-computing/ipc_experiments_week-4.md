@@ -174,3 +174,37 @@ why, then, does this not work?
 but, i understood transistors a lot more in this week. i might come in tomorrow and work a bit on trying to make a beat-maker of sorts, with fsr-s as the interface. 
 
 ---
+# quiz: 
+i looked at the quiz, but i don't yet understand the point of it. last time when we filled it, it wasn't discussed — so we might have gotten away with answers that weren't right. at the moment, making things shows me more things than the quiz, and i understand concepts more clearly than assuming that my answer was right on a quiz. 
+
+[[people/tom|tom]] had said that the quiz is meant to help us understand if we know what's happening. but, via a quiz, i can't visualise what's happening (or supposed to happen). i'll just make a list of things that i didn't understand, and ask tom later. 
+
+i understood everything, <mark>except this</mark>: 
+
+> Two resistors in series create a voltage divider. When one of the resistors is a variable resistor, they can be used to create an analog input to a microcontroller. Draw and upload the schematic for this circuit (PNG or JPG only).
+
+i was also confused about this: 
+
+> Imagine you used analogRead() to read an analog input. You got a reading of 10. Assume an analog input voltage range from 0 to 5 V. What is the voltage of your reading?
+
+my answer: 
+
+```
+map? 
+
+function mapRange(value, inMin, inMax, outMin, outMax) {
+  return ((value - inMin) * (outMax - outMin)) / (inMax - inMin) + outMin;
+}
+
+function calc() {
+  var val = mapRange(10, 0, 1023, 0, 5);
+  console.log(val);
+}
+calc();
+
+
+0.04v?
+```
+
+---
+# making a beat-looper: 
