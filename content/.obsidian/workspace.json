@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -211,6 +212,7 @@
   },
   "active": "1f0ceef59cbe80f0",
   "lastOpenFiles": [
+    "z_images/IMG_6489.jpg",
     "case against ai.md",
     "intro-to-physical-computing/electrical components.md",
     "intro-to-physical-computing/ipc_experiments_week-4.md",
@@ -256,7 +258,6 @@
     "people/lucia.md",
     "people/shobhan.md",
     "people/jasmine.md",
-    "people/aditya.md",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"

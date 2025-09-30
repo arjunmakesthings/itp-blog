@@ -237,3 +237,20 @@ i do, however, think it is about investment. maybe some people are doing physica
 and both sides are okay; no one's wrong. 
 
 ---
+i then thought more about the midterm. [[people/tom|tom]]'s reply stuck (and stung): 
+
+> Making an electromagnet is out of the scope of the assignment. The assignment is to make a physically interactive device using the techniques we've covered thus far. Electromagnetism isn't one of those techniques.
+
+this week i understood that i'm far off from making something 'big'. in line with [[my principles as a creator]], i need to <mark>stay true to my curiosity</mark>. so, i pulled out a giant sheet of paper, and re-thought my midterm; with more authenticity. 
+
+![[z_images/IMG_6489.jpg]]
+
+my project is now about by the magic that we're dealing with, but fail to acknowledge. inspired by this dialogue between [[people/shobhan|shobhan]] and rajesh-dahiya (a 'famous' designer in india): 
+
+> dahiya tore-down my burgeoning prejudice against recent forms of first word art: when i tried to criticise AR/VR, he cut me off, pointed at a light-switch, and wondered how ‘flicking a mechanical switch to fire electrons that illuminate a bulb far away’ is no less crazy than ‘wearing a virtual-reality headset’.
+> 
+> from [stockholm:life, by shobhan](https://www.setwrite.in/activities/201907-stockholm-life.html)
+
+i now want to show what happens when you light up an led, make people actually send electrons via a circuit (represented by tiny leds, under a panel). 
+
+
