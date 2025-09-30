@@ -253,4 +253,9 @@ my project is now about by the magic that we're dealing with, but fail to acknow
 
 i now want to show what happens when you light up an led, make people actually send electrons via a circuit (represented by tiny leds, under a panel). 
 
+---
+i'm okay with doing 'small' or 'light' things (see https://www.workingtheorys.com/p/make-something-heavy), because i am staying true to my curiosity. i'm not there yet, to do big (or heavy) things, and make projects like the [media lab](https://www.media.mit.edu/groups/tangible-media/people/) does. 
+
+i might get there someday. but it's not today. i'm not there yet; i don't know enough yet. 
+
 
