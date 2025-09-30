@@ -223,3 +223,4 @@ i wanted to use a variable power supply to boost the voltage going into the spea
 but, i couldn't get the speaker to work. so.
 
 ---
+[[people/aram|aram]] asked me why i don't use chat-gpt to get it to work. 
