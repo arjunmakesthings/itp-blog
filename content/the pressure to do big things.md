@@ -20,4 +20,3 @@ hard-work to make up for dim-wit.
 trump's [shenanigans](https://www.bbc.com/news/articles/cm2zk4l8g26o). 
 
 chasing love never gotten. 
-
