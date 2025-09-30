@@ -127,8 +127,8 @@ Servomotors are motors with a combination of gears and an embedded potentiometer
 - ground
 - control
 
----
-
+![[z_images/Pasted image 20250930132754.png]]
+<figcaption>source: https://www.sparkfun.com/servos</figcaption>
 
 ---
 more parts to read about are here: https://itp.nyu.edu/physcomp/labs/components/

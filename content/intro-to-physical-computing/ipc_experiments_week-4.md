@@ -223,4 +223,17 @@ i wanted to use a variable power supply to boost the voltage going into the spea
 but, i couldn't get the speaker to work. so.
 
 ---
-[[people/aram|aram]] asked me why i don't use chat-gpt to get it to work. 
+[[people/aram|aram]] asked me why i don't use chat-gpt to get it to work, and bother racking my head instead. 
+
+i told him that it is because i *can* get it work by asking a chatbot, but (a) i won't bother understanding how it worked, and (b) i would lose out on all the other potential learning that 'not knowing' could lead me to (such as *actually* understanding what transistors do). 
+
+yes, not asking an ai-chatbot consumes more time, but it gives me more than *a* answer. related to [[case against ai]]. 
+
+---
+[[people/summer|summer]] then asked me about a question on the [sensor-change](https://itp.nyu.edu/physcomp/labs/labs-arduino-digital-and-analog/lab-sensor-change-detection/) labs. i realised that everyone is so concerned with getting through the labs, almost like a checklist. i wonder what the right approach is — my gut says it is to try things, and learn experientially; but i may be wrong. 
+
+i do, however, think it is about investment. maybe some people are doing physical-computing because it's a requirement. i enjoy understanding — i can't fight it, it's general curiosity. 
+
+and both sides are okay; no one's wrong. 
+
+---

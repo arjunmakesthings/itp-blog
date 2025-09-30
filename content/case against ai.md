@@ -12,6 +12,14 @@ yet to formulate.
 # incidents: 
 - mimi asking the computer to draw {emotion} rectangle in [[intro-to-computational-media/icm_class-1|icm_class-1]], and it failing to do so. 
 - asking the computer to make a game on an arduino, but it not understanding the intricacies (and getting them wrong); in [[intro-to-physical-computing/ipc_experiments_week-2|ipc_experiments_week-2]]. 
+- from [[intro-to-physical-computing/ipc_experiments_week-4|ipc_experiments_week-4]]: 
+	- [[people/aram|aram]] asked me why i don't use chat-gpt to get it to work, and bother racking my head instead. 
+
+	  i told him that it is because i *can* get it work by asking a chatbot, but (a) i won't bother understanding how it worked, and (b) i would lose out on all the other potential learning that 'not knowing' could lead me to (such as *actually* understanding what transistors do). 
+	
+	  yes, not asking an ai-chatbot consumes more time, but it gives me more than *a* answer. 
+- 
+
 
 ---
 
