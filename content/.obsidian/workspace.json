@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the pressure to do big things.md",
+                "file": "intro-to-physical-computing/ipc_experiments_week-4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the pressure to do big things"
+              "title": "ipc_experiments_week-4"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -211,8 +210,8 @@
   },
   "active": "cbbec5a54fd8f096",
   "lastOpenFiles": [
-    "intro-to-physical-computing/ipc_experiments_week-4.md",
     "the pressure to do big things.md",
+    "intro-to-physical-computing/ipc_experiments_week-4.md",
     "z_images/IMG_6481.mov",
     "z_images/IMG_6480.mov",
     "z_images/IMG_6479.jpg",

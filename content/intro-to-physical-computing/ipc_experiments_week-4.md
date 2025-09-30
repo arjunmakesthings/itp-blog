@@ -90,7 +90,7 @@ i knew i needed more current, to give it enough inertia. i grabbed 3 components,
 
 tip102 is an npn transistor. i chose to use that, because i understand how they work. 
 
-in this case, the idea is that the servo has voltage coming in
+in this case, the idea is that the servo has voltage coming in via the transistor. in hindsight, i may not understand how transistors work. 
 
 ![[z_images/IMG_6454.jpg]]
 
@@ -105,7 +105,7 @@ the idea is to use a transistor to amplify the voltage given to the servo.
 
 ![[z_images/IMG_6457.jpg]]
 
-i also tried this, since the problem was with the current not being regulated last time. 
+i also tried this, since the problem last time was the current not being regulated. 
 
 ![[z_images/IMG_6458.jpg]]
 
@@ -137,13 +137,13 @@ another without:
 
 ![[z_images/IMG_6466.mov]]
 
-even if nothing was plugged in, the voltage was still fluctuating exactly like when i last measured it, even if i clicked the 'auto' button. that was weird. 
+<mark>even if nothing was plugged in, the voltage was still fluctuating</mark> exactly like when i last measured it, even if i clicked the 'auto' button. that was weird. 
 
 ![[z_images/IMG_6471.mov]]
 
 at this point, i only know how to see the pulse width modulation via an oscilloscope. i realised that the pulse width was too little. maybe that is what needs to be amplified via the transistor.
 
-i then tried this. essentially, 3.3v (and whatever current) comes in through the arduino into the transistor. since digital-output sends less current, the transistor should amplify this current to the motor; thereby sending it more current to move. 
+i then tried this. essentially, 3.3v (and whatever current) comes in through the arduino into the transistor. since digital-output sends less current, the <mark>transistor should amplify this current to the motor; thereby sending it more current to move</mark>. 
 
 ![[z_images/IMG_6473.jpg]]
 
@@ -151,7 +151,7 @@ that didn't work, and i'm not quite sure why. it should just connect 1 & 3.
 
 ![[z_images/IMG_6475.jpg]]
 
-i don't get it. what is wrong?  this should essentially boost the pulse going into the arduino. 
+i don't get it. <mark>what is wrong?  this should essentially boost the pulse</mark> going into the arduino. 
 
 ![[z_images/IMG_6476.jpg]]
 
