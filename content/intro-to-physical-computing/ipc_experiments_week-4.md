@@ -208,3 +208,18 @@ calc();
 
 ---
 # making a beat-looper: 
+<mark>how do i know how much current can something take</mark>? for example, the speaker: 
+
+![[z_images/IMG_6486.jpg]]
+
+<mark>why did this not work? </mark>
+
+![[z_images/IMG_6487.jpg]]
+
+i wanted to use a variable power supply to boost the voltage going into the speaker. 
+
+![[z_images/IMG_6488.jpg]]
+
+but, i couldn't get the speaker to work. so.
+
+---
