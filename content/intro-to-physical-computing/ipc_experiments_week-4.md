@@ -5,7 +5,7 @@ tags:
 noteOrder: "90"
 draft: "false"
 ---
-began with a bunch of unconnected thoughts, and a conversation with [[tom]]. 
+ began with a bunch of unconnected thoughts, and a conversation with [[tom]]. 
 
 ![[z_images/IMG_6445.jpg]]
 
