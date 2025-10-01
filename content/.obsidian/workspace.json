@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-fabrication/fab_class-5.md",
+                "file": "intro-to-fabrication/fab_experiments_week-4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fab_class-5"
+              "title": "fab_experiments_week-4"
+            }
+          },
+          {
+            "id": "120156a712a02a86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bairui's talk on recho.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bairui's talk on recho"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,15 +236,17 @@
       "note-id:Open side panel": false
     }
   },
-  "active": "0cd546a70e935ba6",
+  "active": "120156a712a02a86",
   "lastOpenFiles": [
+    "people/bairui.md",
+    "bairui's talk on recho.md",
+    "intro-to-fabrication/fab_experiments_week-4.md",
+    "intro-to-fabrication/fab_class-5.md",
     "intro-to-fabrication/fab_class-2.md",
     "intro-to-fabrication/fab_class-1.md",
     "intro-to-fabrication/fab_experiments_week-1.md",
-    "intro-to-fabrication/fab_experiments_week-4.md",
     "intro-to-fabrication/fab_experiments_week-2.md",
     "intro-to-fabrication/fab_experiments_week-3.md",
-    "intro-to-fabrication/fab_class-5.md",
     "z_images/Screenshot 2025-10-01 at 09.54.58.png",
     "z_images/Screenshot 2025-10-01 at 09.54.28.png",
     "z_images/Screenshot 2025-10-01 at 09.52.37.png",
@@ -258,7 +274,6 @@
     "new interfaces for textual expression, by allison parrish.md",
     "z_images/New Interfaces for Textual Expression.pdf",
     "people/allison parrish.md",
-    "the pressure to do big things.md",
     "z_images/IMG_6481.mov",
     "z_images/IMG_6480.mov",
     "z_images/IMG_6479.jpg",
@@ -269,7 +284,6 @@
     "z_images/IMG_6470.mov",
     "z_images/IMG_6462.mov",
     "z_images/IMG_6461.mov",
-    "intro-to-fabrication/fab_class-3.md",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"
