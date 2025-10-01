@@ -25,3 +25,5 @@ if there is something that consumes electricity, and converts it to, say, heat, 
 
 ![[z_images/Pasted image 20251001113012.png]]
 
+---
+later, we also spoke about controlling high-loads (such as a dc motor), and how we may use a diode to block current flowing in the opposite way. 
