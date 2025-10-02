@@ -12,5 +12,7 @@ draft: "false"
 > sub asks: 
 > 
 > On a technical level, though, your project should show that you <mark>understand digital input and output, analog input and output, serial communication, and good physical interaction design principles</mark>. On a conceptual level, your project should <mark>help people to enjoy</mark> whatever setting it is designed for.
+> 
+> source: https://itp.nyu.edu/physcomp/syllabus/assignments/#Midterm_Project
 
 ---

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/midterm-log.md",
+                "file": "intro-to-physical-computing/ipc_experiments_week-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "midterm-log"
+              "title": "ipc_experiments_week-5"
             }
           }
         ]
@@ -196,8 +196,13 @@
   },
   "active": "c99d1415263a307e",
   "lastOpenFiles": [
-    "intro-to-physical-computing/index.md",
+    "z_images/IMG_6500.jpg",
+    "people/david rios.md",
+    "intro-to-physical-computing/ipc_experiments_week-5.md",
+    "z_images/IMG_6498.jpg",
+    "z_images/IMG_6497.jpg",
     "intro-to-physical-computing/midterm-log.md",
+    "intro-to-physical-computing/index.md",
     "intro-to-physical-computing/electrical components.md",
     "resources & tools/index.md",
     "intro-to-physical-computing/practical electronics for inventors.md",
@@ -226,14 +231,9 @@
     "people/james.md",
     "people/antonia.md",
     "people/alua.md",
-    "people/tess.md",
-    "people/devlin.md",
-    "people/ryan.md",
     "z_images/Pasted image 20251001113012.png",
     "z_images/Pasted image 20251001112823.png",
     "z_images/Pasted image 20251001112657.png",
-    "z_images/Pasted image 20251001112636.png",
-    "z_images/Screenshot 2025-10-01 at 09.54.58.png",
     "z_images/New Interfaces for Textual Expression.pdf",
     "z_images/IMG_6481.mov",
     "z_images/IMG_6480.mov",
