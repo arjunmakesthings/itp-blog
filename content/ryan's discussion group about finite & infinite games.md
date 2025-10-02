@@ -28,5 +28,10 @@ most people my age have also been converted to playing more finite games (though
 
 somehow, at times, <mark>what i say is discarded immediately</mark> by people hearing them (and they choose to share their perspectives instead). i wonder if this is <mark>racial</mark> — because it happens via some people — or is it because they think lowly of me (because of some other arbitrary factor that i can't yet understand). 
 
+or maybe, it's because i don't present (or market, according to [[people/ryan|ryan]]) it well. [[people/matt|matt]] said: 
+> with time there will be more of a shared understanding where people can better consider the points you bring up. 
+
+maybe. 
+
 
 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ryan's discussion group.md",
+                "file": "ryan's discussion group about finite & infinite games.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ryan's discussion group"
+              "title": "ryan's discussion group about finite & infinite games"
             }
           },
           {
@@ -83,7 +83,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -239,8 +239,9 @@
   },
   "active": "7e62697a6867e71c",
   "lastOpenFiles": [
+    "sarah's what-if mixer.md",
+    "ryan's discussion group about finite & infinite games.md",
     "people/james.md",
-    "ryan's discussion group.md",
     "people/cody.md",
     "people/antonia.md",
     "people/alua.md",
@@ -268,7 +269,6 @@
     "intro-to-physical-computing/ipc_experiments_week-3.md",
     "intro-to-physical-computing/ipc_experiments_week-4.md",
     "bairui's talk on recho.md",
-    "people/bairui.md",
     "z_images/Screenshot 2025-10-01 at 09.54.58.png",
     "z_images/Screenshot 2025-10-01 at 09.54.28.png",
     "z_images/Screenshot 2025-10-01 at 09.52.37.png",
