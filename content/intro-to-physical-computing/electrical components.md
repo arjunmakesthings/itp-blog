@@ -131,4 +131,25 @@ Servomotors are motors with a combination of gears and an embedded potentiometer
 <figcaption>source: https://www.sparkfun.com/servos</figcaption>
 
 ---
+# semiconductors: 
+got from [[intro-to-physical-computing/practical electronics for inventors|practical electronics for inventors]]. 
+
+difference between insulators & conductors. 
+
+![[z_images/Pasted image 20251002104646.png]]
+<figcaption>source: https://www.youtube.com/watch?v=gUmDVe6C-BU</figcaption>
+
+but, this gap in an insulator can be lowered with heat, making it conductive: 
+
+![[z_images/Pasted image 20251002104812.png]]
+
+but that'd destroy the original material. 
+
+![[z_images/Pasted image 20251002104838.png]]
+
+so, they <mark>print transistors using photolithography</mark> (capable of making a piece of insulated material (such as silicon) conductive, by passing an electrical charge into it). therefore, a semiconductor can turn on / off (and, therefore, send many different kinds of signals). 
+
+![[z_images/Pasted image 20251002105013.png]]
+
+---
 more parts to read about are here: https://itp.nyu.edu/physcomp/labs/components/

@@ -22,6 +22,10 @@ also expressed as:
 
 `volt - joules (heat) / colomb (group of electrons (6.25 × 10^18 electrons.))`
 
+from [[intro-to-physical-computing/practical electronics for inventors|practical electronics for inventors]]: 
+
+> To get electrical current to flow from one point to another, a voltage must exist between the two points. A voltage placed across a conductor gives rise to an electromotive force (EMF) that is responsible for giving all free electrons within the conductor a push. As a technical note, before we begin, voltage is also referred to as a potential difference or just potential—they all mean the same thing. We’ll avoid using these terms, however, because it is easy to confuse them with the term potential energy, which is not the same thing. A simple flashlight circuit, consisting of a battery connected to a lamp, through two conductors and a switch, is shown in Fig. 2.4. When the switch is open (“off”), no current will flow. The moment the switch is closed, however, the resistance of the switch falls to almost zero, and current will flow. This voltage then drives all free electrons, everywhere within the circuit, in a direction that points from negative to positive; conventional current flow, of course, points in the opposite direction (see Benjamin Franklin).
+
 ---
 # current: 
 flow of electrons through a conductor. a circuit can afford to push x electrons, but how much is actually flowing between two points? this, as i understand it, is the conversion of potential energy to kinetic energy. measured in amperes, where 1 ampere = 1 coulomb (which is ~6.25 × 10^18 electrons). 
