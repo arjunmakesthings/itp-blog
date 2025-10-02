@@ -89,7 +89,7 @@ laser-cutting on paper was fun to look at though.
 
 ![[z_images/IMG_6437.mov]]
 
-[[people/cody frost|cody frost]] taught me that i can tape up paper, to prevent it from moving. 
+[[people/cody|cody]] taught me that i can tape up paper, to prevent it from moving. 
 
 ![[z_images/IMG_6433.jpg]]
 

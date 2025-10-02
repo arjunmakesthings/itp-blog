@@ -73,7 +73,7 @@ pasted, and screwed-in pieces. realised wood-glue takes time to try. made many b
 
 ---
 
-[[people/cody frost|cody frost]] & [[aram]] advised me to sand the edges. i tried, with a piece of 80-grit sandpaper, but it took too long. i'd have to sand about 125 edges. each edge takes ~3 minutes. 
+[[people/cody|cody]] & [[aram]] advised me to sand the edges. i tried, with a piece of 80-grit sandpaper, but it took too long. i'd have to sand about 125 edges. each edge takes ~3 minutes. 
 
 decided that wasn't the assignment — to spend time sanding — and focused on other things instead. i think i learnt a bit about replication (although i wish i'd done something with angled cuts), focusing on the ask of the assignment, sketching (or modelling), and this contributed in the change to [[my approach to itp]]. 
 

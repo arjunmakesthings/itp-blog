@@ -6,7 +6,7 @@ tags:
 noteOrder: "32"
 draft: "false"
 ---
-went with [[people/cody frost|cody frost]]. 
+went with [[people/cody|cody]]. 
 
 ---
 related to [[intro-to-physical-computing/is it is our duty to make people notice things?|is it is our duty to make people notice things?]]:  [[sarah rothberg]]'s work invited people to speculative-scenarios, and made them converse with each other. 
