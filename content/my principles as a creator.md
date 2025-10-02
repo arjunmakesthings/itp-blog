@@ -23,6 +23,12 @@ i think this is what [[people/shawn|shawn]] meant. perhaps there are people who 
 <mark>i don't need to impress (or mean anything to) anyone</mark>. i just need to <mark>be true to my own curiosity</mark>.
 
 ---
+# pursue work as an infinite-play: 
+borrowed from [[applications/finite & infinite games|finite & infinite games]] & solidified during [[ryan's discussion group about finite & infinite games]]. 
+
+don't make work to win over others (or to show that you're 'better' than them), but merely to facilitate (yours, or someone else's) curiosity. 
+
+---
 
 still thinking about this. 
 
