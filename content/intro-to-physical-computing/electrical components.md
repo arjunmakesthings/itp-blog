@@ -152,4 +152,8 @@ so, they <mark>print transistors using photolithography</mark> (capable of makin
 ![[z_images/Pasted image 20251002105013.png]]
 
 ---
+# actuator: 
+any device that converts electrical energy into mechanical energy (motors, servos, linear, rotary), et-cetera. 
+
+---
 more parts to read about are here: https://itp.nyu.edu/physcomp/labs/components/
