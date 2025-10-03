@@ -28,4 +28,6 @@ addition:
 
 ---
 # 251003: 
-i'm <mark>not here to produce (right now)</mark>, i'm <mark>here to learn</mark>. 
+[[people/mimi yin|mimi yin]] & [[people/tom|tom]] have helped me see that i'm <mark>not here to produce (right now)</mark>, i'm <mark>here to learn</mark>. 
+
+
