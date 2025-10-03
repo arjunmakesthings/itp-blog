@@ -60,6 +60,17 @@ source: https://cdn.sparkfun.com/assets/0/1/b/b/3/TB6612FNG.pdf
 
 source: https://knowledge.ni.com/KnowledgeArticleDetails?id=kA03q000000YHvvCAG&l=en-US
 
-i don't know why this didn't work.  
+---
+i made a circuit, and realised that 'low' does not mean off. 
 
 ![[z_images/IMG_6508.jpg]]
+
+i made a linear actuator move with a manual h-bridge. 
+
+![[z_images/IMG_6511.mov]]
+
+![[z_images/IMG_6512.jpg]]
+
+now, i'm going to attach a servo on this, so that people can draw. i will first test it, and then clean up the wiring. 
+
+decided to use a stepper instead, so that i understand that more. 

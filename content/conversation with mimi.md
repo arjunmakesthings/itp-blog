@@ -16,7 +16,4 @@ spoke to [[people/mimi yin|mimi yin]] about this:
 
 we explored what *i* like about my work, what an *audience* might like, and how <mark>i've not yet stumbled upon the essence of code for creativity</mark>. 
 
-she also prompted me to <mark>slow down</mark>, and be more <mark>intentional</mark> with the assignments & experimentation. i'm going to do lesser things, or smaller things, or, perhaps, not-so-great-looking-things; but i'm <mark>not here to produce, i'm here to learn</mark>. 
-
-
-
+she also prompted me to <mark>slow down</mark>, and be more <mark>intentional</mark> with the assignments & experimentation. i'm going to do lesser things, or smaller things, or, perhaps, not-so-great-looking-things; but i'm <mark>not here to produce, i'm here to learn</mark> (changed [[my approach to itp]]). 
