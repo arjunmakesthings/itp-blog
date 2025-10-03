@@ -25,3 +25,7 @@ so, [[people/daniel shiffman|daniel shiffman]] recommended that i use the first 
 addition: 
 
 > be true to your own curiosity. 
+
+---
+# 251003: 
+i'm <mark>not here to produce (right now)</mark>, i'm <mark>here to learn</mark>. 
