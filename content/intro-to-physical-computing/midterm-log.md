@@ -3,7 +3,7 @@ date: 2025-10-02
 tags:
   - writings
   - experiments
-noteOrder: "102"
+noteOrder: "105"
 draft: "false"
 ---
 # ask: 

@@ -2,7 +2,7 @@
 date: 2025-10-02
 tags:
   - experiments
-noteOrder: "102"
+noteOrder: "104"
 draft: "false"
 ---
 started a [[intro-to-physical-computing/midterm-log|midterm-log]], reflected on the ask. 

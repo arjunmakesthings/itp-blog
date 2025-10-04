@@ -3,7 +3,7 @@ date: 2025-10-02
 tags:
   - groups
   - conversations
-noteOrder: "102"
+noteOrder: "106"
 draft: "false"
 ---
 i was part of a discussion group hosted by [[ryan]], along with: [[james]], [[people/cody|cody]], [[people/gabriel|gabriel]], [[people/matt|matt]], [[people/duan|duan]], [[devlin]], [[tess]], [[alua]], [[antonia]], and a couple of others whose names i can't recall. 

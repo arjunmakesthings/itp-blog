@@ -2,7 +2,7 @@
 date: 2025-10-03
 tags:
   - projects-by-others
-noteOrder: "104"
+noteOrder: "107"
 draft: "false"
 ---
 [[jeffrey]] shared this with me, as a follow-up to my electromagnetic-enquiry. 

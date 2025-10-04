@@ -2,7 +2,7 @@
 date: 2025-10-03
 tags:
   - conversations
-noteOrder: "103"
+noteOrder: "108"
 draft: "false"
 ---
 spoke to [[people/mimi yin|mimi yin]] about this: 
