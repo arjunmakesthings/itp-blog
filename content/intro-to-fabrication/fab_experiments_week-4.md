@@ -60,5 +60,57 @@ realised that when two parallel surfaces of a curved surface lie flat, they'll h
 maybe i can't think volumetrically. 
 
 ---
+next, i tried to figure out the joints. 
 
+![[z_images/IMG_6554.jpg]]
+
+![[z_images/IMG_6555.jpg]]
+
+then, i carefully sketched the components out. 
+
+![[z_images/Screenshot 2025-10-04 at 15.15.26.png]]
+
+realised i did the math wrong for each panel. 
+
+![[z_images/Screenshot 2025-10-04 at 15.16.07.png]]
+
+width has to be:
+$$
+w = c / n
+$$
+
+where c = circumference. 
+
+height has to be 
+$$
+l=\sqrt{r2+h2}
+$$
+
+where r is the radius of the base. 
+
+i then made the compounded-shape. 
+
+![[z_images/Screenshot 2025-10-04 at 16.04.41.png]]
+
+laser cut it. 
+
+![[z_images/IMG_6556.jpg]]
+
+and realised that i used the wrong circle as the base. 
+
+![[z_images/IMG_6557.jpg]]
+
+then i used the smaller circle and i forgot the kerf lines, and it didn't bend. even if i forced it, the ends didn't meet. 
+
+![[z_images/IMG_6559.jpg]]
+
+then i scaled everything down, to have more joints. then it broke. 
+
+![[z_images/IMG_6558.jpg]]
+
+then i saw this: 
+
+![[z_images/Pasted image 20251004170814.png]]
+
+tried one more approach. 
 

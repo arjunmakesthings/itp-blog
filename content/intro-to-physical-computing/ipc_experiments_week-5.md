@@ -38,10 +38,7 @@ i'm going to try and build a circuit that performs sort of drawing.
 ---
 i first thought about how i could alternate current. i figured that i could do this with two transistors, but then later read about h-bridges. 
 
-
-
-
-
+soldered the motor-driver. [[people/cody|cody]] helped me understand what good solder looks like. apparently, i'd *pass* in his shop. 
 
 ![[z_images/IMG_6505.jpg]]
 
