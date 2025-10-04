@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "can vs how-might-we.md",
+                "file": "how-can-we vs how-might-we.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "can vs how-might-we"
+              "title": "how-can-we vs how-might-we"
             }
           }
         ],
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "can vs how-might-we.md",
+                "file": "how-can-we vs how-might-we.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of can vs how-might-we"
+              "title": "Outline of how-can-we vs how-might-we"
             }
           },
           {
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "can vs how-might-we.md",
+                "file": "how-can-we vs how-might-we.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for can vs how-might-we"
+              "title": "Backlinks for how-can-we vs how-might-we"
             }
           },
           {
@@ -213,7 +213,7 @@
   "active": "b065f85b409ef009",
   "lastOpenFiles": [
     "over the rainbow, kenny-g.md",
-    "can vs how-might-we.md",
+    "how-can-we vs how-might-we.md",
     "i clench my teeth more than i used to.md",
     "to do.md",
     "recurse center.md",
