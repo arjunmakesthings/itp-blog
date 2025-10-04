@@ -3,7 +3,7 @@ date: 2025-10-03
 tags:
   - feedback
   - conversations
-noteOrder: "102"
+noteOrder: "105"
 draft: "false"
 ---
 presented my [living-messages](https://arjunmakesthings.github.io/projects/2023-24_living-messages/page.html) enquiry at the feedback collective. 
