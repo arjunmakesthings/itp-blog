@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "over the rainbow, kenny-g.md",
+                "file": "intro-to-fabrication/fab_experiments_week-4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "over the rainbow, kenny-g"
+              "title": "fab_experiments_week-4"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "how-can-we vs how-might-we"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vr ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "how-can-we vs how-might-we.md",
+                "file": "intro-to-fabrication/fab_experiments_week-4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of how-can-we vs how-might-we"
+              "title": "Outline of fab_experiments_week-4"
             }
           },
           {
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "how-can-we vs how-might-we.md",
+                "file": "intro-to-fabrication/fab_experiments_week-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for how-can-we vs how-might-we"
+              "title": "Backlinks for fab_experiments_week-4"
             }
           },
           {
@@ -195,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,8 +210,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b065f85b409ef009",
+  "active": "5e764214604ae5d5",
   "lastOpenFiles": [
+    "z_images/IMG_6552.jpg",
+    "z_images/IMG_6553.jpg",
+    "z_images/IMG_6521.jpg",
+    "z_images/IMG_6520.jpg",
+    "z_images/IMG_6519.jpg",
+    "z_images/IMG_6517.jpg",
+    "z_images/IMG_6518.jpg",
     "over the rainbow, kenny-g.md",
     "how-can-we vs how-might-we.md",
     "i clench my teeth more than i used to.md",
@@ -240,17 +247,10 @@
     "intro-to-physical-computing/electrical components.md",
     "why i don't want to do vr.md",
     "z_images/IMG_6508.jpg",
-    "z_images/Pasted image 20251002211322.png",
-    "z_images/Screenshot 2025-10-02 at 21.12.41.png",
-    "z_images/Screenshot 2025-10-02 at 21.11.34.png",
-    "z_images/IMG_6505.jpg",
     "z_images/IMG_6504.mov",
     "hypercinema/index.md",
     "index.md",
-    "z_images/IMG_6500.jpg",
     "people/david rios.md",
-    "z_images/IMG_6498.jpg",
-    "resources & tools/index.md",
     "resources & tools",
     "z_images/practical electronics for inventors.pdf",
     "z_images/New Interfaces for Textual Expression.pdf",
