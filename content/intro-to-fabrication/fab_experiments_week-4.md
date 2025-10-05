@@ -112,5 +112,24 @@ then i saw this:
 
 ![[z_images/Pasted image 20251004170814.png]]
 
-tried one more approach. 
+tried one more approach. failed. 
+
+---
+[[people/cody|cody]] helped me see why my earlier prototypes failed. 
+
+![[z_images/IMG_6561.jpg]]
+
+i then got a piece of paper (as per his suggestion), wrapped it around the container and cut it out. 
+
+![[z_images/IMG_6562.jpg]]
+
+i then found this: 
+
+![[z_images/Pasted image 20251005122733.png]]
+<figcaption>source: https://www.cmrp.com/cone-calculator</figcaption>
+
+![[z_images/Pasted image 20251005123610.png]]
+<figcaption>source: https://www.cmrp.com/cone-calculator</figcaption>
+
+![[z_images/Screenshot 2025-10-05 at 12.29.31.png]]
 

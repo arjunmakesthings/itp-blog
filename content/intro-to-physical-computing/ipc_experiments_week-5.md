@@ -71,3 +71,24 @@ i made a linear actuator move with a manual h-bridge.
 now, i'm going to attach a servo on this, so that people can draw. i will first test it, and then clean up the wiring. 
 
 decided to use a stepper instead, so that i understand that more. 
+
+---
+got curious about electrons while having lunch. watched this: https://www.youtube.com/watch?v=bHIhgxav9LY
+
+![[z_images/Screenshot 2025-10-05 at 13.00.43.png]]
+
+learnt about drift velocity, also mentioned in [[intro-to-physical-computing/practical electronics for inventors|practical electronics for inventors]]. 
+
+![[z_images/Screenshot 2025-10-05 at 13.08.19.png]]
+
+electric & magnetic fields: 
+
+![[z_images/Screenshot 2025-10-05 at 13.09.23.png]]
+
+jesus christ. 
+
+![[z_images/Screenshot 2025-10-05 at 13.11.24.png]]
+
+Dr Robert Olsen says: "people think you're pumping electrons, which is so wrong". 
+
+follow up: https://www.youtube.com/watch?v=oI_X2cMHNe0
