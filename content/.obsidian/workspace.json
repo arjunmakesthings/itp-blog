@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-fabrication/fab_experiments_week-4.md",
+                "file": "intro-to-computational-media/icm_experiments_week-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fab_experiments_week-4"
+              "title": "icm_experiments_week-5"
             }
           },
           {
@@ -226,6 +226,8 @@
   },
   "active": "5e764214604ae5d5",
   "lastOpenFiles": [
+    "z_images/251004_vid.mov",
+    "intro-to-fabrication/fab_experiments_week-4.md",
     "z_images/Pasted image 20251004170814.png",
     "z_images/IMG_6558.jpg",
     "z_images/IMG_6559.jpg",
@@ -236,10 +238,8 @@
     "z_images/Screenshot 2025-10-04 at 15.15.26.png",
     "intro-to-physical-computing/ipc_experiments_week-5.md",
     "intro-to-physical-computing/index.md",
-    "intro-to-fabrication/fab_experiments_week-4.md",
     "z_images/IMG_6554.jpg",
     "z_images/IMG_6555.jpg",
-    "z_images/IMG_6552.jpg",
     "over the rainbow, kenny-g.md",
     "how-can-we vs how-might-we.md",
     "i clench my teeth more than i used to.md",
