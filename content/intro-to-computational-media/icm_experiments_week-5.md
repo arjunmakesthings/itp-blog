@@ -12,7 +12,7 @@ my [[conversation with mimi]] stayed with me. i decided to spend time exploring 
 
 ---
 # output: 
-i made a sketch, that allows people to run a function via the browser. however, the function does not behave as expected.
+i made a sketch, that allows people to run a function via the browser. however, the function does not behave as expected. play with the sketch [here](https://arjunmakesthings.github.io/icm-2025/week-5_labour/index.html). firefox doesn't load .ttf files for some reason, so please (sadly) use google-chrome. i could've put the text as html text, but i don't have time at the moment.
 
 ![[z_images/Screen Recording 2025-10-04 at 21.49.46.mov]]
 
