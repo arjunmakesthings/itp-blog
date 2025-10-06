@@ -92,3 +92,10 @@ jesus christ.
 Dr Robert Olsen says: "people think you're pumping electrons, which is so wrong". 
 
 follow up: https://www.youtube.com/watch?v=oI_X2cMHNe0
+
+---
+put work in [[intro-to-physical-computing/midterm-log|midterm-log]]. 
+
+---
+[[people/william|william]] bet that i couldn't get the stepper motor to work. i took his challenge on.
+
