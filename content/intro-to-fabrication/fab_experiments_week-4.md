@@ -176,7 +176,7 @@ this is what i was left with.
 
 ---
 # reflect: 
-to do after class. 
+it was good to fail — i haven't done that in a while. i now know that i'm not great at fabrication, and working in the course with that realisation eases the general pressure (see [[the pressure to do big things]]) i have. 
 
 
 
