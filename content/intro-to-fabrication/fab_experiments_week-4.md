@@ -119,7 +119,7 @@ tried one more approach. failed.
 
 ![[z_images/IMG_6561.jpg]]
 
-i then got a piece of paper (as per his suggestion), wrapped it around the container and cut it out. 
+i then got a piece of paper (as per his suggestion), wrapped it around the container and cut it out with a scissor. that made me see the general shape i should've gotten.
 
 ![[z_images/IMG_6562.jpg]]
 
