@@ -163,6 +163,17 @@ did not include the kerf-lines, because that fucked things up last time. but the
 
 it's 2140. i've spent more than 10 hours on this. i hate this. 
 
+---
+this is what i was left with. 
+
+![[z_images/IMG_6571.jpg]]
+
+
+![[z_images/IMG_6570.jpg]]
+
+
+![[z_images/IMG_6569.jpg]]
+
 
 
 
