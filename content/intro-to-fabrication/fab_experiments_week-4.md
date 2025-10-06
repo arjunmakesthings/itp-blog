@@ -133,3 +133,27 @@ i then found this:
 
 ![[z_images/Screenshot 2025-10-05 at 12.29.31.png]]
 
+i then tried — really tried — to get the shape right. 
+
+![[z_images/Screenshot 2025-10-05 at 21.26.05.png]]
+
+printed it out on paper to test: 
+
+![[z_images/IMG_6563.jpg]]
+
+![[z_images/IMG_6564.jpg]]
+
+![[z_images/Screenshot 2025-10-05 at 18.48.50.png]]
+
+laser-printed this: 
+
+![[z_images/Screenshot 2025-10-05 at 21.28.13.png]]
+
+it was a mess. 
+
+![[z_images/IMG_6566.jpg]]
+
+everything broke. 
+
+
+
