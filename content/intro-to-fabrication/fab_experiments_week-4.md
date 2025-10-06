@@ -174,7 +174,9 @@ this is what i was left with.
 
 ![[z_images/IMG_6569.jpg]]
 
-
+---
+# reflect: 
+to do after class. 
 
 
 
