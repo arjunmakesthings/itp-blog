@@ -34,18 +34,6 @@
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "5bb8ca0f21127aea",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "z_images/Screenshot 2025-10-05 at 12.29.31.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot 2025-10-05 at 12.29.31"
-            }
           }
         ]
       }
@@ -104,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -224,20 +213,19 @@
   },
   "active": "5e764214604ae5d5",
   "lastOpenFiles": [
+    "intro-to-physical-computing/index.md",
+    "z_images/Screenshot 2025-10-05 at 12.29.31.png",
+    "intro-to-fabrication/fab_experiments_week-4.md",
+    "z_images/IMG_6567.jpg",
     "z_images/IMG_6566.jpg",
     "z_images/IMG_6564.jpg",
     "z_images/IMG_6563.jpg",
-    "intro-to-physical-computing/index.md",
     "intro-to-physical-computing/ipc_experiments_week-5.md",
-    "intro-to-fabrication/fab_experiments_week-4.md",
     "z_images/Screenshot 2025-10-05 at 21.28.13.png",
     "z_images/Screenshot 2025-10-05 at 21.27.39.png",
     "z_images/Screenshot 2025-10-05 at 18.48.50.png",
     "z_images/Screenshot 2025-10-05 at 21.26.05.png",
     "z_images/Screenshot 2025-10-05 at 13.11.24.png",
-    "z_images/Screenshot 2025-10-05 at 13.09.23.png",
-    "z_images/Screenshot 2025-10-05 at 13.08.59.png",
-    "z_images/Screenshot 2025-10-05 at 13.08.19.png",
     "how-can-we vs how-might-we.md",
     "intro-to-physical-computing/midterm-log.md",
     "tangibility makes magic more plausible.md",

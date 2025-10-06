@@ -153,7 +153,19 @@ it was a mess.
 
 ![[z_images/IMG_6566.jpg]]
 
-everything broke. 
+everything broke. i hate it. i hate this. 
+
+i laser-cut this on a thinner material. 
+
+![[z_images/IMG_6567.jpg]]
+
+did not include the kerf-lines, because that fucked things up last time. but then the material wouldn't bend. i decided to make the kerf-lines by myself (half-cuts with a cutter) to make it bend. 
+
+it's 2140. i've spent more than 10 hours on this. i hate this. 
+
+
+
+
 
 
 
