@@ -30,4 +30,10 @@ addition:
 # 251003: 
 [[people/mimi yin|mimi yin]] & [[people/tom|tom]] have helped me see that i'm <mark>not here to produce (right now)</mark>, i'm <mark>here to learn</mark>. 
 
+---
+# 251007: 
+after [[conversation with allison]]. 
+
+operate out of <mark>love</mark>, and <mark>be true to your own curiosity</mark>.
+
 

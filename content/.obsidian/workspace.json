@@ -13,72 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/midterm-log.md",
+                "file": "intro-to-physical-computing/ipc_experiments_week-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "midterm-log"
+              "title": "ipc_experiments_week-5"
+            }
+          },
+          {
+            "id": "dc525e1346a57e99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conversation with allison.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conversation with allison"
             }
           },
           {
             "id": "840585fc89ec590f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-physical-computing/ipc_experiments_week-5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ipc_experiments_week-5"
-            }
-          },
-          {
-            "id": "aa74903a29eb461c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-physical-computing/practical electronics for inventors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "practical electronics for inventors"
-            }
-          },
-          {
-            "id": "1e06335b0d835571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-physical-computing/ipc_experiments_week-5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ipc_experiments_week-5"
-            }
-          },
-          {
-            "id": "f2f07c5915f2d054",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-fabrication/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "e3d12aae41187319",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,19 +48,8 @@
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "56b6a6b012fed2f1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,10 +81,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "my approach to itp",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -155,7 +102,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -261,8 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,14 +224,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "840585fc89ec590f",
+  "active": "5e764214604ae5d5",
   "lastOpenFiles": [
-    "z_images/IMG_6589.jpg",
+    "hypercinema/conversation with aidan.md",
+    "conversation with allison.md",
+    "conversation with mimi.md",
+    "my approach to itp.md",
+    "people/allison.md",
     "intro-to-physical-computing/ipc_experiments_week-5.md",
-    "z_images/Screenshot 2025-10-06 at 19.28.11.png",
     "intro-to-physical-computing/midterm-log.md",
-    "intro-to-physical-computing/ipc_experiments_week-4.md",
     "intro-to-physical-computing/index.md",
+    "z_images/Screenshot 2025-10-07 at 13.08.00.png",
+    "hypercinema/index.md",
+    "z_images/IMG_6589.jpg",
+    "z_images/Screenshot 2025-10-06 at 19.28.11.png",
+    "intro-to-physical-computing/ipc_experiments_week-4.md",
     "z_images/Screenshot 2025-10-06 at 19.02.49.png",
     "z_images/Screenshot 2025-10-06 at 19.00.30.png",
     "z_images/Pasted image 20251006184904.png",
@@ -296,12 +250,9 @@
     "z_images/Pasted image 20251006174135.png",
     "z_images/IMG_6586.jpg",
     "z_images/IMG_6577.jpg",
-    "z_images/IMG_6576.jpg",
     "intro-to-physical-computing/practical electronics for inventors.md",
-    "hypercinema/index.md",
     "intro-to-fabrication/fab_experiments_week-4.md",
     "intro-to-fabrication/index.md",
-    "z_images/IMG_6569.jpg",
     "how-can-we vs how-might-we.md",
     "tangibility makes magic more plausible.md",
     "intro-to-computational-media/icm_experiments_week-5.md",
@@ -314,11 +265,7 @@
     "recurse center.md",
     "living-messages @feedback-collective.md",
     "resources & tools/circuit lab.md",
-    "conversation with mimi.md",
     "ferrofluid clock.md",
-    "ryan's discussion group about finite & infinite games.md",
-    "bairui's talk on recho.md",
-    "jasmine's itp-thesis.md",
     "z_images/IMG_6652-preview.heic",
     "z_images/IMG_6511.mov",
     "z_images/IMG_6504.mov",
