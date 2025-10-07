@@ -99,3 +99,79 @@ put work in [[intro-to-physical-computing/midterm-log|midterm-log]].
 ---
 [[people/william|william]] bet that i couldn't get the stepper motor to work. i took his challenge on.
 
+found the datasheet for the stepper here: https://www.datasheetcafe.com/28byj-48-datasheet-5v-stepper-motor/
+
+![[z_images/Pasted image 20251006184754.png]]
+
+found the truth table elsewhere: 
+
+![[z_images/Pasted image 20251006184904.png]]
+
+then i spent time understanding the motor-driver. i understood that it's a dual motor driver. 
+
+![[z_images/Screenshot 2025-10-06 at 19.00.30.png]]
+<figcaption>source: https://www.youtube.com/watch?v=ksx-AugHlrI</figcaption>
+
+![[z_images/Screenshot 2025-10-06 at 19.02.49.png]]
+
+then i used this truth table to write the code. 
+
+![[z_images/Screenshot 2025-10-06 at 19.28.11.png]]
+
+i wired the circuit right. i'm sure. it didn't work. i measured all the voltages — everything is logically sound. 
+
+![[z_images/IMG_6589.jpg]]
+
+code: 
+
+``` cpp
+//stepper with motor driver. 
+
+//ref: https://www.youtube.com/watch?v=ksx-AugHlrI
+
+//define global pin-numbers: 
+int ai2 = 12; 
+int ai1 = 11; 
+int stby = 10; 
+int bi1 = 9; 
+int bi2 = 8; 
+int pwmb = A0;
+int pwma = A1;
+
+void setup() {
+  pinMode(ai2, OUTPUT);
+  pinMode(ai1, OUTPUT); 
+  pinMode(stby, OUTPUT); 
+  pinMode(bi1, OUTPUT);
+  pinMode(bi2, OUTPUT);
+  pinMode(pwmb, OUTPUT);
+  pinMode(pwma, OUTPUT);
+
+  Serial.begin(9600); 
+
+}
+
+void loop() {
+  //set standby to high: 
+  digitalWrite (stby, HIGH); 
+
+  analogWrite (pwma, 255); //speed to high. 
+  analogWrite (pwmb, 0); //speed to low. 
+  digitalWrite (ai1, HIGH);
+  digitalWrite (ai2, LOW);
+
+  delay(1000); 
+
+
+  analogWrite (pwma, 0); //speed to high. 
+  digitalWrite (ai1, HIGH);
+  digitalWrite (ai2, HIGH);
+
+    analogWrite (pwma, 255); //speed to high. 
+  digitalWrite (ai1, LOW);
+  digitalWrite (ai2, HIGH);
+
+  delay(1000); 
+
+}
+```
