@@ -42,7 +42,7 @@ right. funny. he has his middle finger out — god knows up.
 ---
 i think these justify melanie mitchell's stance in *Artificial Intelligence: A Guide for Thinking Humans*: 
 
-> Above all, the take-home message from this book is that we humans tend to overestimate AI advances and underestimate the complexity of our own intelligence. 
+> Above all, the take-home message from this book is that <mark>we humans tend to overestimate AI advances and underestimate the complexity of our own intelligence</mark>. 
 
 ---
 i <mark>don't enjoy generative image-making</mark>. yes, in the past i've done so to <mark>automate mechanical tasks</mark> (such as <mark>prototype</mark> (images) of abstract ideas), or to generate <mark>fake, but real-looking</mark> objects (such as schools for a project). 
