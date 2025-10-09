@@ -86,3 +86,10 @@ express the <mark>vision of a personal future</mark>, between you & i, in a time
 
 i also leveraged the fact that my work is <mark>bound to have an audience</mark>, given the premise of the class. so, i wanted to experiment and <mark>find out how people perceive my thought</mark>.
 
+visually, the project would feel similar to: 
+- [aram saroyan's minimalist poems](https://teachingpoetryandart.weebly.com/aram-saroyan.html)
+- [tiny love letters](https://arjunmakesthings.github.io/projects/2023-25_tiny-love-letters/page.html); me, 2023-25.
+- [dear delhi](https://arjunmakesthings.github.io/projects/2021_dear-delhi/page.html); me, 2021.
+
+---
+next, i'll make a storyboard. 
