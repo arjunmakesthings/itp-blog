@@ -2,6 +2,7 @@
 date: 2025-10-02
 tags:
   - reading
+  - books
 noteOrder: "101"
 draft: "false"
 ---

@@ -3,6 +3,8 @@ date: 2025-10-08
 tags:
   - books
   - projects-by-others
+  - reading
+  - poetry
 noteOrder: "120"
 draft: "false"
 ---
@@ -10,9 +12,9 @@ draft: "false"
 
 storing some pages from the book here.
 
-![[z_images/aram_saroyan_0.jpg]]
-
 ![[z_images/aram_saroyan_1.jpg]]
+
+![[z_images/aram_saroyan_0.jpg]]
 
 ![[z_images/aram_saroyan_2.jpg]]
 
