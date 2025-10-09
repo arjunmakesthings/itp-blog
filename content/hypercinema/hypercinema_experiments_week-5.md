@@ -48,3 +48,41 @@ i think these justify melanie mitchell's stance in *Artificial Intelligence: A G
 i <mark>don't enjoy generative image-making</mark>. yes, in the past i've done so to <mark>automate mechanical tasks</mark> (such as <mark>prototype</mark> (images) of abstract ideas), or to generate <mark>fake, but real-looking</mark> objects (such as schools for a project). 
 
 it <mark>takes out all the joy</mark> of the creative-practice, and is <mark>made for scenarios where you don't care about the craft</mark> (such as prototyping). 
+
+---
+at this point, i wanted to stray away from 'generative' media, and do something else. the previous night, i read [[complete minimal poems, by aram saroyan]] (given by [[people/allison parrish|allison parrish]]), and wished to do something with letters (also inspired by [rabbit](https://www.youtube.com/watch?v=iYAixjN9BQg)).
+
+but, i didn't want to jump on ideas. so, i reflected (slowly) on the ask and other shared material over the course of hypercinema:
+
+> **brief a:** 
+> 
+> Choose a film genre and create a <mark>short (less than 2 minutes) video story</mark> in this genre using synthetic media to augment your film in a way impossible with your current budget or available resources.
+> 
+> **brief b:**
+> 
+> Create a short (less than 2 minutes) video in which animation is overlaid onto video to <mark>present a speculative future</mark>.
+> 
+> from the [syllabus](https://docs.google.com/document/d/1q3FwfW1CQ-lesglrc4TPhsskkKoRgaAwVat77XK4CIU/edit?pli=1&tab=t.0).
+
+>the brief is simply a 'jumping off' point. the ask is to make <mark>a piece that interacts with people over time</mark>. 
+>
+>from [[hypercinema/conversation with aidan|conversation with aidan]]
+
+> This assignment is <mark>about experimentation, not about doing this correctly</mark>. It’s alright to go down a path that doesn’t work as long as you show documentation and explain the intent behind your concept and the thinking that brought you there. 
+> 
+> from the [syllabus](https://docs.google.com/document/d/1q3FwfW1CQ-lesglrc4TPhsskkKoRgaAwVat77XK4CIU/edit?pli=1&tab=t.0).
+
+> <mark>a medium</mark> is not something neutral. It <mark>does something to people</mark>. It takes hold of them, it rubs them up, it massages them, it bumps them around.
+> 
+> from [the medium is the massage](https://www.themediumisthemassage.com/and-so-the-title-is-intended-to-draw-attention-to-the-fact-that-a-medium-is-not-something-neutral-it-does-something-to-people-it-takes-hold-of-them-it-rubs-them-up-it-massages-them-it-bumps-them/), by marshall mcluhan.
+
+> “<mark>Everything happens at once</mark>. There’s no continuity, there’s no connection, there’s no follow through. <mark>It’s just all now</mark>.
+> 
+> marshall mcluhan.
+
+the idea then became about: 
+
+express the <mark>vision of a personal future</mark>, between you & i, in a time-based-experience; where <mark>you are in control of the time</mark>. <mark>you choose to let the story go ahead, to pause it, or to walk away</mark>. 
+
+i also leveraged the fact that my work is <mark>bound to have an audience</mark>, given the premise of the class. so, i wanted to experiment and <mark>find out how people perceive my thought</mark>.
+
