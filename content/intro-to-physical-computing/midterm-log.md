@@ -69,6 +69,20 @@ i also tested material for light-diffusion. realised that [[3d printed material 
 i will go check these out later. my next step will be to program the electron-leds. 
 
 ---
+### 251009: 
+i needed to program the leds. 
+
+the first problem i run into is that i need to send analog-output to ~30-35 leds. arduino allows me to send analog outputs to 7, and digital to 20. 
+
+![[z_images/IMG_6633.jpg]]
+
+looked at something called a mux or multiplexor. think of it like a motor-driver, but uses 4 pins to give out 16 outputs (based on varying combinations of highs & lows). 
+
+![[z_images/Screenshot 2025-10-09 at 17.19.02.png]]
+<figcaption>source: https://www.youtube.com/watch?v=Dco6jo9xgAo</figcaption>
+
+---
+
 # to do: 
 learnt this from [[galt]]'s blog; started using it here. 
 
