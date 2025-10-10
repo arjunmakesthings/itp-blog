@@ -81,6 +81,8 @@ looked at something called a mux or multiplexor. think of it like a motor-driver
 ![[z_images/Screenshot 2025-10-09 at 17.19.02.png]]
 <figcaption>source: https://www.youtube.com/watch?v=Dco6jo9xgAo</figcaption>
 
+[[people/pedro|pedro]] then told me about the multiplexors that we have in the shop, as consumables. we have the [cd4051be](https://www.alldatasheet.com/datasheet-pdf/view/26882/TI/CD4051BE.html) multiplexors, that do the job that i want. 
+
 ---
 
 # to do: 

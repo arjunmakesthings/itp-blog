@@ -1,1 +1,1 @@
-part of itp-'26. works at the shop. 
+part of itp-'26. works at the shop. understands things really, really well. generally curious; like me. but more mature; unlike me.
