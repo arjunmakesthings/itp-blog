@@ -83,6 +83,20 @@ looked at something called a mux or multiplexor. think of it like a motor-driver
 
 [[people/pedro|pedro]] then told me about the multiplexors that we have in the shop, as consumables. we have the [cd4051be](https://www.alldatasheet.com/datasheet-pdf/view/26882/TI/CD4051BE.html) multiplexors, that do the job that i want. 
 
+![[z_images/Screenshot 2025-10-10 at 17.00.17.png]]
+<figcaption>wiring from the datassheet.</figcaption>
+
+![[z_images/Screenshot 2025-10-10 at 17.00.49.png]]
+<figcaption>truth tables</figcaption>
+
+[[people/nikolai|nikolai]] helped me understand these. 
+
+then, with [[people/octavio|octavio]], we figured out how to make it work (because my circuit didn't work — i thought the inhibit-pin could do with no signal, but it needed a low-signal). 
+
+![[z_images/IMG_6638.mov]]
+
+
+
 ---
 
 # to do: 
