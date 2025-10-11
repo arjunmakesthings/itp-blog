@@ -95,6 +95,227 @@ then, with [[people/octavio|octavio]], we figured out how to make it work (becau
 
 ![[z_images/IMG_6638.mov]]
 
+once i knew that this configuration worked, i sketched out the schematic too; to save it. 
+
+![[z_images/IMG_6641.jpg]]
+<figcaption>working multiplexor schematic.</figcaption>
+
+---
+next, i began programming the leds. 
+
+i first began to understand the concept of pointers, in comparison to javascript. 
+
+in javascript, <mark>arrays are objects</mark> (therefore, callable by their name, and having methods (such as .length, et-cetera)). in c, <mark>arrays are blocks of memory</mark>. when i declare an array in c: 
+
+``` cpp
+int arr [] = {0,1,2}; s
+```
+
+`arr` is a <mark>pointer to the memory address of the first element</mark> in the array, and knows nothing about the array itself (because all the other elements are after it). when we declare an array, cpp automatically decays the array (converts to pointer of the first element). 
+
+i can't believe i have to learn another programming language. argh. 
+
+anyway, this block of code returns the size of an array, when called with an array-name passed into it.
+
+``` cpp
+//arrays in c work weirdly. you can't directly call an array, but call the reference of that array. 
+//a template is used to define a 'generic' function. see more here: https://www.geeksforgeeks.org/cpp/templates-cpp/
+
+//it accepts a typename, and an unsigned integer for size:
+template <typename T, size_t N>
+//when i use this, the array is not decayed to a pointer, and n returns the size of it.
+int get_array_length (T(&)[N]){
+  return N;
+}
+```
+
+i need this to loop through the array, as i pass values. 
+
+---
+started from scratch. cleaned up the circuit that's supposed to stay fixed; with solid-wires.
+
+![[z_images/IMG_6642.jpg]]
+
+wrote simple code to test everything. 
+
+``` cpp
+//test mpx. 
+
+int a = 14; 
+int b = 15;
+int c = 16;
+
+int inh = 17;
+
+void setup() {
+  // put your setup code here, to run once:
+
+  pinMode (a, OUTPUT); 
+  pinMode (b, OUTPUT); 
+  pinMode (c, OUTPUT); 
+
+  pinMode (inh, OUTPUT); 
+  digitalWrite (inh, LOW); 
+
+}
+
+void loop() {
+turn_on(HIGH, LOW, LOW); 
+delay (1000); 
+turn_off(); 
+delay (1000); 
+turn_on(LOW, HIGH, LOW); 
+delay (1000); 
+turn_off(); 
+delay (1000); 
+}
+
+void turn_off(){
+  digitalWrite (a, LOW); 
+  digitalWrite (b, LOW);
+  digitalWrite (c, LOW); 
+}
+
+void turn_on(int a_val, int b_val, int c_val){
+  digitalWrite (a, a_val); 
+  digitalWrite (b, b_val);
+  digitalWrite (c, c_val); 
+}
+
+
+```
+
+since i'm new to cpp, i'll follow what [[people/mimi yin|mimi yin]] makes students do in [[intro-to-computational-media]] — hard-code values, then begin to abstract.
+
+what follows can be thought of as github commits.
+
+replaced individual pin numbers with an array: 
+
+``` cpp
+//multiple leds test.
+
+int input_pins[] = { 14, 15, 16 };
+int inh_pin = 17;
+
+// int a = 14;
+// int b = 15;
+// int c = 16;
+
+//helper to get array_size, when called during compile:
+template<typename T, size_t N>
+int get_array_length(T (&)[N]) {
+  return N;
+}
+
+void setup() {
+  //set pin-modes, and default for inhibit.
+  int input_pins_length = get_array_length(input_pins);
+  for (int i = 0; i < input_pins_length; i++) {
+    pinMode(input_pins[i], OUTPUT);
+  }
+  pinMode(inh_pin, OUTPUT);
+  digitalWrite(inh_pin, LOW);
+}
+
+void loop() {
+  turn_on(HIGH, LOW, LOW);
+  delay(1000);
+  turn_off();
+  delay(1000);
+  turn_on(LOW, HIGH, LOW);
+  delay(1000);
+  turn_off();
+  delay(1000);
+}
+
+void turn_off() {
+  digitalWrite(input_pins[0], LOW);
+  digitalWrite(input_pins[1], LOW);
+  digitalWrite(input_pins[2], LOW);
+}
+
+void turn_on(int a_val, int b_val, int c_val) {
+  digitalWrite(input_pins[0], a_val);
+  digitalWrite(input_pins[1], b_val);
+  digitalWrite(input_pins[2], c_val);
+}
+```
+
+achieved multiple blinks.
+
+![[z_images/IMG_6643.mov]]
+
+``` cpp
+//multiple leds test.
+
+/*
+truth table for CD4051B:
+[a,b,c] [high || low] = on_channel (source: datasheet)
+
+[LOW, LOW, LOW] = 0;
+[HIGH, LOW, LOW] = 1;
+[LOW, HIGH, LOW] = 2; 
+[HIGH, HIGH, LOW] = 3
+[LOW, LOW, HIGH] = 4;
+[HIGH, LOW, HIGH] = 5;
+[LOW, HIGH, HIGH] = 6;
+[HIGH, HIGH, HIGH] = 7; 
+
+INHIBIT == HIGH = NONE;
+*/
+
+int input_pins[] = { 14, 15, 16 };
+int inh_pin = 17;
+
+//helper to get array_size, when called during compile:
+template<typename T, size_t N>
+int get_array_length(T (&)[N]) {
+  return N;
+}
+
+void setup() {
+  //set pin-modes, and default for inhibit.
+  int input_pins_length = get_array_length(input_pins);
+  for (int i = 0; i < input_pins_length; i++) {
+    pinMode(input_pins[i], OUTPUT);
+  }
+  pinMode(inh_pin, OUTPUT);
+  digitalWrite(inh_pin, LOW);
+}
+
+void loop() {
+  blink(HIGH, LOW, LOW, 1000);
+  blink(LOW, HIGH, LOW, 1000);
+  blink(HIGH, HIGH, LOW, 1000); 
+}
+
+
+
+void blink(int a_val, int b_val, int c_val, int time){
+  digitalWrite(input_pins[0], a_val);
+  digitalWrite(input_pins[1], b_val);
+  digitalWrite(input_pins[2], c_val);
+  delay (time); 
+  digitalWrite(input_pins[0], LOW);
+  digitalWrite(input_pins[1], LOW);
+  digitalWrite(input_pins[2], LOW);
+  delay (time); 
+}
+
+// void turn_on(int a_val, int b_val, int c_val) {
+//   digitalWrite(input_pins[0], a_val);
+//   digitalWrite(input_pins[1], b_val);
+//   digitalWrite(input_pins[2], c_val);
+// }
+
+// void turn_off() {
+//   digitalWrite(input_pins[0], LOW);
+//   digitalWrite(input_pins[1], LOW);
+//   digitalWrite(input_pins[2], LOW);
+// }
+
+
+```
 
 
 ---
