@@ -155,3 +155,4 @@ output:
 
 ---
 i think i need to make a video with 0s and 1s flipping, and use those as a mask everywhere. 
+
