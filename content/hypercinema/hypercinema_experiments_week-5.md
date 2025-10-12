@@ -124,3 +124,34 @@ ratio that works is 16:13.2419; normal:medium.
 used chatgpt to generate many, many 0s & 1s. maybe later, i might hide messages via binary in my film (or whatever this is going to turn out to become).
 
 ![[z_images/Screenshot 2025-10-11 at 23.14.59.png]]
+
+tried runway to generate reference images.
+
+![[z_images/Screenshot 2025-10-11 at 23.29.26.png]]
+
+i then made a frame on illustrator, and then tried to animate it with runway.
+
+prompt: 
+> can you animate the 1s and 0s on this? to make them always change? 
+> 
+> i just need the 1s and 0s to keep swapping between 1s and 0s, nothing else.
+> 
+> don't touch anything else.
+
+output:
+
+![[z_images/Screen Recording 2025-10-11 at 23.50.57.mov]]
+
+prompt 2:
+
+> in this image, animate the 1s and 0s to keep swapping between 1 and 0. 
+> 
+> don't touch anything else, and don't add any extra movement.
+
+i can't even. what?!
+
+output:
+![[z_images/Gen-4 in this image, animate the 1s and 0s to keep swapping between 1 and 0 don't touch anything else, and don't add any extra movement 3430377497.mp4]]
+
+---
+i think i need to make a video with 0s and 1s flipping, and use those as a mask everywhere. 
