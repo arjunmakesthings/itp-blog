@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hypercinema/hypercinema_experiments_week-5_to_week-7.md",
+                "file": "intro-to-fabrication/fab_experiments_week-5_to_week-7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hypercinema_experiments_week-5_to_week-7"
+              "title": "fab_experiments_week-5_to_week-7"
             }
           },
           {
@@ -240,8 +240,10 @@
   },
   "active": "fb93be7d0abbf234",
   "lastOpenFiles": [
-    "intro-to-physical-computing/there are no electrons.md",
+    "z_images/IMG_6659.jpg",
+    "z_images/IMG_6661.jpg",
     "hypercinema/hypercinema_experiments_week-5_to_week-7.md",
+    "intro-to-physical-computing/there are no electrons.md",
     "z_images/Gen-4 in this image, animate the 1s and 0s to keep swapping between 1 and 0 don't touch anything else, and don't add any extra movement 3430377497.mp4",
     "z_images/Screen Recording 2025-10-11 at 23.50.57.mov",
     "z_images/Screenshot 2025-10-11 at 23.29.26.png",
@@ -257,11 +259,10 @@
     "z_images/IMG_6641.jpg",
     "z_images/IMG_6638.mov",
     "z_images/Screenshot 2025-10-10 at 17.00.49.png",
-    "z_images/Screenshot 2025-10-10 at 17.00.17.png",
     "intro-to-physical-computing/ipc_experiments_week-4.md",
     "intro-to-physical-computing/ipc_experiments_week-3.md",
     "people/nikolai.md",
-    "intro-to-fabrication/fab_experiments_week-5.md",
+    "intro-to-fabrication/fab_experiments_week-5_to_week-7.md",
     "uv-printer experiments.md",
     "intro-to-physical-computing/index.md",
     "hypercinema/conversation with aidan.md",
