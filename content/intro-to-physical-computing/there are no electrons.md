@@ -6,7 +6,7 @@ tags:
 noteOrder: "121"
 draft: "false"
 ---
-[[people/tom|tom]] recommended this book, to further my enquiry about [[intro-to-physical-computing/electricity|electricity]].
+[[people/tom|tom]] recommended this book, to further my enquiry about [[intro-to-physical-computing/electricity|electricity]]. [[people/nikolai|nikolai]] was pleasantly surprised when i told him that i was reading this. he's read it before, and recommended it to [[people/jasmine|jasmine]] last year.
 
 ---
 # quotes from the book: 
