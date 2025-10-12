@@ -92,4 +92,35 @@ visually, the project would feel similar to:
 - [dear delhi](https://arjunmakesthings.github.io/projects/2021_dear-delhi/page.html); me, 2021.
 
 ---
-next, i'll make a storyboard. 
+next, i proceeded to think about the arc of my piece / the story i want to tell. 
+
+![[z_images/IMG_6651.jpg]]
+
+realised i needed to see the actual thing — to decide the storytelling. 
+
+fought against this urge. i want to tell a story.
+
+---
+the story is that <mark>the world will be dominated by numbers & algorithms</mark>, while <mark>you & i will have <i>some</i> humanity left</mark>. we'll <mark>find each other in moments of time, but never be with each other</mark> (because of the pace of the world). 
+
+we'll <mark>always be dominated by numbers & algorithms</mark>.
+
+each frame will be a-5 in size. that gives me enough space to play with.
+
+---
+did type tests: 
+
+![[z_images/Screenshot 2025-10-11 at 23.09.34.png]]
+
+sadly, a lot of monospaced-fonts don't have a plain zero. they either have a dot or a slash. the dots look like eyes though, so i might keep them.
+
+there are inconsistencies in sizing too.
+
+![[z_images/Screenshot 2025-10-11 at 23.12.12.png]]
+<figcaption>both at 16pts.</figcaption>
+
+ratio that works is 16:13.2419; normal:medium.
+
+used chatgpt to generate many, many 0s & 1s. maybe later, i might hide messages via binary in my film (or whatever this is going to turn out to become).
+
+![[z_images/Screenshot 2025-10-11 at 23.14.59.png]]
