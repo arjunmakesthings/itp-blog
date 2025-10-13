@@ -36,4 +36,8 @@ after [[conversation with allison]].
 
 operate out of <mark>love</mark>, and <mark>be true to your own curiosity</mark>.
 
+---
+# 251012: 
+you're a <mark>student; not a maker</mark>.
+
 
