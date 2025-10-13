@@ -50,3 +50,10 @@ and that i would have to leave more room for their housing.
 
 so, i decided to skip the machine part entirely. just fabricate it. figure out the machinery later, if you have the time post-fabrication. 
 
+i tried to study a t-joint and replicate it. but failed.
+
+![[z_images/IMG_6662.jpg]]
+
+![[z_images/IMG_6663.jpg]]
+
+i then looked up the parts that i'd need for making this project. i cannot afford it. wrote to [[people/phil|phil]]. 
