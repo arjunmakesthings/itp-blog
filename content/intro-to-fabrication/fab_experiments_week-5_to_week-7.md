@@ -57,3 +57,25 @@ i tried to study a t-joint and replicate it. but failed.
 ![[z_images/IMG_6663.jpg]]
 
 i then looked up the parts that i'd need for making this project. i cannot afford it. wrote to [[people/phil|phil]]. 
+
+---
+also reflected on the ask: 
+
+> Fabricate something using primarily two different materials (40%, 40%; not plywood or acrylic).  
+
+realised that my idea wasn't particularly fitting the ask. 
+
+i then started to think about materials. paper & wood is what is available. 
+
+i first thought of making something with units that substitutes the material in each unit. for example: flowers — each one made of either wood or paper, with the stem being made from the material that is not the form.
+
+looked at origami flowers: https://origami.guide/instructions/origami-flowers/
+
+i think this is a decent project. i'm going to <mark>make flowers with origami</mark>, and then <mark>replicate the same with wood</mark>; in such a way that there are two versions of the same type of flower: one paper, one wood. this will also help me think more 3-d, and i'd have to convert folded-form in wood.
+
+i think this line of enquiry is interesting to me because of [[intro-to-fabrication/fab_experiments_week-4|fab_experiments_week-4]]. 
+
+what i make also meets the ask: it's 40% wood, and 40% paper.
+
+---
+watched this: https://www.youtube.com/watch?v=NYKcOFQCeno
