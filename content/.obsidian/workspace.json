@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "icm_experimets_week-7.md",
+                "file": "intro-to-computational-media/icm_experiments_week-7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "icm_experimets_week-7"
+              "title": "icm_experiments_week-7"
             }
           }
         ],
@@ -210,11 +210,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "84b9190ad2d22f3c",
+  "active": "32f876c5ef6f4df6",
   "lastOpenFiles": [
     "z_images/midterm.pdf",
     "intro-to-computational-media/icm_class_week-6.md",
-    "icm_experimets_week-7.md",
+    "intro-to-computational-media/icm_experiments_week-7.md",
     "intro-to-computational-media/icm_experiments_week-5.md",
     "intro-to-fabrication/fab_experiments_week-5_to_week-7.md",
     "infinite drum machine.md",
