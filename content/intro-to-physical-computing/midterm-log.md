@@ -649,7 +649,36 @@ we spoke about [photopic curves](https://en.wikipedia.org/wiki/Luminous_efficien
 ![[z_images/IMG_6675 1.jpg]]
 <figcaption>top: computer signal (linear), middle: led-processing, bottom: human-perception. a lot of light-engineering is to figure out how to balance the three curves.</figcaption>
 
-we also discussed that my use of tone should perhaps dim the led too. i just need to pass it different frequencies over time.
+we also discussed that my use of tone should perhaps dim the led too. [[people/octavio|octavio]] explained that the problem was with my delays in makeTone(): 
+
+``` cpp
+void makeTone(float frequency) {
+  // set the period in microseconds:
+  int period = (1 / frequency) * 1000000;
+  // int period = (1 / frequency) * 5000000;  //i want this to play over, say, 10 seconds.
+  // turn the speaker on:
+  digitalWrite(led_pin, HIGH);
+  // delay half the period:
+  delayMicroseconds(period / 2);
+  // turn the speaker off:
+  digitalWrite(led_pin, LOW);
+  // delay half the period:
+  delayMicroseconds(period / 2);
+}
+```
+
+they're on for 50% and off for 50%. 
+
+and that's what i solved with the other function that i wrote. i think i'm going to try a version with makeTone() also, at some point.
+
+---
+[[people/christina tang|christina tang]] also gave me programmable leds. but i don't know — i think <mark>i want to go into the weeds of this one</mark>(manual leds), and <mark>fail if i do</mark>. i'm learning far too much and getting more comfortable with the medium. 
+
+i'll resort back to the leds if i cannot get it to work. i have a bunch of ideas right now — what if i pass pwms to a digital multiplexor? [[people/tom|tom]] also shared a [pwm-driver](https://www.adafruit.com/product/815). 
+
+---
+
+
 
 
 ---
