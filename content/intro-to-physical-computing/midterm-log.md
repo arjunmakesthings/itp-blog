@@ -638,6 +638,21 @@ isn't this a way to convert literally all digital pins into analog ones?
 good ~~day~~ night. now, i have to figure out how to pass this to the multiplexor. i might even try sending analog-signal to it (but i remember thinking that i needed to do this (pseudo-analog) because the mpx we have does not accept analog signals). but let's see :) 
 
 ---
+[[people/christina tang|christina tang]] explained a bunch of things about light to me.
+
+![[z_images/IMG_6675.jpg]]
+
+she explained that while the computer sends out signal linearly, the eye doesn't quite perceive it similarly. this is the difference between computation & perception that [[people/mimi yin|mimi yin]] was also referring to; in my [[conversation with mimi]]. 
+
+we spoke about [photopic curves](https://en.wikipedia.org/wiki/Luminous_efficiency_function) too.
+
+![[z_images/IMG_6675 1.jpg]]
+<figcaption>top: computer signal (linear), middle: led-processing, bottom: human-perception. a lot of light-engineering is to figure out how to balance the three curves.</figcaption>
+
+we also discussed that my use of tone should perhaps dim the led too. i just need to pass it different frequencies over time.
+
+
+---
 # to do: 
 learnt this from [[galt]]'s blog; started using it here. 
 
