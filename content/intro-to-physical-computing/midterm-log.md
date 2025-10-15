@@ -638,9 +638,6 @@ isn't this a way to convert literally all digital pins into analog ones?
 good ~~day~~ night. now, i have to figure out how to pass this to the multiplexor. i might even try sending analog-signal to it (but i remember thinking that i needed to do this (pseudo-analog) because the mpx we have does not accept analog signals). but let's see :) 
 
 ---
-
-
----
 # to do: 
 learnt this from [[galt]]'s blog; started using it here. 
 
