@@ -156,4 +156,24 @@ so, they <mark>print transistors using photolithography</mark> (capable of makin
 any device that converts electrical energy into mechanical energy (motors, servos, linear, rotary), et-cetera. 
 
 ---
+# digital signals: 
+0s or 1s, HIGHS or LOWS, ON or OFF.
+
+---
+# analog signals: 
+infinite number of values within a given range. 
+
+![[z_images/Pasted image 20251014205405.png]]
+<figcaption>source: https://docs.arduino.cc/micropython/micropython-course/course/analog/</figcaption>
+
+---
+# pwm or pulse-width-modulation: 
+a digital signal that is rapidly switching on and off, mimicking an analog signal (a waveform).
+
+![[z_images/Pasted image 20251014205508.png]]
+<figcaption>source: https://docs.arduino.cc/micropython/micropython-course/course/analog/</figcaption>
+
+
+
+---
 more parts to read about are here: https://itp.nyu.edu/physcomp/labs/components/

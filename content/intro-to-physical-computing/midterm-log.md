@@ -470,6 +470,21 @@ this is why i don't like chatgpt.
 i'll start from scratch, and instead of making the code reusable, i'll hard code it — to make it work for my use-case first. then abstract it.
 
 ---
+[[people/tom|tom]] told me **not** to send analog signals, and just use the arduino to turn the leds on / off. i know that this won't produce the effect that i want, and i wanted to get this concept down properly. 
+
+so, i built a small circuit and took it home with me; to spend a couple of hours in the night programming it. 
+
+![[z_images/IMG_6667.jpg]]
+
+i found some stuff on the arduino's [reference page](https://docs.arduino.cc/micropython/micropython-course/course/analog/) that first re-enforced correct terminologies (w.r.t. digital, analog & pwm; covered in [[intro-to-physical-computing/electrical components|electrical components]]). 
+
+
+
+
+
+
+
+---
 # to do: 
 learnt this from [[galt]]'s blog; started using it here. 
 
