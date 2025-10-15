@@ -478,11 +478,162 @@ so, i built a small circuit and took it home with me; to spend a couple of hours
 
 i found some stuff on the arduino's [reference page](https://docs.arduino.cc/micropython/micropython-course/course/analog/) that first re-enforced correct terminologies (w.r.t. digital, analog & pwm; covered in [[intro-to-physical-computing/electrical components|electrical components]]). 
 
+[this video](https://vimeo.com/380180086) by [[people/jeffrey|jeffrey]] made me realise that i could use `tone()` to power up an led too. which then means that i can send pseudo-analog signals using the makeTone() lab that we did a while back. 
 
+i did do that. i think — i think — i can make it dim too. i just need to pass a different frequency over time.
 
+![[z_images/IMG_6668.mov]]
 
+it didn't work. i tried this: 
 
+``` cpp
+//send pwm signal to led via a digital output pin.
 
+int led_pin = 9;
+
+void setup() {
+  pinMode(led_pin, OUTPUT);
+}
+
+void loop() {
+  for (int i = 0; i < 200; i+=0.0000005) {
+    makeTone(i);
+    delay(1000);
+  }
+}
+
+void makeTone(float frequency) {
+  // set the period in microseconds:
+  int period = (1 / frequency) * 1000000;
+  // int period = (1 / frequency) * 5000000;  //i want this to play over, say, 10 seconds.
+  // turn the speaker on:
+  digitalWrite(led_pin, HIGH);
+  // delay half the period:
+  delayMicroseconds(period / 2);
+  // turn the speaker off:
+  digitalWrite(led_pin, LOW);
+  // delay half the period:
+  delayMicroseconds(period / 2);
+}
+
+```
+
+but, i knew that theoretically this *should* be possible. i tried to use chatgpt — and it gave me code that worked. 
+
+``` cpp
+//send pwm signal to led via a digital output pin.
+
+int led_pin = 9;  // Pin connected to the LED
+
+void setup() {
+  pinMode(led_pin, OUTPUT);  // Set LED pin as an output
+}
+
+void loop() {
+  // Fade in the LED from 0 to 255 (off to full brightness)
+  for (int brightness = 0; brightness <= 255; brightness++) {
+    // Calculate the on time for the LED
+    int onTime = (brightness * 10);  // The higher the brightness, the longer it stays on
+    int offTime = 2550 - onTime;    // The rest of the period is the off time
+    
+    // Send PWM signal by adjusting on and off times
+    digitalWrite(led_pin, HIGH);   // Turn the LED on
+    delayMicroseconds(onTime);     // Delay for the "on" time
+    digitalWrite(led_pin, LOW);    // Turn the LED off
+    delayMicroseconds(offTime);    // Delay for the "off" time
+  }
+
+  // Fade out the LED from 255 to 0 (full brightness to off)
+  for (int brightness = 255; brightness >= 0; brightness--) {
+    // Calculate the on time for the LED
+    int onTime = (brightness * 10);  // The higher the brightness, the longer it stays on
+    int offTime = 2550 - onTime;    // The rest of the period is the off time
+    
+    // Send PWM signal by adjusting on and off times
+    digitalWrite(led_pin, HIGH);   // Turn the LED on
+    delayMicroseconds(onTime);     // Delay for the "on" time
+    digitalWrite(led_pin, LOW);    // Turn the LED off
+    delayMicroseconds(offTime);    // Delay for the "off" time
+  }
+}
+```
+
+but that isn't fun. i then asked it to explain what it produced, and i attempted to understand & rewrite it myself. 
+
+so the first thing i understood was this: 
+
+> PWM is a technique where you rapidly turn a device (like an LED) on and off. The duty cycle determines how long the device stays on vs. off. The human eye can’t distinguish the rapid switching, but it sees the average brightness.
+
+which means that i had to essentially increase the duty-cycle over time.
+
+the magic kind of happens here: 
+
+``` cpp
+for (int brightness = 0; brightness <= 255; brightness++) {
+  // Calculate the on time for the LED
+  int onTime = (brightness * 10);  // The higher the brightness, the longer it stays on
+  int offTime = 2550 - onTime;    // The rest of the period is the off time
+  
+  // Send PWM signal by adjusting on and off times
+  digitalWrite(led_pin, HIGH);   // Turn the LED on
+  delayMicroseconds(onTime);     // Delay for the "on" time
+  digitalWrite(led_pin, LOW);    // Turn the LED off
+  delayMicroseconds(offTime);    // Delay for the "off" time
+}
+```
+
+> If brightness = 0, the LED will stay on for 0 * 10 = 0 microseconds (i.e., it won’t be on at all).
+> 
+> If brightness = 255, the LED will stay on for 255 * 10 = 2550 microseconds.
+
+here's my version of the code, with comments and a video of it working. 
+
+![[z_images/IMG_6669.mov]]
+
+``` cpp
+//send pwm signal to led via a digital output pin.
+
+int led_pin = 9;
+
+void setup() {
+  Serial.begin(9600); 
+  pinMode(led_pin, OUTPUT);
+}
+
+const int max_brightness = 255;
+const int interval = 30;
+
+void loop() {
+
+  //fade in the led:
+  for (int b = 0; b <= 255; b++) {
+    int on_time = b * interval;                            //stay on at this brightness level for an interval of time. at 0 brightness, it won't be on at all.
+    int off_time = (max_brightness * interval) - on_time;  //stay off for the remainder of the time.
+
+    //send pseudo-pwm signal:
+    digitalWrite(led_pin, HIGH);  //turn on.
+    delayMicroseconds(on_time);   //for on_time.
+    digitalWrite(led_pin, LOW);   //turn off for off_time.
+    delayMicroseconds(off_time);  //for off_time.
+  }
+
+  //when the above is completed, we fade out the led:
+
+  //fade out the led:
+  for (int b = 255; b >= 0; b--) {
+    int on_time = b * interval;                            //stay on at this brightness level for an interval of time. at 0 brightness, it won't be on at all.
+    int off_time = (max_brightness * interval) - on_time;  //stay off for the remainder of the time.
+
+    //send pseudo-pwm signal:
+    digitalWrite(led_pin, HIGH);  //turn on.
+    delayMicroseconds(on_time);   //for on_time.
+    digitalWrite(led_pin, LOW);   //turn off for off_time.
+    delayMicroseconds(off_time);  //for off_time.
+  }
+}
+```
+
+isn't this a way to convert literally all digital pins into analog ones?
 
 ---
 # to do: 

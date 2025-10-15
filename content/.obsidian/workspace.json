@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,8 +239,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "93231de57f2efbae",
+  "active": "2d31c672dea9cb5e",
   "lastOpenFiles": [
+    "z_images/IMG_6669.mov",
+    "z_images/IMG_6668.mov",
+    "intro-to-physical-computing/index.md",
     "intro-to-physical-computing/midterm-log.md",
     "intro-to-physical-computing/electrical components.md",
     "intro-to-computational-media/icm_class_week-6.md",
@@ -279,13 +283,10 @@
     "intro-to-physical-computing/ipc_experiments_week-3.md",
     "people/nikolai.md",
     "uv-printer experiments.md",
-    "intro-to-physical-computing/index.md",
-    "hypercinema/conversation with aidan.md",
     "z_images/Screen Recording 2025-10-09 at 08.57.54.mov",
     "z_images/IMG_6604.mov",
     "z_images/IMG_6582.mov",
     "z_images/Screen Recording 2025-10-04 at 21.56.33.mov",
-    "z_images/Screen Recording 2025-10-04 at 21.49.46.mov",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"
