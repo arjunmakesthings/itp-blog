@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uv-printer experiments.md",
+                "file": "intro-to-computational-media/icm_experiments_week-7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "uv-printer experiments"
+              "title": "icm_experiments_week-7"
             }
           },
           {
@@ -241,8 +241,8 @@
   },
   "active": "2d31c672dea9cb5e",
   "lastOpenFiles": [
-    "people/jiyou.md",
     "uv-printer experiments.md",
+    "people/jiyou.md",
     "z_images/IMG_6645.jpg",
     "z_images/IMG_6646.jpg",
     "z_images/IMG_6647.jpg",
