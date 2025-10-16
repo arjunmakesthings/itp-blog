@@ -701,6 +701,117 @@ i assume that the current being passed is too little; via the multiplexor. this 
 now my next hope is to pass a pwm instead of high to the multiplexor's input.
 
 ---
+it works!!!!
+
+``` cpp
+//multiple leds test.
+
+/*
+truth table for CD4051B:
+[a,b,c] [high || low] = on_channel (source: datasheet)
+
+[LOW, LOW, LOW] = 0;
+[HIGH, LOW, LOW] = 1;
+[LOW, HIGH, LOW] = 2; 
+[HIGH, HIGH, LOW] = 3
+[LOW, LOW, HIGH] = 4;
+[HIGH, LOW, HIGH] = 5;
+[LOW, HIGH, HIGH] = 6;
+[HIGH, HIGH, HIGH] = 7; 
+
+INHIBIT == HIGH = NONE;
+*/
+
+int input_pins[] = { 14, 15, 16 };
+int inh_pin = 17;
+int ctrl_pin = 18;
+
+//helper to get array_size, when called during compile:
+template<typename T, size_t N>
+int get_array_length(T (&)[N]) {
+  return N;
+}
+
+void setup() {
+  //set pin-modes, and default for inhibit.
+  int input_pins_length = get_array_length(input_pins);
+  for (int i = 0; i < input_pins_length; i++) {
+    pinMode(input_pins[i], OUTPUT);
+  }
+  pinMode(inh_pin, OUTPUT);
+  digitalWrite(inh_pin, LOW);
+}
+
+void loop() {
+  fade_signal(HIGH, LOW, LOW, 30); 
+}
+
+void fade_signal(int val1, int val2, int val3, const int interval) {
+  const int max_brightness = 255;
+
+  //fade in the led:
+  for (int b = 0; b <= 255; b++) {
+    int on_time = b * interval;                            //stay on at this brightness level for an interval of time. at 0 brightness, it won't be on at all.
+    int off_time = (max_brightness * interval) - on_time;  //stay off for the remainder of the time.
+
+    //send pseudo-pwm signal:
+    digitalWrite(input_pins[0], val1);  //turn on.
+    digitalWrite(input_pins[1], val2);  //turn on.
+    digitalWrite(input_pins[2], val3);  //turn on.
+    delayMicroseconds(on_time);         //for on_time.
+    digitalWrite(input_pins[0], LOW);  //turn on.
+    digitalWrite(input_pins[1], LOW);  //turn on.
+    digitalWrite(input_pins[2], LOW);  //turn on.
+    delayMicroseconds(off_time);        //for off_time.
+  }
+
+  //when the above is completed, we fade out the led:
+
+  //fade out the led:
+  for (int b = 255; b >= 0; b--) {
+    int on_time = b * interval;                            //stay on at this brightness level for an interval of time. at 0 brightness, it won't be on at all.
+    int off_time = (max_brightness * interval) - on_time;  //stay off for the remainder of the time.
+
+    //send pseudo-pwm signal:
+    digitalWrite(input_pins[0], val1);  //turn on.
+    digitalWrite(input_pins[1], val2);  //turn on.
+    digitalWrite(input_pins[2], val3);  //turn on.
+    delayMicroseconds(on_time);         //for on_time.
+    digitalWrite(input_pins[0], LOW);  //turn on.
+    digitalWrite(input_pins[1], LOW);  //turn on.
+    digitalWrite(input_pins[2], LOW);  //turn on.
+    delayMicroseconds(off_time);        //for off_time.
+  }
+}
+
+
+
+void blink(int a_val, int b_val, int c_val, int time) {
+  digitalWrite(input_pins[0], a_val);
+  digitalWrite(input_pins[1], b_val);
+  digitalWrite(input_pins[2], c_val);
+  delay(time);
+  digitalWrite(input_pins[0], LOW);
+  digitalWrite(input_pins[1], LOW);
+  digitalWrite(input_pins[2], LOW);
+  delay(time);
+}
+
+// void turn_on(int a_val, int b_val, int c_val) {
+//   digitalWrite(input_pins[0], a_val);
+//   digitalWrite(input_pins[1], b_val);
+//   digitalWrite(input_pins[2], c_val);
+// }
+
+// void turn_off() {
+//   digitalWrite(input_pins[0], LOW);
+//   digitalWrite(input_pins[1], LOW);
+//   digitalWrite(input_pins[2], LOW);
+// }
+```
+
+
+---
 # to do: 
 learnt this from [[galt]]'s blog; started using it here. 
 
