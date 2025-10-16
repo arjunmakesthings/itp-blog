@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hypercinema/synthetic media example.md",
+                "file": "applications/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "synthetic media example"
+              "title": "index"
             }
           },
           {
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -227,9 +226,9 @@
   },
   "active": "1593bfcfc97a98ce",
   "lastOpenFiles": [
-    "z_images/Pasted image 20251016003046.png",
     "hypercinema/index.md",
     "hypercinema/synthetic media example.md",
+    "z_images/Pasted image 20251016003046.png",
     "hypercinema/hypercinema_experiments_week-5_to_week-7.md",
     "z_images/vid 3.mov",
     "z_images/Screen Recording 2025-10-16 at 00.12.09.mov",
@@ -251,7 +250,6 @@
     "z_images/IMG_6675.jpg",
     "z_images/IMG_6674.jpg",
     "z_images/IMG_6673.jpg",
-    "z_images/IMG_6672.jpg",
     "hypercinema/hypercinema_class-5.md",
     "intro-to-computational-media/index.md",
     "intro-to-computational-media/icm_experiments_week-7.md",
