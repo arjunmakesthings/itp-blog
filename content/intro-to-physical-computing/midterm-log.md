@@ -677,9 +677,28 @@ and that's what i solved with the other function that i wrote. i think i'm going
 i'll resort back to the leds if i cannot get it to work. i have a bunch of ideas right now — what if i pass pwms to a digital multiplexor? [[people/tom|tom]] also shared a [pwm-driver](https://www.adafruit.com/product/815). 
 
 ---
+while reading [[intro-to-physical-computing/there are no electrons|there are no electrons]], the narrative came to me:
 
+![[z_images/IMG_6685.jpg]]
 
+it would be amazing to show this narrative as the experience happens (via engraved text that is visible with leds underneath). however, this is the most aspirational version of my project. i now know, after 6 weeks, that this may not be what gets produced. i am tightly dependent on what i am able to technically achieve. 
 
+so, i'll park this aspiration for now; and focus on making things work first — and then deciding what i can achieve. 
+
+---
+the next thing i tried was to test the mux. can i send a pwm to the multiplexor's input — and does that fade an led? 
+
+so, first i sent a HIGH signal to the multiplexor's communication input from the arduino digital-output-pin, instead of taking 3.3 from the bus. however, the led was dim. 
+
+![[z_images/IMG_6687.mov]]
+
+i also checked voltage-differences between what was being sent and what was being outputted. there isn't a lot; so, i assume it's current.
+
+![[z_images/volt_checker.mov]]
+
+i assume that the current being passed is too little; via the multiplexor. this means that the multiplexor shouldn't be used to power the led, but just control the pulse (i.e, i can pin this to ground). realised i'd have to use transistors for this. that'll be 37 transistors. argh.
+
+now my next hope is to pass a pwm instead of high to the multiplexor's input.
 
 ---
 # to do: 
