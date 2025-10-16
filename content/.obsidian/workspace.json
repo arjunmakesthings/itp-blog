@@ -27,6 +27,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "artificial organisms, by maxim zhestkov.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "artificial organisms, by maxim zhestkov"
+            }
+          },
+          {
+            "id": "0c459b7d77e6242e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "hypercinema/hypercinema_class-6.md",
                 "mode": "source",
                 "source": false
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,11 +239,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5fd149ffa9cf21f9",
+  "active": "0c459b7d77e6242e",
   "lastOpenFiles": [
+    "z_images/Pasted image 20251016125703.png",
+    "z_images/Pasted image 20251016125656.png",
+    "people/merma.md",
+    "hypercinema/hypercinema_class-6.md",
+    "artificial organisms, by maxim zhestkov.md",
+    "z_images/Pasted image 20251016125538.png",
     "z_images/Pasted image 20251016124923.png",
     "hypercinema/hypercinema_class-5.md",
-    "hypercinema/hypercinema_class-6.md",
     "hypercinema/index.md",
     "hypercinema/hypercinema_experiments_week-5_to_week-7.md",
     "intro-to-physical-computing/midterm-log.md",
@@ -254,9 +273,6 @@
     "intro-to-physical-computing/index.md",
     "intro-to-physical-computing/electrical components.md",
     "intro-to-computational-media/icm_class_week-6.md",
-    "z_images/IMG_6675 1.jpg",
-    "z_images/IMG_6675.jpg",
-    "z_images/IMG_6674.jpg",
     "intro-to-computational-media/index.md",
     "intro-to-computational-media/icm_experiments_week-7.md",
     "uv-printer experiments.md",
@@ -271,8 +287,6 @@
     "intro-to-fabrication/fab_class-6.md",
     "humbled.md",
     "intro-to-computational-media/icm_class_week-5.md",
-    "miura fold.md",
-    "my approach to itp.md",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"

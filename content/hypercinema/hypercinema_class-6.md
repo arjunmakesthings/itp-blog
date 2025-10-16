@@ -21,5 +21,9 @@ people are breaking models (like [so](https://github.com/elder-plinius/Google-Ge
 
 ---
 
+[[merma]] showed [[artificial organisms, by maxim zhestkov]].
+
+![[z_images/Pasted image 20251016125703.png]]
+
 
 
