@@ -701,7 +701,11 @@ i assume that the current being passed is too little; via the multiplexor. this 
 now my next hope is to pass a pwm instead of high to the multiplexor's input.
 
 ---
-it works!!!!
+it works!!! 
+
+i sent a pseudo-pwm via a digitalWrite pin to fade in an led. this means that i have infinite ports to fade in leds. this is amazing.
+
+![[z_images/IMG_6688.mov]]
 
 ``` cpp
 //multiple leds test.
@@ -809,6 +813,16 @@ void blink(int a_val, int b_val, int c_val, int time) {
 //   digitalWrite(input_pins[2], LOW);
 // }
 ```
+
+circuit: 
+
+![[z_images/IMG_6689 1.jpg]]
+
+i'll need to clean up the program to make it work for an array of leds (fade in, stay in, fade out). but i think i can do that.
+
+---
+now, i'm going to start building my circuit, complete with the fsr; and work on the interactions.
+
 
 
 ---
