@@ -820,6 +820,10 @@ circuit:
 
 i'll need to clean up the program to make it work for an array of leds (fade in, stay in, fade out). but i think i can do that.
 
+there is one tiny problem: if i reset all the input pins to low, it powers up the 0th-pin. so, i think the downside is that i'll just have to not use the zeroth pin. other than that, the pulsating works fine with the multiplexor across multiple leds. 
+
+![[z_images/IMG_6691.mov]]
+
 ---
 now, i'm going to start building my circuit, complete with the fsr; and work on the interactions.
 
