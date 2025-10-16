@@ -8,73 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3724d3873dfd065",
+            "id": "530fb48ff05b1065",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/midterm-log.md",
+                "file": "intro-to-fabrication/fab_experiments_week-5_to_week-7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "midterm-log"
-            }
-          },
-          {
-            "id": "5fd149ffa9cf21f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "artificial organisms, by maxim zhestkov.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "artificial organisms, by maxim zhestkov"
-            }
-          },
-          {
-            "id": "0c459b7d77e6242e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hypercinema/hypercinema_class-6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hypercinema_class-6"
-            }
-          },
-          {
-            "id": "2a32a2c875c9de6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hypercinema/hypercinema_experiments_week-5_to_week-7.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hypercinema_experiments_week-5_to_week-7"
-            }
-          },
-          {
-            "id": "865c31b27236630a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hypercinema/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "fab_experiments_week-5_to_week-7"
             }
           }
         ]
@@ -134,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -253,25 +196,29 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c3724d3873dfd065",
+  "active": "530fb48ff05b1065",
   "lastOpenFiles": [
+    "z_images/IMG_6692 1.jpg",
+    "z_images/IMG_6692.jpg",
+    "hypercinema/index.md",
+    "hypercinema/hypercinema_experiments_week-5_to_week-7.md",
+    "hypercinema/hypercinema_class-6.md",
+    "artificial organisms, by maxim zhestkov.md",
+    "intro-to-physical-computing/index.md",
+    "intro-to-physical-computing/ipc_experiments_week-4.md",
+    "intro-to-physical-computing/midterm-log.md",
     "z_images/IMG_6691.mov",
     "z_images/IMG_6689 1.jpg",
     "z_images/IMG_6689.jpg",
     "z_images/IMG_6688.mov",
-    "hypercinema/hypercinema_class-6.md",
     "z_images/Screen Recording 2025-10-16 at 14.22.12.mov",
-    "hypercinema/hypercinema_experiments_week-5_to_week-7.md",
     "z_images/frame.png",
-    "hypercinema/index.md",
     "z_images/Pasted image 20251016125703.png",
     "z_images/Pasted image 20251016125656.png",
     "people/merma.md",
-    "artificial organisms, by maxim zhestkov.md",
     "z_images/Pasted image 20251016125538.png",
     "z_images/Pasted image 20251016124923.png",
     "hypercinema/hypercinema_class-5.md",
-    "intro-to-physical-computing/midterm-log.md",
     "applications/index.md",
     "z_images/volt_checker.mov",
     "z_images/IMG_6687.mov",
@@ -281,12 +228,9 @@
     "z_images/Pasted image 20251016003046.png",
     "z_images/vid 3.mov",
     "z_images/Screen Recording 2025-10-16 at 00.12.09.mov",
-    "z_images/Screenshot 2025-10-15 at 23.57.01.png",
     "z_images/Screen Recording 2025-10-15 at 23.47.58.mov",
     "z_images/Screen Recording 2025-10-15 at 23.47.28.mov",
     "z_images/Screen Recording 2025-10-15 at 23.39.23.mov",
-    "z_images/Screen Recording 2025-10-15 at 20.58.51.mov",
-    "intro-to-physical-computing/index.md",
     "intro-to-physical-computing/electrical components.md",
     "intro-to-computational-media/icm_class_week-6.md",
     "intro-to-computational-media/index.md",
@@ -300,7 +244,6 @@
     "i touch you and you touch me.md",
     "intro-to-fabrication/fab_class-6.md",
     "humbled.md",
-    "intro-to-computational-media/icm_class_week-5.md",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"

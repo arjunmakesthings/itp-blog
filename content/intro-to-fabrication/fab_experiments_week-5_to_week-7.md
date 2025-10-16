@@ -79,3 +79,9 @@ what i make also meets the ask: it's 40% wood, and 40% paper.
 
 ---
 watched this: https://www.youtube.com/watch?v=NYKcOFQCeno
+
+---
+i tried a couple of origami flowers. failed. 
+
+![[z_images/IMG_6692 1.jpg]]
+
