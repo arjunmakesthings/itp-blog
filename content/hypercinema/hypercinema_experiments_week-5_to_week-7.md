@@ -131,6 +131,9 @@ tried runway to generate reference images.
 
 i then made a frame on illustrator, and then tried to animate it with runway.
 
+![[z_images/frame.png]]
+<figcaption>frame fed to runway.</figcaption>
+
 prompt: 
 > can you animate the 1s and 0s on this? to make them always change? 
 > 

@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "2a32a2c875c9de6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hypercinema/hypercinema_experiments_week-5_to_week-7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hypercinema_experiments_week-5_to_week-7"
+            }
+          },
+          {
             "id": "865c31b27236630a",
             "type": "leaf",
             "state": {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -224,7 +238,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,17 +254,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0c459b7d77e6242e",
+  "active": "2a32a2c875c9de6d",
   "lastOpenFiles": [
+    "z_images/frame.png",
+    "hypercinema/index.md",
+    "hypercinema/hypercinema_class-6.md",
     "z_images/Pasted image 20251016125703.png",
     "z_images/Pasted image 20251016125656.png",
     "people/merma.md",
-    "hypercinema/hypercinema_class-6.md",
     "artificial organisms, by maxim zhestkov.md",
     "z_images/Pasted image 20251016125538.png",
     "z_images/Pasted image 20251016124923.png",
     "hypercinema/hypercinema_class-5.md",
-    "hypercinema/index.md",
     "hypercinema/hypercinema_experiments_week-5_to_week-7.md",
     "intro-to-physical-computing/midterm-log.md",
     "applications/index.md",
@@ -269,7 +285,6 @@
     "z_images/Screenshot 2025-10-15 at 23.30.18.png",
     "z_images/Screen Recording 2025-10-15 at 20.58.51.mov",
     "z_images/IMG_6683 1.jpg",
-    "z_images/IMG_6683.jpg",
     "intro-to-physical-computing/index.md",
     "intro-to-physical-computing/electrical components.md",
     "intro-to-computational-media/icm_class_week-6.md",
