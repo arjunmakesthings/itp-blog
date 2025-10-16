@@ -522,3 +522,49 @@ class Character {
 }
 
 ```
+
+---
+
+i'm sleepy. 
+
+so, i thought to use chatgpt to see if it could take my structure and then make objects as i tell it to. this was my prompt to it:
+
+![[z_images/Screenshot 2025-10-15 at 23.30.18.png]]
+
+this was my first prompt: 
+
+> i want the binaries like buildings, between the two characters. so, make rectangles of varying heights (not actual rectangles, but from the binaries) between them.
+
+after some modifications and re-prompting, i have this: 
+
+![[z_images/Screen Recording 2025-10-15 at 23.39.23.mov]]
+
+i think my outcome is going to be a <mark>clean webpage</mark>, with these <mark>sketches that look different every time</mark> you load the webpage, and <mark>each communicating a single message about the future between u & i</mark>.
+
+
+![[z_images/Screen Recording 2025-10-15 at 23.47.58.mov]]
+
+---
+next prompt: 
+
+> now, i want you to create a sort of phone signal that goes from character[0] to character [1]. 
+> 
+> a phone signal is made up of a certain number of binaries (you decide that / make it random based on some range). it's a line of binaries of a certain length. this line bounces across the screen to eventually reach the other character. all the bouncing happens above the characters of course (much like phone waves). 
+> 
+> once it reaches the second character (say character [1]), then a new phone signal from that character is produced which goes to the other character (character[0]). 
+> 
+> at any given point in time, there is only one phone signal visible. it's like ping-pong. 
+
+it broke then. 
+
+![[z_images/Screenshot 2025-10-15 at 23.54.40.png]]
+
+![[z_images/Screenshot 2025-10-15 at 23.57.01.png]]
+<figcaption>do you though?</figcaption>
+
+eeeeeeek, i'm so happy with this one!
+
+![[z_images/vid 3.mov]]
+
+i think the <mark>project can be called future meanderings</mark> — a series of speculations about a data-driven (?) world. 
+
