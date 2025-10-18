@@ -16,7 +16,7 @@ it was mandatory. however, i like the premise of the class:
 
 ---
 ### update on 251016: 
-i think this class was phenomenally designed. i didn't get it beforehand. i will write more about why i believe so later.
+i think this class was phenomenally designed. i didn't get it beforehand. more in [[applications/applications_mid-reflection|applications_mid-reflection]]. 
 
 ---
 ### update on 250913: 
