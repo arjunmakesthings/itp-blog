@@ -85,3 +85,94 @@ i tried a couple of origami flowers. failed.
 
 ![[z_images/IMG_6692 1.jpg]]
 
+[[jisoo]] came and helped me. she did origami as a child — apparently like most children do. 
+
+![[z_images/IMG_6693.jpg]]
+
+---
+i then went to blicks, as per [[people/phil|phil]]'s suggestion. i got [basswood](https://en.wikipedia.org/wiki/Tilia_americana). 
+
+![[z_images/IMG_6695.jpg]]
+
+blicks also had a section for tubes, that i can use as my stem. but, i will go back for these later.
+
+![[z_images/IMG_6696.jpg]]
+
+---
+the idea is to make the same form with two different materials.
+
+i first measured the sizes exactly. i'm going to make the same form from pieces of material that are 8" tall.
+
+![[z_images/IMG_6697.jpg]]
+
+i made a flower-bulb and realised that i need to use thinner paper.
+
+![[z_images/IMG_6698.jpg]]
+
+![[z_images/IMG_6699.jpg]]
+
+the next one failed too. i realised it could be a combination of thicker paper, and bigger size. so, i changed both in the next one.
+
+okay, i got something with volume. i'm not able to 'peel' the petals, but that's okay. 
+
+![[z_images/IMG_6700.jpg]]
+
+i will now attempt to duplicate this in wood, and clean up the paper version if i have the time.
+
+first, i sketched out the form. 
+
+![[z_images/IMG_6701.jpg]]
+
+i then played around with the wood to see how i could achieve the petals.
+
+![[z_images/IMG_6702.jpg]]
+
+then, i measured the paper-form (i made it out of 6" x 6" paper; so it would always be the same dimension). 
+
+[[people/nikolai|nikolai]] & [[nasif]] helped me think through the cuts. 
+
+![[z_images/IMG_6703.jpg]]
+
+i then measured everything and cut it. 
+
+![[z_images/IMG_6704.jpg]]
+
+for the triangular panels, i drew on top of square-ones and then cut them on the tiny bandsaw.
+
+![[z_images/IMG_6705.jpg]]
+
+then, i figured that i needed angled-cuts for the panels to stand on the square. [[people/nikolai|nikolai]], [[people/nasif|nasif]], [[people/fabri|fabri]] (and [[people/jasmine|jasmine]]) suggested different approaches. i tried some. 
+
+first, i tried manual saws. 
+
+![[z_images/IMG_6706.jpg]]
+
+that kind of worked. 
+
+![[z_images/IMG_6707.jpg]]
+
+but then, i realised that the more precise way was to angle the base of the bandsaw (like how [[people/nikolai|nikolai]] showed me). 
+
+![[z_images/IMG_6708.jpg]]
+
+after cutting & a little bit of sanding, i could get perfect angles. 
+
+![[z_images/IMG_6710.jpg]]
+<figcaption>45-degree angles.</figcaption>
+
+i also decided to half-cut the triangles to enable them to flex.
+
+![[z_images/IMG_6712.jpg]]
+
+some of them chipped off. 
+
+![[z_images/  1.jpg]]
+
+i then sanded each panel, with increasing sandpaper-grit. then, i stuck them to the base. 
+
+![[z_images/IMG_6714.jpg]]
+
+i also wanted it to be perfect. saw that the base had a little more width than required. went to chop it at an angle; messed up. did it again. 
+
+![[z_images/IMG_6715.jpg]]
+
