@@ -1,7 +1,7 @@
 ---
 date: 2025-10-18
 tags:
-  - lectures
+  - reflections
 noteOrder: "137"
 draft: "false"
 ---

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "applications/applications_mid-reflection.md",
+                "file": "intro-to-computational-media/icm_mid-reflection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "applications_mid-reflection"
+              "title": "icm_mid-reflection"
             }
           },
           {
@@ -268,8 +268,10 @@
   },
   "active": "a2d9b24cbd381711",
   "lastOpenFiles": [
-    "my approach to itp.md",
+    "z_images/IMG_6718.jpg",
     "applications/applications_mid-reflection.md",
+    "intro-to-computational-media/icm_mid-reflection.md",
+    "my approach to itp.md",
     "applications/index.md",
     "applications/applications_class-5.md",
     "intro-to-computational-media/icm_class-7.md",
@@ -302,8 +304,6 @@
     "hypercinema/hypercinema_class-6.md",
     "artificial organisms, by maxim zhestkov.md",
     "intro-to-physical-computing/index.md",
-    "intro-to-physical-computing/ipc_experiments_week-4.md",
-    "intro-to-physical-computing/midterm-log.md",
     "z_images/IMG_6691.mov",
     "z_images/IMG_6688.mov",
     "z_images/Screen Recording 2025-10-16 at 14.22.12.mov",
