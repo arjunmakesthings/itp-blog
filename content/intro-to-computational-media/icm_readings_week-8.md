@@ -33,6 +33,6 @@ a program is stored in the ram. the cpu understands how to process the instructi
 
 https://www.youtube.com/watch?v=Gq9OYkI5ju4
 
+saw [[people/david rios|david rios]]'s predator screen, from when he was a student.
 
-
-
+![[z_images/Screenshot 2025-10-18 at 22.43.05.png]]
