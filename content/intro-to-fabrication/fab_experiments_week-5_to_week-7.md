@@ -176,6 +176,18 @@ i also wanted it to be perfect. saw that the base had a little more width than r
 
 ![[z_images/IMG_6715.jpg]]
 
+made the bulbs. dealt with chipping. 
+
+![[z_images/IMG_6723.jpg]]
+
+sanded. 
+
+![[z_images/IMG_6722.jpg]]
+
+remade the origami bulb, put dowels; realised i should have drilled before. broke the bulb again; made do. 
+
+![[z_images/IMG_6755 copy.jpg]]
+
 ---
 once i got done with the objects, i went about photographing. i had tried clicking pictures once earlier, during week-3.
 
@@ -193,3 +205,8 @@ i thought of going with the best shots that i had for each object, even if that 
 
 i suck at photography. and, i probably should've used a camera.
 
+i also broke the piece made in [[intro-to-fabrication/fab_experiments_week-3|fab_experiments_week-3]]. 
+
+![[z_images/IMG_6752.jpg]]
+
+the site is available here: https://arjunmakesthings.github.io/projects/2025_intro-to-fabrication/page.html
