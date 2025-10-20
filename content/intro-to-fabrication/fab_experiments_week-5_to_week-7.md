@@ -176,3 +176,20 @@ i also wanted it to be perfect. saw that the base had a little more width than r
 
 ![[z_images/IMG_6715.jpg]]
 
+---
+once i got done with the objects, i went about photographing. i had tried clicking pictures once earlier, during week-3.
+
+here is the same object, with different treatments: 
+
+![[z_images/IMG_6725.jpg]]
+
+![[z_images/box-1.jpg]]
+
+![[z_images/IMG_6424.jpg]]
+
+i realised that i probably should have used natural light instead of an artificial one, because the artificial one was too strong (and can be seen on the background in image-one). 
+
+i thought of going with the best shots that i had for each object, even if that meant a difference in styles. 
+
+i suck at photography. and, i probably should've used a camera.
+
