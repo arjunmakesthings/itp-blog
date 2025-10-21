@@ -590,6 +590,105 @@ i now have to make visuals for these lines:
 
 they are four visual poems. each line has layers — but i'll see if the audience can grasp them. or have i become too abstract? i'll see.
 
+i then thought that it would be an interesting workflow, if i could give an engine an image reference, describe something, give it my code structure (like i gave chatgpt), and make it generate that visual.
+
+![[z_images/Screenshot 2025-10-20 at 20.23.19.png]]
+
+![[z_images/Screenshot 2025-10-20 at 20.35.42.png]]
+
+i then resorted back to gpt. i gave it a visual reference.
+
+![[z_images/Screenshot 2025-10-20 at 20.39.31.png]]
+
+we're kind to each other: 
+
+![[z_images/Screenshot 2025-10-20 at 20.50.18.png]]
+
+i realise that with repeated commands, it freezes sometimes — and loses context then. <mark>maybe chatgpt has a very short-duration context grasp</mark> (which it stores during conversation, and maintains a flow) but then later, it starts a new (or from a saved state). 
+
+great. i have all the frames. they're all git branches. i should've probably made them different sketches, to be able to view them individually. 
+
+i'll do that now.
+
+![[z_images/Screenshot 2025-10-20 at 21.21.49.png]]
+
+i have all the frames. now i'm going to mess around with the thought i had earlier. 
+
+![[z_images/Screen Recording 2025-10-20 at 21.56.38.mov]]
+
+---
+i'm going to give the first frame of each sketch to runway, and describe the idea that i want elaborately. i'm going to follow the same structure for my commands to runway for each frame. by runway, i mean aleph. 
+
+i know from my past experience that it's going to give me bullshit — and that it's going to 'creatively' reinterpret my instructions. i'll actually deliberately not be insanely-precise, and be more conceptual; as per aidan's advice of "make something ugly". 
+
+then, i'm going to make a website titled: dear runway, i wanted to make a simple film with you. 
+
+on the website, i'm going to lay out both videos — one of my canvas (perhaps the canvas itself), and the one that runway generated; with a small text to see the prompt below the generated video. in the center is going to be my thought for that frame.
+
+here goes: 
+
+---
+i first read about what runway [shares](https://help.runwayml.com/hc/en-us/articles/43277392678803-Aleph-Prompting-Guide) about prompting aleph: 
+
+> There are <mark>no strict rules</mark> for prompting with Aleph, but <mark>simplicity works best</mark>. 
+> 
+> source: https://help.runwayml.com/hc/en-us/articles/43277392678803-Aleph-Prompting-Guide
+
+> An action verb that describes what you want to do (such as add, remove, change, replace, re-light, and re-style)
+> 
+> A description of your desired transformation
+> 
+> source: https://help.runwayml.com/hc/en-us/articles/43277392678803-Aleph-Prompting-Guide
+
+> Upload an image and draft your prompt in the text box. See our Gen-4 Prompting Guide for a comprehensive overview of prompting.
+> 
+> Your text prompts should focus on describing the desired motion. You do not need to describe the contents of the image.
+> 
+> source: https://help.runwayml.com/hc/en-us/articles/37425232841875-Getting-Started-with-Generative-Video
+
+> Rather than starting with an overly complex prompt, we recommend <mark>beginning your session with a simple prompt, and iterating by adding more details as needed</mark>.
+> 
+> https://help.runwayml.com/hc/en-us/articles/39789879462419-Gen-4-Video-Prompting-Guide
+
+but that's counterintuitive. i'm going to voluntarily break this. 
+
+# important: 
+a person, when using an ai-tool, uses it to give form to their imagination. their imagination doesn't come in doses — it contains a full idea, often with an image in their head. the job of the tool (as portrayed) is to, somehow, magically bring the thought-vision to life (without ever having direct interaction with the vision).  
+
+crap, i've been using runway wrong all along. i wonder why we were never told this. anyway, i'll *pretend* i didn't see this (not everyone who uses runway is going to browse through their documentation at 2300hrs.). 
+
+![[z_images/Screenshot 2025-10-20 at 22.18.54.png]]
+
+---
+# prompts, inputs & outputs: 
+experiment ran at 2220, 251020. 
+
+image: 
+
+![[z_images/frame-1.jpeg]]
+
+text: 
+
+> this is a story about two character — u & i. this is the first shot. i assume you don't need context of the story, and just care about the shot. 
+> 
+> here, i want the 0s and 1s to simply alternate between 0 & 1; as if a building of data separates the two characters. 
+
+output: 
+![[z_images/frame-1_output_runway.mp4]]
+
+---
+
+image: 
+
+
+
+prompt: 
+
+
+
+
+
+
 
 
 
