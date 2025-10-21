@@ -1067,6 +1067,188 @@ void fade_signal(int val1, int val2, int val3, const int interval) {
 ---
 also read [[all technology is assistive, by sarah hendren]]. 
 
+---
+put all stages as enums, and cleaned up the program. 
+
+![[z_images/251021_vid.mov]]
+
+``` cpp
+//interaction test.
+
+int input_pins[] = { 10, 11, 12 };
+int inh_pin = 9;
+
+int fsr_pin = A0;
+int fsr_value = 0;
+int fsr_prev_val = 0;
+
+int fsr_noise = 20;
+
+enum FSR_Stage {
+  LOW_TO_HIGH,
+  HIGH_TO_HIGH,
+  LOW_TO_LOW,
+  HIGH_TO_LOW
+};
+
+FSR_Stage current_fsr_stage = LOW_TO_LOW;
+
+enum Circuit_Stage {
+  DISPLAYER,
+  POWERING,
+  POWERED,
+  DEPOWER,
+  END
+};
+
+Circuit_Stage current_circuit_stage = DISPLAYER;
+
+//helper to get array_size, when called during compile:
+template<typename T, size_t N>
+int get_array_length(T (&)[N]) {
+  return N;
+}
+
+//helper to get mux-values according to the truth table. chat-gpt found some obscure logic that connects all pin-numbers with simple if-conditions.
+int* get_mux_values(int channel) {
+  static int vals[3];  // persistent array for return
+
+  if (channel < 0 || channel > 7) {
+    vals[0] = vals[1] = vals[2] = LOW;
+    return vals;
+  }
+
+  // derive logic levels from the channel bits
+  vals[0] = (channel & 0b001) ? HIGH : LOW;  // A
+  vals[1] = (channel & 0b010) ? HIGH : LOW;  // B
+  vals[2] = (channel & 0b100) ? HIGH : LOW;  // C
+
+  return vals;
+}
+
+
+void setup() {
+
+  //set pin-modes, and default value for inhibit.
+  int input_pins_length = get_array_length(input_pins);
+  for (int i = 0; i < input_pins_length; i++) {
+    pinMode(input_pins[i], OUTPUT);
+    digitalWrite(input_pins[i], LOW);
+  }
+
+  pinMode(fsr_pin, INPUT);
+
+  pinMode(inh_pin, OUTPUT);
+  digitalWrite(inh_pin, LOW);
+}
+
+void loop() {
+  //a bunch of calls to light up.
+  fsr_value = analogRead(fsr_pin);
+
+  check_fsr_stage(fsr_value, fsr_prev_val);
+  change_circuit_stage(); 
+
+  // light_up(1, 255, 30);
+  // delay(100);
+  // light_up(2, 255, 30);
+  // delay(100);
+  // light_up(3, 255, 30);
+  // delay(100);
+
+  fsr_prev_val = fsr_value;  //set previous fsr value to be fsr value.
+}
+
+void check_fsr_stage(int current_fsr, int last_fsr) {
+  if (last_fsr < fsr_noise && current_fsr > fsr_noise) {
+    // gone from LOW to HIGH.
+    current_fsr_stage = LOW_TO_HIGH;
+  } else if (last_fsr > fsr_noise && current_fsr > fsr_noise) {
+    // gone from HIGH to HIGH.
+    current_fsr_stage = HIGH_TO_HIGH;
+  } else if (last_fsr < fsr_noise && current_fsr < fsr_noise) {
+    // gone from LOW to LOW.
+    current_fsr_stage = LOW_TO_LOW;
+  } else if (last_fsr > fsr_noise && current_fsr < fsr_noise) {
+    // gone from HIGH to LOW.
+    current_fsr_stage = HIGH_TO_LOW;
+  }
+}
+
+void change_circuit_stage(){
+  if (current_fsr_stage==HIGH_TO_HIGH){
+    for (int i = 0; i<=3; i++){
+      light_up(i, 255, 10); 
+    }
+  }
+    if (current_fsr_stage==LOW_TO_LOW){
+    for (int i = 0; i<=3; i++){
+      light_up(i, 10, 10); 
+    }
+  }
+}
+
+void light_up(int channel, int brightness, int interval) {
+  // brightness: 0–255
+  // interval: base PWM timing (microseconds per brightness step)
+  // hold duration is fixed internally
+
+  int* values = get_mux_values(channel);
+  const int max_brightness = 255;
+  const int hold_duration = 100;  // <-- fixed hold time (ms)
+
+  digitalWrite(inh_pin, LOW);  // enable MUX
+
+  // --- fade in ---
+  for (int b = 0; b <= brightness; b++) {
+    int on_time = b * interval;
+    int off_time = (max_brightness * interval) - on_time;
+
+    digitalWrite(input_pins[0], values[0]);
+    digitalWrite(input_pins[1], values[1]);
+    digitalWrite(input_pins[2], values[2]);
+    delayMicroseconds(on_time);
+    digitalWrite(input_pins[0], LOW);
+    digitalWrite(input_pins[1], LOW);
+    digitalWrite(input_pins[2], LOW);
+    delayMicroseconds(off_time);
+  }
+
+  // --- hold steady at chosen brightness ---
+  unsigned long start_time = millis();
+  while (millis() - start_time < hold_duration) {
+    int on_time = brightness * interval;
+    int off_time = (max_brightness * interval) - on_time;
+
+    digitalWrite(input_pins[0], values[0]);
+    digitalWrite(input_pins[1], values[1]);
+    digitalWrite(input_pins[2], values[2]);
+    delayMicroseconds(on_time);
+    digitalWrite(input_pins[0], LOW);
+    digitalWrite(input_pins[1], LOW);
+    digitalWrite(input_pins[2], LOW);
+    delayMicroseconds(off_time);
+  }
+
+  // --- fade out ---
+  for (int b = brightness; b >= 0; b--) {
+    int on_time = b * interval;
+    int off_time = (max_brightness * interval) - on_time;
+
+    digitalWrite(input_pins[0], values[0]);
+    digitalWrite(input_pins[1], values[1]);
+    digitalWrite(input_pins[2], values[2]);
+    delayMicroseconds(on_time);
+    digitalWrite(input_pins[0], LOW);
+    digitalWrite(input_pins[1], LOW);
+    digitalWrite(input_pins[2], LOW);
+    delayMicroseconds(off_time);
+  }
+}
+
+```
+
+so, now, i have stages and i have pwm through digital output via a multiplexor. now, i just have to put things together :) 
 
 ---
 # to do: 
