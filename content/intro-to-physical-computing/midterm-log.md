@@ -829,7 +829,19 @@ i could use the inh pin, but that might complicate everything a little bit. i'll
 ---
 now, i'm going to start building my circuit, complete with the fsr; and work on the interactions.
 
-to do.
+![[z_images/IMG_6766.jpg]]
+
+i figured out the programmatic flow. every loop, all the leds will get brightness values. they can either be fading in, fading out, or be staying. actually, they will almost always pulsate (because the electrons are going at a very slow pace). 
+
+i then thought about different ways to make the led light up, and what i'd prefer. 
+
+![[z_images/IMG_6767.jpg]]
+
+then, i detailed out all the possible states; of both my program & the fsr. 
+
+![[z_images/IMG_6768.jpg]]
+
+
 
 ---
 # to do: 
