@@ -680,9 +680,74 @@ output:
 
 image: 
 
+![[z_images/frame-2.jpeg]]
 
 
 prompt: 
+
+> i want the 1s and 0s to walk by the "i", as if the "i" is standing in the middle of a very crowded street (say, in new york). 
+> 
+> the shot is in one-point perspective, but only in pseudo-perspective (since the "i" is as is"). the horizon is at the top of the screen.
+
+output: 
+
+![[z_images/Gen-4 i want the 1s and 0s to walk by the i, as if the i is standing in the middle of a very crowded street (say, in new york) the shot is in one-point perspective, but only in pseudo-perspective (si.mp4]]
+
+---
+image: 
+
+![[z_images/frame-3.jpeg]]
+
+prompt: 
+
+> this is "i" looking out the window, and catching a speck of "u" sometimes.
+> 
+> make the 1s & 0s alternate between 1 & 0. after every second, replace the u with a 1 / 0, and make the u go to a different position. 
+
+output: 
+
+![[z_images/frame-3_output_runway.mp4.mp4]]
+
+---
+image: 
+
+![[z_images/frame-4.jpeg]]
+
+prompt: 
+
+> this is "i" sending phone signals to "u", but they never reaching "u". 
+> 
+> after every second, make a new phone signal composed of 0s & 1s that start from "i", and bounce around the room but never reach "u". 
+
+output: 
+
+![[z_images/frame-4_output_runway.mp4]]
+
+---
+image: 
+
+![[z_images/frame-5.jpeg]]
+
+prompt: 
+
+> this is "i" and "u" wondering whether they're the only ones stuck with humanity, in a world of binaries.
+> 
+> simply make the 1s and 0s alternate between 1 and 0. don't change anything else.
+
+output: 
+
+![[z_images/frame-5_output_runway.mp4]]
+
+
+
+
+
+
+
+
+
+
+
 
 
 
