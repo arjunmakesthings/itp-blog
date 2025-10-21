@@ -571,3 +571,26 @@ eeeeeeek, i'm so happy with this one!
 
 i think the <mark>project can be called future meanderings</mark> — a series of speculations about a data-driven (?) world. 
 
+---
+i wrote a bunch of drafts for phrases in a short poem. i didn't do a good job. i don't have a lot of time.
+
+![[z_images/Screenshot 2025-10-20 at 20.07.11.png]]
+
+i have the kernel of a finished idea. i'm going to try. 
+
+i now have to make visuals for these lines: 
+
+> all i see are numbers on the street. 
+> 
+> sometimes, i catch a speck of u.
+> 
+> my speaking never reaches u.
+> 
+> are we the only ones stuck with humanity? 
+
+they are four visual poems. each line has layers — but i'll see if the audience can grasp them. or have i become too abstract? i'll see.
+
+
+
+
+
