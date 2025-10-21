@@ -741,6 +741,17 @@ output:
 ---
 great. now, i'll make the website. 
 
+---
+# with aidan; 251021: 
+
+images from comfyui contain metadata, which can be uploaded to comfyui (and it shows the workflow). 
+
+
+https://comfyanonymous.github.io/ComfyUI_examples/
+
+https://comfyui-wiki.com/en/tutorial/advanced/video/wan2.1/wan2-1-video-model#11-download-wan21-text-to-video-workflow-file
+
+https://comfyanonymous.github.io/ComfyUI_examples/wan/
 
 
 

@@ -841,6 +841,231 @@ then, i detailed out all the possible states; of both my program & the fsr.
 
 ![[z_images/IMG_6768.jpg]]
 
+made the leds light up in succession.
+
+![[z_images/IMG_6769.mov]]
+
+``` cpp
+//interaction test.
+
+/*
+truth table for CD4051B:
+[a,b,c] [high || low] = on_channel (source: datasheet)
+
+[LOW, LOW, LOW] = 0;
+[HIGH, LOW, LOW] = 1;
+[LOW, HIGH, LOW] = 2; 
+[HIGH, HIGH, LOW] = 3
+[LOW, LOW, HIGH] = 4;
+[HIGH, LOW, HIGH] = 5;
+[LOW, HIGH, HIGH] = 6;
+[HIGH, HIGH, HIGH] = 7; 
+
+INHIBIT == HIGH = NONE;
+*/
+
+int input_pins[] = { 10, 11, 12 };
+int inh_pin = 9;
+
+int fsr_pin = A0;
+int fsr_value = 0;
+int fsr_prev_val = 0;
+
+//helper to get array_size, when called during compile:
+template<typename T, size_t N>
+int get_array_length(T (&)[N]) {
+  return N;
+}
+
+//helper to get mux-values according to the truth table. chat-gpt found some obscure logic that connects all pin-numbers with simple if-conditions.
+int* get_mux_values(int channel) {
+  static int vals[3];  // persistent array for return
+
+  if (channel < 0 || channel > 7) {
+    vals[0] = vals[1] = vals[2] = LOW;
+    return vals;
+  }
+
+  // derive logic levels from the channel bits
+  vals[0] = (channel & 0b001) ? HIGH : LOW;  // A
+  vals[1] = (channel & 0b010) ? HIGH : LOW;  // B
+  vals[2] = (channel & 0b100) ? HIGH : LOW;  // C
+
+  return vals;
+}
+
+
+void setup() {
+
+  //set pin-modes, and default value for inhibit.
+  int input_pins_length = get_array_length(input_pins);
+  for (int i = 0; i < input_pins_length; i++) {
+    pinMode(input_pins[i], OUTPUT);
+    digitalWrite(input_pins[i], LOW);
+  }
+
+  pinMode(fsr_pin, INPUT);
+
+  pinMode(inh_pin, OUTPUT);
+  digitalWrite(inh_pin, LOW);
+}
+
+void loop() {
+  light_up(1, 255, 30);
+  delay (100); 
+  light_up(2, 255, 30);
+  delay (100); 
+  light_up(3, 255, 30);
+  delay (100); 
+  
+}
+
+void light_up(int channel, int brightness, int interval) {
+  // brightness: 0–255
+  // interval: base PWM timing (microseconds per brightness step)
+  // hold duration is fixed internally
+
+  int* values = get_mux_values(channel);
+  const int max_brightness = 255;
+  const int hold_duration = 200;  // <-- fixed hold time (ms)
+
+  digitalWrite(inh_pin, LOW);  // enable MUX
+
+  // --- fade in ---
+  for (int b = 0; b <= brightness; b++) {
+    int on_time = b * interval;
+    int off_time = (max_brightness * interval) - on_time;
+
+    digitalWrite(input_pins[0], values[0]);
+    digitalWrite(input_pins[1], values[1]);
+    digitalWrite(input_pins[2], values[2]);
+    delayMicroseconds(on_time);
+    digitalWrite(input_pins[0], LOW);
+    digitalWrite(input_pins[1], LOW);
+    digitalWrite(input_pins[2], LOW);
+    delayMicroseconds(off_time);
+  }
+
+  // --- hold steady at chosen brightness ---
+  unsigned long start_time = millis();
+  while (millis() - start_time < hold_duration) {
+    int on_time = brightness * interval;
+    int off_time = (max_brightness * interval) - on_time;
+
+    digitalWrite(input_pins[0], values[0]);
+    digitalWrite(input_pins[1], values[1]);
+    digitalWrite(input_pins[2], values[2]);
+    delayMicroseconds(on_time);
+    digitalWrite(input_pins[0], LOW);
+    digitalWrite(input_pins[1], LOW);
+    digitalWrite(input_pins[2], LOW);
+    delayMicroseconds(off_time);
+  }
+
+  // --- fade out ---
+  for (int b = brightness; b >= 0; b--) {
+    int on_time = b * interval;
+    int off_time = (max_brightness * interval) - on_time;
+
+    digitalWrite(input_pins[0], values[0]);
+    digitalWrite(input_pins[1], values[1]);
+    digitalWrite(input_pins[2], values[2]);
+    delayMicroseconds(on_time);
+    digitalWrite(input_pins[0], LOW);
+    digitalWrite(input_pins[1], LOW);
+    digitalWrite(input_pins[2], LOW);
+    delayMicroseconds(off_time);
+  }
+}
+
+
+
+// void light_up(int channel, const int interval) {
+//   int* values = get_mux_values(channel);
+//   const int max_brightness = 255;
+
+//   //fade in the led:
+//   for (int b = 0; b <= max_brightness; b++) {
+//     int on_time = b * interval;                            //stay on at this brightness level for an interval of time. at 0 brightness, it won't be on at all.
+//     int off_time = (max_brightness * interval) - on_time;  //stay off for the remainder of the time.
+
+//     //send pseudo-pwm signal:
+//     digitalWrite(input_pins[0], values[0]);  //turn on.
+//     digitalWrite(input_pins[1], values[1]);  //turn on.
+//     digitalWrite(input_pins[2], values[2]);  //turn on.
+//     delayMicroseconds(on_time);              //for on_time.
+//     digitalWrite(input_pins[0], LOW);        //turn on.
+//     digitalWrite(input_pins[1], LOW);        //turn on.
+//     digitalWrite(input_pins[2], LOW);        //turn on.
+//     delayMicroseconds(off_time);             //for off_time.
+//   }
+
+//   //stay on for a bit before going:
+//   digitalWrite(input_pins[0], values[0]);  //turn on.
+//   digitalWrite(input_pins[1], values[1]);  //turn on.
+//   digitalWrite(input_pins[2], values[2]);  //turn on.
+//   delay(interval / 2);
+
+//   //fade out the led:
+//   for (int b = max_brightness; b >= 0; b--) {
+//     int on_time = b * interval;                            //stay on at this brightness level for an interval of time. at 0 brightness, it won't be on at all.
+//     int off_time = (max_brightness * interval) - on_time;  //stay off for the remainder of the time.
+
+//     //send pseudo-pwm signal:
+//     digitalWrite(input_pins[0], values[0]);  //turn on.
+//     digitalWrite(input_pins[1], values[1]);  //turn on.
+//     digitalWrite(input_pins[2], values[2]);  //turn on.
+//     delayMicroseconds(on_time);              //for on_time.
+//     digitalWrite(input_pins[0], LOW);        //turn on.
+//     digitalWrite(input_pins[1], LOW);        //turn on.
+//     digitalWrite(input_pins[2], LOW);        //turn on.
+//     delayMicroseconds(off_time);             //for off_time.
+//   }
+// }
+
+void fade_signal(int val1, int val2, int val3, const int interval) {
+  digitalWrite(inh_pin, LOW);
+  const int max_brightness = 255;
+
+  //fade in the led:
+  for (int b = 0; b <= 255; b++) {
+    int on_time = b * interval;                            //stay on at this brightness level for an interval of time. at 0 brightness, it won't be on at all.
+    int off_time = (max_brightness * interval) - on_time;  //stay off for the remainder of the time.
+
+    //send pseudo-pwm signal:
+    digitalWrite(input_pins[0], val1);  //turn on.
+    digitalWrite(input_pins[1], val2);  //turn on.
+    digitalWrite(input_pins[2], val3);  //turn on.
+    delayMicroseconds(on_time);         //for on_time.
+    digitalWrite(input_pins[0], LOW);   //turn on.
+    digitalWrite(input_pins[1], LOW);   //turn on.
+    digitalWrite(input_pins[2], LOW);   //turn on.
+    delayMicroseconds(off_time);        //for off_time.
+  }
+
+  //when the above is completed, we fade out the led:
+
+  //fade out the led:
+  for (int b = 255; b >= 0; b--) {
+    int on_time = b * interval;                            //stay on at this brightness level for an interval of time. at 0 brightness, it won't be on at all.
+    int off_time = (max_brightness * interval) - on_time;  //stay off for the remainder of the time.
+
+    //send pseudo-pwm signal:
+    digitalWrite(input_pins[0], val1);  //turn on.
+    digitalWrite(input_pins[1], val2);  //turn on.
+    digitalWrite(input_pins[2], val3);  //turn on.
+    delayMicroseconds(on_time);         //for on_time.
+    digitalWrite(input_pins[0], LOW);   //turn on.
+    digitalWrite(input_pins[1], LOW);   //turn on.
+    digitalWrite(input_pins[2], LOW);   //turn on.
+    delayMicroseconds(off_time);        //for off_time.
+  }
+}
+
+```
+
+---
+also read [[all technology is assistive, by sarah hendren]]. 
 
 
 ---
