@@ -669,7 +669,7 @@ image:
 
 text: 
 
-> this is a story about two character — u & i. this is the first shot. i assume you don't need context of the story, and just care about the shot. 
+> this is a story about two characters — u & i. this is the first shot. i assume you don't need context of the story, and just care about the shot. 
 > 
 > here, i want the 0s and 1s to simply alternate between 0 & 1; as if a building of data separates the two characters. 
 
@@ -740,6 +740,12 @@ output:
 
 ---
 great. now, i'll make the website. 
+
+i spent time thinking about the structure, programmed it, and then served it via github-pages. [[people/james|james]] helped me with correcting my link paths, because my fonts & stuff weren't loading. 
+
+my outcome is available here: https://arjunmakesthings.github.io/hypercinema_2510/. a video is below: 
+
+![[z_images/hypercinema_midterm_scroll.mp4]]
 
 ---
 # with aidan; 251021: 
