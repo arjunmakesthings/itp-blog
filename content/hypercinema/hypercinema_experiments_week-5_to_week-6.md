@@ -743,7 +743,9 @@ great. now, i'll make the website.
 
 i spent time thinking about the structure, programmed it, and then served it via github-pages. [[people/james|james]] helped me with correcting my link paths, because my fonts & stuff weren't loading. 
 
-my outcome is available here: https://arjunmakesthings.github.io/hypercinema_2510/. a video is below: 
+my outcome is available here: https://arjunmakesthings.github.io/hypercinema_2510/. repo is here: https://github.com/arjunmakesthings/hypercinema_2510
+
+a video is below: 
 
 ![[z_images/hypercinema_midterm_scroll.mp4]]
 
