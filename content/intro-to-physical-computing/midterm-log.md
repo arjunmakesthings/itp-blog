@@ -1251,13 +1251,129 @@ void light_up(int channel, int brightness, int interval) {
 so, now, i have stages and i have pwm through digital output via a multiplexor. now, i just have to put things together :) 
 
 ---
+because there are 36 leds, i will have to loop through all pins of each multiplexor, and then loop through how many multiplexors i have. this led me to think about [multidimensional-arrays](https://www.geeksforgeeks.org/cpp/cpp-multidimensional-array/). 
+
+i decided to program from scratch, and borrow from my past work wherever possible. 
+
+``` cpp
+// multiple muxes; arjun, october 23rd.
+
+//we have 2 muxes, each with 3 control pins. somehow, i need to define the array as one size greater than its length.
+int mux[2][3] = {
+  { 10, 11, 12 },
+  { 7, 8, 9 }
+};
+
+//helper to get array size.
+template<typename T, size_t N>
+int get_array_length(T (&)[N]) {
+  return N;
+}
+
+//helper to get mux-values according to the truth table. chat-gpt found some obscure logic that connects all pin-numbers with simple if-conditions.
+int* get_mux_values(int channel) {
+  static int vals[3];
+  vals[0] = (channel & 0b001) ? HIGH : LOW;
+  vals[1] = (channel & 0b010) ? HIGH : LOW;
+  vals[2] = (channel & 0b100) ? HIGH : LOW;
+  return vals;
+}
+
+void setup() {
+  Serial.begin(9600);  //start serial communication.
+
+  //set pin modes for all mux control pins
+  for (int i = 0; i < get_array_length(mux); i++) {
+    for (int j = 0; j < get_array_length(mux[i]); j++) {
+      pinMode(mux[i][j], OUTPUT);
+    }
+  }
+}
+
+void loop() {
+  int num_muxes = get_array_length(mux);
+  int num_channels = 3;  // how many channels to loop through per mux
+
+  for (int m = 0; m <= num_muxes; m++) {
+    for (int ch = 0; ch < num_channels; ch++) {
+      light_up(mux[m], ch, 255, 10);
+      delay(100);
+    }
+  }
+}
+
+//function to light up leds.
+void light_up(int input_pins[3], int channel, int brightness, int interval) {
+  int* values = get_mux_values(channel);
+  const int max_brightness = 255;
+  const int hold_duration = 100;
+
+  //fade in:
+  for (int b = 0; b <= brightness; b++) {
+    int on_time = b * interval;
+    int off_time = (max_brightness * interval) - on_time;
+
+    for (int i = 0; i < 3; i++) {
+      digitalWrite(input_pins[i], values[i]);
+    }
+    delayMicroseconds(on_time);
+    for (int i = 0; i < 3; i++) {
+      digitalWrite(input_pins[i], LOW);
+    }
+    delayMicroseconds(off_time);
+  }
+
+  //hold:
+  unsigned long start_time = millis();
+  while (millis() - start_time < hold_duration) {
+    int on_time = brightness * interval;
+    int off_time = (max_brightness * interval) - on_time;
+
+    for (int i = 0; i < 3; i++) {
+      digitalWrite(input_pins[i], values[i]);
+    }
+    delayMicroseconds(on_time);
+    for (int i = 0; i < 3; i++) {
+      digitalWrite(input_pins[i], LOW);
+    }
+    delayMicroseconds(off_time);
+  }
+
+  //fade out:
+  for (int b = brightness; b >= 0; b--) {
+    int on_time = b * interval;
+    int off_time = (max_brightness * interval) - on_time;
+
+    for (int i = 0; i < 3; i++) {
+      digitalWrite(input_pins[i], values[i]);
+    }
+    delayMicroseconds(on_time);
+    for (int i = 0; i < 3; i++) {
+      digitalWrite(input_pins[i], LOW);
+    }
+    delayMicroseconds(off_time);
+  }
+}
+```
+
+i then spoke with [[people/octavio|octavio]] about how to solder this, and [[people/jasmine|jasmine]] gave me led-tubes to test. 
+
+![[IMG_6780.jpg|322x429]]
+
+tomorrow, i'll go and buy my materials; begin soldering; fabricate; and get this to work. i do have a little bit of interaction to fine-tune, and this would be better with 36 pnp transistors (so that the leds stay on), but i'll keep it to basic for now. 
+
+---
 # to do: 
 learnt this from [[galt]]'s blog; started using it here. 
 
-- [ ] figure out programming
-- [ ] material recce & buy 
-- [ ] look at led options
-- [ ] order leds
+- [x] figure out programming
+- [x] material recce & buy 
+- [x] look at led options
+- [x] order leds
+- [ ] fine tune interaction
+- [ ] look at material, and go to buy
+- [ ] fabricate
+- [ ] solder
 
 ---
 # acknowledgements: 
