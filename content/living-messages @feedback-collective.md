@@ -21,6 +21,6 @@ the person whose name i can't recollect also suggested that i might reconsider w
 
 [[people/antonia|antonia]] & i also discussed materiality. she shared this example: 
 
-![[z_images/IMG_6652-preview.jpg]]
+![[z_images/IMG_6652-preview.webp]]
 <figcaption>a project where a student wrote a message with matchsticks and then lit it on fire.</figcaption>
 

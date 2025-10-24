@@ -11,7 +11,7 @@ draft: "false"
 - discussed how computer-science programs look at numbers for the sake of numbers (chasing efficiency), while art-school looks at what these numbers could mean for people (creative-potential). 
 - mimi asked chat-gpt to draw a {adjective} rectangle. for example, a lonely rectangle. it failed, and becomes a data-point for my [[case against ai]]. 
 - she discussed the process of writing code as: <mark>make something super specific > abstract > write it in code</mark>. for example: 
-  ![[z_images/IMG_6106.jpg]]
+  ![[z_images/IMG_6106.webp]]
   in this image, we realise that the most specific way to draw a rectangle is to give 8 coordinates (for all 4 points). however, you can abstract this specificity to give only the diagonal points (since a rectangle is a regular polygon). 
   
   i thought this 'workflow' would be quite helpful, even while trying to solve more complicated problems. 

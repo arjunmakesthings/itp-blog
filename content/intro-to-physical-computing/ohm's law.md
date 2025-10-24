@@ -17,10 +17,10 @@ people use
 
 i found it cool that a battery sitting on a shelf is also a part of a circuit. however, since the resistance of air is very high. therefore, the current flowing through it is nothing. 
 
-![[z_images/Screenshot 2025-09-04 at 16.33.51.png]]
+![[z_images/Screenshot 2025-09-04 at 16\.33\.51.webp]]
 
 but if we connect two ends of a battery, the resistance is (virtually) 0. so, there's too much c
 
-![[z_images/Screenshot 2025-09-04 at 16.35.24.png]]
+![[z_images/Screenshot 2025-09-04 at 16\.35\.24.webp]]
 
 examples came from a book called 'code'. 

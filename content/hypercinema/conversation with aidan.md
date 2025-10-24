@@ -20,7 +20,7 @@ i also asked him about his interests, which currently revolve around making crea
 ---
 input new-age media, output traditional: https://jk-lee.com/projects/aerial-bold/
 
-![[z_images/Screenshot 2025-10-07 at 13.08.00.png]]
+![[z_images/Screenshot 2025-10-07 at 13\.08\.00.webp]]
 
 he shared ian cheng's work, that i'm yet to study: 
 - https://iancheng.com/BOB

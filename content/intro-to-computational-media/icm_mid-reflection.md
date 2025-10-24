@@ -20,7 +20,7 @@ for the second half, i do want to dial down the 'experience' bit. i've programme
 
 these are the questions that i'm going to explore in the second half: 
 
-![[z_images/IMG_6718.jpg]]
+![[z_images/IMG_6718.webp]]
 
 
 

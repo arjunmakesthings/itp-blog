@@ -15,15 +15,15 @@ i wanted to make something that moves, and is generative (in some way).
 
 i spent an hour thinking through things. 
 
-![[z_images/IMG_6605 1.jpg]]
+![[z_images/IMG_6605 1.webp]]
 
-![[z_images/IMG_6606.jpg]]
+![[z_images/IMG_6606.webp]]
 
 testing lights: 
 
 ![[z_images/IMG_6604.mov]]
 
-![[z_images/IMG_6607.jpg]]
+![[z_images/IMG_6607.webp]]
 
 booked an appointment with [[phil]]. 
 
@@ -40,11 +40,11 @@ material hunt:
 ---
 i realised that the linear actuators don't get me a lot of distance. they're only meant for small pushes. 
 
-![[z_images/IMG_6661.jpg]]
+![[z_images/IMG_6661.webp]]
 
 and that i would have to leave more room for their housing. 
 
-![[z_images/IMG_6659.jpg]]
+![[z_images/IMG_6659.webp]]
 
 [[people/cody|cody]] & [[people/aram|aram]] suggested a [core-xy system](https://hackaday.com/2019/11/12/core-xy-explained/). i contemplated. i was enticed, but realised that it wouldn't be fabrication. it would be more electronics, to get the thing to work.
 
@@ -52,9 +52,9 @@ so, i decided to skip the machine part entirely. just fabricate it. figure out t
 
 i tried to study a t-joint and replicate it. but failed.
 
-![[z_images/IMG_6662.jpg]]
+![[z_images/IMG_6662.webp]]
 
-![[z_images/IMG_6663.jpg]]
+![[z_images/IMG_6663.webp]]
 
 i then looked up the parts that i'd need for making this project. i cannot afford it. wrote to [[people/phil|phil]]. 
 
@@ -83,121 +83,121 @@ watched this: https://www.youtube.com/watch?v=NYKcOFQCeno
 ---
 i tried a couple of origami flowers. failed. 
 
-![[z_images/IMG_6692 1.jpg]]
+![[z_images/IMG_6692 1.webp]]
 
 [[jisoo]] came and helped me. she did origami as a child — apparently like most children do. 
 
-![[z_images/IMG_6693.jpg]]
+![[z_images/IMG_6693.webp]]
 
 ---
 i then went to blicks, as per [[people/phil|phil]]'s suggestion. i got [basswood](https://en.wikipedia.org/wiki/Tilia_americana). 
 
-![[z_images/IMG_6695.jpg]]
+![[z_images/IMG_6695.webp]]
 
 blicks also had a section for tubes, that i can use as my stem. but, i will go back for these later.
 
-![[z_images/IMG_6696.jpg]]
+![[z_images/IMG_6696.webp]]
 
 ---
 the idea is to make the same form with two different materials.
 
 i first measured the sizes exactly. i'm going to make the same form from pieces of material that are 8" tall.
 
-![[z_images/IMG_6697.jpg]]
+![[z_images/IMG_6697.webp]]
 
 i made a flower-bulb and realised that i need to use thinner paper.
 
-![[z_images/IMG_6698.jpg]]
+![[z_images/IMG_6698.webp]]
 
-![[z_images/IMG_6699.jpg]]
+![[z_images/IMG_6699.webp]]
 
 the next one failed too. i realised it could be a combination of thicker paper, and bigger size. so, i changed both in the next one.
 
 okay, i got something with volume. i'm not able to 'peel' the petals, but that's okay. 
 
-![[z_images/IMG_6700.jpg]]
+![[z_images/IMG_6700.webp]]
 
 i will now attempt to duplicate this in wood, and clean up the paper version if i have the time.
 
 first, i sketched out the form. 
 
-![[z_images/IMG_6701.jpg]]
+![[z_images/IMG_6701.webp]]
 
 i then played around with the wood to see how i could achieve the petals.
 
-![[z_images/IMG_6702.jpg]]
+![[z_images/IMG_6702.webp]]
 
 then, i measured the paper-form (i made it out of 6" x 6" paper; so it would always be the same dimension). 
 
 [[people/nikolai|nikolai]] & [[nasif]] helped me think through the cuts. 
 
-![[z_images/IMG_6703.jpg]]
+![[z_images/IMG_6703.webp]]
 
 i then measured everything and cut it. 
 
-![[z_images/IMG_6704.jpg]]
+![[z_images/IMG_6704.webp]]
 
 for the triangular panels, i drew on top of square-ones and then cut them on the tiny bandsaw.
 
-![[z_images/IMG_6705.jpg]]
+![[z_images/IMG_6705.webp]]
 
 then, i figured that i needed angled-cuts for the panels to stand on the square. [[people/nikolai|nikolai]], [[people/nasif|nasif]], [[people/fabri|fabri]] (and [[people/jasmine|jasmine]]) suggested different approaches. i tried some. 
 
 first, i tried manual saws. 
 
-![[z_images/IMG_6706.jpg]]
+![[z_images/IMG_6706.webp]]
 
 that kind of worked. 
 
-![[z_images/IMG_6707.jpg]]
+![[z_images/IMG_6707.webp]]
 
 but then, i realised that the more precise way was to angle the base of the bandsaw (like how [[people/nikolai|nikolai]] showed me). 
 
-![[z_images/IMG_6708.jpg]]
+![[z_images/IMG_6708.webp]]
 
 after cutting & a little bit of sanding, i could get perfect angles. 
 
-![[z_images/IMG_6710.jpg]]
+![[z_images/IMG_6710.webp]]
 <figcaption>45-degree angles.</figcaption>
 
 i also decided to half-cut the triangles to enable them to flex.
 
-![[z_images/IMG_6712.jpg]]
+![[z_images/IMG_6712.webp]]
 
 some of them chipped off. 
 
-![[z_images/  1.jpg]]
+![[z_images/  1.webp]]
 
 i then sanded each panel, with increasing sandpaper-grit. then, i stuck them to the base. 
 
-![[z_images/IMG_6714.jpg]]
+![[z_images/IMG_6714.webp]]
 
 i also wanted it to be perfect. saw that the base had a little more width than required. went to chop it at an angle; messed up. did it again. 
 
-![[z_images/IMG_6715.jpg]]
+![[z_images/IMG_6715.webp]]
 
 made the bulbs. dealt with chipping. 
 
-![[z_images/IMG_6723.jpg]]
+![[z_images/IMG_6723.webp]]
 
 sanded. 
 
-![[z_images/IMG_6722.jpg]]
+![[z_images/IMG_6722.webp]]
 
 remade the origami bulb, put dowels; realised i should have drilled before. broke the bulb again; made do. 
 
-![[z_images/IMG_6755 copy.jpg]]
+![[z_images/IMG_6755 copy.webp]]
 
 ---
 once i got done with the objects, i went about photographing. i had tried clicking pictures once earlier, during week-3.
 
 here is the same object, with different treatments: 
 
-![[z_images/IMG_6725.jpg]]
+![[z_images/IMG_6725.webp]]
 
-![[z_images/box-1.jpg]]
+![[z_images/box-1.webp]]
 
-![[z_images/IMG_6424.jpg]]
+![[z_images/IMG_6424.webp]]
 
 i realised that i probably should have used natural light instead of an artificial one, because the artificial one was too strong (and can be seen on the background in image-one). 
 
@@ -207,6 +207,6 @@ i suck at photography. and, i probably should've used a camera.
 
 i also broke the piece made in [[intro-to-fabrication/fab_experiments_week-3|fab_experiments_week-3]]. 
 
-![[z_images/IMG_6752.jpg]]
+![[z_images/IMG_6752.webp]]
 
 the site is available here: https://arjunmakesthings.github.io/projects/2025_intro-to-fabrication/page.html

@@ -7,5 +7,5 @@ draft: "false"
 ---
 https://zhestkov.studio/project/artificial-organisms/
 
-![[z_images/Pasted image 20251016125538.png]]
+![[z_images/Pasted image 20251016125538.webp]]
 

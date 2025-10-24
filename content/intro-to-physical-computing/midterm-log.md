@@ -24,9 +24,9 @@ we frequently interact with electricity, but its magic is too quick to comprehen
 
 the idea was to communicate this magic — borrowed from dahiya's humility, coupled with my own curiosity — by showing how much laborious work electrons do, to turn on a simple led. 
 
-| ![[z_images/IMG_6445.jpg]] | ![[z_images/IMG_6489.jpg]] |
-| -------------------------- | -------------------------- |
-|                            |                            |
+| ![[z_images/IMG_6445.webp]] | ![[z_images/IMG_6489.webp]] |
+| --------------------------- | --------------------------- |
+|                             |                             |
 <figcaption>thought-maps to arrive at this line of thought. </figcaption>
 
 ---
@@ -43,19 +43,19 @@ on <mark>first glance</mark>, it was meant to look <mark>simple & neat</mark>. t
 
 i first thought about the components & their layout. i've now grown up to understand that tiny choices compound to bigger outcomes. 
 
-![[z_images/IMG_6576.jpg]]
+![[z_images/IMG_6576.webp]]
 
-![[z_images/IMG_6577.jpg]]
+![[z_images/IMG_6577.webp]]
 
 i chose to lay out components straight, as opposed to the conventional circle to communicate flow, since the 'electrons' have to be pushed into the next component. i also added the capacitor, to show electromotive-force gradually reduce through the circuit, as the capacitor gives off its stored current (when the power source is turned off). 
 
 then, i planned out the arrangement of the components (both *visible* & *invisible*).
 
-![[z_images/IMG_6586.jpg]]
+![[z_images/IMG_6586.webp]]
 
 while this started off as a single interaction, prototyping showed me the opportunity to add several more. i then thought through all of my interactions, in time: 
 
-![[z_images/Pasted image 20251006174135.png]]
+![[z_images/Pasted image 20251006174135.webp]]
 
 i also tested material for light-diffusion. realised that [[3d printed material does interesting light diffusion]].  
 
@@ -74,19 +74,19 @@ i needed to program the leds.
 
 the first problem i run into is that i need to send analog-output to ~30-35 leds. arduino allows me to send analog outputs to 7, and digital to 20. 
 
-![[z_images/IMG_6633.jpg]]
+![[z_images/IMG_6633.webp]]
 
 looked at something called a mux or multiplexor. think of it like a motor-driver, but uses 4 pins to give out 16 outputs (based on varying combinations of highs & lows). 
 
-![[z_images/Screenshot 2025-10-09 at 17.19.02.png]]
+![[z_images/Screenshot 2025-10-09 at 17\.19\.02.webp]]
 <figcaption>source: https://www.youtube.com/watch?v=Dco6jo9xgAo</figcaption>
 
 [[people/pedro|pedro]] then told me about the multiplexors that we have in the shop, as consumables. we have the [cd4051be](https://www.alldatasheet.com/datasheet-pdf/view/26882/TI/CD4051BE.html) multiplexors, that do the job that i want. 
 
-![[z_images/Screenshot 2025-10-10 at 17.00.17.png]]
+![[z_images/Screenshot 2025-10-10 at 17\.00\.17.webp]]
 <figcaption>wiring from the datassheet.</figcaption>
 
-![[z_images/Screenshot 2025-10-10 at 17.00.49.png]]
+![[z_images/Screenshot 2025-10-10 at 17\.00\.49.webp]]
 <figcaption>truth tables</figcaption>
 
 [[people/nikolai|nikolai]] helped me understand these. 
@@ -97,7 +97,7 @@ then, with [[people/octavio|octavio]], we figured out how to make it work (becau
 
 once i knew that this configuration worked, i sketched out the schematic too; to save it. 
 
-![[z_images/IMG_6641.jpg]]
+![[z_images/IMG_6641.webp]]
 <figcaption>working multiplexor schematic.</figcaption>
 
 ---
@@ -134,7 +134,7 @@ i need this to loop through the array, as i pass values.
 ---
 started from scratch. cleaned up the circuit that's supposed to stay fixed; with solid-wires.
 
-![[z_images/IMG_6642.jpg]]
+![[z_images/IMG_6642.webp]]
 
 wrote simple code to test everything. 
 
@@ -474,7 +474,7 @@ i'll start from scratch, and instead of making the code reusable, i'll hard code
 
 so, i built a small circuit and took it home with me; to spend a couple of hours in the night programming it. 
 
-![[z_images/IMG_6667.jpg]]
+![[z_images/IMG_6667.webp]]
 
 i found some stuff on the arduino's [reference page](https://docs.arduino.cc/micropython/micropython-course/course/analog/) that first re-enforced correct terminologies (w.r.t. digital, analog & pwm; covered in [[intro-to-physical-computing/electrical components|electrical components]]). 
 
@@ -640,13 +640,13 @@ good ~~day~~ night. now, i have to figure out how to pass this to the multiplexo
 ---
 [[people/christina tang|christina tang]] explained a bunch of things about light to me.
 
-![[z_images/IMG_6675.jpg]]
+![[z_images/IMG_6675.webp]]
 
 she explained that while the computer sends out signal linearly, the eye doesn't quite perceive it similarly. this is the difference between computation & perception that [[people/mimi yin|mimi yin]] was also referring to; in my [[conversation with mimi]]. 
 
 we spoke about [photopic curves](https://en.wikipedia.org/wiki/Luminous_efficiency_function) too.
 
-![[z_images/IMG_6675 1.jpg]]
+![[z_images/IMG_6675 1.webp]]
 <figcaption>top: computer signal (linear), middle: led-processing, bottom: human-perception. a lot of light-engineering is to figure out how to balance the three curves.</figcaption>
 
 we also discussed that my use of tone should perhaps dim the led too. [[people/octavio|octavio]] explained that the problem was with my delays in makeTone(): 
@@ -679,7 +679,7 @@ i'll resort back to the leds if i cannot get it to work. i have a bunch of ideas
 ---
 while reading [[intro-to-physical-computing/there are no electrons|there are no electrons]], the narrative came to me:
 
-![[z_images/IMG_6685.jpg]]
+![[z_images/IMG_6685.webp]]
 
 it would be amazing to show this narrative as the experience happens (via engraved text that is visible with leds underneath). however, this is the most aspirational version of my project. i now know, after 6 weeks, that this may not be what gets produced. i am tightly dependent on what i am able to technically achieve. 
 
@@ -816,7 +816,7 @@ void blink(int a_val, int b_val, int c_val, int time) {
 
 circuit: 
 
-![[z_images/IMG_6689 1.jpg]]
+![[z_images/IMG_6689 1.webp]]
 
 i'll need to clean up the program to make it work for an array of leds (fade in, stay in, fade out). but i think i can do that.
 
@@ -829,17 +829,17 @@ i could use the inh pin, but that might complicate everything a little bit. i'll
 ---
 now, i'm going to start building my circuit, complete with the fsr; and work on the interactions.
 
-![[z_images/IMG_6766.jpg]]
+![[z_images/IMG_6766.webp]]
 
 i figured out the programmatic flow. every loop, all the leds will get brightness values. they can either be fading in, fading out, or be staying. actually, they will almost always pulsate (because the electrons are going at a very slow pace). 
 
 i then thought about different ways to make the led light up, and what i'd prefer. 
 
-![[z_images/IMG_6767.jpg]]
+![[z_images/IMG_6767.webp]]
 
 then, i detailed out all the possible states; of both my program & the fsr. 
 
-![[z_images/IMG_6768.jpg]]
+![[z_images/IMG_6768.webp]]
 
 made the leds light up in succession.
 
@@ -1358,7 +1358,7 @@ void light_up(int input_pins[3], int channel, int brightness, int interval) {
 
 i then spoke with [[people/octavio|octavio]] about how to solder this, and [[people/jasmine|jasmine]] gave me led-tubes to test. 
 
-![[IMG_6780.jpg|322x429]]
+![[z_images/IMG_6780.webp|322x429]]
 
 tomorrow, i'll go and buy my materials; begin soldering; fabricate; and get this to work. i do have a little bit of interaction to fine-tune, and this would be better with 36 pnp transistors (so that the leds stay on), but i'll keep it to basic for now. 
 

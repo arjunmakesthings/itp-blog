@@ -10,7 +10,7 @@ discovered todd bryant's fantastic thesis from 11 years ago. he collected data a
 
 it was brilliant. 
 
-![[z_images/Screenshot 2025-10-18 at 22.21.43.png]]
+![[z_images/Screenshot 2025-10-18 at 22\.21\.43.webp]]
 
 even his presentation was brilliant. somehow, the newer theses are more 'slow', and 'serious'. he conveyed a serious issue with humour. 
 

@@ -9,7 +9,7 @@ draft: "false"
 
 https://makezine.com/article/home/furniture/ferrofluid-clock-moves-like-elegant-little-caterpillars/
 
-![[z_images/Pasted image 20251003134548.png]]
+![[z_images/Pasted image 20251003134548.webp]]
 
 it was absolutely beautiful to see.
 

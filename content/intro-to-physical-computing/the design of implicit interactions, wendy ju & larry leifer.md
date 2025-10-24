@@ -10,7 +10,7 @@ read this:
 ![[z_images/design of implicit interactions_annotated.pdf]]
 
 
-![[z_images/implicit vs explicit 1.jpeg]]
+![[z_images/implicit vs explicit 1.webp]]
 
 parts of the paper felt situated in an idealistic world. for example, they say: 
 

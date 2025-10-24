@@ -22,15 +22,15 @@ learnt how to program a microcontroller.
 
 learnt how to program a microcontroller. 
 
-![[z_images/IMG_6177.jpg]] 
+![[z_images/IMG_6177.webp]] 
 
 ---
 
 [[people/tom|tom]] also showed physical components from a big computing system: 
 
-![[z_images/IMG_6175.jpg]]
+![[z_images/IMG_6175.webp]]
 
-![[z_images/IMG_6176.jpg]]
+![[z_images/IMG_6176.webp]]
 
 i realise that [[making computing visible]] is not about making every single thing about the computer visible, but choosing what is important for a person to see instead of it being magically done on the computer. 
 

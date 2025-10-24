@@ -12,7 +12,7 @@ everything is made of atoms.
 
 atoms contain electrons, that are loose in conductive materials (such as metal). in a closed circuit, electrons flow from positive to negative terminals to generate an 'electric-flow', or current. tom also said, in [[intro-to-physical-computing/ipc_class-1|ipc_class-1]], that electricity always moves from 'high' (voltage) to 'low' (ground (gnd)) areas. 
 
-![[z_images/Pasted image 20250902233017.png]]
+![[z_images/Pasted image 20250902233017.webp]]
 
 ---
 # voltage:

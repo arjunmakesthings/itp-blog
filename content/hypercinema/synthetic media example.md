@@ -18,7 +18,7 @@ Who created this work?  Why do you imagine they used synthetic media tools inste
 # response: 
 synthetic media piece is this:
 
-![[z_images/Pasted image 20251016003046.png]]
+![[z_images/Pasted image 20251016003046.webp]]
 
 by janelle shane.
 

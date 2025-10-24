@@ -13,7 +13,7 @@ spoke about the fact that we can make workflows with [comfyui](https://www.comfy
 
 spoke about prompt injection; especially [l33t](https://en.wikipedia.org/wiki/Leet)-speak for chat-interfaces. 
 
-![[z_images/Pasted image 20251016124923.png]]
+![[z_images/Pasted image 20251016124923.webp]]
 
 you can 'break' models — by getting them to give you content that breaks their moderation policies.
 
@@ -23,7 +23,7 @@ people are breaking models (like [so](https://github.com/elder-plinius/Google-Ge
 
 [[merma]] showed [[artificial organisms, by maxim zhestkov]].
 
-![[z_images/Pasted image 20251016125703.png]]
+![[z_images/Pasted image 20251016125703.webp]]
 
 ---
 learnt about camera and motion tracking on after-effects. use the tracker dialogue.

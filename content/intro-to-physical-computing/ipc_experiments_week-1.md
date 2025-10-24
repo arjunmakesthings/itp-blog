@@ -12,13 +12,13 @@ tried two multimeters. but i know they're working, because [[people/matt | matt]
 
 i asked [[people/tom|tom]], and he told me that i was using the wrong mode. the dials on the multimeter select different modes. for continuity, you want to put the dial on continuity. 
 
-![[z_images/IMG_6113.jpg]]
+![[z_images/IMG_6113.webp]]
 
 ---
 # what's inside a jumper wire: 
 broke a jump wire. became curious about what's inside a jumper wire. 
 
-![[z_images/IMG_6114.jpg]]
+![[z_images/IMG_6114.webp]]
 
 https://en.wikipedia.org/wiki/Jump_wire
 
@@ -28,7 +28,7 @@ it seems like it's made from some kind of metal inside, and an insular layer out
 # checking for continuity on a breadboard: 
 i wanted to see if i could check continuity on a breadboard. 
 
-![[z_images/IMG_6115.jpg]]
+![[z_images/IMG_6115.webp]]
 
 however this didn't beep as it was supposed to. i can't figure out why, and will ask the p-comp help-desk today. 
 ### update: 250904+1539: 
@@ -39,14 +39,14 @@ however this didn't beep as it was supposed to. i can't figure out why, and will
 # checking power supply from a dc outlet: 
 used a multimeter to test power-supply from a dc-power-supply. 
 
-![[z_images/IMG_6117.jpg]]
+![[z_images/IMG_6117.webp]]
 
 ---
 
 # powering an led with just dc power supply: 
 realised that we aren't really using the arduino right now. so, used dc-supply direct to power an led. 
 
-![[z_images/IMG_6119 1.jpg]]
+![[z_images/IMG_6119 1.webp]]
 
 that led stopped working. always use a resistor. 
 
@@ -58,19 +58,19 @@ looked at [[intro-to-physical-computing/ohm's law|ohm's law]], and the fact that
 # conducting electricity outside the breadboard: 
 i made a floating led, because i realised that i can conduct *outside* the breadboard. 
 
-![[z_images/IMG_6121.jpg]]
+![[z_images/IMG_6121.webp]]
 
 i tried conducting electricity through water, but did not succeed. i do not know why, since the electrical-circuit remains the same. 
 
-![[z_images/IMG_6122.jpg]]
+![[z_images/IMG_6122.webp]]
 
 [[people/octavio|octavio]] made me see that the led was probably lighting, but the water wasn't conductive enough. so, i added salt to the water to make it more conductive.
 
-![[z_images/IMG_6126.jpg]]
+![[z_images/IMG_6126.webp]]
 
-![[z_images/IMG_6125.jpg]]
+![[z_images/IMG_6125.webp]]
 
-![[z_images/IMG_6128.jpg]]
+![[z_images/IMG_6128.webp]]
 
 the water also made bubbles, which i thought were very cool. this is perhaps because salt & electricity are reacting in some way. 
 
@@ -80,7 +80,7 @@ the water also made bubbles, which i thought were very cool. this is perhaps bec
 # making "bad-mapping": 
 have an idea that i want to execute. 
 
-![[z_images/IMG_6139 1.jpg]]
+![[z_images/IMG_6139 1.webp]]
 
 the idea is to make the led next to the potentiometer light up when the switch is pressed on, and vice-versa; as an example of bad mapping. 
 
@@ -94,13 +94,13 @@ i'm so confused.
 
 i don't think i'm conceptually wrong, so i'm going to try again. first, i have power throughout the bus of the breadboard at 12v, because the buses are connected and power flows through them. now, these buses can become power-strips of sorts. 
 
-![[z_images/IMG_6141.jpg]]
+![[z_images/IMG_6141.webp]]
 
 now i have that: 
 
-![[z_images/IMG_6144.jpg]]
+![[z_images/IMG_6144.webp]]
 
-![[z_images/IMG_6143.jpg]]
+![[z_images/IMG_6143.webp]]
 
 now this means, my electricity came in at 12v, got reduced to 5v, then consumed by the resistor and the led. 
 
@@ -112,13 +112,13 @@ for some reason, i got a reverse-switch. the circuit closes when i press it, and
 
 got the potentiometer to work, but burned an led. 
 
-![[z_images/IMG_6146.jpg]]
+![[z_images/IMG_6146.webp]]
 
 ![[z_images/IMG_6147.mov]]
 
 made leds light up in parallel. 
 
-![[z_images/IMG_6148.jpg]]
+![[z_images/IMG_6148.webp]]
 
 moved on to making switches. i destroyed so many leds, that i felt bad, and reused the leds as my switch: 
 

@@ -2,5 +2,6 @@
   "incremental-id",
   "note-id",
   "omnisearch",
-  "image-converter"
+  "image-converter",
+  "global-search-and-replace"
 ]

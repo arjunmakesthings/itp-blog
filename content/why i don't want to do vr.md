@@ -12,7 +12,7 @@ walked around with aditya, to help him with his vr assignment.
 
 this is not a world i want to contribute towards. look at the people, look at the dogs, and then at the man with the strange glasses; deluded with reality (but, technologically 'extending' it). 
 
-![[z_images/IMG_6275.jpg]]
+![[z_images/IMG_6275.webp]]
 
 ---
 [[summer]] & i also chatted briefly about vr. she thinks that we cannot avoid technology, but i think *we* do. we are the ones who advocate for (or choose against) a particular technology. 

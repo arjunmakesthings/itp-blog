@@ -7,7 +7,7 @@ draft: "false"
 ---
 made us do a trick from houdini's paper magic book. it was fascinating. 
 
-![[z_images/IMG_6282.jpg]]
+![[z_images/IMG_6282.webp]]
 
 defined [[terms & concepts/magic]]. 
 

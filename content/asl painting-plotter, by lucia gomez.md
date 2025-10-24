@@ -10,4 +10,4 @@ https://vimeo.com/1091955750?autoplay=1&muted=1&stream_id=Y2xpcHN8MzY2MTg2MHxpZD
 
 asl paint plotter by [[people/lucia|lucia]]; as part of her thesis. 
 
-![[z_images/Screenshot 2025-10-18 at 21.46.44.png]]
+![[z_images/Screenshot 2025-10-18 at 21\.46\.44.webp]]

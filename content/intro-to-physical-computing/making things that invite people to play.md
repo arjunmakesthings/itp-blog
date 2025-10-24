@@ -8,7 +8,7 @@ draft: "false"
 ---
 [[people/tom|tom]] discussed a round knob on the edge of a drilling machine in [[intro-to-physical-computing/ipc_class-1|ipc_class-1]]; something like so: 
 
-![[z_images/Pasted image 20250903085117.png]]
+![[z_images/Pasted image 20250903085117.webp]]
 
 we discussed how the handle-thing on the right is more inviting that the dangerous panel on the left, and why people might be inclined to mess around with the handle more than the panel. 
 

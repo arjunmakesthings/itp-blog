@@ -7,7 +7,7 @@ draft: "false"
 ---
 [[intro-to-fabrication]] requires each student to think of a theme. 
 
-![[z_images/ map.jpg]]
+![[z_images/ map.webp]]
 
 fabrication is a class about making things. for me, it's about learning to confidently convert abstract (thoughts) into concrete (form(s)).  
 

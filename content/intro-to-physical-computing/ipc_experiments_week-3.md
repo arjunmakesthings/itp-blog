@@ -7,27 +7,27 @@ draft: "false"
 ---
 i worked for a bit on a circuit, and spent double that time debugging it; only to realise that a row on my breadboard wasn't working. that irritated me, so i went to micro-center to buy my own components. 
 
-![[z_images/IMG_6288.jpg]]
+![[z_images/IMG_6288.webp]]
 
-![[z_images/IMG_6289.jpg]]
+![[z_images/IMG_6289.webp]]
 
 ---
 i also soldered a force-sensing-resistor (fsr). 
 
-![[z_images/IMG_6283.jpg]]
+![[z_images/IMG_6283.webp]]
 
 [[people/audrey|audrey]] later taught me to use heat-shrink tubes. 
 
-![[z_images/IMG_6292.jpg]]
+![[z_images/IMG_6292.webp]]
 
 ---
 i borrwed fsr-s for a bunch of ideas that i have. i needed them flat on a counter, and, since they're borrowed, i couldn't solder them. 
 
 [[people/b(ethany)]] & [[people/audrey|audrey]] showed me how to use (i forgot the name) this tool: 
 
-![[z_images/IMG_6290.jpg]]
+![[z_images/IMG_6290.webp]]
 
-![[z_images/IMG_6291.jpg]]
+![[z_images/IMG_6291.webp]]
 
 i then tested my fsr. realised that since it senses force, i can make <mark>playful switches</mark>. 
 
@@ -72,13 +72,13 @@ don't know if this is the correct answer for this question:
 
 > q: Draw and upload a circuit for connecting a pushbutton as a digital input to a microcontroller. Connect it so that the digital input pin goes HIGH when the button is pushed. (PNG or JPG only).
 > 
-> ![[z_images/IMG_6312.jpg]]
+> ![[z_images/IMG_6312.webp]]
 
 even this: 
 
 > Draw and upload the circuit that goes with the program that you wrote for the last question (PNG or JPG only).
 > 
-> ![[z_images/IMG_6313.jpg]]
+> ![[z_images/IMG_6313.webp]]
 
 filled the quiz: 
 
@@ -99,18 +99,18 @@ if you <mark>decrease the pulse-width (make it communicate more), then the effec
 
 got alligator clips, and got a stable voltage of 5.2v. 
 
-![[z_images/IMG_6314.jpg]]
+![[z_images/IMG_6314.webp]]
 
 ---
 helped [[people/summer|summer]] with [analog output](https://itp.nyu.edu/physcomp/videos/videos-digital-and-analog-input-and-output/#Analog_Output) and understood it better myself. 
 
 i ran into a weird bug. every time i plug the arduino into a breadboard that has a servo, it fails to connect. but if i unplug it, it works fine. 
 
-![[z_images/Screenshot 2025-09-19 at 21.50.47.png]]
+![[z_images/Screenshot 2025-09-19 at 21\.50\.47.webp]]
 
 every time i upload code with a servo motor on the circuit, it just doesn't work. it keep showing uploading, and then crashes. 
 
-![[z_images/Screenshot 2025-09-19 at 22.11.56.png]]
+![[z_images/Screenshot 2025-09-19 at 22\.11\.56.webp]]
 
 ---
 
@@ -119,7 +119,7 @@ my servo doesn't get enough power. it brr-s (like a machine when you listen to i
 ![[z_images/IMG_6316.mov]]
 
 
-![[z_images/IMG_6318.jpg]]
+![[z_images/IMG_6318.webp]]
 
 by debugging (and using other people's motors / a smaller motor), i realised that the problem *may* be in my jump wires / loose connections. 
 
@@ -127,12 +127,12 @@ by debugging (and using other people's motors / a smaller motor), i realised tha
 
 i also opened the servo to see what was inside there. i believe the left side motor is a dc motion? and there's a microcontroller that determines the angle (maybe it calculates torque to produce a given angle or something). 
 
-![[z_images/IMG_6321.jpg]]
+![[z_images/IMG_6321.webp]]
 
 ---
 this is the circuit: 
 
-![[z_images/IMG_6324.jpg]]
+![[z_images/IMG_6324.webp]]
 
 this is the code: 
 
@@ -163,13 +163,13 @@ nothing happens. <mark>need to ask this in class.</mark>
 
 i thought the library isn't included. but it reads servo.read.
 
-![[z_images/Screenshot 2025-09-20 at 13.46.02.png]]
+![[z_images/Screenshot 2025-09-20 at 13\.46\.02.webp]]
 
 ---
 
 i then went to [[people/fabri|fabri]] at the shop. my hunch was either a damaged port (on my computer) or the wire. we tested each component, checked it on his computer and it was, indeed, the stupid usb-wire. 
 
-![[z_images/IMG_6325.jpg]]
+![[z_images/IMG_6325.webp]]
 
 and here's the thing: my wire is not bad. here's proof: 
 
@@ -234,7 +234,7 @@ in the process, i understood frequency & periods a little bit better.
 
 i <mark>did not understand this at all</mark>, and failed to replicate it too.
 
-![[z_images/Pasted image 20250921160303.png]]
+![[z_images/Pasted image 20250921160303.webp]]
 
 
 ---
@@ -243,7 +243,7 @@ i'm also confused about the what the arduino sends from the 5v port. internet re
 
 okay, i resolved this. 
 
-![[z_images/Pasted image 20250921162511.png]]
+![[z_images/Pasted image 20250921162511.webp]]
 
 without sending power out, my led still lights up. i assume this is through 5v. 
 
@@ -257,7 +257,7 @@ i wanted to make an led light up to the bounce of a ball.
 
 circuit: 
 
-![[z_images/IMG_6334.jpg]]
+![[z_images/IMG_6334.webp]]
 
 code: 
 
@@ -363,7 +363,7 @@ void test() {
 
 i think there's some sort of potential with <mark>a switch that can move</mark>. this goes more with my line of thought that [[tangibility makes data more manipulative]]. this is (also) the bedrock of flat tangible interfaces, like so: 
 
-![[z_images/Pasted image 20250921171330.png]]
+![[z_images/Pasted image 20250921171330.webp]]
 
 ---
 
@@ -377,4 +377,4 @@ we first looked at interaction; gathered collective vocabulary; touched the surf
 
 then there are other courses that pull you in directions of 'magic', 'tool-making', and play. <mark>i can feel things boil</mark>, and i know the <mark>broth is exciting</mark>; but perhaps too pungent for me to handle this first semester. but i'll let it play out; i'll trust everyone who said "<mark>trust the process</mark>", and people's faith in my ability (largely [[people/shobhan|shobhan]] & [[people/prachi|prachi]]). 
 
-![[z_images/IMG_6347.jpg]]
+![[z_images/IMG_6347.webp]]

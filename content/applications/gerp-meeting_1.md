@@ -8,9 +8,9 @@ draft: "false"
 ---
 we had to converse, and i decided to make maps (to find common ground). 
 
-![[z_images/1.jpg]]
+![[z_images/1.webp]]
 
-![[z_images/2.jpg]]
+![[z_images/2.webp]]
 
 ---
 

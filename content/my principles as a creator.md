@@ -16,7 +16,7 @@ i will never be able to make something that does no harm. with every object i he
 # be true to my curiosity: 
 developed in [[intro-to-computational-media/icm_experiments_week-4|icm_experiments_week-4]]: 
 
-![[z_images/Screenshot 2025-09-28 at 20.18.50.png]]
+![[z_images/Screenshot 2025-09-28 at 20\.18\.50.webp]]
 
 i think this is what [[people/shawn|shawn]] meant. perhaps there are people who will just not understand the work i do, or the work that i like doing (and the magic & complexity behind it). instead of trying to fight it, i think i need to start being okay with it now. 
 

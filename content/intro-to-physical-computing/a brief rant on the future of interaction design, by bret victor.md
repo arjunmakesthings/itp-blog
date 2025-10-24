@@ -18,7 +18,7 @@ bret talks about how future digital-devices don't think about *amplifying* human
 
 he speaks about how interfaces *for* the future don't make use of the dexterity of the human-body; hands being a primary example. all we can do on devices right now is tap & slide. 
 
-![[z_images/Pasted image 20250909104050.png]]
+![[z_images/Pasted image 20250909104050.webp]]
 <figcaption></figcaption>
 <figcaption>image by bret victor.</figcaption>
 
@@ -30,7 +30,7 @@ mentions the following as 'smattered research in related areas':
 - touchable holograms: https://scitechdaily.com/no-longer-science-fiction-scientists-develop-first-ever-touchable-3d-holograms/
 - shape-memory alloy : https://en.wikipedia.org/wiki/Shape-memory_alloy
 - electroactive polymer: https://en.wikipedia.org/wiki/Electroactive_polymer
-  ![[z_images/Pasted image 20250909104735.png]]
+  ![[z_images/Pasted image 20250909104735.webp]]
 
 people also commented on his 'rant', and he made a follow-up of responses: https://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/responses.html
 

@@ -14,7 +14,7 @@ i'm curious — but that's not the only way.
 ---
 [[people/tom|tom]] told me to draw a diagram for each circuit i make that doesn't work. he also explained the motor-driver: 
 
-![[z_images/IMG_6612.jpg]]
+![[z_images/IMG_6612.webp]]
 
 ---
 we also shared ideas for midterms, but it wasn't a fruitful discussion for me. it'd have been lovely to hear people talk about their ideas with more passion, and more rigour, but i understand that everyone has different priorities (and different energy / curiosity levels that they wish to operate with). 

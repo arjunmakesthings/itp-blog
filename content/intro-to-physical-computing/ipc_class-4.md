@@ -7,17 +7,17 @@ draft: "false"
 ---
 discussed the use of transistors to boost speaker volume. 
 
-![[z_images/IMG_6353.jpg]]
+![[z_images/IMG_6353.webp]]
 
 corrected my circuit: 
 
-![[z_images/IMG_6352.jpg]]
+![[z_images/IMG_6352.webp]]
 
 in doing so, i realised that the arduino <mark>output pins are not meant to serve power</mark>. they are meant to <mark>give little voltage spikes</mark> to register changes (and then to do something based on those switches (such as recognising a switch turning on & off)). 
 
 we discussed my strange case of the servo motor, and [[people/tom|tom]] explained that this was perhaps because the motor did not have enough electricity to <mark>overcome inertia</mark>. we explored the use of a capacitor (to make sure that the <mark>current through the circuit is consistent</mark>), and giving the servo more voltage to begin with (5v instead of 3v). 
 
-![[z_images/IMG_6349.jpg]]
+![[z_images/IMG_6349.webp]]
 
 it worked. 
 

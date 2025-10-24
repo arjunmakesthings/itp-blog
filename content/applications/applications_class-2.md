@@ -16,7 +16,7 @@ and her lecture in the auditorium said:
 
 both mean different things. so, i thought about both — and then decided to anchor to impact while selecting a piece of technology. 
 
-![[z_images/IMG_6220.jpg]]
+![[z_images/IMG_6220.webp]]
 
 her prompt made me wonder about [[what is technology?]], and looking at those definitions now, i wonder why everyone equates 'technology' to digital technology (which is merely a subset of technology). the global definition(s) is(are) fuzzy, and, yet, somehow the word is thrown around with utmost clarity. we're *in* a technology program, but no one wishes to define technology? 
 
@@ -25,7 +25,7 @@ i had hoped for this class to be more critical, but it seems like it's more abou
 ---
 for the assignment, i chose the keyboard ([[applications/applications_assignment-1|applications_assignment-1]]); simply because it has emotional value to me (and, perhaps, others; but is unrecognised). 
 
-![[z_images/IMG_6221 1.jpg]]
+![[z_images/IMG_6221 1.webp]]
 
 ---
 also listened to a lecture: [[applications/tech-forward approach to news storytelling, by karthik patanjali|tech-forward approach to news storytelling, by karthik patanjali]]. 

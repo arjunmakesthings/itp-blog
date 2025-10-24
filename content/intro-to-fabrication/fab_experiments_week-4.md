@@ -29,23 +29,23 @@ he then gave me a revised ask:
 
 i chose this cup. [[people/phil|phil]] had recommended a conical shape.
 
-![[z_images/IMG_6517.jpg]]
+![[z_images/IMG_6517.webp]]
 
-![[z_images/IMG_6518.jpg]]
+![[z_images/IMG_6518.webp]]
 
 i then taped all surfaces: 
 
-![[z_images/IMG_6519.jpg]]
+![[z_images/IMG_6519.webp]]
 
 and opened them up. 
 
-![[z_images/IMG_6520.jpg]]
+![[z_images/IMG_6520.webp]]
 
 realised that because the top is bigger, they actually don't meet edge-to-edge when laid flat out. i wonder what the math is.  
 
 the whole shape when opened looks like so: 
 
-![[z_images/IMG_6521.jpg]]
+![[z_images/IMG_6521.webp]]
 
 figured this out: 
 > to calculate the diameter of a larger circle in a circular cone, you can use the formula d=2r, where r is the radius of the base of the cone.
@@ -53,26 +53,26 @@ figured this out:
 ---
 realised that when two parallel surfaces of a curved surface lie flat, they'll have some distance between them. i can see this visually, although i still don't understand how. 
 
-![[z_images/IMG_6553.jpg]]
+![[z_images/IMG_6553.webp]]
 
-![[z_images/IMG_6552.jpg]]
+![[z_images/IMG_6552.webp]]
 
 maybe i can't think volumetrically. 
 
 ---
 next, i tried to figure out the joints. 
 
-![[z_images/IMG_6554.jpg]]
+![[z_images/IMG_6554.webp]]
 
-![[z_images/IMG_6555.jpg]]
+![[z_images/IMG_6555.webp]]
 
 then, i carefully sketched the components out. 
 
-![[z_images/Screenshot 2025-10-04 at 15.15.26.png]]
+![[z_images/Screenshot 2025-10-04 at 15\.15\.26.webp]]
 
 realised i did the math wrong for each panel. 
 
-![[z_images/Screenshot 2025-10-04 at 15.16.07.png]]
+![[z_images/Screenshot 2025-10-04 at 15\.16\.07.webp]]
 
 width has to be:
 $$
@@ -90,74 +90,74 @@ where r is the radius of the base.
 
 i then made the compounded-shape. 
 
-![[z_images/Screenshot 2025-10-04 at 16.04.41.png]]
+![[z_images/Screenshot 2025-10-04 at 16\.04\.41.webp]]
 
 laser cut it. 
 
-![[z_images/IMG_6556.jpg]]
+![[z_images/IMG_6556.webp]]
 
 and realised that i used the wrong circle as the base. 
 
-![[z_images/IMG_6557.jpg]]
+![[z_images/IMG_6557.webp]]
 
 then i used the smaller circle and i forgot the kerf lines, and it didn't bend. even if i forced it, the ends didn't meet. 
 
-![[z_images/IMG_6559.jpg]]
+![[z_images/IMG_6559.webp]]
 
 then i scaled everything down, to have more joints. then it broke. 
 
-![[z_images/IMG_6558.jpg]]
+![[z_images/IMG_6558.webp]]
 
 then i saw this: 
 
-![[z_images/Pasted image 20251004170814.png]]
+![[z_images/Pasted image 20251004170814.webp]]
 
 tried one more approach. failed. 
 
 ---
 [[people/cody|cody]] helped me see why my earlier prototypes failed. 
 
-![[z_images/IMG_6561.jpg]]
+![[z_images/IMG_6561.webp]]
 
 i then got a piece of paper (as per his suggestion), wrapped it around the container and cut it out with a scissor. that made me see the general shape i should've gotten.
 
-![[z_images/IMG_6562.jpg]]
+![[z_images/IMG_6562.webp]]
 
 i then found this: 
 
-![[z_images/Pasted image 20251005122733.png]]
+![[z_images/Pasted image 20251005122733.webp]]
 <figcaption>source: https://www.cmrp.com/cone-calculator</figcaption>
 
-![[z_images/Pasted image 20251005123610.png]]
+![[z_images/Pasted image 20251005123610.webp]]
 <figcaption>source: https://www.cmrp.com/cone-calculator</figcaption>
 
-![[z_images/Screenshot 2025-10-05 at 12.29.31.png]]
+![[z_images/Screenshot 2025-10-05 at 12\.29\.31.webp]]
 
 i then tried — really tried — to get the shape right. 
 
-![[z_images/Screenshot 2025-10-05 at 21.26.05.png]]
+![[z_images/Screenshot 2025-10-05 at 21\.26\.05.webp]]
 
 printed it out on paper to test: 
 
-![[z_images/IMG_6563.jpg]]
+![[z_images/IMG_6563.webp]]
 
-![[z_images/IMG_6564.jpg]]
+![[z_images/IMG_6564.webp]]
 
-![[z_images/Screenshot 2025-10-05 at 18.48.50.png]]
+![[z_images/Screenshot 2025-10-05 at 18\.48\.50.webp]]
 
 laser-printed this: 
 
-![[z_images/Screenshot 2025-10-05 at 21.28.13.png]]
+![[z_images/Screenshot 2025-10-05 at 21\.28\.13.webp]]
 
 it was a mess. 
 
-![[z_images/IMG_6566.jpg]]
+![[z_images/IMG_6566.webp]]
 
 everything broke. i hate it. i hate this. 
 
 i laser-cut this on a thinner material. 
 
-![[z_images/IMG_6567.jpg]]
+![[z_images/IMG_6567.webp]]
 
 did not include the kerf-lines, because that fucked things up last time. but then the material wouldn't bend. i decided to make the kerf-lines by myself (half-cuts with a cutter) to make it bend. 
 
@@ -166,13 +166,13 @@ it's 2140. i've spent more than 10 hours on this. i hate this.
 ---
 this is what i was left with. 
 
-![[z_images/IMG_6571.jpg]]
+![[z_images/IMG_6571.webp]]
 
 
-![[z_images/IMG_6570.jpg]]
+![[z_images/IMG_6570.webp]]
 
 
-![[z_images/IMG_6569.jpg]]
+![[z_images/IMG_6569.webp]]
 
 ---
 # reflect: 

@@ -53,7 +53,7 @@ needed to better understand everything.
 
 in the below image, the computer gives out 5v, which runs through the breadboard, and lights up the led via the resistor. 
 
-![[z_images/IMG_6188.jpg]]
+![[z_images/IMG_6188.webp]]
 
 correction: it only gives out 3v, even though it should give out 5v. 
 
@@ -61,7 +61,7 @@ i also don't understand what the 3v3 pin does, because it gives out no voltage.
 
 [[people/octavio|octavio]] helped me understand that the 5v board needs to be soldered from under. so he taught me how to solder, and we soldered the bottom of my board. 
 
-![[z_images/IMG_6189.jpg]]
+![[z_images/IMG_6189.webp]]
 
 he said to keep the iron on one side, and the solder on the other (forming a 90-degree angle), because the solder is attracted to heat. 
 
@@ -100,21 +100,21 @@ void loop(){
 
 ```
 
-![[z_images/IMG_6191.jpg]]
+![[z_images/IMG_6191.webp]]
 
 ---
 
 i wanted to build a working-memory-game, which plays back a sequence of leds and people are supposed to press it in the correct order. 
 
-![[z_images/IMG_6194.jpg]]
+![[z_images/IMG_6194.webp]]
 
 realised that c is different to program in, and studied the [fisher & yates](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle) shuffle as a way to randomise contents in the array of the sequence. 
 
-![[z_images/IMG_6198.jpg]]
+![[z_images/IMG_6198.webp]]
 
 it was clear in my head, but c became difficult to execute it in. so, i spent time with [[christina tang]] to understand how arrays work in c (as opposed to javascript, because it's simpler to do it there). 
 
-![[z_images/IMG_6208.jpg]]
+![[z_images/IMG_6208.webp]]
 
 we then wrote pseudocode together, to avoid duplicates in the new sequence. [[gabriel]] also pitched in.
 
@@ -166,7 +166,7 @@ For (int i = 0; i < newSequenceLength; I++) {
 
 i then spent time figuring out the circuit, and cutting wires to make it look neat. i want this game to be a handheld device, even at this stage of breadboard-prototyping. perhaps case it later. 
 
-![[z_images/IMG_6213.jpg]]
+![[z_images/IMG_6213.webp]]
 
 then i spent time testing different components of the circuit: 
 
@@ -512,7 +512,7 @@ void generate_sequence(int seq[], int sequence_length) {
 
 [[william]] helped me understand how to push objects into a new array. 
 
-![[z_images/IMG_6225.jpg]]
+![[z_images/IMG_6225.webp]]
 
 so, i wanted to refactor my code. however, at this point, i really want this to work. so, i'm going to think through the rest of the steps, and then step back in to change the size of the array. 
 
@@ -986,7 +986,7 @@ i booked an appointment with a human ([[people/lucia|lucia]]), and i will work w
 
 lucia also helped me rising detection and falling detection. 
 
-![[z_images/IMG_6255.jpg]]
+![[z_images/IMG_6255.webp]]
 
 basically, for a button-press you don't need to *only* see whether the output is high, but compare it to its previous state (and you want that to be low). a function executed on button-press is only meant to execute when `current_button_value = HIGH`, and `previous_button_value = LOW`
 
@@ -1237,7 +1237,7 @@ i now have to do all the other work that has piled up because of my p-comp obses
 ---
 i also changed the batteries for a multimeter i had found on the junk-shelf, which previously belonged to [[fabri]]. 
 
-![[z_images/IMG_6264 1.jpg]]
+![[z_images/IMG_6264 1.webp]]
 
 it's so pretty to look at — the circuitry. wow. 
 

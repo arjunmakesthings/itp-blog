@@ -52,7 +52,7 @@ and, i will have images.
 
 perhaps one; like so: 
 
-![[z_images/template_ws-qr.jpg]]
+![[z_images/template_ws-qr.webp]]
 <figcaption></figcaption>
 
 or a bigger one, like so (with an empty figcaption for spacing): 

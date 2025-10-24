@@ -12,3 +12,4 @@ ferrofluid by rozy zhu also uses electromagnets (https://rozi.design/Ferrofluid-
 https://simple.wikipedia.org/wiki/Electromagnetism
 
 https://en.wikipedia.org/wiki/Electromagnetism
+

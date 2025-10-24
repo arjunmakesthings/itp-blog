@@ -9,11 +9,11 @@ draft: "false"
 
 i just needed concentric lines extending through the panel. 
 
-![[z_images/IMG_6608.jpg]]
+![[z_images/IMG_6608.webp]]
 
 he also suggested an alternate approach: 
 
-![[z_images/IMG_6609.jpg]]
+![[z_images/IMG_6609.webp]]
 
 ---
 
@@ -23,18 +23,18 @@ we then spoke about fastening:
 
 discussed the adhesive chart: 
 
-![[z_images/Pasted image 20251008114226.png]]
+![[z_images/Pasted image 20251008114226.webp]]
 
 and [this to that](https://www.thistothat.com/cgi-bin/glue.cgi?lang=en&this=Glass&that=Fabric): 
 
-![[z_images/Screenshot 2025-10-08 at 11.42.43.png]]
+![[z_images/Screenshot 2025-10-08 at 11\.42\.43.webp]]
 
 spoke about [tap & die](https://www.youtube.com/watch?v=U5QU_3qUigk) to flatten the screws for the bottom.
 
 spoke about different kinds of nails & screws. 
 
-![[z_images/IMG_6610.jpg]]
+![[z_images/IMG_6610.webp]]
 
 spoke about countersinks, screws, drill-bits, nuts, et-cetera. 
 
-![[z_images/IMG_6611 1.jpg]]
+![[z_images/IMG_6611 1.webp]]

@@ -13,7 +13,7 @@ prompt:
 
 result: 
 
-![[z_images/Screenshot 2025-10-09 at 08.52.42.png]]
+![[z_images/Screenshot 2025-10-09 at 08\.52\.42.webp]]
 
 it couldn't generate it, even if i tried multiple times. 
 
@@ -29,13 +29,13 @@ generate image from sketch:
 
 input: 
 
-![[z_images/Screenshot 2025-10-09 at 08.59.53.png]]
+![[z_images/Screenshot 2025-10-09 at 08\.59\.53.webp]]
 
 +make this realistic. 
 
 output: 
 
-![[z_images/Gen4 make this realistic 1505587402.png]]
+![[z_images/Gen4 make this realistic 1505587402.webp]]
 
 right. funny. he has his middle finger out — god knows up.
 
@@ -94,7 +94,7 @@ visually, the project would feel similar to:
 ---
 next, i proceeded to think about the arc of my piece / the story i want to tell. 
 
-![[z_images/IMG_6651.jpg]]
+![[z_images/IMG_6651.webp]]
 
 realised i needed to see the actual thing — to decide the storytelling. 
 
@@ -110,28 +110,28 @@ each frame will be a-5 in size. that gives me enough space to play with.
 ---
 did type tests: 
 
-![[z_images/Screenshot 2025-10-11 at 23.09.34.png]]
+![[z_images/Screenshot 2025-10-11 at 23\.09\.34.webp]]
 
 sadly, a lot of monospaced-fonts don't have a plain zero. they either have a dot or a slash. the dots look like eyes though, so i might keep them.
 
 there are inconsistencies in sizing too.
 
-![[z_images/Screenshot 2025-10-11 at 23.12.12.png]]
+![[z_images/Screenshot 2025-10-11 at 23\.12\.12.webp]]
 <figcaption>both at 16pts.</figcaption>
 
 ratio that works is 16:13.2419; normal:medium.
 
 used chatgpt to generate many, many 0s & 1s. maybe later, i might hide messages via binary in my film (or whatever this is going to turn out to become).
 
-![[z_images/Screenshot 2025-10-11 at 23.14.59.png]]
+![[z_images/Screenshot 2025-10-11 at 23\.14\.59.webp]]
 
 tried runway to generate reference images.
 
-![[z_images/Screenshot 2025-10-11 at 23.29.26.png]]
+![[z_images/Screenshot 2025-10-11 at 23\.29\.26.webp]]
 
 i then made a frame on illustrator, and then tried to animate it with runway.
 
-![[z_images/frame.png]]
+![[z_images/frame.webp]]
 <figcaption>frame fed to runway.</figcaption>
 
 prompt: 
@@ -162,7 +162,7 @@ i think i need to make a video with 0s and 1s flipping, and use those as a mask 
 ---
 i printed out the sheets to test the typography.
 
-![[z_images/IMG_6672.jpg]]
+![[z_images/IMG_6672.webp]]
 
 i'm convinced with using cheap printer paper (perhaps cardstock later), a6; and make them many flipbooks. 
 
@@ -258,17 +258,17 @@ class Binary {
 
 and then exported it as a pdf and printed it. but the size / resolution weren't proper because of the ppi conversion. 
 
-![[z_images/IMG_6673.jpg]]
+![[z_images/IMG_6673.webp]]
 
 so, i figured out that when i do `pdf.save()`, i need to open it with the system dialogue otherwise it auto-scales the work.
 
-![[z_images/IMG_6674.jpg]]
+![[z_images/IMG_6674.webp]]
 
 so, i figured out the ideal print settings. 
 
 it's to multiply everything by 2, and then scale it back 50% using the print dialogue. that gives me a high resolution to print.
 
-![[z_images/IMG_6683 1.jpg]]
+![[z_images/IMG_6683 1.webp]]
 
 code: 
 
@@ -532,7 +532,7 @@ i'm sleepy.
 
 so, i thought to use chatgpt to see if it could take my structure and then make objects as i tell it to. this was my prompt to it:
 
-![[z_images/Screenshot 2025-10-15 at 23.30.18.png]]
+![[z_images/Screenshot 2025-10-15 at 23\.30\.18.webp]]
 
 this was my first prompt: 
 
@@ -560,9 +560,9 @@ next prompt:
 
 it broke then. 
 
-![[z_images/Screenshot 2025-10-15 at 23.54.40.png]]
+![[z_images/Screenshot 2025-10-15 at 23\.54\.40.webp]]
 
-![[z_images/Screenshot 2025-10-15 at 23.57.01.png]]
+![[z_images/Screenshot 2025-10-15 at 23\.57\.01.webp]]
 <figcaption>do you though?</figcaption>
 
 eeeeeeek, i'm so happy with this one!
@@ -574,7 +574,7 @@ i think the <mark>project can be called future meanderings</mark> — a series 
 ---
 i wrote a bunch of drafts for phrases in a short poem. i didn't do a good job. i don't have a lot of time.
 
-![[z_images/Screenshot 2025-10-20 at 20.07.11.png]]
+![[z_images/Screenshot 2025-10-20 at 20\.07\.11.webp]]
 
 i have the kernel of a finished idea. i'm going to try. 
 
@@ -592,17 +592,17 @@ they are four visual poems. each line has layers — but i'll see if the audien
 
 i then thought that it would be an interesting workflow, if i could give an engine an image reference, describe something, give it my code structure (like i gave chatgpt), and make it generate that visual.
 
-![[z_images/Screenshot 2025-10-20 at 20.23.19.png]]
+![[z_images/Screenshot 2025-10-20 at 20\.23\.19.webp]]
 
-![[z_images/Screenshot 2025-10-20 at 20.35.42.png]]
+![[z_images/Screenshot 2025-10-20 at 20\.35\.42.webp]]
 
 i then resorted back to gpt. i gave it a visual reference.
 
-![[z_images/Screenshot 2025-10-20 at 20.39.31.png]]
+![[z_images/Screenshot 2025-10-20 at 20\.39\.31.webp]]
 
 we're kind to each other: 
 
-![[z_images/Screenshot 2025-10-20 at 20.50.18.png]]
+![[z_images/Screenshot 2025-10-20 at 20\.50\.18.webp]]
 
 i realise that with repeated commands, it freezes sometimes — and loses context then. <mark>maybe chatgpt has a very short-duration context grasp</mark> (which it stores during conversation, and maintains a flow) but then later, it starts a new (or from a saved state). 
 
@@ -610,7 +610,7 @@ great. i have all the frames. they're all git branches. i should've probably mad
 
 i'll do that now.
 
-![[z_images/Screenshot 2025-10-20 at 21.21.49.png]]
+![[z_images/Screenshot 2025-10-20 at 21\.21\.49.webp]]
 
 i have all the frames. now i'm going to mess around with the thought i had earlier. 
 
@@ -657,7 +657,7 @@ a person, when using an ai-tool, uses it to give form to their imagination. thei
 
 crap, i've been using runway wrong all along. i wonder why we were never told this. anyway, i'll *pretend* i didn't see this (not everyone who uses runway is going to browse through their documentation at 2300hrs.). 
 
-![[z_images/Screenshot 2025-10-20 at 22.18.54.png]]
+![[z_images/Screenshot 2025-10-20 at 22\.18\.54.webp]]
 
 ---
 # prompts, inputs & outputs: 
@@ -665,7 +665,7 @@ experiment ran at 2220, 251020.
 
 image: 
 
-![[z_images/frame-1.jpeg]]
+![[z_images/frame-1.webp]]
 
 text: 
 
@@ -680,7 +680,7 @@ output:
 
 image: 
 
-![[z_images/frame-2.jpeg]]
+![[z_images/frame-2.webp]]
 
 
 prompt: 
@@ -696,7 +696,7 @@ output:
 ---
 image: 
 
-![[z_images/frame-3.jpeg]]
+![[z_images/frame-3.webp]]
 
 prompt: 
 
@@ -711,7 +711,7 @@ output:
 ---
 image: 
 
-![[z_images/frame-4.jpeg]]
+![[z_images/frame-4.webp]]
 
 prompt: 
 
@@ -726,7 +726,7 @@ output:
 ---
 image: 
 
-![[z_images/frame-5.jpeg]]
+![[z_images/frame-5.webp]]
 
 prompt: 
 

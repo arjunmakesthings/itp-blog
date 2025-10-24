@@ -8,21 +8,21 @@ draft: "false"
 # notes: 
 - discussed that most of the work in this class is subtractive (take a bigger piece of material than the output, and subtract pieces from it). 
 - saw compliant mechanisms, (one piece, one positive, one negative). 
-![[z_images/Pasted image 20250924094814.png]]
+![[z_images/Pasted image 20250924094814.webp]]
 
 - all laser cut machines here use <mark>inches</mark>. cms is <mark>base 10</mark>, inches is <mark>base 12</mark>.
 
-![[z_images/IMG_6344.jpg]]
+![[z_images/IMG_6344.webp]]
 
 - all materials have a <mark>sds (safety data sheet)</mark>. 
 - introduced us to the laser cutter.
 - laser is a <mark>beam of light</mark>, which is sharp-angled at the bottom (converges at a point). 
 
-![[z_images/IMG_6342.jpg]]
+![[z_images/IMG_6342.webp]]
 
 - introduced <mark>kerf bending</mark>: since the beam is a triangle, if you flip the material over, the material bends. 
 
-![[z_images/IMG_6343.jpg]]
+![[z_images/IMG_6343.webp]]
 
 # laser printer stuff: 
 - stroke has to be 0.01, uniform, basic. 

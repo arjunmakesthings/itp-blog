@@ -7,7 +7,7 @@ draft: "false"
 ---
 i wanted to spend the night experimenting with electricity. however, as i set up to do so: 
 
-![[z_images/IMG_6110.jpg]]
+![[z_images/IMG_6110.webp]]
 
 i realise that people need space for physical-computing. i need to be able to move around, to stand above circuits, to be close to flexible sources of power. 
 

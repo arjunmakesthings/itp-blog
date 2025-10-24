@@ -13,4 +13,4 @@ essentially, a list of 10 rules that every worker in the studio must abide by. r
 
 this did seem over-the-top, and military-like. but maybe that is a good thing. maybe that is needed. 
 
-![[z_images/Screenshot 2025-09-08 at 14.08.18.png]]
+![[z_images/Screenshot 2025-09-08 at 14\.08\.18.webp]]
