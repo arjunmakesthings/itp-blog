@@ -27,5 +27,6 @@ spoke about generators that existed way before generative-artificial-intelligenc
 
 ![[z_images/IMG_6777-1.webp|381x285]]
 
+he also said that <mark>what it means to be creative</mark> will change, and that has been the case since the past — it has changed what a photographer is (it's not just a man with a camera anymore). 
 
-
+he also said that with ai, it *feels* more <mark>extractive</mark>, and there is more <mark>metaphorical giving away</mark>. 
