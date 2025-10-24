@@ -1363,6 +1363,227 @@ i then spoke with [[people/octavio|octavio]] about how to solder this, and [[peo
 tomorrow, i'll go and buy my materials; begin soldering; fabricate; and get this to work. i do have a little bit of interaction to fine-tune, and this would be better with 36 pnp transistors (so that the leds stay on), but i'll keep it to basic for now. 
 
 ---
+i ran into a problem where the arduino refuses to let out of a loop, until it has completed the loop. 
+
+for example, i check all the states of my fsr. if my state is a certain way, say `HIGH_TO_HIGH`, i'm running through all the channels of the multiplexor and, also, through all the multiplexors and sending them pseudo-pwms extremely quickly. 
+
+however, if i let go during the time that the arduino is running the loop, the light up sequence still runs. 
+
+![[z_images/IMG_6782.mp4]]
+
+code: 
+
+``` cpp
+// multiple muxes; arjun, october 23rd.
+
+//helper to get array size.
+template<typename T, size_t N>
+int get_array_length(T (&)[N]) {
+  return N;
+}
+
+//mux stuff:
+//we have 2 muxes, each with 3 control pins. somehow, i need to define the array as one size greater than its length.
+int mux[2][3] = {
+  { 10, 11, 12 },
+  { 7, 8, 9 }
+};
+
+//helper to get mux-values according to the truth table. chat-gpt found some obscure logic that connects all pin-numbers with simple if-conditions.
+int* get_mux_values(int channel) {
+  static int vals[3];
+  vals[0] = (channel & 0b001) ? HIGH : LOW;
+  vals[1] = (channel & 0b010) ? HIGH : LOW;
+  vals[2] = (channel & 0b100) ? HIGH : LOW;
+  return vals;
+}
+
+int num_muxes = get_array_length(mux);
+const int channels = 4;
+
+//fsr  variables:
+int fsr_pin = A0;
+
+//variables to later store current & previous valuies.
+int fsr_value = 0;
+int fsr_prev_val = 0;
+
+//a number to account for electrical-noise that the fsr will experience.
+int fsr_noise = 20;
+
+//my circuit & fsr have stages. i store them as enums, to make them more readable.
+enum FSR_Stage {
+  LOW_TO_HIGH,   //the fsr has been pressed.
+  HIGH_TO_HIGH,  //the fsr is remaining pressed.
+  LOW_TO_LOW,    //the fsr hasn't been pressed.
+  HIGH_TO_LOW    //the fsr has been released from a press.
+};
+
+FSR_Stage current_fsr_stage = LOW_TO_LOW;  //declare a variable to keep changing as the program goes on.
+
+enum Circuit_Stage {
+  DISPLAYER,  //when a circuit is not being interacted with.
+  POWERING,   //when a circuit is being interacted with.
+  POWERED,    //when a circuit waits to be released from interactivity.
+  DEPOWER,    //when a circuit is released.
+  END         //a little something, before it goes back to displayer.
+};
+
+Circuit_Stage current_circuit_stage = DISPLAYER;  //declare a variable to keep changing as the program goes on.
+
+
+void setup() {
+  Serial.begin(9600);  //start serial communication.
+
+  //set pin modes for all mux control pins:
+  for (int i = 0; i < get_array_length(mux); i++) {
+    for (int j = 0; j < get_array_length(mux[i]); j++) {
+      pinMode(mux[i][j], OUTPUT);
+    }
+  }
+
+  //set pin mode for fsr:
+  pinMode(fsr_pin, INPUT);
+
+  pinMode(2, OUTPUT);
+}
+
+void loop() {
+  fsr_value = analogRead(fsr_pin);  //get current value.
+
+  check_fsr_stage(fsr_value, fsr_prev_val);
+  change_circuit_stage();
+
+  // int num_muxes = get_array_length(mux);
+  // int num_channels = 3;  // how many channels to loop through per mux
+
+  // for (int m = 0; m <= num_muxes; m++) {
+  //   for (int ch = 0; ch < num_channels; ch++) {
+  //     light_up(mux[m], ch, 255, 10);
+  //     delay(100);
+  //   }
+  // }
+
+  fsr_prev_val = fsr_value;  //whatever was current value, store as previous value (because current value will be changed next, so you have something to compare against.)
+}
+
+//function to check & assign fsr-stage based on current & previous value.
+void check_fsr_stage(int current_fsr, int last_fsr) {
+
+  if (last_fsr < fsr_noise && current_fsr > fsr_noise) {
+    // gone from LOW to HIGH.
+    current_fsr_stage = LOW_TO_HIGH;
+  } else if (last_fsr > fsr_noise && current_fsr > fsr_noise) {
+    // gone from HIGH to HIGH.
+    current_fsr_stage = HIGH_TO_HIGH;
+  } else if (last_fsr < fsr_noise && current_fsr < fsr_noise) {
+    // gone from LOW to LOW.
+    current_fsr_stage = LOW_TO_LOW;
+  } else if (last_fsr > fsr_noise && current_fsr < fsr_noise) {
+    // gone from HIGH to LOW.
+    current_fsr_stage = HIGH_TO_LOW;
+  }
+}
+
+void change_circuit_stage() {
+  if (current_fsr_stage == LOW_TO_LOW) {
+    //this hasn't changed. for now, i'm going to make an led blink.
+    displayer();
+  } else if (current_fsr_stage == LOW_TO_HIGH) {
+    //send the first electron to led 0.
+    only_first_led();
+  } else if (current_fsr_stage == HIGH_TO_HIGH) {
+    //the button is pressed. send more electrons, from the 2nd led to the power strip.
+    power_up();
+  }
+}
+
+void displayer() {
+  digitalWrite(2, HIGH);
+  delay(100);
+  digitalWrite(2, LOW);
+  delay(100);
+}
+
+void only_first_led() {
+  digitalWrite(mux[0][0], HIGH);
+  digitalWrite(mux[0][1], LOW);
+  digitalWrite(mux[0][2], LOW);
+}
+
+void power_up() {
+  const int brightness = 255;
+  const int interval = 10;
+
+  for (int m = 0; m < num_muxes; m++) {      // loop through muxes
+    for (int ch = 0; ch < channels; ch++) {  // loop through channels
+      light_up(mux[m], ch, brightness, interval);
+      delay(100);  // brief pause between channels (optional)
+    }
+  }
+}
+
+  //function to fade in leds, let them be lit, and fade them out; simulating an electron being passed in time.
+  void light_up(int input_pins[3], int channel, int brightness, int interval) {
+    int* values = get_mux_values(channel);
+    const int max_brightness = 255;
+    const int hold_duration = 100;
+
+    //fade in:
+    for (int b = 0; b <= brightness; b++) {
+      int on_time = b * interval;
+      int off_time = (max_brightness * interval) - on_time;
+
+      for (int i = 0; i < 3; i++) {
+        digitalWrite(input_pins[i], values[i]);
+      }
+      delayMicroseconds(on_time);
+      for (int i = 0; i < 3; i++) {
+        digitalWrite(input_pins[i], LOW);
+      }
+      delayMicroseconds(off_time);
+    }
+
+    //hold:
+    unsigned long start_time = millis();
+    while (millis() - start_time < hold_duration) {
+      int on_time = brightness * interval;
+      int off_time = (max_brightness * interval) - on_time;
+
+      for (int i = 0; i < 3; i++) {
+        digitalWrite(input_pins[i], values[i]);
+      }
+      delayMicroseconds(on_time);
+      for (int i = 0; i < 3; i++) {
+        digitalWrite(input_pins[i], LOW);
+      }
+      delayMicroseconds(off_time);
+    }
+
+    //fade out:
+    for (int b = brightness; b >= 0; b--) {
+      int on_time = b * interval;
+      int off_time = (max_brightness * interval) - on_time;
+
+      for (int i = 0; i < 3; i++) {
+        digitalWrite(input_pins[i], values[i]);
+      }
+      delayMicroseconds(on_time);
+      for (int i = 0; i < 3; i++) {
+        digitalWrite(input_pins[i], LOW);
+      }
+      delayMicroseconds(off_time);
+    }
+  }
+```
+
+learnt about `switch` from the arduino library. 
+
+
+
+
+
+---
 # to do: 
 learnt this from [[galt]]'s blog; started using it here. 
 
