@@ -44,11 +44,11 @@ soldered the motor-driver. [[people/cody|cody]] helped me understand what good s
 
 motor drivers have logic gates inside them, that open or close based on certain conditions. 
 
-![[z_images/Screenshot 2025-10-02 at 21\.11\.34.webp]]
+![[z_images/Screenshot 2025-10-02 at 21.11.34.webp]]
 
 that's fucking beautiful. 
 
-![[z_images/Screenshot 2025-10-02 at 21\.12\.41.webp]]
+![[z_images/Screenshot 2025-10-02 at 21.12.41.webp]]
 
 source: https://cdn.sparkfun.com/assets/0/1/b/b/3/TB6612FNG.pdf
 
@@ -75,19 +75,19 @@ decided to use a stepper instead, so that i understand that more.
 ---
 got curious about electrons while having lunch. watched this: https://www.youtube.com/watch?v=bHIhgxav9LY
 
-![[z_images/Screenshot 2025-10-05 at 13\.00\.43.webp]]
+![[z_images/Screenshot 2025-10-05 at 1300.43.webp]]
 
 learnt about drift velocity, also mentioned in [[intro-to-physical-computing/practical electronics for inventors|practical electronics for inventors]]. 
 
-![[z_images/Screenshot 2025-10-05 at 13\.08\.19.webp]]
+![[z_images/Screenshot 2025-10-05 at 13.08.19.webp]]
 
 electric & magnetic fields: 
 
-![[z_images/Screenshot 2025-10-05 at 13\.09\.23.webp]]
+![[z_images/Screenshot 2025-10-05 at 13.09.23.webp]]
 
 jesus christ. 
 
-![[z_images/Screenshot 2025-10-05 at 13\.11\.24.webp]]
+![[z_images/Screenshot 2025-10-05 at 13.11.24.webp]]
 
 Dr Robert Olsen says: "people think you're pumping electrons, which is so wrong". 
 
@@ -109,14 +109,14 @@ found the truth table elsewhere:
 
 then i spent time understanding the motor-driver. i understood that it's a dual motor driver. 
 
-![[z_images/Screenshot 2025-10-06 at 19\.00\.30.webp]]
+![[z_images/Screenshot 2025-10-06 at 19.00.30.webp]]
 <figcaption>source: https://www.youtube.com/watch?v=ksx-AugHlrI</figcaption>
 
-![[z_images/Screenshot 2025-10-06 at 19\.02\.49.webp]]
+![[z_images/Screenshot 2025-10-06 at 19.02.49.webp]]
 
 then i used this truth table to write the code. 
 
-![[z_images/Screenshot 2025-10-06 at 19\.28\.11.webp]]
+![[z_images/Screenshot 2025-10-06 at 19.28.11.webp]]
 
 i wired the circuit right. i'm sure. it didn't work. i measured all the voltages — everything is logically sound. 
 

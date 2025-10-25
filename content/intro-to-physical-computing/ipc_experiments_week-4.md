@@ -82,13 +82,13 @@ i wanted to make a servo work first.
 
 i knew i needed more current, to give it enough inertia. i grabbed 3 components, all from the transistor rack and read their data-sheets. one turned out to be a voltage regulator. 
 
-![[z_images/IMG_6453 1\.webp]]
+![[z_images/IMG_6453 1.webp]]
 
 tip102 is an npn transistor. i chose to use that, because i understand how they work. 
 
 in this case, the idea.webpat the servo has voltage coming in via the transistor. in hindsight, i may not understand how transistors work. 
 
-![[z_images/IMG_6454\.webp]]
+![[z_images/IMG_6454.webp]]
 
 great; so, this doesn't work. 
 
@@ -99,7 +99,7 @@ i'm going to figure out why. my first guess is that the motor is not receiving e
 second test: 
 the id.webpto use a transistor to amplify the voltage given to the servo. 
 
-![[z_images/IMG_6457\.webp]]
+![[z_images/IMG_6457.webp
 
 i also tried this, since the problem last time was the current not being regulated. 
 
@@ -111,7 +111,7 @@ i then bugged [[people/nikolai|nikolai]] for help. we discussed how transistors 
 
 i decided to do this, and have two different circuits. 
 
-![[z_images/IMG_6460\..webp
+![[z_images/IMG_6460..webp
 
 this worked. 
 
@@ -141,7 +141,7 @@ at this point, i only know how to see the pulse width modulation via an oscillos
 
 i then tried this. essentially, 3.3v (and whatever current) comes in through the arduino into the transistor. since digital-output sends less current, the <mark>transistor should amplify this current to the motor; thereby sending it more current to move</mark>. 
 
-![[z_images/IMG_6473\.webp]]
+![[z_images/IMG_6473.webp]]
 
 that didn't work, and i'm not quite sure why. it should just connect 1 & 3. 
 
@@ -157,7 +157,7 @@ but, when i measure with an oscilloscope, there *is* an increased voltage being 
 
 to verify this, i plugged in another scope to measure the 'in' and 'out' via the transistor. 
 
-![[z_images/IMG_6479\.webp]]
+![[z_images/IMG_6479.webp
 
 and, as expected, the voltage out from the transistor is much higher. why, then, does it not affect the servo motor? 
 
@@ -206,7 +206,7 @@ calc();
 # making a beat-looper: 
 <mark>how do i know how much current can something take</mark>? for example, the speaker: 
 
-![[z_images/IMG_6486\.webp]]
+![[z_images/IMG_6486.webp]]
 
 <mark>why did this not work? </mark>
 
@@ -239,7 +239,7 @@ i then thought more about the midterm. [[people/tom|tom]]'s reply stuck (and stu
 
 this week i understood that i'm far off from making something 'big'. in line with [[my principles as a creator]], i need to <mark>stay true to my curiosity</mark>. so, i pulled out a giant sheet of paper, and re-thought my midterm; with more authenticity. 
 
-![[z_images/IMG_6489\.webp]]
+![[z_images/IMG_6489.webp]]
 
 my project is now about by the magic that we're dealing with, but fail to acknowledge. inspired by this dialogue between [[people/shobhan|shobhan]] and rajesh-dahiya (a 'famous' designer in india): 
 

@@ -41,7 +41,7 @@ saw [[resources & tools/circuit lab|circuit lab]].
 
 ---
 understood that it is actually the negative electrons that move in a circuit, towards areas of higher potential. but, because of earlier stated observations, the conventional current flow is determined to be opposite. 
-![[z_images/Screenshot 2025-10-02 at 10\.56\.32.webp]]
+![[z_images/Screenshot 2025-10-02 at 10.56.32.webp]]
 
 learnt more about voltage (written in [[intro-to-physical-computing/electricity|electricity]]). 
 

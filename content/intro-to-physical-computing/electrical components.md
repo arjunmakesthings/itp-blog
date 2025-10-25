@@ -8,24 +8,25 @@ draft: "false"
 ---
 a list of electrical components, and what they do; as learnt in [[intro to physical computing]]. 
 
+
 # resistor: 
 a resistor essentially takes electricity as input, and limits the output. the resistance (see [[intro-to-physical-computing/electricity]]) used must be appropriate for the output, and is usually understood by the type of band that is present on the resistor. 
 
-![[z_images/Screenshot 2025-09-02 at 23\.05\.35.webp]]
+![[z_images/Screenshot 2025-09-02 at 23.05.35.webp]]
 <figcaption>image from <a href = "https://resistorcolorcodecalc.com/">resistor color code calculator</a>.</figcaption>
 
 there are different types of resistors; some are variable (change resistance based on data such as light or force). 
 
-![[z_images/Screenshot 2025-09-03 at 18\.14\.18.webp]]
+![[z_images/Screenshot 2025-09-03 at 18.14.18.webp]]
 
 video used: https://www.youtube.com/watch?v=QHk8vS5c1iE
 two main types that i see in the shop: 
 
-![[z_images/Screenshot 2025-09-06 at 13\.06\.07.webp]]
+![[z_images/Screenshot 2025-09-06 at 13.06.07.webp]]
 
 left is carbon-based, and the right is metal-based. higher resistance (ohm-values) have more 'grooves', for the current to bounce around more (and lose heat). 
 
-![[z_images/Screenshot 2025-09-06 at 13\.07\.14.webp]]
+![[z_images/Screenshot 2025-09-06 at 13.07.14.webp]]
 
 then saw this: https://www.youtube.com/watch?v=O2hFh6w0FRw
 
@@ -47,13 +48,13 @@ here is a diagram for the nano-33, which we use in class:
 
 these measure voltage, resistance and amperage; and are good tools to check circuits and different components. 
 
-![[z_images/Screenshot 2025-09-04 at 18\.07\.43\.webp]]
+![[z_images/Screenshot 2025-09-04 at 18.07.43.webp]]
 
 ---
 # voltage regulators:
 change fluctuating voltag.webponsistent voltage. 
 
-![[z_images/Pasted image 20250904180858\.webp]]
+![[z_images/Pasted image 20250904180858.webp]]
 the pins are easy to remember: 
 
 ![[z_images/Screenshot 2025-09-04 at 18.webp01.webp]]
@@ -62,7 +63,7 @@ the pins are easy to remember:
 # capacitors: 
 store energy when energy comes i.webp then releases it when the energy stops. 
 
-![[z_images/Pasted image 20250906115657\.webp]]
+![[z_images/Pasted image 20250906115657.webp]]
 
 ---
 # diodes
@@ -72,7 +73,7 @@ permit voltage to flow in one .webpion, and block it in another. leds are a type
 # transistors: 
 act as electronic switches. when a small voltage is put to the base and emitter, it allows a larger current and voltage to flow from the collector to the emitter. 
 
-![[z_images/Pasted image 20250911093921\.webp]]
+![[z_images/Pasted image 20250911093921.webp]]
 
 look very similar to voltage regulators. 
 
@@ -80,7 +81,7 @@ explained by [[people/christina tang|c.webpna tang]] in [[intro-to-physical-comp
 
 > essentially, transistors are of two types: npn or pnp, meaning that npn (negative positive negative) closes the switch to allow current to pass through it (when the switch or base receives voltage), whereas pnp opens the gate (not allowing current to pass). every transistor falls within these two types. 
 
-![[z_images/IMG_6376\.webp]]
+![[z_images/IMG_6376.webp]]
 
 ---
 # microcontrollerS: .webpple processor (see below for definition) that can do only one task, like listening to sensors. 
@@ -105,13 +106,13 @@ a processor needs a bunch of other components, which is pre-packaged into a deve
 
 > A processor, whether microcontroller or multimedia processor, can’t operate alone. It needs support components. For a microcontoller, you need at least a voltage regulator and usually an external clock called a crystal. You might also add circuitry to protect it in case it’s powered wrong, or in case the wrong voltage and current are plugged into the IO pins. You might include communications interfaces as well. This extra circuitry determines the base cost of a development board like the Arduino (Figure 5) or the Raspberry Pi (Figure 6).
 
-![[z_images/Screenshot 2025-09-11 at 10\.23\.43\.webp]]
+![[z_images/Screenshot 2025-09-11 at 10.23.43.webp]]
 
 ---
 # activity boards: 
 Activity boards contain a pre-programmed microc.webpler and some sensors and actuators along with a communications interface and a communications protocol so that you can interface the board and its sensors and actuators with software running on your personal computer. Boards like the MaKey MaKey (Figure 7) or the PicoBoard (Figure 8, now retired) are activity boards. Activity boards generally can’t operate on their own without being connected to a personal computer, while development boards can.
 
-![[z_images/Pasted image 20250911102609\.webp]]
+![[z_images/Pasted image 20250911102609.webp]]
 
 https://itp.nyu.edu/physcomp/lessons/microcontrollers-the-basics/
 
@@ -123,7 +124,7 @@ Servomotors are mo.webpith a combination of gears and an embedded potentiometer 
 - ground
 - control
 
-![[z_images/Pasted image 20250930132754\.webp]]
+![[z_images/Pasted image 20250930132754.webp]]
 <figcaption>source: https://www.sparkfun.com/servos</figcaption>
 
 ---
@@ -132,7 +133,7 @@ got from [[intro-to-.webpal-computing/practical electronics for inventors|practi
 
 difference between insulators & conductors. 
 
-![[z_images/Pasted image 20251002104646\.webp]]
+![[z_images/Pasted image 20251002104646.webp]]
 <figcaption>source: https://www.youtube.com/watch?v=gUmDVe6C-BU</figcaption>
 
 but, this gap in an insulator can be lowered with heat, making it conductive: 
@@ -159,17 +160,18 @@ any device that converts electrical ene.webpto mechanical energy (motors, servos
 # analog signals: 
 infinite number of values within a given range. 
 
-![[z_images/Pasted image 20251014205405\.webp]]
+![[z_images/Pasted image 20251014205405.webp]]
 <figcaption>source: https://docs.arduino.cc/micropython/micropython-course/course/analog/</figcaption>
 
 ---
 # pwm or pulse-width-modulation: 
 a dig.webpignal that is rapidly switching on and off, mimicking an analog signal (a waveform).
 
-![[z_images/Pasted image 20251014205508\.webp]]
+![[z_images/Pasted image 20251014205508.webp]]
 <figcaption>source: https://docs.arduino.cc/micropython/micropython-course/course/analog/</figcaption>
 
 
 
 ---
 more parts to read about are here:.webp://itp.nyu.edu/physcomp/labs/components/
+

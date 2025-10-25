@@ -29,7 +29,7 @@ against the best design is no design:
 
 this is brilliant. an answering machine: https://vimeo.com/19930744?fl=pl&fe=vl
 
-![[z_images/Screenshot 2025-09-09 at 12\.02\.35.webp]]
+![[z_images/Screenshot 2025-09-09 at 12.02.35.webp]]
 
 interaction is more tangible, more easy to manipulate than clicking multiple buttons on a screen. timo calls it the *touchstone for all interaction design work*. 
 

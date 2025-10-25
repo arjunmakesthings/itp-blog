@@ -14,7 +14,7 @@ i wanted to play.
 --- 
 the world is made up of many (points). 
 
-![[z_images/Screenshot 2025-09-06 at 18\.19\.03.webp]]
+![[z_images/Screenshot 2025-09-06 at 18.19.03.webp]]
 
 ``` js
 
@@ -115,13 +115,13 @@ somewhere between all this, is me. perhaps i am lost, in the movement of the cro
 
 either way — the parts of my 'self' are lost, inconsequential, and small; and i wait to be whole again. 
 
-![[z_images/Screenshot 2025-09-06 at 18\.16\.52.webp]]
+![[z_images/Screenshot 2025-09-06 at 18.16.52.webp]]
 <figcaption>ran for about a minute.</figcaption>
 
-![[z_images/Screenshot 2025-09-06 at 18\.35\.01.webp]]
+![[z_images/Screenshot 2025-09-06 at 18.35.01.webp]]
 <figcaption>ran for longer, while i packed up my bags from the dibner-library.</figcaption>
 
-![[z_images/Screenshot 2025-09-06 at 18\.36\.16.webp]]
+![[z_images/Screenshot 2025-09-06 at 18.36.16.webp]]
 <figcaption>more of what i was looking for. perhaps i'll do a black & white variant before class.</figcaption>
 
 code for the above: 
@@ -264,7 +264,7 @@ img.pixels[4] //this would be the red value for the next pixel (1,0).
 
 `img.loadPixels` must be called once, and then the colours can be assigned (in my use-case). i wrote a couple of helper functions to load colors, and then convert colors for an x, y coordinate.
 
-![[z_images/Screenshot 2025-09-06 at 17\.41\.50.webp]]
+![[z_images/Screenshot 2025-09-06 at 17.41.50.webp]]
 
 
 ---
@@ -272,11 +272,11 @@ img.pixels[4] //this would be the red value for the next pixel (1,0).
 
 ![[z_images/vid.mov]]
 
-![[z_images/Screenshot 2025-09-05 at 17\.02\.19.webp]]
+![[z_images/Screenshot 2025-09-05 at 17.02.19.webp]]
 
-![[z_images/Screenshot 2025-09-05 at 17\.02\.31.webp]]
+![[z_images/Screenshot 2025-09-05 at 17.02.31.webp]]
 
-![[z_images/Screenshot 2025-09-05 at 17\.02\.16.webp]]
+![[z_images/Screenshot 2025-09-05 at 17.02.16.webp]]
 
 code: 
 
@@ -363,9 +363,9 @@ class People {
 ![[z_images/Screen Recording 2025-09-06 at 17.53.01.mov]]
 
 
-![[z_images/Screenshot 2025-09-06 at 17\.53\.45.webp]]
+![[z_images/Screenshot 2025-09-06 at 17.53.45.webp]]
 
-![[z_images/Screenshot 2025-09-06 at 17\.54\.52.webp]]
+![[z_images/Screenshot 2025-09-06 at 17.54.52.webp]]
 
 ``` js
 //self-portrait; september 05, 2025.

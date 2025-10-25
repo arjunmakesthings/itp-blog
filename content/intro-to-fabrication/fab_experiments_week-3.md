@@ -29,11 +29,11 @@ the moment i saw 'laser-cut', i thought precision. nothing is more precise to me
 
 i then began playing around. it was obvious that a word, unless its text-width is the same, cannot morph into the other. so, i stuck to letters — and used a monospaced font (to guarantee the same width(s)).
 
-![[z_images/Screenshot 2025-09-28 at 19\.31\.38.webp]]
+![[z_images/Screenshot 2025-09-28 at 19.3138.webp]]
 
 some monospaced fonts (owing to their construction) are not technically the same height. so, i resolved these. 
 
-![[z_images/Screenshot 2025-09-25 at 19\.10\.52.webp]]
+![[z_images/Screenshot 2025-09-25 at 19.10.52.webp]]
 
 i then morphed 'u' & 'i' into each other, with a point of origin (square) in between. the idea was to communicate that you & i will always meet, even if we're on the opposite sides of the world. 
 
@@ -75,7 +75,7 @@ then, i glued it all together.
 ---
 next, i tried things with paper. 
 
-![[z_images/Screenshot 2025-09-28 at 19\.42\.36.webp]]
+![[z_images/Screenshot 2025-09-28 at 1942.36.webp]]
 
 i wanted to make something that folds in on itself, but none of these experiments turned out well. 
 

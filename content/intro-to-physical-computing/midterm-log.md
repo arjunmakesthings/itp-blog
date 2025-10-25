@@ -78,15 +78,15 @@ the first problem i run into is that i need to send analog-output to ~30-35 leds
 
 looked at something called a mux or multiplexor. think of it like a motor-driver, but uses 4 pins to give out 16 outputs (based on varying combinations of highs & lows). 
 
-![[z_images/Screenshot 2025-10-09 at 17\.19\.02.webp]]
+![[z_images/Screenshot 2025-10-09 at 17.19.02.webp]]
 <figcaption>source: https://www.youtube.com/watch?v=Dco6jo9xgAo</figcaption>
 
 [[people/pedro|pedro]] then told me about the multiplexors that we have in the shop, as consumables. we have the [cd4051be](https://www.alldatasheet.com/datasheet-pdf/view/26882/TI/CD4051BE.html) multiplexors, that do the job that i want. 
 
-![[z_images/Screenshot 2025-10-10 at 17\.00\.17.webp]]
+![[z_images/Screenshot 2025-10-10 at 17.00.17.webp]]
 <figcaption>wiring from the datassheet.</figcaption>
 
-![[z_images/Screenshot 2025-10-10 at 17\.00\.49.webp]]
+![[z_images/Screenshot 2025-10-10 at 17.00.49.webp]]
 <figcaption>truth tables</figcaption>
 
 [[people/nikolai|nikolai]] helped me understand these. 
@@ -1579,7 +1579,13 @@ void power_up() {
 
 learnt about `switch` from the arduino library. 
 
+i kind of hit a wall. i became desperate, and tried to use chatgpt. it gave me an unexpected result: 
 
+![[z_images/IMG_6787.mov]]
+
+it sent a pulse really quickly through the circuit. actually, this movement felt closer to electrons — i realised that the pace of electrons moving (and colliding) is what generates the heat (while talking to [[people/gabriel|gabriel]]). this shows that better than my slow led thing. 
+
+so, if you didn't guess it already, i started from scratch again. 
 
 
 

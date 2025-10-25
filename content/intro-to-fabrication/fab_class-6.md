@@ -27,7 +27,7 @@ discussed the adhesive chart:
 
 and [this to that](https://www.thistothat.com/cgi-bin/glue.cgi?lang=en&this=Glass&that=Fabric): 
 
-![[z_images/Screenshot 2025-10-08 at 11\.42\.43.webp]]
+![[z_images/Screenshot 2025-10-08 at 11.42.43.webp]]
 
 spoke about [tap & die](https://www.youtube.com/watch?v=U5QU_3qUigk) to flatten the screws for the bottom.
 

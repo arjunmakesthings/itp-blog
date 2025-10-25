@@ -10,7 +10,7 @@ did [this](https://docs.google.com/document/d/1aeZIQwVhC5zcMJ047_Ai0hfWCi5asauM/
 
 https://www.youtube.com/watch?v=YJB1QnEmlTs
 
-![[z_images/Screenshot 2025-09-15 at 20\.55\.33.webp]]
+![[z_images/Screenshot 2025-09-15 at 20.55.33.webp]]
 
 made this for one of the assignments:
 

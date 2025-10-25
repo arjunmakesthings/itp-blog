@@ -36,7 +36,7 @@ grappled with that for a few days, came in and made a few sketches.
 
 [[people/ian|ian]] had recommended [tinkercad](https://www.tinkercad.com) to help see things in 3-d. worked more, to visualise a simple thing made of 5 smaller things that move. 
 
-![[z_images/Screenshot 2025-09-19 at 10\.42\.32.webp]]
+![[z_images/Screenshot 2025-09-19 at 102.32.webp]]
 
 i wanted each frame to pivot, but someone at the shop helped me see that it isn't possible (without more complex mechanisms). so, i reduced my expectations, and focused on something that rotates from the pivot point connecting the frames. 
 

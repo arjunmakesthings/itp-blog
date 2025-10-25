@@ -68,11 +68,11 @@ next, i tried to figure out the joints.
 
 then, i carefully sketched the components out. 
 
-![[z_images/Screenshot 2025-10-04 at 15\.15\.26.webp]]
+![[z_images/Screenshot 2025-10-04 at 1515.26.webp]]
 
 realised i did the math wrong for each panel. 
 
-![[z_images/Screenshot 2025-10-04 at 15\.16\.07.webp]]
+![[z_images/Screenshot 2025-10-04 at 15.16.07.webp]]
 
 width has to be:
 $$
@@ -83,14 +83,14 @@ where c = circumference.
 
 height has to be 
 $$
-l=\sqrt{r2+h2}
+l=sqrt{r2+h2}
 $$
 
 where r is the radius of the base. 
 
 i then made the compounded-shape. 
 
-![[z_images/Screenshot 2025-10-04 at 16\.04\.41.webp]]
+![[z_images/Screenshot 2025-10-04 at 16.04.41.webp]]
 
 laser cut it. 
 
@@ -131,11 +131,11 @@ i then found this:
 ![[z_images/Pasted image 20251005123610.webp]]
 <figcaption>source: https://www.cmrp.com/cone-calculator</figcaption>
 
-![[z_images/Screenshot 2025-10-05 at 12\.29\.31.webp]]
+![[z_images/Screenshot 2025-10-05 at 12.29.31.webp]]
 
 i then tried — really tried — to get the shape right. 
 
-![[z_images/Screenshot 2025-10-05 at 21\.26\.05.webp]]
+![[z_images/Screenshot 2025-10-05 at 21.26.05.webp]]
 
 printed it out on paper to test: 
 
@@ -143,11 +143,11 @@ printed it out on paper to test:
 
 ![[z_images/IMG_6564.webp]]
 
-![[z_images/Screenshot 2025-10-05 at 18\.48\.50.webp]]
+![[z_images/Screenshot 2025-10-05 at 18.48.50.webp]]
 
 laser-printed this: 
 
-![[z_images/Screenshot 2025-10-05 at 21\.28\.13.webp]]
+![[z_images/Screenshot 2025-10-05 at 21.28.13.webp]]
 
 it was a mess. 
 

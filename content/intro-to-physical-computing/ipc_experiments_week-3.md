@@ -106,11 +106,11 @@ helped [[people/summer|summer]] with [analog output](https://itp.nyu.edu/physcom
 
 i ran into a weird bug. every time i plug the arduino into a breadboard that has a servo, it fails to connect. but if i unplug it, it works fine. 
 
-![[z_images/Screenshot 2025-09-19 at 21\.50\.47.webp]]
+![[z_images/Screenshot 2025-09-19 at 2150.47.webp]]
 
 every time i upload code with a servo motor on the circuit, it just doesn't work. it keep showing uploading, and then crashes. 
 
-![[z_images/Screenshot 2025-09-19 at 22\.11\.56.webp]]
+![[z_images/Screenshot 2025-09-19 at 22.11.56.webp]]
 
 ---
 
@@ -163,7 +163,7 @@ nothing happens. <mark>need to ask this in class.</mark>
 
 i thought the library isn't included. but it reads servo.read.
 
-![[z_images/Screenshot 2025-09-20 at 13\.46\.02.webp]]
+![[z_images/Screenshot 2025-09-20 at 13.46.02.webp]]
 
 ---
 

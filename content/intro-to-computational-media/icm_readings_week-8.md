@@ -25,7 +25,7 @@ then went into [[terms & concepts/translators]]. that rabbit hole led me to [[cp
 
 found [bits and bytes tvo](https://www.youtube.com/watch?v=_C5AHaS1mOA).
 
-![[z_images/Screenshot 2025-10-18 at 13\.48\.37.webp]]
+![[z_images/Screenshot 2025-10-18 at 13.48.37.webp]]
 
 > "the computer is not a calculator. it's a logic machine"
 
@@ -35,4 +35,4 @@ https://www.youtube.com/watch?v=Gq9OYkI5ju4
 
 saw [[people/david rios|david rios]]'s predator screen, from when he was a student.
 
-![[z_images/Screenshot 2025-10-18 at 22\.43\.05.webp]]
+![[z_images/Screenshot 2025-10-18 at 22.43.05.webp]]
