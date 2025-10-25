@@ -1585,8 +1585,204 @@ i kind of hit a wall. i became desperate, and tried to use chatgpt. it gave me a
 
 it sent a pulse really quickly through the circuit. actually, this movement felt closer to electrons — i realised that the pace of electrons moving (and colliding) is what generates the heat (while talking to [[people/gabriel|gabriel]]). this shows that better than my slow led thing. 
 
-so, if you didn't guess it already, i started from scratch again. 
+so, if you didn't guess it already, i started from scratch again. so, i made & made — and tested again. and became more & more desperate. 
 
+but then i realised that i was chasing the wrong thing. again, as per [[my approach to itp]], i am a student; not a maker (anymore). 
+
+i stopped at this piece of code, and went back to where i last knew what was happening. 
+
+``` cpp
+// multiple muxes; arjun, october 23rd.
+
+//helper to get array size.
+template<typename T, size_t N>
+int get_array_length(T (&)[N]) {
+  return N;
+}
+
+//mux stuff:
+int mux[2][3] = {
+  { 10, 11, 12 },
+  { 7, 8, 9 }
+};
+
+//helper to get mux-values according to the truth table.
+int* get_mux_values(int channel) {
+  static int vals[3];
+  vals[0] = (channel & 0b001) ? HIGH : LOW;
+  vals[1] = (channel & 0b010) ? HIGH : LOW;
+  vals[2] = (channel & 0b100) ? HIGH : LOW;
+  return vals;
+}
+
+int num_muxes = get_array_length(mux);
+const int channels = 4;
+
+//fsr variables:
+int fsr_pin = A0;
+int fsr_value = 0;
+int fsr_prev_val = 0;
+int fsr_noise = 20;
+
+//circuit & FSR stages
+enum FSR_Stage {
+  LOW_TO_HIGH,
+  HIGH_TO_HIGH,
+  LOW_TO_LOW,
+  HIGH_TO_LOW
+};
+FSR_Stage current_fsr_stage = LOW_TO_LOW;
+
+enum Circuit_Stage {
+  DISPLAYER,
+  POWERING,
+  POWERED,
+  DEPOWER,
+  END
+};
+Circuit_Stage current_circuit_stage = DISPLAYER;
+
+//non-blocking fade state
+struct FadeState {
+  int step = 0;               // current fade step
+  int mux_index = 0;           // current mux
+  int channel_index = 0;       // current channel
+  bool fading_in = true;       // fade direction
+  unsigned long last_time = 0; // last update timestamp
+};
+
+FadeState fade;
+
+//fade settings
+const int max_brightness = 200;
+const int interval = 1;             // step interval in ms
+const unsigned long pause_between_channels = 1; // ms
+const unsigned long hold_duration = 1; // ms
+
+void setup() {
+  Serial.begin(9600);
+
+  for (int i = 0; i < get_array_length(mux); i++)
+    for (int j = 0; j < get_array_length(mux[0]); j++)
+      pinMode(mux[i][j], OUTPUT);
+
+  pinMode(fsr_pin, INPUT);
+  pinMode(2, OUTPUT);
+}
+
+void loop() {
+  fsr_value = analogRead(fsr_pin);
+
+  check_fsr_stage(fsr_value, fsr_prev_val);
+
+  // switch circuit stage
+  switch (current_fsr_stage) {
+    case LOW_TO_LOW: current_circuit_stage = DISPLAYER; break;
+    case LOW_TO_HIGH: break;
+    case HIGH_TO_HIGH: current_circuit_stage = POWERING; break;
+    case HIGH_TO_LOW: current_circuit_stage = DEPOWER; break;
+  }
+
+  // act based on circuit stage
+  switch (current_circuit_stage) {
+    case DISPLAYER: displayer(); break;
+    case POWERING: power_up(); break;
+    case POWERED: break;
+    case DEPOWER: reset_sequence(); break;
+    case END: break;
+  }
+
+  fsr_prev_val = fsr_value;
+
+  // update non-blocking fade for POWERING
+  update_fade();
+}
+
+void check_fsr_stage(int current_fsr, int last_fsr) {
+  if (last_fsr < fsr_noise && current_fsr > fsr_noise) current_fsr_stage = LOW_TO_HIGH;
+  else if (last_fsr > fsr_noise && current_fsr > fsr_noise) current_fsr_stage = HIGH_TO_HIGH;
+  else if (last_fsr < fsr_noise && current_fsr < fsr_noise) current_fsr_stage = LOW_TO_LOW;
+  else if (last_fsr > fsr_noise && current_fsr < fsr_noise) current_fsr_stage = HIGH_TO_LOW;
+}
+
+// turn off all mux pins and reset fade
+void reset_sequence() {
+  for (int m = 0; m < num_muxes; m++)
+    for (int i = 0; i < 3; i++)
+      digitalWrite(mux[m][i], LOW);
+
+  fade.step = 0;
+  fade.mux_index = 0;
+  fade.channel_index = 0;
+  fade.fading_in = true;
+  fade.last_time = millis();
+}
+
+void displayer() {
+  digitalWrite(2, HIGH);
+  delay(100);
+  digitalWrite(2, LOW);
+  delay(100);
+}
+
+// handle powering sequence: keeps fade state responsive
+void power_up() {
+  if (current_fsr_stage != HIGH_TO_HIGH) {
+    fade.step = 0;
+    fade.mux_index = 0;
+    fade.channel_index = 0;
+    fade.fading_in = true;
+  }
+}
+
+// non-blocking fade update
+void update_fade() {
+  if (current_circuit_stage != POWERING) return;
+
+  unsigned long now = millis();
+  if (now - fade.last_time < interval) return;
+  fade.last_time = now;
+
+  int* values = get_mux_values(fade.channel_index);
+
+  // software PWM: simulate fade by controlling on/off duration
+  int on_time = fade.step;
+  int off_time = max_brightness - fade.step;
+
+  for (int i = 0; i < 3; i++) digitalWrite(mux[fade.mux_index][i], values[i]);
+  delayMicroseconds(on_time);
+  for (int i = 0; i < 3; i++) digitalWrite(mux[fade.mux_index][i], LOW);
+  delayMicroseconds(off_time);
+
+  // advance step
+  if (fade.fading_in) {
+    fade.step++;
+    if (fade.step >= max_brightness) fade.fading_in = false;
+  } else {
+    fade.step--;
+    if (fade.step <= 0) {
+      fade.step = 0;
+      fade.fading_in = true;
+      fade.channel_index++;
+      if (fade.channel_index >= channels) {
+        fade.channel_index = 0;
+        fade.mux_index++;
+      }
+      if (fade.mux_index >= num_muxes) {
+        fade.mux_index = 0;
+        fade.channel_index = 0;
+        current_circuit_stage = POWERED;
+      }
+    }
+  }
+}
+
+
+```
+
+i worked on this for so long. decided to leave this for a bit & go to itp & friends instead.
+
+---
 
 
 ---

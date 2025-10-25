@@ -43,12 +43,11 @@ simple computers designed to take input and give output; essentially a fancy vol
 
 here is a diagram for the nano-33, which we use in class: 
 
-![[z_images/Pasted i ![[z_images/IM.web.webp]] 
--| --------------------------- | ------------------------- |-computing/ipc_experiments_week-1                          
+![[z_images/Screenshot 2025-10-24 at 21.01.56.webp|700x494]]
 
 these measure voltage, resistance and amperage; and are good tools to check circuits and different components. 
 
-![[z_images/Screenshot 2025-09-04 at 18.07.43.webp]]
+![[z_images/Screenshot 2025-09-04 at 18.07.43.webp|447x480]]
 
 ---
 # voltage regulators:
