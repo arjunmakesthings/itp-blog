@@ -1783,6 +1783,237 @@ void update_fade() {
 i worked on this for so long. decided to leave this for a bit & go to itp & friends instead.
 
 ---
+### 251025_2000:
+the first thing i did was to go back to the piece of code that i could understand. 
+
+``` cpp
+// multiple muxes; arjun, october 23rd.
+
+//helper to get array size.
+template<typename T, size_t N>
+int get_array_length(T (&)[N]) {
+  return N;
+}
+
+//mux stuff:
+//we have 2 muxes, each with 3 control pins. somehow, i need to define the array as one size greater than its length.
+int mux[2][3] = {
+  { 10, 11, 12 },
+  { 7, 8, 9 }
+};
+
+//helper to get mux-values according to the truth table. chat-gpt found some obscure logic that connects all pin-numbers with simple if-conditions.
+int* get_mux_values(int channel) {
+  static int vals[3];
+  vals[0] = (channel & 0b001) ? HIGH : LOW;
+  vals[1] = (channel & 0b010) ? HIGH : LOW;
+  vals[2] = (channel & 0b100) ? HIGH : LOW;
+  return vals;
+}
+
+int num_muxes = get_array_length(mux);
+const int channels = 4;
+
+//fsr  variables:
+int fsr_pin = A0;
+
+//variables to later store current & previous valuies.
+int fsr_value = 0;
+int fsr_prev_val = 0;
+
+//a number to account for electrical-noise that the fsr will experience.
+int fsr_noise = 20;
+
+//my circuit & fsr have stages. i store them as enums, to make them more readable.
+enum FSR_Stage {
+  LOW_TO_HIGH,   //the fsr has been pressed.
+  HIGH_TO_HIGH,  //the fsr is remaining pressed.
+  LOW_TO_LOW,    //the fsr hasn't been pressed.
+  HIGH_TO_LOW    //the fsr has been released from a press.
+};
+
+FSR_Stage current_fsr_stage = LOW_TO_LOW;  //declare a variable to keep changing as the program goes on.
+
+enum Circuit_Stage {
+  DISPLAYER,  //when a circuit is not being interacted with.
+  POWERING,   //when a circuit is being interacted with.
+  POWERED,    //when a circuit waits to be released from interactivity.
+  DEPOWER,    //when a circuit is released.
+  END         //a little something, before it goes back to displayer.
+};
+
+Circuit_Stage current_circuit_stage = DISPLAYER;  //declare a variable to keep changing as the program goes on.
+
+
+void setup() {
+  Serial.begin(9600);  //start serial communication.
+
+  //set pin modes for all mux control pins:
+  for (int i = 0; i < get_array_length(mux); i++) {
+    for (int j = 0; j < get_array_length(mux[0]); j++) {  //since sub-array lengths are the same for everything.
+      pinMode(mux[i][j], OUTPUT);
+    }
+  }
+
+  //set pin mode for fsr:
+  pinMode(fsr_pin, INPUT);
+
+  pinMode(2, OUTPUT);
+}
+
+void loop() {
+  fsr_value = analogRead(fsr_pin);  //get current value.
+
+  check_fsr_stage(fsr_value, fsr_prev_val);  //always check fsr value, and change states.
+
+  //use a switch to change circuit stage:
+  switch (current_fsr_stage) {
+    case LOW_TO_LOW:
+      current_circuit_stage = DISPLAYER;
+      break;
+    case LOW_TO_HIGH:
+      //button has just been pressed.
+      break;
+    case HIGH_TO_HIGH:
+      current_circuit_stage = POWERING;
+      break;
+    case HIGH_TO_LOW:
+      current_circuit_stage = DEPOWER;
+      break;
+  }
+
+  switch (current_circuit_stage) {
+    case DISPLAYER:
+      displayer();
+      break;
+    case POWERING:
+      power_up();
+      break;
+    case POWERED:
+      break;
+    case DEPOWER:
+      break;
+    case END:
+      break;
+  }
+
+  fsr_prev_val = fsr_value;  //assign current value to variable storing previous value, since current value will change in the next loop-run.
+}
+
+//function to check & assign fsr-stage based on current & previous value.
+void check_fsr_stage(int current_fsr, int last_fsr) {
+  if (last_fsr < fsr_noise && current_fsr > fsr_noise) {
+    // gone from LOW to HIGH.
+    current_fsr_stage = LOW_TO_HIGH;
+  } else if (last_fsr > fsr_noise && current_fsr > fsr_noise) {
+    // gone from HIGH to HIGH.
+    current_fsr_stage = HIGH_TO_HIGH;
+  } else if (last_fsr < fsr_noise && current_fsr < fsr_noise) {
+    // gone from LOW to LOW.
+    current_fsr_stage = LOW_TO_LOW;
+  } else if (last_fsr > fsr_noise && current_fsr < fsr_noise) {
+    // gone from HIGH to LOW.
+    current_fsr_stage = HIGH_TO_LOW;
+  }
+}
+
+//function to power up the circuit.
+void power_up() {
+  for (int i = 0; i < num_muxes; i++) {
+    for (int ch = 0; ch < channels; ch++) {
+      light_up(mux[i], ch, 255, 0.25);
+      delay(25);
+    }
+  }
+}
+
+//function to show things when the circuit is not being touched.
+void displayer() {
+  digitalWrite(2, HIGH);
+  delay(100);
+  digitalWrite(2, LOW);
+  delay(100);
+}
+
+
+//function to fade in leds, let them be lit, and fade them out; simulating an electron being passed in time.
+void light_up(int input_pins[3], int channel, int brightness, int interval) {
+  int* values = get_mux_values(channel);
+  const int max_brightness = 255;
+
+  //fade in:
+  for (int b = 0; b <= brightness; b++) {
+    int on_time = b * interval;
+    int off_time = (max_brightness * interval) - on_time;
+
+    for (int i = 0; i < 3; i++) {
+      digitalWrite(input_pins[i], values[i]);
+    }
+    delayMicroseconds(on_time);
+    for (int i = 0; i < 3; i++) {
+      digitalWrite(input_pins[i], LOW);
+    }
+    delayMicroseconds(off_time);
+  }
+
+  //fade out:
+  for (int b = brightness; b >= 0; b--) {
+    int on_time = b * interval;
+    int off_time = (max_brightness * interval) - on_time;
+
+    for (int i = 0; i < 3; i++) {
+      digitalWrite(input_pins[i], values[i]);
+    }
+    delayMicroseconds(on_time);
+    for (int i = 0; i < 3; i++) {
+      digitalWrite(input_pins[i], LOW);
+    }
+    delayMicroseconds(off_time);
+  }
+}
+
+```
+
+i modified it to get the effect i wanted. 
+
+![[z_images/IMG_6792.mp4]]
+
+[[people/alanna|alanna]] once said, in passing (and with humour), that i was (electronically) making many christmas-lights. it pissed me off then. but, yes, i did make christmas lights. i do think, however, that in context it can be perceived as more than just christmas lights. 
+
+i then moved on to removing delay. my experiments with chat-gpt showed me that it used `millis()` to make the functions non-blocking. i also [read up](https://arduinogetstarted.com/faq/how-to-use-millis-instead-of-delay) about whether this was true. 
+
+then, i prompted chat-gpt with this: 
+
+> great. let's move on to the next thing. 
+> 
+> in my previous experiments with you, you evaluated blocks of my code as 'blocking', because i was using delay() or delayMicroseconds(). i want to know how i may make my code non-blocking, so that it remains reactive to input / internal state changes.
+> 
+> i don't want you to write my code — i want you to help me understand & get there on my own.
+
+it was kind in response: 
+
+![[z_images/Screenshot 2025-10-25 at 20.17.47.webp|443x169]]
+
+i then watched this video: https://www.youtube.com/watch?v=kSghXUExrIE
+
+learnt that `millis()` tracks milliseconds that have elapsed since the arduino was powered on. it is an unsigned long, and wraps back to 0 after 4,294,967,295 milliseconds (about 49.7 days). so, one can keep track of the time the board was powered on, then use a variable to assign a timestamp when a function was called, and if the current_time-stamp - the function_called_timestamp >= delay, you can repeat the same operation. 
+
+``` cpp
+unsigned long function_time = 0; 
+
+void loop{
+unsigned long current_time = millis(); 
+	if (current_time-function_time >= required_delay){
+	//do the thing. 
+	
+	//reset timestamp of the thing being done: 
+	function_time = current_time; 
+	}
+}
+
+```
+
+
 
 
 ---

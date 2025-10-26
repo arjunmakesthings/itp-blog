@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/midterm-log.md",
+                "file": "applications/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "midterm-log"
+              "title": "index"
+            }
+          },
+          {
+            "id": "25165084f4fb1acc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "applications/essay_progress-log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "essay_progress-log"
+            }
+          },
+          {
+            "id": "09b70ab878794557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "working material(s) for artists.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "working material(s) for artists"
+            }
+          },
+          {
+            "id": "efe50bf2a6b7493c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "terms & concepts/tool vs medium vs material.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tool vs medium vs material"
+            }
+          },
+          {
+            "id": "e16a31958a4db8e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro-to-physical-computing/a brief rant on the future of interaction design, by bret victor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a brief rant on the future of interaction design, by bret victor"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +237,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,11 +253,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "de690721b4ebd735",
+  "active": "25165084f4fb1acc",
   "lastOpenFiles": [
-    "intro-to-physical-computing/electrical components.md",
+    "working material(s) for artists.md",
+    "terms & concepts/tool vs medium vs material.md",
+    "intro-to-physical-computing/a brief rant on the future of interaction design, by bret victor.md",
     "z_images/Screenshot 2025-10-24 at 21.01.56.webp",
+    "applications/essay_progress-log.md",
+    "applications/index.md",
+    "applications/applications_class-1.md",
+    "applications/applications_mid-reflection.md",
     "intro-to-physical-computing/midterm-log.md",
+    "z_images/Screenshot 2025-10-25 at 20.17.47.webp",
+    "z_images/IMG_6792.mp4",
+    "z_images/IMG_6792.mov",
+    "intro-to-physical-computing/electrical components.md",
+    "applications/writing machines, by dennis yi tennen.md",
     "asl painting-plotter, by lucia gomez.md",
     "cpu-land.md",
     "dani bacon's talk.md",
@@ -215,14 +284,6 @@
     "intro-to-computational-media/icm_readings_week-8.md",
     "intro-to-computational-media/self-portrait.md",
     "intro-to-fabrication/10 bullets. by tom sachs.md",
-    "intro-to-fabrication/fab_class-5.md",
-    "intro-to-fabrication/fab_class-6.md",
-    "intro-to-fabrication/fab_experiments_week-2.md",
-    "intro-to-fabrication/fab_experiments_week-3.md",
-    "intro-to-fabrication/fab_experiments_week-4.md",
-    "intro-to-physical-computing/ipc_experiments_week-3.md",
-    "intro-to-physical-computing/ipc_experiments_week-4.md",
-    "intro-to-physical-computing/ipc_experiments_week-5.md",
     "z_images/IMG_6787.mov",
     "z_images/IMG_6777-1.webp",
     "z_images/IMG_6777.webp",
@@ -236,12 +297,9 @@
     "z_images/IMG_6780.webp",
     "z_images/hypercinema_midterm_scroll.mp4",
     "z_images/251021_vid.mov",
-    "z_images/image.webp",
     "z_images/IMG_6769.mov",
     "z_images/frame-5_output_runway.mp4",
     "z_images/frame-4_output_runway.mp4",
-    "z_images/frame-3_output_runway.mp4.mp4",
-    "z_images/Gen-4 i want the 1s and 0s to walk by the i, as if the i is standing in the middle of a very crowded street (say, in new york) the shot is in one-point perspective, but only in pseudo-perspective (si.mp4",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"
