@@ -45,13 +45,13 @@ i first thought about the components & their layout. i've now grown up to unders
 
 ![[z_images/IMG_6576.webp]]
 
-![[z_images/IMG_6577.webp]]
+![[z_images/IMG_6577.webp|353x1105]]
 
 i chose to lay out components straight, as opposed to the conventional circle to communicate flow, since the 'electrons' have to be pushed into the next component. i also added the capacitor, to show electromotive-force gradually reduce through the circuit, as the capacitor gives off its stored current (when the power source is turned off). 
 
 then, i planned out the arrangement of the components (both *visible* & *invisible*).
 
-![[z_images/IMG_6586.webp]]
+![[z_images/IMG_6586.webp|388x517]]
 
 while this started off as a single interaction, prototyping showed me the opportunity to add several more. i then thought through all of my interactions, in time: 
 
@@ -83,10 +83,10 @@ looked at something called a mux or multiplexor. think of it like a motor-driver
 
 [[people/pedro|pedro]] then told me about the multiplexors that we have in the shop, as consumables. we have the [cd4051be](https://www.alldatasheet.com/datasheet-pdf/view/26882/TI/CD4051BE.html) multiplexors, that do the job that i want. 
 
-![[z_images/Screenshot 2025-10-10 at 17.00.17.webp]]
+![[z_images/Screenshot 2025-10-10 at 17.00.17.webp|477x304]]
 <figcaption>wiring from the datassheet.</figcaption>
 
-![[z_images/Screenshot 2025-10-10 at 17.00.49.webp]]
+![[z_images/Screenshot 2025-10-10 at 17.00.49.webp|390x633]]
 <figcaption>truth tables</figcaption>
 
 [[people/nikolai|nikolai]] helped me understand these. 
@@ -646,7 +646,7 @@ she explained that while the computer sends out signal linearly, the eye doesn't
 
 we spoke about [photopic curves](https://en.wikipedia.org/wiki/Luminous_efficiency_function) too.
 
-![[z_images/IMG_6675 1.webp]]
+![[z_images/IMG_6675 1.webp|281x621]]
 <figcaption>top: computer signal (linear), middle: led-processing, bottom: human-perception. a lot of light-engineering is to figure out how to balance the three curves.</figcaption>
 
 we also discussed that my use of tone should perhaps dim the led too. [[people/octavio|octavio]] explained that the problem was with my delays in makeTone(): 
@@ -679,7 +679,7 @@ i'll resort back to the leds if i cannot get it to work. i have a bunch of ideas
 ---
 while reading [[intro-to-physical-computing/there are no electrons|there are no electrons]], the narrative came to me:
 
-![[z_images/IMG_6685.webp]]
+![[z_images/IMG_6685.webp|392x523]]
 
 it would be amazing to show this narrative as the experience happens (via engraved text that is visible with leds underneath). however, this is the most aspirational version of my project. i now know, after 6 weeks, that this may not be what gets produced. i am tightly dependent on what i am able to technically achieve. 
 
@@ -839,7 +839,7 @@ i then thought about different ways to make the led light up, and what i'd prefe
 
 then, i detailed out all the possible states; of both my program & the fsr. 
 
-![[z_images/IMG_6768.webp]]
+![[z_images/IMG_6768.webp|418x441]]
 
 made the leds light up in succession.
 
@@ -2012,6 +2012,28 @@ unsigned long current_time = millis();
 }
 
 ```
+
+---
+i felt like i had a solid grasp on the programming, even without solving `delay()` vs `millis()`. so, i moved on to fabrication. 
+
+first, i went and saw light-diffusion through each material available at blics. i made a mistake, and should've done this before the weekend (so that i had access to canal plastics). 
+
+then, i measured everything out — how far did the leds need to be, how big the whole thing would be; et-cetera. 
+
+![[z_images/IMG_6793.webp|433x577]]
+<figcaption>i'm so happy with this. little green things floating around the circuit.</figcaption>
+
+[[people/nikolai|nikolai]] helped me think through how i could have a flat, solid base; with wood.
+
+![[IMG_6796.jpg|388x517]]
+
+i then laser-cut holes for the leds on a small piece of test-basswood. it worked perfectly. 
+
+![[z_images/IMG_6795.webp|391x521]]
+
+
+
+
 
 
 
