@@ -2032,9 +2032,425 @@ i then laser-cut holes for the leds on a small piece of test-basswood. it worked
 ![[z_images/IMG_6795.webp|391x521]]
 
 
+---
+last working code; 251028_0441: 
 
+``` cpp
+// multiple muxes; arjun, october 23rd.
 
+//helper to get array size.
+template<typename T, size_t N>
+int get_array_length(T (&)[N]) {
+  return N;
+}
 
+//mux stuff:
+//we have 5 muxes, each with 3 control pins. somehow, i need to define the array as one size greater than its length.
+int mux[5][3] = {
+  { 12, 11, 10 },
+  { 9, 8, 7 },
+  { 6, 5, 4 },
+  { 3, 2, 13 },
+  { 14, 15, 16 }
+};
+
+//helper to get mux-values according to the truth table.
+//chat-gpt found some obscure logic that connects all pin-numbers with simple if-conditions.
+int* get_mux_values(int channel) {
+  static int vals[3];
+  vals[0] = (channel & 0b001) ? HIGH : LOW;
+  vals[1] = (channel & 0b010) ? HIGH : LOW;
+  vals[2] = (channel & 0b100) ? HIGH : LOW;
+  return vals;
+}
+
+int num_muxes = get_array_length(mux);
+const int channels = 8;
+
+//fsr variables:
+int fsr_pin = A0;
+
+//variables to later store current & previous valuies.
+int fsr_value = 0;
+int fsr_prev_val = 0;
+
+//a number to account for electrical-noise that the fsr will experience.
+int fsr_noise = 20;
+
+//my circuit & fsr have stages. i store them as enums, to make them more readable.
+enum FSR_Stage {
+  LOW_TO_HIGH,   //the fsr has been pressed.
+  HIGH_TO_HIGH,  //the fsr is remaining pressed.
+  LOW_TO_LOW,    //the fsr hasn't been pressed.
+  HIGH_TO_LOW    //the fsr has been released from a press.
+};
+
+FSR_Stage current_fsr_stage = LOW_TO_LOW;
+
+//declare a variable to keep changing as the program goes on.
+enum Circuit_Stage {
+  DISPLAYER,  //when a circuit is not being interacted with.
+  POWERING,   //when a circuit is being interacted with.
+  POWERED,    //when a circuit waits to be released from interactivity.
+  DEPOWER,    //when a circuit is released.
+  END         //a little something, before it goes back to displayer.
+};
+
+Circuit_Stage current_circuit_stage = DISPLAYER;
+
+//declare a variable to keep changing as the program goes on.
+void setup() {
+  Serial.begin(9600);  //start serial communication.
+
+  //set pin modes for all mux control pins:
+  for (int i = 0; i < get_array_length(mux); i++) {
+    for (int j = 0; j < get_array_length(mux[0]); j++) {  //since sub-array lengths are the same for everything.
+      pinMode(mux[i][j], OUTPUT);
+    }
+  }
+
+  //set pin mode for fsr:
+  pinMode(fsr_pin, INPUT);
+  pinMode(2, OUTPUT);
+}
+
+void loop() {
+  power_up();
+  delay(100);
+  // fsr_value = analogRead(fsr_pin); //get current value.
+  // check_fsr_stage(fsr_value, fsr_prev_val); //always check fsr value, and change states.
+
+  // //use a switch to change circuit stage:
+  // switch (current_fsr_stage) {
+  //   case LOW_TO_LOW:
+  //     current_circuit_stage = DISPLAYER;
+  //     break;
+  //   case LOW_TO_HIGH:
+  //     //button has just been pressed.
+  //     break;
+  //   case HIGH_TO_HIGH:
+  //     current_circuit_stage = POWERING;
+  //     break;
+  //   case HIGH_TO_LOW:
+  //     current_circuit_stage = DEPOWER;
+  //     break;
+  // }
+
+  // switch (current_circuit_stage) {
+  //   case DISPLAYER:
+  //     displayer();
+  //     break;
+  //   case POWERING:
+  //     power_up();
+  //     break;
+  //   case POWERED:
+  //     break;
+  //   case DEPOWER:
+  //     depower();
+  //     break;
+  //   case END:
+  //     break;
+  // }
+
+  // fsr_prev_val = fsr_value; //assign current value to variable storing previous value, since current value will change in the next loop-run.
+}
+
+//function to check & assign fsr-stage based on current & previous value.
+void check_fsr_stage(int current_fsr, int last_fsr) {
+  if (last_fsr < fsr_noise && current_fsr > fsr_noise) {  // gone from LOW to HIGH.
+    current_fsr_stage = LOW_TO_HIGH;
+  } else if (last_fsr > fsr_noise && current_fsr > fsr_noise) {  // gone from HIGH to HIGH.
+    current_fsr_stage = HIGH_TO_HIGH;
+  } else if (last_fsr < fsr_noise && current_fsr < fsr_noise) {  // gone from LOW to LOW.
+    current_fsr_stage = LOW_TO_LOW;
+  } else if (last_fsr > fsr_noise && current_fsr < fsr_noise) {  // gone from HIGH to LOW.
+    current_fsr_stage = HIGH_TO_LOW;
+  }
+}
+
+//function to show things when the circuit is not being touched.
+void displayer() {
+  digitalWrite(2, HIGH);
+  delay(100);
+  digitalWrite(2, LOW);
+  delay(100);
+}
+
+//function to power up the circuit.
+unsigned long light_up_pass_ms = 0;
+
+void power_up() {
+  for (int i = 0; i < num_muxes; i++) {
+    for (int ch = 0; ch < channels; ch++) {
+      light_up(mux[i], ch, 255, 1);
+    }
+  }
+}
+
+//function to fade in leds, let them be lit, and fade them out; simulating an electron being passed in time.
+void light_up(int input_pins[3], int channel, int brightness, int interval) {
+  int* values = get_mux_values(channel);
+  const int max_brightness = 255;
+
+  //fade in:
+  for (int b = 0; b <= brightness; b++) {
+    int on_time = b * interval;
+    int off_time = (max_brightness * interval) - on_time;
+    for (int i = 0; i < 3; i++) {
+      digitalWrite(input_pins[i], values[i]);
+    }
+    delayMicroseconds(on_time);
+    for (int i = 0; i < 3; i++) {
+      digitalWrite(input_pins[i], LOW);
+    }
+    delayMicroseconds(off_time);
+  }
+
+  //fade out:
+  for (int b = brightness; b >= 0; b--) {
+    int on_time = b * interval;
+    int off_time = (max_brightness * interval) - on_time;
+    for (int i = 0; i < 3; i++) {
+      digitalWrite(input_pins[i], values[i]);
+    }
+    delayMicroseconds(on_time);
+    for (int i = 0; i < 3; i++) {
+      digitalWrite(input_pins[i], LOW);
+    }
+    delayMicroseconds(off_time);
+  }
+}
+
+//function to show things when the circuit is not being touched.
+void depower() {
+  digitalWrite(2, HIGH);
+  delay(1000);
+  digitalWrite(2, LOW);
+  delay(1000);
+}
+
+```
+
+last working code: 
+
+``` cpp
+// multiple muxes; arjun, october 23rd.
+
+//helper to get array size.
+template<typename T, size_t N>
+int get_array_length(T (&)[N]) {
+  return N;
+}
+
+//mux stuff:
+//we have 5 muxes, each with 3 control pins. somehow, i need to define the array as one size greater than its length.
+int mux[5][3] = {
+  { 12, 11, 10 },
+  { 9, 8, 7 },
+  { 6, 5, 4 },
+  { 3, 2, 13 },
+  { 14, 15, 16 }
+};
+
+//helper to get mux-values according to the truth table.
+//chat-gpt found some obscure logic that connects all pin-numbers with simple if-conditions.
+int* get_mux_values(int channel) {
+  static int vals[3];
+  vals[0] = (channel & 0b001) ? HIGH : LOW;
+  vals[1] = (channel & 0b010) ? HIGH : LOW;
+  vals[2] = (channel & 0b100) ? HIGH : LOW;
+  return vals;
+}
+
+int num_muxes = get_array_length(mux);
+const int channels = 8;
+
+//fsr variables:
+int fsr_pin = A3;
+
+//variables to later store current & previous valuies.
+int fsr_value = 0;
+int fsr_prev_val = 0;
+
+//a number to account for electrical-noise that the fsr will experience.
+int fsr_noise = 5;
+
+//my circuit & fsr have stages. i store them as enums, to make them more readable.
+enum FSR_Stage {
+  LOW_TO_HIGH,   //the fsr has been pressed.
+  HIGH_TO_HIGH,  //the fsr is remaining pressed.
+  LOW_TO_LOW,    //the fsr hasn't been pressed.
+  HIGH_TO_LOW    //the fsr has been released from a press.
+};
+
+FSR_Stage current_fsr_stage = LOW_TO_LOW;
+
+//declare a variable to keep changing as the program goes on.
+enum Circuit_Stage {
+  DISPLAYER,  //when a circuit is not being interacted with.
+  POWERING,   //when a circuit is being interacted with.
+  POWERED,    //when a circuit waits to be released from interactivity.
+  DEPOWER,    //when a circuit is released.
+  END         //a little something, before it goes back to displayer.
+};
+
+Circuit_Stage current_circuit_stage = DISPLAYER;
+
+//final led:
+int final_led = 18;
+
+//declare a variable to keep changing as the program goes on.
+void setup() {
+  Serial.begin(9600);  //start serial communication.
+
+  //set pin modes for all mux control pins:
+  for (int i = 0; i < get_array_length(mux); i++) {
+    for (int j = 0; j < get_array_length(mux[0]); j++) {  //since sub-array lengths are the same for everything.
+      pinMode(mux[i][j], OUTPUT);
+    }
+  }
+
+  //set pin mode for fsr:
+  pinMode(fsr_pin, INPUT);
+
+  pinMode(final_led, OUTPUT);
+}
+
+void loop() {
+  fsr_value = analogRead(fsr_pin);  //get current value.
+
+  Serial.println(fsr_value); 
+
+  check_fsr_stage(fsr_value, fsr_prev_val);  //always check fsr value, and change states.
+
+  //use a switch to change circuit stage:
+  switch (current_fsr_stage) {
+    case LOW_TO_LOW:
+      current_circuit_stage = DISPLAYER;
+      break;
+    case LOW_TO_HIGH:
+      //button has just been pressed.
+      break;
+    case HIGH_TO_HIGH:
+      current_circuit_stage = POWERING;
+      break;
+    case HIGH_TO_LOW:
+      current_circuit_stage = DEPOWER;
+      break;
+  }
+
+  switch (current_circuit_stage) {
+    case DISPLAYER:
+      // displayer();
+      break;
+    case POWERING:
+      power_up();
+      break;
+    case POWERED:
+      break;
+    case DEPOWER:
+      depower();
+      break;
+    case END:
+      break;
+  }
+
+  fsr_prev_val = fsr_value;  //assign current value to variable storing previous value, since current value will change in the next loop-run.
+}
+
+//function to check & assign fsr-stage based on current & previous value.
+void check_fsr_stage(int current_fsr, int last_fsr) {
+  if (last_fsr < fsr_noise && current_fsr > fsr_noise) {  // gone from LOW to HIGH.
+    current_fsr_stage = LOW_TO_HIGH;
+  } else if (last_fsr > fsr_noise && current_fsr > fsr_noise) {  // gone from HIGH to HIGH.
+    current_fsr_stage = HIGH_TO_HIGH;
+  } else if (last_fsr < fsr_noise && current_fsr < fsr_noise) {  // gone from LOW to LOW.
+    current_fsr_stage = LOW_TO_LOW;
+  } else if (last_fsr > fsr_noise && current_fsr < fsr_noise) {  // gone from HIGH to LOW.
+    current_fsr_stage = HIGH_TO_LOW;
+  }
+}
+
+//function to show things when the circuit is not being touched.
+void displayer() {
+  digitalWrite(2, HIGH);
+  delay(100);
+  digitalWrite(2, LOW);
+  delay(100);
+}
+
+//function to power up the circuit.
+unsigned long last_step_time = 0;
+int current_mux = 0;
+int current_channel = 0;
+int fade = 0;
+int fade_direction = 1;  // 1 = up, -1 = down
+
+// timing constants (easy to tweak)
+const int fade_step_delay = 2;  // ms between brightness changes
+const int channel_gap = 30;     // ms gap between channel changes
+const int max_brightness = 255;
+
+void power_up() {
+  unsigned long now = millis();
+
+  // handle fade timing
+  if (now - last_step_time >= fade_step_delay) {
+    fade += fade_direction * 10;  // change per step
+    if (fade >= max_brightness) {
+      fade = max_brightness;
+      fade_direction = -1;
+    } else if (fade <= 0) {
+      fade = 0;
+      fade_direction = 1;
+
+      // advance to next channel
+      current_channel++;
+      if (current_channel >= channels) {
+        current_channel = 0;
+        current_mux++;
+        if (current_mux >= num_muxes) {
+          current_mux = 0;  // loop back to start
+        }
+      }
+
+      // little perceptible gap between LEDs
+      last_step_time = now + channel_gap;
+      return;
+    }
+
+    light_up(mux[current_mux], current_channel, fade);
+    last_step_time = now;
+  }
+}
+
+//function to set current LED brightness (PWM simulated)
+void light_up(int input_pins[3], int channel, int brightness) {
+  int* values = get_mux_values(channel);
+
+  //simple pseudo-PWM: brightness controls pulse width
+  int on_time = brightness * 4;  // microseconds
+  int off_time = (255 - brightness) * 4;
+
+  for (int i = 0; i < 3; i++) {
+    digitalWrite(input_pins[i], values[i]);
+  }
+  delayMicroseconds(on_time);
+  for (int i = 0; i < 3; i++) {
+    digitalWrite(input_pins[i], LOW);
+  }
+  delayMicroseconds(off_time);
+}
+
+//function to show things when the circuit is not being touched.
+void depower() {
+  digitalWrite(2, HIGH);
+  delay(1000);
+  digitalWrite(2, LOW);
+  delay(1000);
+}
+
+```
 
 
 
