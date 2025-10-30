@@ -13,6 +13,6 @@ spoke about [vibrational motors](https://www.amazon.com/Vibration-9000RPM-Replac
 
 [[people/phil|phil]] recommended that we <mark>sand with the grain</mark>, not against it. he demonstrated sanding too.
 
-went home and watched [[how to sweep, by tom sachs]]. 
+went home and watched [[projects-by-other-people/how to sweep, by tom sachs]]. 
 
 spoke about finishing. use <mark>fast orange to remove burn marks</mark>, <mark>finish oil to seal</mark> the wood, to <mark>follow the grit scale of sandpaper</mark> (80 -> 2200) because it removes material layer by layer.

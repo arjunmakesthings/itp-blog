@@ -50,7 +50,7 @@ i <mark>don't enjoy generative image-making</mark>. yes, in the past i've done s
 it <mark>takes out all the joy</mark> of the creative-practice, and is <mark>made for scenarios where you don't care about the craft</mark> (such as prototyping). 
 
 ---
-at this point, i wanted to stray away from 'generative' media, and do something else. the previous night, i read [[complete minimal poems, by aram saroyan]] (given by [[people/allison parrish|allison parrish]]), and wished to do something with letters (also inspired by [rabbit](https://www.youtube.com/watch?v=iYAixjN9BQg)).
+at this point, i wanted to stray away from 'generative' media, and do something else. the previous night, i read [[projects-by-other-people/complete minimal poems, by aram saroyan]] (given by [[people/allison parrish|allison parrish]]), and wished to do something with letters (also inspired by [rabbit](https://www.youtube.com/watch?v=iYAixjN9BQg)).
 
 but, i didn't want to jump on ideas. so, i reflected (slowly) on the ask and other shared material over the course of hypercinema:
 

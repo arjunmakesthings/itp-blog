@@ -65,7 +65,7 @@ it is not merely about making everything visible, but <mark>tangible</mark>, bec
 
 but, and owing to my past work with behaviour-design, i know that people are irrational (and will use objects in the strangest of ways to make it do the task they want). 
 
-the perfect example of this is [[durell bishop's answering machine]]. the marbles can be manipulated in far too many ways — i may choose to have different shelves, i may choose to discard them in a dustbin, i may choose to keep them in plates, carry them around, listen to them on the toilet, and what-not. 
+the perfect example of this is [[projects-by-other-people/durell bishop's answering machine]]. the marbles can be manipulated in far too many ways — i may choose to have different shelves, i may choose to discard them in a dustbin, i may choose to keep them in plates, carry them around, listen to them on the toilet, and what-not. 
 
 ---
 don't know if this is the correct answer for this question: 
