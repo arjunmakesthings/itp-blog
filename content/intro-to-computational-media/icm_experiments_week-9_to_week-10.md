@@ -26,3 +26,94 @@ the podcast argued that people couldn't name the colour they saw, because they h
 
 ---
 
+wrote a script to center video feed, and flip it: 
+
+``` js
+//pixels ; october 31st, 2025.
+
+let cam;
+
+function setup() {
+  cam = createCapture(VIDEO, canv_to_asp);
+  cam.hide();
+}
+
+function canv_to_asp() {
+  let asp_ratio = cam.height / cam.width;
+
+  let wh = windowWidth * asp_ratio;
+
+  createCanvas(windowWidth, wh);
+}
+
+function draw() {
+  background (0); 
+  push();
+  scale (-1,1); 
+  translate (-width, 0); 
+  image(cam, 0, 0, width, height);
+  pop(); 
+}
+
+```
+
+---
+i then realised that nested push-loops don't work:
+
+``` js
+//pixels ; october 31st, 2025.
+
+let cam;
+
+function setup() {
+  cam = createCapture(VIDEO, canv_to_asp);
+  cam.hide();
+
+  pixelDensity(1);
+  noStroke();
+}
+
+function canv_to_asp() {
+  let asp_ratio = cam.height / cam.width;
+
+  let wh = windowWidth * asp_ratio;
+
+  createCanvas(windowWidth, wh);
+}
+
+function draw() {
+  background(0);
+
+  push();
+  scale(-1, 1);
+  translate(-width, 0);
+  //flip the camera; get the values:
+
+  cam.loadPixels();
+  push();
+  scale(1, 1);
+  translate(0, 0);
+  for (let x = 0; x < width; x += 10) {
+    for (let y = 0; y < height; y += 10) {
+      //go every 10 pixels:
+      let i = cam.pixels[get_pixel_index(x, y)];
+
+      //when you display, flip the camera again:
+
+      textSize(6);
+      fill(255);
+      text(i, x, y);
+    }
+  }
+  pop();
+  pop();
+}
+
+function get_pixel_index(x, y) {
+  return (y * cam.width + x) * 4;
+}
+
+```
+
+
+
