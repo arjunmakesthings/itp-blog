@@ -23,3 +23,17 @@ i had already done [something like this](https://arjunmakesthings.github.io/proj
 > 
 > https://www.grafikdesign-geschichte.de/texte/bauhausb%C3%BCcher/#swap
 
+---
+# with devan, for bauhaus 1.1926 p. 6: 
+why do we (bauhaus school) write everything small? 
+
+it's inconsequential to write differently than we speak. we don't speak with any uppercase sounds; so we also don't write with them. and isn't it so that you say the same thing with one set of alphabet than with two sets of alphabets? why does one combine two alphabets with two different characters in one word and, thereby, make the writing in the same typeface more unharmonious. 
+
+whether large or small, the large alphabet is unreadable in mid-sentence; therefore, the small.  in the case of a typewriter, the limitation of using only small letters means greater relief / relaxation / ease / efficiency (save time). when we think further, 
+
+... 
+
+it economises. 
+
+disconnection 
+
