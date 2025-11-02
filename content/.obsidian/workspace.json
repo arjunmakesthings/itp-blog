@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
+                "file": "intro-to-physical-computing/ipc_experiments_week-8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "icm_experiments_week-9_to_week-10"
+              "title": "ipc_experiments_week-8"
+            }
+          },
+          {
+            "id": "9265f94c7ee43bae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "facilitating a discussion on why we do what we do at itp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "facilitating a discussion on why we do what we do at itp"
             }
           },
           {
@@ -35,7 +49,8 @@
               "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +69,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -185,8 +200,8 @@
             "state": {
               "type": "id-side-panel",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "id-side-panel"
+              "icon": "file-digit",
+              "title": "Notes by ID"
             }
           }
         ],
@@ -194,8 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,13 +224,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5e8cd8b97d6162df",
+  "active": "9265f94c7ee43bae",
   "lastOpenFiles": [
+    "z_images/IMG_6825.webp",
+    "z_images/IMG_6827.webp",
+    "z_images/IMG_6836.webp",
+    "z_images/Screenshot 2025-11-02 at 13.13.47.webp",
+    "people/dilemmas & debates.md",
+    "intro-to-physical-computing/ipc_experiments_week-8.md",
+    "facilitating a discussion on why we do what we do at itp.md",
+    "z_images/IMG_6826.webp",
+    "Untitled",
+    "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
     "z_images/Screen Recording 2025-10-31 at 14.46.31.mp4",
     "hypercinema/hypercinema_experiments_week-5_to_week-6.md",
     "intro-to-physical-computing/index.md",
-    "intro-to-physical-computing/ipc_experiments_week-8.md",
-    "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
     "z_images/Screen Recording 2025-10-31 at 14.46.31.mov",
     "z_images/Screen Recording 2025-11-01 at 19.01.12.mov",
     "z_images/Screenshot 2025-11-01 at 18.50.17.png",
@@ -227,9 +249,7 @@
     "z_images/IMG_6848.mov",
     "z_images/Screenshot 2025-11-01 at 18.04.03.webp",
     "z_images/Screenshot 2025-11-01 at 17.19.59.webp",
-    "z_images/image-1.png",
     "Untitled 1.md",
-    "Untitled.md",
     "intro-to-physical-computing/midterm reflection.md",
     "intro-to-computational-media/icm_class-8.md",
     "intro-to-computational-media/icm_readings_week-8.md",
@@ -247,16 +267,11 @@
     "hypercinema/index.md",
     "hypercinema/hypercinema_class-7.md",
     "projects-by-other-people",
-    "z_images/image.png",
     "intro-to-physical-computing/midterm-log.md",
-    "z_images/IMG_6798-1.webp",
-    "z_images/IMG_6797.webp",
     "intro-to-physical-computing/a brief rant on the future of interaction design, by bret victor.md",
-    "terms & concepts/tool vs medium vs material.md",
     "z_images/IMG_6792.mp4",
     "z_images/IMG_6792.mov",
     "z_images/IMG_6787.mov",
-    "z_images/Screenshot 2025-09-02 at 23",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"

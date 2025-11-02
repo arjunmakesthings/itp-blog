@@ -76,3 +76,5 @@ so, from what i can gather: the serial monitor on the arduino-ide is designed to
 
 i then realised that <mark>i2c is just another protocol</mark>. i remember helping [[people/duan|duan]] & her partner with their motion sensor which used i2c (via the arduino's scl & sda pins). i now understood how that actually worked. 
 
+
+
