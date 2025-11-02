@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f86e9e077fc7bb7b",
+        "id": "86bbd7236d36b262",
         "type": "tabs",
         "children": [
           {
-            "id": "9265f94c7ee43bae",
+            "id": "0cbe9609fa16b623",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "facilitating a discussion on why we do what we do at itp"
             }
-          },
-          {
-            "id": "ef23310f24232b3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-physical-computing/midterm reflection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "midterm reflection"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -211,49 +195,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "floating": {
-    "id": "b17c4a0a972807da",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b4c4c9da177c5726",
-        "type": "window",
-        "children": [
-          {
-            "id": "6ed95dcc2275f46d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ec3d96c0dfd76767",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "intro-to-physical-computing/midterm-log.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "midterm-log"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 45,
-        "width": 899,
-        "height": 1083,
-        "maximize": false,
-        "zoom": -1
-      }
-    ]
-  },
-  "active": "ef23310f24232b3a",
+  "active": "0cbe9609fa16b623",
   "lastOpenFiles": [
-    "people/bolong.md",
+    "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
     "intro-to-physical-computing/midterm reflection.md",
+    "facilitating a discussion on why we do what we do at itp.md",
+    "people/bolong.md",
     "intro-to-physical-computing/midterm-log.md",
     "z_images/IMG_6816.jpg",
     "z_images/IMG_6818.jpg",
@@ -267,12 +214,10 @@
     "z_images/91352A59-1B1E-4625-9514-D9724397E3EE.jpg",
     "z_images/cody and matt 251102.webp",
     "z_images/image-2.png",
-    "facilitating a discussion on why we do what we do at itp.md",
     "intro-to-physical-computing/index.md",
     "intro-to-physical-computing/ipc_experiments_week-8.md",
     "people/dilemmas & debates.md",
     "Untitled",
-    "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
     "z_images/Screen Recording 2025-10-31 at 14.46.31.mp4",
     "hypercinema/hypercinema_experiments_week-5_to_week-6.md",
     "z_images/Screen Recording 2025-10-31 at 14.46.31.mov",

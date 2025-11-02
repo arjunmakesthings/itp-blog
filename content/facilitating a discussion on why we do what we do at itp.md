@@ -25,7 +25,7 @@ then, through probes, we collectively understood larger themes behind the kind o
 
 we organically arrived at the point i initially wanted to make: 
 1) there are <mark>only a few finite buckets</mark> that all of us are chasing. our goals may seem wildly different at first, but they boil down to a few if we ask why. 
-2) while people disagreed with me in [[ryan's discussion group about finite & infinite games]], it was evident through the map that many of us were, in-fact, attempting to pursue infinite-pursuits (in the context of [[applications/finite & infinite games|finite & infinite games]]). i knew this early on, but was unable to make people see it. hence, this discussion. 
+2) while people disagreed with me in [[ryan's discussion group about finite & infinite games]], it was evident through the map that <mark>many of us were</mark>, in-fact, <mark>attempting to pursue more 'infinite' pursuits</mark> (in the context of [[applications/finite & infinite games|finite & infinite games]]). i knew this early on, but was unable to make people see it. hence, this discussion. 
 
 ![[z_images/IMG_6825.webp]]
 <figcaption>final map.</figcaption>
@@ -33,7 +33,9 @@ we organically arrived at the point i initially wanted to make:
 ---
 [[people/alua|alua]]'s concrete-moment-in-the-future was the closest to mine. she said: 
 
-> designer; struggling really hard to solve a problem, and then eventually doing so. 
+> title: designer; moment: struggling really hard to solve a problem, and then eventually doing so. 
 
 ---
-i had larger themes to bring about, but it was hard to do so in 75-minutes. there were people afraid of their moment being too small (like [[people/jaye|jaye]]), people with abstract beliefs that i am sure could be broken down into smaller ones (like [[people/william|william]] & 'freedom to be a human-being'), and collectively-missed exploration (like [[people/antonia|antonia]] wanting to make something 'big', or [[people/emilia|emilia]] wanting to 'further' her art). 
+i had larger themes to bring about, but it was hard to do so in 75-minutes. there were people afraid of their moment-from-the-future being too small (like [[people/jaye|jaye]]), people with abstract beliefs that i am sure could be broken down into smaller ones (like [[people/william|william]] with his idea of doing art because it allowed 'freedom to be a human-being'), and collectively-missed exploration (like why [[people/antonia|antonia]] wants to make something 'big', or why [[people/emilia|emilia]] wants to 'further' her art). 
+
+i am certain that we would have arrived at 'love' as an anchor, if we had enough time. 
