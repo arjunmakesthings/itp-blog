@@ -37,7 +37,7 @@ another thing with electricity, or more fittingly — 'physical' computing —�
 simple things — such as seeing input resulting in output, and being in a loop of feedback with a computing machine (where something you do changes the way something else is) — are powerful experiences.
 
 ---
-my love & fascination for electricity scares me. 
+my love & fascination for electricity scare me. 
 
 i fell in love with something that i wasn't academically trained for (code), and struggled to find an economically feasible way to exercise my wonder. 
 
