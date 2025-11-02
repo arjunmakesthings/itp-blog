@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Screen Recording 2025-10-31 at 14.46.31.mov",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,8 +185,8 @@
             "state": {
               "type": "id-side-panel",
               "state": {},
-              "icon": "file-digit",
-              "title": "Notes by ID"
+              "icon": "lucide-ghost",
+              "title": "id-side-panel"
             }
           }
         ],
@@ -213,9 +212,12 @@
   },
   "active": "5e8cd8b97d6162df",
   "lastOpenFiles": [
-    "z_images/Screen Recording 2025-10-31 at 14.46.31.mov",
     "z_images/Screen Recording 2025-10-31 at 14.46.31.mp4",
+    "hypercinema/hypercinema_experiments_week-5_to_week-6.md",
+    "intro-to-physical-computing/index.md",
     "intro-to-physical-computing/ipc_experiments_week-8.md",
+    "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
+    "z_images/Screen Recording 2025-10-31 at 14.46.31.mov",
     "z_images/Screen Recording 2025-11-01 at 19.01.12.mov",
     "z_images/Screenshot 2025-11-01 at 18.50.17.png",
     "z_images/Screenshot 2025-11-01 at 18.48.08.png",
@@ -226,11 +228,9 @@
     "z_images/Screenshot 2025-11-01 at 18.04.03.webp",
     "z_images/Screenshot 2025-11-01 at 17.19.59.webp",
     "z_images/image-1.png",
-    "intro-to-physical-computing/index.md",
     "Untitled 1.md",
     "Untitled.md",
     "intro-to-physical-computing/midterm reflection.md",
-    "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
     "intro-to-computational-media/icm_class-8.md",
     "intro-to-computational-media/icm_readings_week-8.md",
     "intro-to-computational-media/icm_class-7.md",
@@ -253,12 +253,10 @@
     "z_images/IMG_6797.webp",
     "intro-to-physical-computing/a brief rant on the future of interaction design, by bret victor.md",
     "terms & concepts/tool vs medium vs material.md",
-    "working material(s) for artists.md",
     "z_images/IMG_6792.mp4",
     "z_images/IMG_6792.mov",
     "z_images/IMG_6787.mov",
     "z_images/Screenshot 2025-09-02 at 23",
-    "z_images/IMG_6782.mp4",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"

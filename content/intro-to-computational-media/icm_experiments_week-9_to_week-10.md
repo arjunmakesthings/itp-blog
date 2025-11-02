@@ -118,6 +118,7 @@ function get_pixel_index(x, y) {
 ---
 sketch title: am i just a number to the computer? 
 
+![[z_images/Screen Recording 2025-10-31 at 14.46.31.mp4]]
 
 code: 
 ``` js
