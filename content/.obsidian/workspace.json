@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "itp-winter-show-2025 poster design.md",
+                "file": "intro-to-physical-computing/midterm-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "itp-winter-show-2025 poster design"
+              "title": "midterm-log"
+            }
+          },
+          {
+            "id": "ef23310f24232b3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro-to-physical-computing/midterm reflection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "midterm reflection"
             }
           }
         ],
@@ -93,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -212,32 +227,33 @@
   },
   "active": "ec3d96c0dfd76767",
   "lastOpenFiles": [
+    "intro-to-physical-computing/midterm reflection.md",
+    "intro-to-physical-computing/midterm-log.md",
+    "z_images/IMG_6816.jpg",
+    "z_images/IMG_6818.jpg",
+    "z_images/IMG_6819.webp",
+    "z_images/IMG_6805.webp",
+    "z_images/IMG_6808 2.webp",
+    "z_images/IMG_6810.mp4",
+    "itp-winter-show-2025 poster design.md",
     "z_images/itp_winter_show_poster_2025.webp",
     "z_images/frame.jpeg",
     "z_images/91352A59-1B1E-4625-9514-D9724397E3EE.jpg",
     "z_images/cody and matt 251102.webp",
     "z_images/image-2.png",
     "facilitating a discussion on why we do what we do at itp.md",
-    "itp-winter-show-2025 poster design.md",
     "intro-to-physical-computing/index.md",
     "intro-to-physical-computing/ipc_experiments_week-8.md",
-    "z_images/IMG_6825.webp",
-    "z_images/IMG_6827.webp",
-    "z_images/IMG_6836.webp",
-    "z_images/Screenshot 2025-11-02 at 13.13.47.webp",
     "people/dilemmas & debates.md",
-    "z_images/IMG_6826.webp",
     "Untitled",
     "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
     "z_images/Screen Recording 2025-10-31 at 14.46.31.mp4",
     "hypercinema/hypercinema_experiments_week-5_to_week-6.md",
     "z_images/Screen Recording 2025-10-31 at 14.46.31.mov",
     "z_images/Screen Recording 2025-11-01 at 19.01.12.mov",
-    "z_images/Screenshot 2025-11-01 at 18.50.17.png",
     "z_images/IMG_6848.mp4",
     "z_images/IMG_6848.mov",
     "Untitled 1.md",
-    "intro-to-physical-computing/midterm reflection.md",
     "intro-to-computational-media/icm_class-8.md",
     "intro-to-computational-media/icm_readings_week-8.md",
     "intro-to-computational-media/icm_class-7.md",
@@ -254,10 +270,8 @@
     "hypercinema/index.md",
     "hypercinema/hypercinema_class-7.md",
     "projects-by-other-people",
-    "intro-to-physical-computing/midterm-log.md",
     "z_images/IMG_6792.mp4",
     "z_images/IMG_6792.mov",
-    "z_images/IMG_6787.mov",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"

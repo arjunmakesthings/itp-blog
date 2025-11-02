@@ -30,6 +30,26 @@ the idea was to communicate this magic — borrowed from dahiya's humility, cou
 <figcaption>thought-maps to arrive at this line of thought. </figcaption>
 
 ---
+# output: 
+
+![[z_images/IMG_6810.mp4]]
+<figcaption>shows the movement of electrons through a closed-circuit.</figcaption>
+
+![[z_images/IMG_6808 2.webp|407x543]]
+
+
+![[z_images/IMG_6805.webp]]
+<figcaption>back. i wire-wrapped everything.</figcaption>
+
+![[z_images/IMG_6819.webp|0x0]]
+
+![[IMG_6818.jpg|0x0]]
+
+![[IMG_6816.jpg|425x567]]
+
+reflection is here: [[intro-to-physical-computing/midterm reflection|midterm reflection]]. 
+
+---
 # study: 
 this line of enquiry originally began with reading [[intro-to-physical-computing/practical electronics for inventors|practical electronics for inventors]], as i realised that electrons flow opposite to the direction of conventional current flow. 
 

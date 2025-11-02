@@ -18,7 +18,7 @@ so, we teamed up and attempted to make a 'time-aquarium' to show the movement of
 
 ![[z_images/cody and matt 251102.webp|520x292]]
 
-i ended up writing the program. 
+i ended up writing the program that (sort-of) achieved this. 
 
 ![[frame.jpeg|521x782]]
 
@@ -175,13 +175,11 @@ class Person {
     this.col.setAlpha(st_alp); 
     strokeWeight(st_weight);
 
-    // 1️⃣ from world map → NY map (straight line)
     line(this.x, this.home_y, this.z, itp_point.x, this.ny_y, itp_point.z);
 
     // starting Y for the flip motion
     let current_y = this.ny_y;
 
-    // 2️⃣ upward flip motion
     for (let i = 0; i < reps; i++) {
       let new_y = current_y - inc;
       if (new_y <= -box_h / 2) break; // stop at top of cuboid
