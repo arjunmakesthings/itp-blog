@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e8cd8b97d6162df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-physical-computing/ipc_experiments_week-8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ipc_experiments_week-8"
-            }
-          },
-          {
             "id": "9265f94c7ee43bae",
             "type": "leaf",
             "state": {
@@ -36,17 +22,17 @@
             }
           },
           {
-            "id": "174d9e22b1e80f34",
+            "id": "ec3d96c0dfd76767",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/index.md",
+                "file": "itp-winter-show-2025 poster design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "itp-winter-show-2025 poster design"
             }
           }
         ],
@@ -224,31 +210,32 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9265f94c7ee43bae",
+  "active": "ec3d96c0dfd76767",
   "lastOpenFiles": [
+    "z_images/itp_winter_show_poster_2025.webp",
+    "z_images/frame.jpeg",
+    "z_images/91352A59-1B1E-4625-9514-D9724397E3EE.jpg",
+    "z_images/cody and matt 251102.webp",
+    "z_images/image-2.png",
+    "facilitating a discussion on why we do what we do at itp.md",
+    "itp-winter-show-2025 poster design.md",
+    "intro-to-physical-computing/index.md",
+    "intro-to-physical-computing/ipc_experiments_week-8.md",
     "z_images/IMG_6825.webp",
     "z_images/IMG_6827.webp",
     "z_images/IMG_6836.webp",
     "z_images/Screenshot 2025-11-02 at 13.13.47.webp",
     "people/dilemmas & debates.md",
-    "intro-to-physical-computing/ipc_experiments_week-8.md",
-    "facilitating a discussion on why we do what we do at itp.md",
     "z_images/IMG_6826.webp",
     "Untitled",
     "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
     "z_images/Screen Recording 2025-10-31 at 14.46.31.mp4",
     "hypercinema/hypercinema_experiments_week-5_to_week-6.md",
-    "intro-to-physical-computing/index.md",
     "z_images/Screen Recording 2025-10-31 at 14.46.31.mov",
     "z_images/Screen Recording 2025-11-01 at 19.01.12.mov",
     "z_images/Screenshot 2025-11-01 at 18.50.17.png",
-    "z_images/Screenshot 2025-11-01 at 18.48.08.png",
-    "z_images/Screenshot 2025-11-01 at 18.37.06.webp",
-    "z_images/Screenshot 2025-11-01 at 18.18.50.webp",
     "z_images/IMG_6848.mp4",
     "z_images/IMG_6848.mov",
-    "z_images/Screenshot 2025-11-01 at 18.04.03.webp",
-    "z_images/Screenshot 2025-11-01 at 17.19.59.webp",
     "Untitled 1.md",
     "intro-to-physical-computing/midterm reflection.md",
     "intro-to-computational-media/icm_class-8.md",
@@ -268,7 +255,6 @@
     "hypercinema/hypercinema_class-7.md",
     "projects-by-other-people",
     "intro-to-physical-computing/midterm-log.md",
-    "intro-to-physical-computing/a brief rant on the future of interaction design, by bret victor.md",
     "z_images/IMG_6792.mp4",
     "z_images/IMG_6792.mov",
     "z_images/IMG_6787.mov",
