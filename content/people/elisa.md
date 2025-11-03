@@ -1,0 +1,1 @@
+part of itp-27. did graphic-design before this; currently works as a graphic-designer too. 
