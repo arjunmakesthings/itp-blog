@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -198,6 +199,9 @@
   },
   "active": "0cbe9609fa16b623",
   "lastOpenFiles": [
+    "z_images/Screenshot 2025-11-03 at 23.11.41.webp",
+    "z_images/Screenshot 2025-11-03 at 23.03.10.webp",
+    "z_images/ipc_start.mp4",
     "z_images/Screen Recording 2025-11-03 at 22.29.48.mp4",
     "intro-to-physical-computing/index.md",
     "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
@@ -226,7 +230,6 @@
     "z_images/IMG_6810.mp4",
     "itp-winter-show-2025 poster design.md",
     "z_images/itp_winter_show_poster_2025.webp",
-    "z_images/frame.jpeg",
     "intro-to-physical-computing/ipc_experiments_week-8.md",
     "people/dilemmas & debates.md",
     "Untitled",
@@ -234,8 +237,6 @@
     "hypercinema/hypercinema_experiments_week-5_to_week-6.md",
     "z_images/Screen Recording 2025-10-31 at 14.46.31.mov",
     "z_images/Screen Recording 2025-11-01 at 19.01.12.mov",
-    "z_images/IMG_6848.mp4",
-    "z_images/IMG_6848.mov",
     "Untitled 1.md",
     "intro-to-computational-media/icm_class-8.md",
     "intro-to-computational-media/icm_class-7.md",

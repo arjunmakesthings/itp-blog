@@ -83,5 +83,31 @@ got [p5.serialcontrol](https://github.com/p5-serial/p5.serialcontrol/releases/ta
 
 ![[z_images/Screen Recording 2025-11-03 at 22.29.48.mp4]]
 
+p5 doesn't natively support serial-connection. so, the workaround they made was to use a standalone application that then provides a websocket connection to p5.js. 
+
+websocket: https://www.youtube.com/watch?v=ub7RVLSn3mc — essentially a way for a server & a client to partake in real-time two-way communication via a certain protocol. instead of an api, which requires you to request something, a websocket is a connection in perpetuity (until you close the websocket). 
+
+---
+the serial-port library makes a serial-port object in p5, when you make an instance: 
+
+![[z_images/Screenshot 2025-11-03 at 23.03.10.webp]]
+
+i couldn't get it to connect.
+
+![[z_images/Screenshot 2025-11-03 at 23.11.41.webp]]
+
+i have many questions:
+
+- p5serial-port makes a connection to ? 
+- how do you know the default agreements? meaning how do you know whether the serial monitor of a piece of software will show what type of data, how they've agreed on what is high / what is low, et-cetera? does the arduino dictate this? or does the program?  can we change these agreements? 
+- 
+---
+to do when i understand serial-communication:
+
+i took a simple variation of a larger idea that i was pursuing in [[intro-to-computational-media/icm_experiments_week-9_to_week-10|icm_experiments_week-9_to_week-10]]: 
+
+![[z_images/ipc_start.mp4]]
+
+
 
 
