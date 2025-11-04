@@ -76,5 +76,12 @@ so, from what i can gather: the serial monitor on the arduino-ide is designed to
 
 i then realised that <mark>i2c is just another protocol</mark>. i remember helping [[people/duan|duan]] & her partner with their motion sensor which used i2c (via the arduino's scl & sda pins). i now understood how that actually worked. 
 
+---
+if i understand this correctly, the arduino sends bytes. bytes are then converted into decimals (somehow) — i believe this has to do with the frequency of communication (it expects a certain number of values before it makes sense), which are then converted into characters to be able to print in the ide. 
+
+got [p5.serialcontrol](https://github.com/p5-serial/p5.serialcontrol/releases/tag/0.0.7) to work for a button press.
+
+![[z_images/Screen Recording 2025-11-03 at 22.29.48.mp4]]
+
 
 
