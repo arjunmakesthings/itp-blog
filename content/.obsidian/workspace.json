@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "icm_experiments_week-9_to_week-10"
             }
-          },
-          {
-            "id": "99823818e9e47df5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects-by-other-people/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,13 +196,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "99823818e9e47df5",
+  "active": "0cbe9609fa16b623",
   "lastOpenFiles": [
-    "resources & tools/index.md",
+    "z_images/new_251103.mp4",
+    "z_images/Screen Recording 2025-11-03 at 21.20.52.mp4",
     "projects-by-other-people/index.md",
+    "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
+    "resources & tools/index.md",
     "terms & concepts/index.md",
     "for people interested in creative-thinking.md",
-    "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
     "z_images/sketch_251102.mp4",
     "z_images/Screenshot 2025-11-02 at 19.26.54.webp",
     "z_images/Screenshot 2025-11-02 at 19.22.05.webp",
@@ -255,9 +243,7 @@
     "projects-by-other-people/lose, lose, by zach cage.md",
     "applications/essay_progress-log.md",
     "thispersondoesnotexist.md",
-    "projects-by-other-people/voltage, by david rios.md",
     "projects-by-other-people",
-    "z_images/IMG_6792.mp4",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"
