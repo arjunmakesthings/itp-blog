@@ -664,3 +664,16 @@ function get_pixel_index(x, y) {
   return (y * cam.width + x) * 4;
 }
 ```
+
+final sketch to play with is available here: https://arjunmakesthings.github.io/icm-2025/week-8_and_9_pixels/index.html
+
+---
+i am happy with the progress i made on this. i <mark>worked deliberately with code</mark> — and knew what everything was doing. this was a new feeling of empowerment even thought i've put in a lot of time in the past to play around with code.
+
+it was difficult to be more critical with the outcome, when working with another person. deliberate thought is difficult when you're still grappling with a medium — and i think i didn't do [[people/elisa|elisa]] justice by making the sketch in 3-d. 
+
+i also experienced and heard experiences about people using chat-gpt. even elisa did at one point, and i couldn't understand her sketch(es). she told me it was because she 'needed a thing but it wasn't happening by herself'. 
+
+i would like to work & work with people who want to <mark>make work as a student — and not as a producer</mark>. when you're a producer, you care about getting it done no matter what; but when you're a student, you want to get there deliberately, after understanding everything you've done. 
+
+i want to make work as a student — even if that suffers in quality; atleast in the first year. i know other people might not. i'll find ways to adapt :) 
