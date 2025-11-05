@@ -668,12 +668,16 @@ function get_pixel_index(x, y) {
 final sketch to play with is available here: https://arjunmakesthings.github.io/icm-2025/week-8_and_9_pixels/index.html
 
 ---
-i am happy with the progress i made on this. i <mark>worked deliberately with code</mark> — and knew what everything was doing. this was a new feeling of empowerment even thought i've put in a lot of time in the past to play around with code.
+i am happy with the progress i made on this. i <mark>worked deliberately with code</mark> — and knew what everything was doing. this was a new feeling of empowerment even though i've put in a lot of time in the past playing around with code.
 
-it was difficult to be more critical with the outcome, when working with another person. deliberate thought is difficult when you're still grappling with a medium — and i think i didn't do [[people/elisa|elisa]] justice by making the sketch in 3-d. 
+it was difficult to be more critical with the outcome, when working with another person. deliberate thought is difficult when you're still grappling with a medium — and i don't think i did [[people/elisa|elisa]] justice by making the sketch in 3-d. 
 
-i also experienced and heard experiences about people using chat-gpt. even elisa did at one point, and i couldn't understand her sketch(es). she told me it was because she 'needed a thing but it wasn't happening by herself'. 
+i also experienced and heard experiences about people using chat-gpt. even elisa did at one point, and i couldn't understand her sketch(es). she told me it was because she 'needed a thing but she wasn't able to make it herself'. 
 
-i would like to work & work with people who want to <mark>make work as a student — and not as a producer</mark>. when you're a producer, you care about getting it done no matter what; but when you're a student, you want to get there deliberately, after understanding everything you've done. 
+i think [[cody]] & i also spoke about this — he struggled with the same, with his partner.
 
-i want to make work as a student — even if that suffers in quality; atleast in the first year. i know other people might not. i'll find ways to adapt :) 
+with chat-gpt, it's become so easy to enter 'producer' mode; instead of staying in 'student' mode. producer mode cares about getting it done no matter what — and with the current technology, it's 'easy' (apparently) to do so. but that sucks for you as a student, because you don't understand how the thing was made. you have an amazing project, but you can't build it from scratch (or reapply it in another context). 
+
+i think i want to work more with people who want to <mark>make work as a student — and not as a producer</mark>. i know most people in my cohort won't share the same point-of-view, and would argue that getting the thing made is more important than learning. i would respectfully disagree, and remind them that they're graduate students who enrolled in a class to learn how to code (and not how to make things with chat-gpt-generated-code). 
+
+i want my experiments & explorations to be done like a student. sometimes, i'm going to make shit-quality work. and that's okay — i am learning. 
