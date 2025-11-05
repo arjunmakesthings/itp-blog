@@ -680,4 +680,6 @@ with chat-gpt, it's become so easy to enter 'producer' mode; instead of staying 
 
 i think i want to work more with people who want to <mark>make work as a student — and not as a producer</mark>. i know most people in my cohort won't share the same point-of-view, and would argue that getting the thing made is more important than learning. i would respectfully disagree, and remind them that they're graduate students who enrolled in a class to learn how to code (and not how to make things with chat-gpt-generated-code). 
 
-i want my experiments & explorations to be done like a student. sometimes, i'm going to make shit-quality work. and that's okay — i am learning. 
+i want my experiments & explorations to be done like a student. sometimes, i'm going to make shit-quality work. and that's okay — i am learning. people around me will want to make amazing things with chat-gpt, and then i will sit down with them or chat-gpt and learn about how the thing was made. 
+
+i care about the learning, and i'm going to get it out one way or another. so that, tomorrow, when i am in 'producer-mode', i can produce quicker & better.
