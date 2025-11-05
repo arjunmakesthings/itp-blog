@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0cbe9609fa16b623",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-physical-computing/ipc_experiments_week-8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ipc_experiments_week-8"
-            }
-          },
-          {
             "id": "5909492ada459c6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
+                "file": "intro-to-physical-computing/final-project-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "icm_experiments_week-9_to_week-10"
-            }
-          },
-          {
-            "id": "1f7ccb632f6e3f13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "be relentless with your curiosity, arjun..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "be relentless with your curiosity, arjun."
+              "title": "final-project-log"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -210,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,9 +197,12 @@
   },
   "active": "5909492ada459c6c",
   "lastOpenFiles": [
-    "be relentless with your curiosity, arjun..md",
-    "intro-to-physical-computing/ipc_experiments_week-8.md",
     "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
+    "intro-to-physical-computing/final-project-log.md",
+    "be relentless with your curiosity, arjun..md",
+    "applications/index.md",
+    "intro-to-physical-computing/midterm reflection.md",
+    "intro-to-physical-computing/ipc_experiments_week-8.md",
     "z_images/IMG_6870.webp",
     "intro-to-physical-computing/index.md",
     "z_images/icm_performance_nov-4.mp4",
@@ -253,7 +225,6 @@
     "intro-to-computational-media/index.md",
     "intro-to-computational-media/icm_readings_week-8.md",
     "facilitating a discussion on why we do what we do at itp.md",
-    "intro-to-physical-computing/midterm reflection.md",
     "people/bolong.md",
     "intro-to-physical-computing/midterm-log.md",
     "z_images/IMG_6816.jpg",
@@ -272,7 +243,6 @@
     "intro-to-computational-media/icm_class-7.md",
     "intro-to-computational-media/icm_experiments_week-7.md",
     "projects-by-other-people/everything, by david o'reilly.md",
-    "projects-by-other-people/lose, lose, by zach cage.md",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"
