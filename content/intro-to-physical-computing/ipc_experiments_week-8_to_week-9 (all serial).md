@@ -107,6 +107,20 @@ i got serial communication to work. i have no idea why it magically decided to w
 
 ![[z_images/IMG_6892.mp4]]
 
+serial works on listening for events (change) & callbacks (what to do if changed). we have: 
+
+- noport (no selected serial port)
+- portavailable (port becomes available)
+- data (new data comes)
+- close (serial port closed)
+- requesterror (something went wrong when requesting for a serial port)
+- connect / disconnect (physically connected or disconnected)
+
+i then tried to write a reusable function to allow me to simply pass in a port-name; so that i don't have to copy paste all of this code over & over again. 
+
+but this was a bad attempt. it's difficult to do so; since everything relies on callbacks & events.
+
+![[Screenshot 2025-11-06 at 16.05.18.png]]
 
 ---
 to do when i understand serial-communication:

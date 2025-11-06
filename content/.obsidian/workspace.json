@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/ipc_experiments_week-8_to_week-9.md",
+                "file": "intro-to-physical-computing/ipc_experiments_week-8_to_week-9 (all serial).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ipc_experiments_week-8_to_week-9"
+              "title": "ipc_experiments_week-8_to_week-9 (all serial)"
             }
           }
         ]
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,6 +198,7 @@
   },
   "active": "fe7e5985ad44042d",
   "lastOpenFiles": [
+    "z_images/Screenshot 2025-11-06 at 16.05.18.png",
     "z_images/IMG_6892.mp4",
     "intro-to-physical-computing/index.md",
     "hypercinema/index.md",
@@ -207,7 +209,7 @@
     "be relentless with your curiosity, arjun..md",
     "applications/index.md",
     "intro-to-physical-computing/midterm reflection.md",
-    "intro-to-physical-computing/ipc_experiments_week-8_to_week-9.md",
+    "intro-to-physical-computing/ipc_experiments_week-8_to_week-9 (all serial).md",
     "z_images/IMG_6870.webp",
     "z_images/icm_performance_nov-4.mp4",
     "intro-to-computational-media/icm_class-5.md",
@@ -241,7 +243,6 @@
     "Untitled",
     "z_images/Screen Recording 2025-10-31 at 14.46.31.mp4",
     "hypercinema/hypercinema_experiments_week-5_to_week-6.md",
-    "z_images/Screen Recording 2025-10-31 at 14.46.31.mov",
     "Untitled 1.md",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
