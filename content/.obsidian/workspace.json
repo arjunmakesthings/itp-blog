@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "86bbd7236d36b262",
+        "id": "927eb95020f17e11",
         "type": "tabs",
         "children": [
           {
-            "id": "5909492ada459c6c",
+            "id": "fe7e5985ad44042d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/final-project-log.md",
+                "file": "intro-to-physical-computing/ipc_experiments_week-8_to_week-9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "final-project-log"
+              "title": "ipc_experiments_week-8_to_week-9"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rios",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -195,16 +195,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5909492ada459c6c",
+  "active": "fe7e5985ad44042d",
   "lastOpenFiles": [
+    "z_images/IMG_6892.mp4",
+    "intro-to-physical-computing/index.md",
+    "hypercinema/index.md",
+    "intro-to-computational-media/icm_experiments_week-5.md",
+    "intro-to-computational-media/icm_experiments_week-7.md",
     "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
     "intro-to-physical-computing/final-project-log.md",
     "be relentless with your curiosity, arjun..md",
     "applications/index.md",
     "intro-to-physical-computing/midterm reflection.md",
-    "intro-to-physical-computing/ipc_experiments_week-8.md",
+    "intro-to-physical-computing/ipc_experiments_week-8_to_week-9.md",
     "z_images/IMG_6870.webp",
-    "intro-to-physical-computing/index.md",
     "z_images/icm_performance_nov-4.mp4",
     "intro-to-computational-media/icm_class-5.md",
     "z_images/Screenshot 2025-11-03 at 23.11.41.webp",
@@ -239,10 +243,6 @@
     "hypercinema/hypercinema_experiments_week-5_to_week-6.md",
     "z_images/Screen Recording 2025-10-31 at 14.46.31.mov",
     "Untitled 1.md",
-    "intro-to-computational-media/icm_class-8.md",
-    "intro-to-computational-media/icm_class-7.md",
-    "intro-to-computational-media/icm_experiments_week-7.md",
-    "projects-by-other-people/everything, by david o'reilly.md",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"

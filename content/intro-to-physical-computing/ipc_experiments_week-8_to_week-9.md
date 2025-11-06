@@ -100,7 +100,14 @@ i have many questions:
 
 - p5serial-port makes a connection to ? 
 - how do you know the default agreements? meaning how do you know whether the serial monitor of a piece of software will show what type of data, how they've agreed on what is high / what is low, et-cetera? does the arduino dictate this? or does the program?  can we change these agreements? 
-- 
+
+---
+### 251106: 
+i got serial communication to work. i have no idea why it magically decided to work, but it does now. finally, i can make progress with the labs. 
+
+![[z_images/IMG_6892.mp4]]
+
+
 ---
 to do when i understand serial-communication:
 
