@@ -8,7 +8,7 @@ draft: "false"
 ---
 as the final deliverable for this course, students are asked to write an essay. i was confused enough to ask *why* in class, since the reason wasn't mentioned anywhere on the syllabus. [[people/sharon de la cruz|sharon de la cruz]] said: 
 
-> to get people to reflect on making methodology; be aware of the context; and practice communication (of the experiment we'd conduct). the objective is to give people a chance to 'scratch their curiosity'. 
+> to get people to <mark>reflect on making methodology</mark>; be aware of the context; and <mark>practice communication</mark> (of the experiment we'd conduct). the objective is to give people a chance to <mark>'scratch their curiosity'</mark>. 
 
 brief is [here](https://docs.google.com/document/d/1gujBYcYgiLLqOXvqVz9cZBQiIYnuTrGZq1umFxFr8iA/edit?tab=t.0#heading=h.v6o4fbr5cvc8).
 
