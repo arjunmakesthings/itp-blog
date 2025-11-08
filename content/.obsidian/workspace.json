@@ -13,15 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/ipc_experiments_week-8_to_week-9 (all serial).md",
+                "file": "intro-to-computational-media/icm_class-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ipc_experiments_week-8_to_week-9 (all serial)"
+              "title": "icm_class-10"
+            }
+          },
+          {
+            "id": "b9db0bccb63ad7ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "icm_experiments_week-11_to_week-12 (music).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "icm_experiments_week-11_to_week-12 (music)"
+            }
+          },
+          {
+            "id": "268b9d289103b13d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "eyes are beautiful — they wander.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "eyes are beautiful — they wander"
+            }
+          },
+          {
+            "id": "d7755322f6e7cbdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro-to-computational-media/icm_class-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "icm_class-10"
+            }
+          },
+          {
+            "id": "4a0b904bce656242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro-to-physical-computing/analog synthesizer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "analog synthesizer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,8 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,8 +252,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fe7e5985ad44042d",
+  "active": "b9db0bccb63ad7ed",
   "lastOpenFiles": [
+    "intro-to-computational-media/icm_class-10.md",
+    "icm_experiments_week-11_to_week-12 (music).md",
+    "eyes are beautiful — they wander.md",
+    "z_images/IMG_6886.webp",
+    "intro-to-computational-media/icm_class-8.md",
+    "intro-to-physical-computing/final-project-log.md",
+    "z_images/IMG_6875.webp",
+    "intro-to-physical-computing/analog synthesizer.md",
+    "z_images/IMG_6873.webp",
+    "z_images/IMG_6876.webp",
+    "z_images/Screenshot 2025-11-07 at 19.46.36.webp",
+    "z_images/Screenshot 2025-11-07 at 19.43.24.webp",
+    "applications/index.md",
+    "intro-to-physical-computing/ipc_experiments_week-8_to_week-9 (all serial).md",
     "z_images/Screenshot 2025-11-06 at 16.05.18.png",
     "z_images/IMG_6892.mp4",
     "intro-to-physical-computing/index.md",
@@ -205,11 +275,8 @@
     "intro-to-computational-media/icm_experiments_week-5.md",
     "intro-to-computational-media/icm_experiments_week-7.md",
     "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
-    "intro-to-physical-computing/final-project-log.md",
     "be relentless with your curiosity, arjun..md",
-    "applications/index.md",
     "intro-to-physical-computing/midterm reflection.md",
-    "intro-to-physical-computing/ipc_experiments_week-8_to_week-9 (all serial).md",
     "z_images/IMG_6870.webp",
     "z_images/icm_performance_nov-4.mp4",
     "intro-to-computational-media/icm_class-5.md",
@@ -224,26 +291,15 @@
     "terms & concepts/index.md",
     "for people interested in creative-thinking.md",
     "z_images/sketch_251102.mp4",
-    "z_images/Screenshot 2025-11-02 at 19.26.54.webp",
-    "z_images/Screenshot 2025-11-02 at 19.22.05.webp",
-    "z_images/image-3.webp",
     "people/elisa.md",
     "intro-to-computational-media/index.md",
     "intro-to-computational-media/icm_readings_week-8.md",
     "facilitating a discussion on why we do what we do at itp.md",
     "people/bolong.md",
     "intro-to-physical-computing/midterm-log.md",
-    "z_images/IMG_6816.jpg",
-    "z_images/IMG_6818.jpg",
-    "z_images/IMG_6819.webp",
-    "z_images/IMG_6805.webp",
     "z_images/IMG_6810.mp4",
-    "itp-winter-show-2025 poster design.md",
-    "people/dilemmas & debates.md",
     "Untitled",
     "z_images/Screen Recording 2025-10-31 at 14.46.31.mp4",
-    "hypercinema/hypercinema_experiments_week-5_to_week-6.md",
-    "Untitled 1.md",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"

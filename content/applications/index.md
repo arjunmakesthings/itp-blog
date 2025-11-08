@@ -28,5 +28,6 @@ i think this class was phenomenally designed. i didn't get it beforehand. more i
 ---
 # resources: 
 - [syllabus](https://sharonleedelacruz.notion.site/APPLICATIONS-2025-262e22880bc3808cafccf7945441aa52). 
+- [essay construct](https://docs.google.com/document/d/1gujBYcYgiLLqOXvqVz9cZBQiIYnuTrGZq1umFxFr8iA/edit?tab=t.0#heading=h.v6o4fbr5cvc8) (experiments and the analysis of a medium or tool)
 
 ---
