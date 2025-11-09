@@ -17,9 +17,13 @@ i tried wrapping my head around 555-timer-ics, but it was too complicated to und
 
 ![[z_images/raw-speaker.mp4]]
 
-i then made this, a 555 metronome: 
+i then made this, a 555 metronome (via [this](https://www.electronics-tutorials.ws/waveforms/555_oscillator.html) tutorial): 
 
 ![[z_images/analog-synth_1.mp4]]
+
+if i reversed the polarity of the speaker, this is produced: 
+
+![[z_images/reversed polarity.mp4]]
 
 ---
 # references: 
