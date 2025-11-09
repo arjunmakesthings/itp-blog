@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hypercinema/index.md",
+                "file": "intro-to-physical-computing/analog synthesizer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "analog synthesizer"
             }
           }
         ],
@@ -297,12 +297,16 @@
   },
   "active": "2be4996e0465a2eb",
   "lastOpenFiles": [
+    "z_images/analog-synth_1.mp4",
+    "z_images/raw-speaker.mp4",
+    "people/prisha.md",
+    "intro-to-physical-computing/analog synthesizer.md",
+    "hypercinema/index.md",
     "intro-to-computational-media/icm_experiments_week-11_to_week-12 (music).md",
     "intro-to-computational-media/icm_class-10.md",
     "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
     "intro-to-computational-media/icm_experiments_week-1.md",
     "applications/essay_progress-log.md",
-    "intro-to-physical-computing/analog synthesizer.md",
     "intro-to-computational-media/self-portrait.md",
     "intro-to-computational-media/icm_class-7.md",
     "intro-to-computational-media/icm_experiments_week-2.md",
@@ -320,10 +324,7 @@
     "intro-to-computational-media/icm_class-5.md",
     "intro-to-computational-media/icm_class-6.md",
     "intro-to-computational-media/icm_class-8.md",
-    "applications/index.md",
-    "eyes are beautiful — they wander.md",
     "z_images/IMG_6886.webp",
-    "intro-to-physical-computing/final-project-log.md",
     "z_images/IMG_6875.webp",
     "z_images/IMG_6873.webp",
     "z_images/IMG_6876.webp",
@@ -342,7 +343,6 @@
     "z_images/sketch_251102.mp4",
     "z_images/IMG_6810.mp4",
     "Untitled",
-    "z_images/Screen Recording 2025-10-31 at 14.46.31.mp4",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"

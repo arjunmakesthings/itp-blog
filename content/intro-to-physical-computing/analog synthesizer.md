@@ -10,7 +10,16 @@ originally, for my [[intro-to-physical-computing/final-project-log|final-project
 this project is parked academically for now, and i will work on it as & when i get some time.
 
 ---
+### 251109: 
+[[prisha]] responded to my request of 555-timer-ics, after [[people/david rios|david rios]]'s recommendations of using them. she shared the book: *handmade electronic music*, by nicolas collins.
 
+i tried wrapping my head around 555-timer-ics, but it was too complicated to understand. so, i began with the book; and made a speaker pulsate first. 
+
+![[z_images/raw-speaker.mp4]]
+
+i then made this, a 555 metronome: 
+
+![[z_images/analog-synth_1.mp4]]
 
 ---
 # references: 
