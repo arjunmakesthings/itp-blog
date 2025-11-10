@@ -25,6 +25,14 @@ if i reversed the polarity of the speaker, this is produced:
 
 ![[z_images/reversed polarity.mp4]]
 
+scratching: 
+
+![[z_images/IMG_6900.mp4]]
+
+photoresistor instead of a 0.01-uf capacitor. 
+
+![[z_images/IMG_6901.mp4]]
+
 ---
 # references: 
 [[people/david rios|david rios]] shared these: 
