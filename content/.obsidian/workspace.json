@@ -118,9 +118,37 @@
               "icon": "lucide-file",
               "title": "final-project-log"
             }
+          },
+          {
+            "id": "a3de5a44f504f9b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/kishore.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "kishore"
+            }
+          },
+          {
+            "id": "f055352677a72179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro-to-physical-computing/electrical components.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "electrical components"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -177,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -280,8 +307,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,8 +322,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2be4996e0465a2eb",
+  "active": "f055352677a72179",
   "lastOpenFiles": [
+    "perhaps i should draw more to see more.md",
+    "people/josh.md",
+    "people/kishore.md",
+    "set the stage, then shut up and listen, by tom igoe.md",
+    "intro-to-physical-computing/final-project-log.md",
     "z_images/IMG_6903.webp",
     "intro-to-physical-computing/ipc_experiments_week-8_to_week-9 (all serial).md",
     "intro-to-physical-computing/index.md",
@@ -323,10 +354,6 @@
     "intro-to-computational-media/accuracy vs precision.md",
     "intro-to-computational-media/how computation applies to my interests.md",
     "intro-to-computational-media/icm_class-1.md",
-    "intro-to-computational-media/icm_class-2.md",
-    "intro-to-computational-media/icm_class-3.md",
-    "intro-to-computational-media/icm_class-4.md",
-    "intro-to-computational-media/icm_class-5.md",
     "z_images/IMG_6886.webp",
     "z_images/IMG_6875.webp",
     "z_images/IMG_6873.webp",
@@ -338,7 +365,6 @@
     "z_images/IMG_6870.webp",
     "z_images/icm_performance_nov-4.mp4",
     "z_images/Screenshot 2025-11-03 at 23.11.41.webp",
-    "z_images/Screenshot 2025-11-03 at 23.03.10.webp",
     "z_images/ipc_start.mp4",
     "z_images/Screen Recording 2025-11-03 at 22.29.48.mp4",
     "z_images/new_251103.mp4",

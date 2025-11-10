@@ -56,23 +56,23 @@ change fluctuating voltag.webponsistent voltage.
 ![[z_images/Pasted image 20250904180858.webp]]
 the pins are easy to remember: 
 
-![[z_images/Screenshot 2025-09-04 at 18.webp01.webp]]
+![[z_images/Screenshot 2025-09-04 at 18.10.01.webp]]
 
 ---
 # capacitors: 
-store energy when energy comes i.webp then releases it when the energy stops. 
+store energy when energy comes in, then releases it when the energy stops. 
 
 ![[z_images/Pasted image 20250906115657.webp]]
 
 ---
 # diodes
-permit voltage to flow in one .webpion, and block it in another. leds are a type of diodes. 
+permit voltage to flow in one pin, and block it in another. leds are a type of diodes. 
 
 ---
 # transistors: 
 act as electronic switches. when a small voltage is put to the base and emitter, it allows a larger current and voltage to flow from the collector to the emitter. 
 
-![[z_images/Pasted image 20250911093921.webp]]
+![[z_images/Pasted image 20250911093921.webp|371x556]]
 
 look very similar to voltage regulators. 
 
@@ -80,10 +80,11 @@ explained by [[people/christina tang|c.webpna tang]] in [[intro-to-physical-comp
 
 > essentially, transistors are of two types: npn or pnp, meaning that npn (negative positive negative) closes the switch to allow current to pass through it (when the switch or base receives voltage), whereas pnp opens the gate (not allowing current to pass). every transistor falls within these two types. 
 
-![[z_images/IMG_6376.webp]]
+![[z_images/IMG_6376.webp|426x568]]
 
 ---
-# microcontrollerS: .webpple processor (see below for definition) that can do only one task, like listening to sensors. 
+# microcontrollerS: .
+simple processor that can do only one task, like listening to sensors. 
 
 > Other devices, like light, heat, or motion sensors, motors, lights, our sound devices, are attached to these pins to allow the microcontroller to be sensitive to the world and to express itself.
 > 
@@ -109,7 +110,7 @@ a processor needs a bunch of other components, which is pre-packaged into a deve
 
 ---
 # activity boards: 
-Activity boards contain a pre-programmed microc.webpler and some sensors and actuators along with a communications interface and a communications protocol so that you can interface the board and its sensors and actuators with software running on your personal computer. Boards like the MaKey MaKey (Figure 7) or the PicoBoard (Figure 8, now retired) are activity boards. Activity boards generally can’t operate on their own without being connected to a personal computer, while development boards can.
+Activity boards contain a pre-programmed microcontrollers and some sensors and actuators along with a communications interface and a communications protocol so that you can interface the board and its sensors and actuators with software running on your personal computer. Boards like the MaKey MaKey (Figure 7) or the PicoBoard (Figure 8, now retired) are activity boards. Activity boards generally can’t operate on their own without being connected to a personal computer, while development boards can.
 
 ![[z_images/Pasted image 20250911102609.webp]]
 
@@ -137,7 +138,7 @@ difference between insulators & conductors.
 
 but, this gap in an insulator can be lowered with heat, making it conductive: 
 
-![[z_images/Pasted image 2025100210481.webpp]]
+![[z_images/Pasted image 20251002104812.webp|700x453]]
 
 but that'd destroy the original material. 
 
@@ -170,7 +171,6 @@ a dig.webpignal that is rapidly switching on and off, mimicking an analog signal
 <figcaption>source: https://docs.arduino.cc/micropython/micropython-course/course/analog/</figcaption>
 
 
-
 ---
-more parts to read about are here:.webp://itp.nyu.edu/physcomp/labs/components/
+more parts to read about are here: https://itp.nyu.edu/physcomp/labs/components/
 

@@ -1,0 +1,1 @@
+professor at iiad during my first-year in undergraduate education. taught observation, and visual representation through analogue material. 
