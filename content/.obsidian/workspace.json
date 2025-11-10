@@ -4,123 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "927eb95020f17e11",
+        "id": "05b6bca35bc3ffcd",
         "type": "tabs",
         "children": [
           {
-            "id": "fe7e5985ad44042d",
+            "id": "a6bf4bbdf2bb106e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-computational-media/icm_class-10.md",
+                "file": "applications/essay_progress-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "icm_class-10"
-            }
-          },
-          {
-            "id": "b9db0bccb63ad7ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "applications/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "c00d703df7aa60fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-computational-media/icm_experiments_week-1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "icm_experiments_week-1"
-            }
-          },
-          {
-            "id": "a58bd8f4d75da82f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-computational-media/self-portrait.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "self-portrait"
-            }
-          },
-          {
-            "id": "268b9d289103b13d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "eyes are beautiful — they wander.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "eyes are beautiful — they wander"
-            }
-          },
-          {
-            "id": "d7755322f6e7cbdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-computational-media/icm_class-10.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "icm_class-10"
-            }
-          },
-          {
-            "id": "4a0b904bce656242",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-physical-computing/analog synthesizer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "analog synthesizer"
-            }
-          },
-          {
-            "id": "2be4996e0465a2eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-physical-computing/analog synthesizer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "analog synthesizer"
+              "title": "essay_progress-log"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -279,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -294,8 +197,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2be4996e0465a2eb",
+  "active": "a6bf4bbdf2bb106e",
   "lastOpenFiles": [
+    "z_images/image-3.png",
+    "applications/index.md",
+    "intro-to-physical-computing/analog synthesizer.md",
+    "intro-to-computational-media/icm_class-10.md",
+    "eyes are beautiful — they wander.md",
+    "intro-to-computational-media/self-portrait.md",
+    "intro-to-computational-media/icm_experiments_week-1.md",
     "z_images/IMG_6901.mp4",
     "z_images/IMG_6900.mp4",
     "set the stage, then shut up and listen, by tom igoe.md",
@@ -307,26 +217,20 @@
     "z_images/IMG_6903.webp",
     "intro-to-physical-computing/ipc_experiments_week-8_to_week-9 (all serial).md",
     "intro-to-physical-computing/index.md",
-    "intro-to-physical-computing/analog synthesizer.md",
     "z_images/reversed polarity.mp4",
     "z_images/analog-synth_1.mp4",
     "z_images/raw-speaker.mp4",
     "people/prisha.md",
     "hypercinema/index.md",
     "intro-to-computational-media/icm_experiments_week-11_to_week-12 (music).md",
-    "intro-to-computational-media/icm_class-10.md",
     "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
-    "intro-to-computational-media/icm_experiments_week-1.md",
     "applications/essay_progress-log.md",
-    "intro-to-computational-media/self-portrait.md",
     "intro-to-computational-media/icm_class-7.md",
     "intro-to-computational-media/icm_experiments_week-2.md",
     "intro-to-computational-media/icm_experiments_week-3.md",
     "intro-to-computational-media/icm_experiments_week-5.md",
     "intro-to-computational-media/icm_experiments_week-7.md",
     "intro-to-computational-media/index.md",
-    "intro-to-computational-media/a pretty definition of wonder.md",
-    "intro-to-computational-media/accuracy vs precision.md",
     "z_images/IMG_6886.webp",
     "z_images/IMG_6875.webp",
     "z_images/IMG_6873.webp",
@@ -341,7 +245,6 @@
     "z_images/ipc_start.mp4",
     "z_images/Screen Recording 2025-11-03 at 22.29.48.mp4",
     "z_images/new_251103.mp4",
-    "z_images/Screen Recording 2025-11-03 at 21.20.52.mp4",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"

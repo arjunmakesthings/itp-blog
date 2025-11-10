@@ -37,3 +37,67 @@ it economises.
 
 disconnection 
 
+---
+### 251110: 
+i met with [[people/sharon de la cruz|sharon de la cruz]] this past week. she rejected my central question, which stood at: 
+
+> how does changing the letter case of a piece of digitally-written communication affect the way that it feels (to the person who receives it)?
+
+in our conversation, she chat-gpt-ed the references i gave her (bauhaus, bayer, et-cetera), and then said that it is already documented that lowercase letters feel different than uppercase (or sentence-case) texts (and, so, we already *know* this). i was hesitant — because (a) brands writing their names in lowercase to appear more friendly is very different from what bayer proposed with long-body text being more harmonious; relating to my personal context — how i am *perceived* differently when i write in lower-case letters, and so on. but, fine, we had limited time and i couldn't argue. 
+
+next, she said that the data i would get is qualitative; to which i responded — "so?". the brief is so unclear — she mentions "testable"
+
+> Make the Question Specific and Testable
+> The central question should be clear and concise, and <mark>answerable through experimentation</mark>. Avoid vague terms and instead <mark>focus on measurable outcomes</mark>.
+> Example: Instead of asking, "How does temperature affect plant growth?", ask, "How does increasing the temperature by 5°C affect the height of tomato plants over 30 days?"
+> 
+> Ensure the <mark>Question is Open-Ended</mark> (For Exploration)
+> Avoid yes/no questions. Your question should invite investigation rather than a simple answer. A good question often starts with "How," "What," or "Why."
+> 
+> Consider Feasibility
+> You have a week to conduct your experiment. <mark>What can you measure</mark> and with what tools? If you want to research that involves machine learning, you shouldn’t try to build your own machine learning software; instead, use preexisting tools. 
+
+well then, the premise of this is flawed. qualitative data cannot be 'measured'. we do not have enough time for quantitative data. therefore, what really makes a good central question? 
+
+so, i first thought about it and then read a bunch of things. 
+
+![[image-3.png|551x278]]
+
+
+
+
+i then got annoyed and wrote sharon this email: 
+
+> dear sharon, 
+> 
+> for the last couple of days, i've just been bouncing around in circles. i need clarity on the ask, so i'd like to ask a few questions: 
+> 
+> 1) your central-question-ask mentions the words: "measurable outcomes" and "what can you measure (in a week)". our conversation went to qualitative-data collection last saturday. so, my question is: are we only looking at quantitative data for this assignment? (because qualitative data cannot be measured, and, therefore, will not meet the ask set in your brief). if not, then what is wrong with the varied outcomes that i might get in my experiement? i will, of course, analyse the data to uncover themes & patterns (which will group individual responses to more collective ones). 
+>    
+>    2) next, what are your factors for a 'passable' central question? because, when i read the brief, and think about your answer to my question in class, my initial central-question meets those requirements: specific interest, scratches curiosity, invites investigation, am conducting an experiment, is feasible, is related to the work i shall do (i will communicate with human-beings forever), gets me to reflect on making-methodology, practices communication (because i will focus on the writing), et-cetera. a list would help, so that i can align my curiosity with the ask of the class. 
+>    
+>    3) lastly, if i understand correctly, the objective of this assignment is not to produce new knowledge. why, then, must i uncover something that has not been documented before? when i conduct the same experiment, all the variables change — i am interacting with my friends, in another environment, et-cetera. so, the values will also change. the design of my experiment will also be different than others — because i am not looking for scientific validity. so, even though — say — brands have 'understood' that writing in lowercase feels more friendly (or whatever), the experiment was more around my communication with friends — how does the image of me change if i write with a different case? isn't that a valid experiment? because we weren't going for scientific accuracy anyway. 
+>       
+>    i am very confused and the 20-minute session last time did not help. the answer to (2) would help greatly. thank you!
+>    
+>    and, you asked me "so what" — as in how will understanding this help me? but it will — people in the world still write in sentence-cases (the reasons for which i will uncover in the essay (letterpress-remnant, need to distinguish, english being a bicameral language (or so it is thought), et-cetera.)). gah, i'm confused!
+>    
+>    best, 
+> 	arjun. 
+
+and then we hopped on a zoom-call to resolve this. 
+
+i understood that her concern was about application (makes sense since the class is about 'application'). 
+
+
+
+
+
+
+
+
+
+
+
+
+
