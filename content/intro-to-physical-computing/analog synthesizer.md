@@ -7,7 +7,7 @@ draft: "false"
 ---
 originally, for my [[intro-to-physical-computing/final-project-log|final-project-log]], i wanted to build a synthesizer without a microcontroller that simply used electricity to generate sound (that i could then orchestrate musically). 
 
-this project is parked academically for now, and i will work on it as & when i get some time.
+this project is **not** an academic priority. i work on it as & when i get time, and this log is sorted by most recent experiment first (see dates on titles). 
 
 ---
 ### 251109: 
