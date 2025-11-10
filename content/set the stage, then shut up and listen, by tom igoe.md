@@ -6,7 +6,9 @@ noteOrder: "173"
 draft: "false"
 ---
 # thoughts: 
-felt very similar to [[kishore]] telling me
+felt very similar to [[kishore]] telling me to never include concept notes in a piece of visual work.
+
+i believe it's true: you make work (set the stage), and then put it in conversation with people (by sitting back & watching people 'interact' with your work). 
 
 ---
 # quotes: 
