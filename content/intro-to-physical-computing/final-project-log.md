@@ -33,6 +33,28 @@ then, we got more specific and decided to build a robot that <mark>helps people 
 ![[z_images/IMG_6875.webp]]
 
 ---
+# preliminary research: 
+i first began to look at [why human beings fight](https://www.jstor.org/stable/10.2307/27173623), how humans [resolve conflict](https://www.youtube.com/watch?v=DoCi_JECwvY), and then proceeded to look at 'robot-based mediation' such as in [this](https://dl.acm.org/doi/abs/10.1145/3171221.3171248) project.
+
+i quickly sensed that a robot actually mediating a conflict (such as by asking "what do you think went wrong", et. al.) *feels* extremely dehumanising. a person mediating conflict (such as a boss or 'team-lead') is also dehumanising. 
+
+so, i looked at other interesting aspects of conflict. 
+
+![[z_images/IMG_6903.webp]]
+
+for me, it makes more sense to help people identify that a conflict is taking place, or mediate more implicitly. there are two ideas in the above map (in boxes) that illustrate the same. i quite like the pixar-lamp one. 
+
+---
 # research dump: 
 a robot persuading other robots to go home: https://www.youtube.com/watch?v=3UIYN2fuZYc
+
+this is **not** what we're building: 
+- https://www.youtube.com/shorts/6_xwVm2xtvo
+- https://youtu.be/2q3slz_F_rg
+
+^ even though the above are 'expressive' robots. 
+
+
+
+
 

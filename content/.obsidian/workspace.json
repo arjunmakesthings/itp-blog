@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/analog synthesizer.md",
+                "file": "intro-to-physical-computing/final-project-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "analog synthesizer"
+              "title": "final-project-log"
             }
           }
         ],
@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -297,11 +298,14 @@
   },
   "active": "2be4996e0465a2eb",
   "lastOpenFiles": [
+    "z_images/IMG_6903.webp",
+    "intro-to-physical-computing/ipc_experiments_week-8_to_week-9 (all serial).md",
+    "intro-to-physical-computing/index.md",
+    "intro-to-physical-computing/analog synthesizer.md",
     "z_images/reversed polarity.mp4",
     "z_images/analog-synth_1.mp4",
     "z_images/raw-speaker.mp4",
     "people/prisha.md",
-    "intro-to-physical-computing/analog synthesizer.md",
     "hypercinema/index.md",
     "intro-to-computational-media/icm_experiments_week-11_to_week-12 (music).md",
     "intro-to-computational-media/icm_class-10.md",
@@ -323,8 +327,6 @@
     "intro-to-computational-media/icm_class-3.md",
     "intro-to-computational-media/icm_class-4.md",
     "intro-to-computational-media/icm_class-5.md",
-    "intro-to-computational-media/icm_class-6.md",
-    "intro-to-computational-media/icm_class-8.md",
     "z_images/IMG_6886.webp",
     "z_images/IMG_6875.webp",
     "z_images/IMG_6873.webp",
@@ -342,7 +344,6 @@
     "z_images/new_251103.mp4",
     "z_images/Screen Recording 2025-11-03 at 21.20.52.mp4",
     "z_images/sketch_251102.mp4",
-    "z_images/IMG_6810.mp4",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"
