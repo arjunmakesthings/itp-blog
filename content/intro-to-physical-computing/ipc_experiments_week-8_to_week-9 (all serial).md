@@ -123,12 +123,12 @@ but this was a bad attempt. it's difficult to do so; since everything relies on 
 ![[Screenshot 2025-11-06 at 16.05.18.png]]
 
 ---
-to do when i understand serial-communication:
+### 251110: 
 
-i took a simple variation of a larger idea that i was pursuing in [[intro-to-computational-media/icm_experiments_week-9_to_week-10|icm_experiments_week-9_to_week-10]]: 
+i understood that read_line reads until a newline character is detected. you can then parse the data, since you know the range that p5 is going to receive.
 
-![[z_images/ipc_start.mp4]]
+![[z_images/Screenshot 2025-11-10 at 19.13.08.webp]]
 
+i thought about making something with serial-communication, but decided against it. i know that i can refer to this / make it work when i need to — such as when i need to think about a new input device. 
 
-
-
+however, for now, i decided to spend my time elsewhere. 

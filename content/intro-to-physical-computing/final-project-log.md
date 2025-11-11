@@ -43,9 +43,7 @@ so, i looked at other interesting aspects of conflict.
 ![[z_images/IMG_6903.webp]]
 
 for me, it makes more sense to help people identify that a conflict is taking place, or mediate more implicitly. there are two ideas in the above map (in boxes) that illustrate the same. i quite like the pixar-lamp one. 
-
----
-# research dump: 
+#  dump: 
 a robot persuading other robots to go home: https://www.youtube.com/watch?v=3UIYN2fuZYc
 
 this is **not** what we're building: 
@@ -54,6 +52,21 @@ this is **not** what we're building:
 
 ^ even though the above are 'expressive' robots. 
 
+---
+### 251110: 
+i then met with [[people/aram|aram]] & [[people/bolong|bolong]]. we spoke about research that people had done, and i realised that both of them were more concerned about the project looking good for the winter-show, while i was concerned about the project itself. 
+
+working in groups has always been hard for me. but i decided to go with it — i'm here to learn (and this is part of the learning). 
+
+anyway, after a lot of back & forth, we arrived at an idea where the conflict is amongst the robots (and the human is causing it). this thing is not purposeful (and i perhaps have a little bit of disdain towards that), but why not. not like we'd come up with something purposeful in a 4-week long project (i tried for 4 years, and 3 years 'professionally' after that). 
+
+![[z_images/IMG_6905.webp]]
+
+here are more resolved drawings that explain the idea: 
+
+![[z_images/robot-cubes.webp]]
+
+![[z_images/image-5.webp|542x601]]
 
 
 
