@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "qualia.md",
+                "file": "terms & concepts/qualia.md",
                 "mode": "source",
                 "source": false
               },
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -213,8 +212,9 @@
   },
   "active": "7597c5c032e1e2d4",
   "lastOpenFiles": [
-    "qualia.md",
-    "qualia.md",
+    "terms & concepts/hoisting.md",
+    "terms & concepts/qualia.md",
+    "terms & concepts/qualia.md",
     "intro-to-physical-computing/final-project-log.md",
     "z_images/image-5.webp",
     "z_images/robot-cubes.webp",
@@ -250,7 +250,6 @@
     "intro-to-computational-media/icm_experiments_week-2.md",
     "intro-to-computational-media/icm_experiments_week-3.md",
     "intro-to-computational-media/icm_experiments_week-5.md",
-    "intro-to-computational-media/icm_experiments_week-7.md",
     "z_images/IMG_6886.webp",
     "z_images/IMG_6875.webp",
     "z_images/IMG_6873.webp",
