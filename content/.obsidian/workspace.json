@@ -35,8 +35,7 @@
               "title": "qualia"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,11 +209,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7597c5c032e1e2d4",
+  "active": "a6bf4bbdf2bb106e",
   "lastOpenFiles": [
+    "terms & concepts/qualia.md",
     "terms & concepts/hoisting.md",
-    "terms & concepts/qualia.md",
-    "terms & concepts/qualia.md",
     "intro-to-physical-computing/final-project-log.md",
     "z_images/image-5.webp",
     "z_images/robot-cubes.webp",

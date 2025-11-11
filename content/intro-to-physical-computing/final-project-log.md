@@ -69,5 +69,8 @@ here are more resolved drawings that explain the idea:
 ![[z_images/image-5.webp|542x601]]
 
 
+the interesting bit is that the human plays god. they can choose to have a fairer world (by shining light near the most deprived unit), or have an unfair world (make the rich richer). the extension of this idea would be to make each unit behave differently (so that god (human) could choose favourites). 
+
+---
 
 
