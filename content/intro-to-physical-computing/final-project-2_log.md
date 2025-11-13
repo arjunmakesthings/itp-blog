@@ -75,7 +75,28 @@ basically, by changing threshold & trigger, i can change what is sent out (high 
 
 but these are then inverted and sent to a flip-flop. i don't know why they're inverted, but ok. 
 
+the s/r flip flip has two inputs: 
 
+s(et) and r(eset), and output is q or !q. 
+
+![[z_images/Screenshot 2025-11-13 at 11.38.58.webp]]
+
+![[z_images/Screenshot 2025-11-13 at 11.39.45.webp]]
+<figcaption>truth table for threshold / trigger and !q output.</figcaption>
+
+!q is fed through an inverter, meaning that the !q output actually results in q output when going out from pin-3. 
+
+control-pin on pin-5 connects directly to comparator negative. so, basically, the comparator voltage does not need to be 2/3rds of vcc all the time.
+
+if reset is set to off, the flip-flop turns off and resets the timer. 
+
+value of capacitor connection on discharge pin can be used to set value of timing on the 555.
+
+modes of the 555 (control output pulses via triggers): 
+
+![[z_images/Screenshot 2025-11-13 at 11.45.30.webp]]
+
+![[z_images/Screenshot 2025-11-13 at 11.48.47.webp]]
 
 
 
