@@ -14,6 +14,16 @@ this time, instead of seeing the things we can't, i wanted to focus on hearing t
 so, for my final project (see original attempt at [[intro-to-physical-computing/final-project-1_log|final-project-1_log]]), i want to build a portable, hackable synthesizer, without a microcontroller, that simply uses electricity to generate sound (that i could then orchestrate musically). 
 
 ---
+
+> But on the other hand, if you think about the “laptop music” style of performance which is currently in vogue, you might notice that there could be a problem, even if the music sounds good, with watching a person sitting in front of a computer and operating the mouse and keyboard. It is just too depressingly similar to what hundreds of millions of workers have to do from nine to five at the office. 
+> 
+> When evening comes and we go to the concert, we might like to experience something different, something visceral, something that is a direct result of muscular energy. We might like the relief of something zany and crazy.
+> 
+> As Antonin Artaud said, there are plenty of people in the real world with two arms and two legs; in the theater we would like to see creatures with three.
+> 
+> from [[handmade electronic music, by nicolas collins]]. 
+
+---
 # ethos: 
 every time i open this page to update, i want to remind myself this: 
 
