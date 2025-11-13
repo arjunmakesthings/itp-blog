@@ -21,7 +21,7 @@ eventually, they made a robot that expressed feelings such as happiness, being s
 
 ![[z_images/Screenshot 2025-11-07 at 19.46.36.webp|460x300]]
 
-after my [[intro-to-physical-computing/midterm reflection|midterm reflection]] & short interaction with them during the midterm, i decided to work with them for the finals. originally, i wanted to make an [[intro-to-physical-computing/final-project-2_log|final-project-2_log]], but not working individually was something that i wanted to experience after my midterms. 
+after my [[intro-to-physical-computing/midterm reflection|midterm reflection]] & short interaction with them during the midterm, i decided to work with them for the finals. originally, i wanted to make an analog synthesiser(see [[intro-to-physical-computing/final-project-2_log|final-project-2_log]]), but not working individually was something that i wanted to experience after my midterms. 
 
 so, i ended up working with these three:
 
@@ -81,6 +81,8 @@ the interesting bit is that the human plays god. they can choose to have a faire
 [[people/aram|aram]] & [[people/bolong|bolong]] wanted to improve their previously made lamp project, and i was beginning to tell that it wouldn't satisfy my curiosity. time was also flying by, and changing the 'what' wasn't an idea i was comfortable with. 
 
 i knew the two of them had very specific interests, and worked well together. [[people/aram|aram]] & i desperately wanted to work together, but i decided that it's best if we do our finals separately. 
+
+then, [[people/tom|tom]] & i spoke, and he helped narrow down the other ideas i had. he asked me where the learning would be richest for me, and i knew the answer. we decided against trying to make something for the show, and strived to make a project that does justice to the course (and my curiosity within the course). 
 
 so, i focused on making an analog synthesiser instead (see: [[intro-to-physical-computing/final-project-2_log|final-project-2_log]]). 
 

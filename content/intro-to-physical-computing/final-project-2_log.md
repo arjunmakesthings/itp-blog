@@ -14,6 +14,12 @@ this time, instead of seeing the things we can't, i wanted to focus on hearing t
 so, for my final project (see original attempt at [[intro-to-physical-computing/final-project-1_log|final-project-1_log]]), i want to build a portable, hackable synthesizer, without a microcontroller, that simply uses electricity to generate sound (that i could then orchestrate musically). 
 
 ---
+# ethos: 
+every time i open this page to update, i want to remind myself this: 
+
+> the point of this project is to <mark>experiment</mark>, and to <mark>further my understanding</mark> of how electricity moves (and produces sound). 
+
+---
 ### 251109: 
 [[prisha]] responded to my request of 555-timer-ics, after [[people/david rios|david rios]]'s recommendations of using them. she shared the book: *handmade electronic music*, by nicolas collins.
 
