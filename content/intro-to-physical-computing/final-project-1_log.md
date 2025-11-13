@@ -5,6 +5,11 @@ tags:
 noteOrder: "168"
 draft: "false"
 ---
+# note: 
+this project is archived (scroll to the end to see why). the final for my [[intro-to-physical-computing]] is found in [[intro-to-physical-computing/final-project-2_log|final-project-2_log]]. 
+
+---
+
 when i worked on my midterm (see [[intro-to-physical-computing/midterm-log|midterm-log]]), [[people/aram|aram]] had reached out to me about wanting to work together. at that time, i wanted to work by myself; so, he ended up working with [[people/bolong|bolong]] instead. 
 
 the two of them were interested in robots, and they attempted to make a robot that expressed emotions through movement.
@@ -16,7 +21,7 @@ eventually, they made a robot that expressed feelings such as happiness, being s
 
 ![[z_images/Screenshot 2025-11-07 at 19.46.36.webp|460x300]]
 
-after my [[intro-to-physical-computing/midterm reflection|midterm reflection]] & short interaction with them during the midterm, i decided to work with them for the finals. originally, i wanted to make an [[intro-to-physical-computing/analog synthesizer|analog synthesizer]], but not working individually was something that i wanted to experience after my midterms. 
+after my [[intro-to-physical-computing/midterm reflection|midterm reflection]] & short interaction with them during the midterm, i decided to work with them for the finals. originally, i wanted to make an [[intro-to-physical-computing/final-project-2_log|final-project-2_log]], but not working individually was something that i wanted to experience after my midterms. 
 
 so, i ended up working with these three:
 
@@ -72,5 +77,10 @@ here are more resolved drawings that explain the idea:
 the interesting bit is that the human plays god. they can choose to have a fairer world (by shining light near the most deprived unit), or have an unfair world (make the rich richer). the extension of this idea would be to make each unit behave differently (so that god (human) could choose favourites). 
 
 ---
+### 251111: 
+[[people/aram|aram]] & [[people/bolong|bolong]] wanted to improve their previously made lamp project, and i was beginning to tell that it wouldn't satisfy my curiosity. time was also flying by, and changing the 'what' wasn't an idea i was comfortable with. 
 
+i knew the two of them had very specific interests, and worked well together. [[people/aram|aram]] & i desperately wanted to work together, but i decided that it's best if we do our finals separately. 
+
+so, i focused on making an analog synthesiser instead (see: [[intro-to-physical-computing/final-project-2_log|final-project-2_log]]). 
 
