@@ -54,6 +54,29 @@ photoresistor instead of a 0.01-uf capacitor.
 ![[z_images/IMG_6901.mp4]]
 
 ---
+### 251113: 
+i realised that my main tool was the 555-timer-ic (even though other fancier chips exist). i decided to spend some time understanding it. 
+
+[[people/david rios|david rios]] shared this video: https://www.youtube.com/watch?v=ABWU7FlM1T0
+
+these are my notes: 
+- can be used as a timer, oscillator, or flip-flop. 
+- monolithic timing circuit. 
+- drive ttl logic (logic-gates).
+
+![[z_images/Screenshot 2025-11-13 at 11.01.05.webp]]
+<figcaption>pins.</figcaption>
+
+inside the ic, 3 resistors create a voltage-divide. two comparators compare voltage across the positive & negative end of themselves, and output a digital signal of high & low.
+
+basically, by changing threshold & trigger, i can change what is sent out (high or low). 
+
+![[z_images/Screenshot 2025-11-13 at 11.02.57.webp]]
+
+but these are then inverted and sent to a flip-flop. i don't know why they're inverted, but ok. 
+
+
+
 
 
 ---
