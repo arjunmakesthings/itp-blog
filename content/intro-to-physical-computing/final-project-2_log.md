@@ -98,6 +98,24 @@ modes of the 555 (control output pulses via triggers):
 
 ![[z_images/Screenshot 2025-11-13 at 11.48.47.webp]]
 
+---
+### 25114: 
+i watched a lot of videos to understand the 555-timer. struggled. i need to understand it to be able to extract the most from it. 
+
+i made many, many circuits, and used the oscilloscope. nothing was substantial. then, i found this tutorial: https://www.youtube.com/watch?v=7PxkpQSsJ3E
+
+![[Screenshot 2025-11-14 at 21.23.33.png]]
+
+i understood how to make a voltage controlled oscillator using voltage dividers.  
+
+![[z_images/vco_251114.mp4]]
+
+high-frequency pitch bender: 
+
+![[z_images/IMG_6925.mp4]]
+
+i can use this to change pitch by adding a fsr between the resistors. circuit for the future: 
+
 
 
 ---
