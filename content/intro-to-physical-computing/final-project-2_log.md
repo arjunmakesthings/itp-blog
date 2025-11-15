@@ -132,7 +132,15 @@ my oscilloscope readings were all over the place. i don't know why the signal is
 
 watched this: https://www.youtube.com/watch?v=Q5tcf1pYZRc
 
+hell yeah!
 
+![[z_images/IMG_6933.mp4]]
+
+![[z_images/IMG_6935.mp4]]
+
+i realised quickly that the pretty bit about this is the tangibility & the fact that you can mess around with it. i'm going to have two types of wires on my thing — one will be flat / solid (people don't seem to want to take that out), and jumper wires (with a sign that says "mess around with any jumper wire"). 
+
+![[z_images/IMG_6934.mp4]]
 
 ---
 # references: 
