@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -199,6 +198,8 @@
   },
   "active": "1fa245ecdea938b5",
   "lastOpenFiles": [
+    "people/ivan.md",
+    "intro-to-physical-computing/final-project-2_log.md",
     "z_images/IMG_6927.webp",
     "z_images/IMG_6926.webp",
     "z_images/IMG_6925.mp4",
@@ -208,7 +209,6 @@
     "hypercinema/final-project-log.md",
     "projects-by-other-people/undo, by zongze chen.md",
     "hypercinema/index.md",
-    "intro-to-physical-computing/final-project-2_log.md",
     "z_images/Screenshot 2025-11-13 at 11.48.47.webp",
     "z_images/Screenshot 2025-11-13 at 11.45.30.webp",
     "z_images/Screenshot 2025-11-13 at 11.39.45.webp",
@@ -217,7 +217,6 @@
     "z_images/Screenshot 2025-11-13 at 11.01.05.webp",
     "handmade electronic music, by nicolas collins.md",
     "z_images/IMG_6912.webp",
-    "z_images/IMG_6911 2.webp",
     "intro-to-physical-computing/final-project-1_log.md",
     "intro-to-physical-computing/midterm-log.md",
     "intro-to-physical-computing/ipc_experiments_week-8_to_week-9 (all serial).md",

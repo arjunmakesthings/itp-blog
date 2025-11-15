@@ -127,6 +127,14 @@ the next approach that i'm going to take is to build a bunch of circuits, and ha
 eventually, i can pick-choose the circuits i'm going to keep. let's see. 
 
 ---
+### 251115: 
+my oscilloscope readings were all over the place. i don't know why the signal isn't clean, and why it pauses every time it takes a few readings. i then decided to change the duty-cycle, to be able to actually see what was happening ([[people/ivan|ivan]] suggested that this might be the case). 
+
+watched this: https://www.youtube.com/watch?v=Q5tcf1pYZRc
+
+
+
+---
 # references: 
 [[people/david rios|david rios]] shared these: 
 - https://www.electronics-tutorials.ws/waveforms/555_oscillator.html
