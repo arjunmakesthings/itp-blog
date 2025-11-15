@@ -116,7 +116,11 @@ high-frequency pitch bender:
 
 i can use this to change pitch by adding a fsr between the resistors. circuit for the future: 
 
+![[z_images/IMG_6926.webp]]
 
+this circuit also worked like a metronome, but the ic got really hot. i still don't know why. i built this circuit myself. 
+
+![[z_images/IMG_6927.webp]]
 
 ---
 # references: 
