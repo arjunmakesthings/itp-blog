@@ -142,6 +142,13 @@ i realised quickly that the pretty bit about this is the tangibility & the fact 
 
 ![[z_images/IMG_6934.mp4]]
 
+in the above circuit, i have no idea what i did. theoretically, i think by plugging in the output of the first circuit into the control voltage does something to the signal (distort it by multiplying), and then the resistance + capacitance value changes the timing. since it is related to (but not the same as) the first circuit, they have a little bit of a delay in between them. 
+
+actually, i don't know. this is fun. 
+
+---
+
+
 ---
 # references: 
 [[people/david rios|david rios]] shared these: 
