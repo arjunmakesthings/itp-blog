@@ -122,11 +122,19 @@ this circuit also worked like a metronome, but the ic got really hot. i still do
 
 ![[z_images/IMG_6927.webp]]
 
+the next approach that i'm going to take is to build a bunch of circuits, and have them all separated on a big breadboard. that way, i can plug circuits in & out, and see what kinds of sounds i can produce (and layer). i know that the output of some 555 has to be the control of another, and that way it can on / off to produce alternating sound. 
+
+eventually, i can pick-choose the circuits i'm going to keep. let's see. 
+
 ---
 # references: 
 [[people/david rios|david rios]] shared these: 
 - https://www.electronics-tutorials.ws/waveforms/555_oscillator.html
 - https://www.instructables.com/Schmitt-Trigger-Synthesizer/
+- forrest cookbooks: https://research.ebsco.com/c/srayvq/ebook-viewer/pdf/w2c446nmsr/page/pp_19
 
+et-cetera: 
+- https://www.youtube.com/shorts/KxDpLPrmXL4
+- [[people/shloka|shloka]] shared this: https://www.youtube.com/watch?v=Xbl1xwFR3eg
 
 
