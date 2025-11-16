@@ -147,7 +147,11 @@ in the above circuit, i have no idea what i did. theoretically, i think by plugg
 actually, i don't know. this is fun. 
 
 ---
+this is weirddddd! what is this: 
 
+for context: there is no photoresistor here, but current flows as my hand is on top. 
+
+![[z_images/ghost mode hq.mp4]]
 
 ---
 # references: 
