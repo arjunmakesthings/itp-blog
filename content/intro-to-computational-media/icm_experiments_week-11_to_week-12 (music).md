@@ -258,3 +258,13 @@ class Cell {
 }
 
 ```
+
+---
+### 251116: 
+[[nnenna]] & i met, and spoke about what we were curious about: 
+
+![[image-5.png]]
+
+we both decided to experiment with messing up the microphone-input. i was inspired by [manaswi's work](https://manaswimishra.com/portfolio/fmdum-live-performing-indian-music-through-a-filter-of-foundation-models/).
+
+---
