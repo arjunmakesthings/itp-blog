@@ -89,6 +89,36 @@ and then we hopped on a zoom-call to resolve this.
 
 i understood that her concern was about application (makes sense since the class is about 'application'). 
 
+![[z_images/image-6.webp]]
+
+---
+my question changed many times. 
+
+![[z_images/Screenshot 2025-11-17 at 11.00.26.webp]]
+
+the final question then arose from the following lines of thought: 
+- we communicate frequently with strangers on the internet; meaning that we form a sense of their personality based on their messages. 
+- johanna drucker, in *graphic devices: narration and navigation* argues that "<mark>graphic elements do more than structure</mark> the conditions in which narration is produced ... <mark>they contribute to the production of the narrative</mark> in substantive ways."
+- david (jhave) johnston, in *the assimilation of text by image*, presents the case of embodied typography; more particularly: "What these features  share is that they are all primarily attributes of matter. They reference the  world directly in ways that do not require literacy; they are read by  experienced embodied subjectivity. <mark>As humans, we have tasted honey, known  or heard of gold, walked a labyrinth (or studied a curl of smoke), and held  things in our hands. So the typography is speaking to the body at a lived level.  It is engaging with the energy of our hands, muscles, and tongue</mark>."
+- the above two points clearly indicate that the display of words has immense power over the narrative. 
+- however, if you look at most interfaces today, especially ones where we *share our narrative* especially via written word (and not images) (such as dating apps, blogging platforms, social-media, et-cetera), the ability to customise the display of letterforms (and its interface) is not provided to a person. essentially, we are robbing people of powerful ways to express them. 
+- but, this argument is moot if i cannot prove that intentional changes in typography can make a message *feel* more like a person. 
+
+i then narrowed down the parameters of text: 
+
+![[image-6.png]]
+
+then, thought of the experiment: 
+
+![[image-8.png]]
+
+i had two lines of thought. one was motivated by the idea of getting more people to try it (by asking people if they wanted to know whether their best friend knows them well, to be able to get more people for my experiment), and the other one was truer to my question. 
+
+so, i chose & developed the second one.
+
+---
+
+
 
 
 
