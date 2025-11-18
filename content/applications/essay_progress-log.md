@@ -117,9 +117,13 @@ i had two lines of thought. one was motivated by the idea of getting more people
 so, i chose & developed the second one.
 
 ---
+i then set up an interface where people could change different typographic settings. 
 
+![[z_images/Screenshot 2025-11-18 at 00.54.13.webp]]
 
+and made an advert to stick on the walls of the floor: 
 
+![[z_images/research-advert.webp]]
 
 
 
