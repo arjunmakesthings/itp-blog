@@ -516,5 +516,9 @@ class Voice {
 }
 ```
 
+---
+[[people/nnenna|nnenna]] & i jammed together for an hour, and decided to add switches (convert to osc or not): 
+
+![[z_images/Screen Recording 2025-11-19 at 11.00.12.mp4]]
 
 
