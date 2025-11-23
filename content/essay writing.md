@@ -9,7 +9,12 @@ draft: "false"
 
 # title: 
 
-# intr
+# introduction: 
+as of february 2025, there are over 5.25 billion social-media 'user' identities in the world. that is ~5.25 billion 
+
+in *graphic devices: narration and navigation*, johanna drucker argues that graphic elements do more than simply structure narration, but affect the narrative itself. 
+
+there are over 5.25 billion social media 'user' identities in the world — that is about 63.9% of the world's population (https://datareportal.com/reports/digital-2025-global-overview-report?utm_source=chatgpt.com. )
 
 ---
 # asks: 
