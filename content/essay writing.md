@@ -9,6 +9,21 @@ draft: "false"
 
 # title: 
 
+introduction: 
+say how much usage is text. how text affects narrative. 
+
+dive into analogous contemporary — handwriting. people have perceived personalities through handwriting. 
+
+even though we write & share more, we use nondescript typefaces. however, typographical artists use it. artists use it for portfolios. but not for texting? 
+
+take dating as an example. 
+
+experiments. 
+
+results. 
+
+conclusion. 
+
 # introduction: 
 as of february 2025, there are over 5.25 billion social-media 'user' identities in the world. that is ~5.25 billion 
 
