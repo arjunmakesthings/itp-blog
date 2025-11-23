@@ -52,3 +52,17 @@ what i lean towards more graphic-design wise — 
 i personally lean more towards sans serif and yellow, these are personal preferences. so, i was trying to balance things i like to do design wise and do my best to make it fit the traits i gave.
 
 to incorporate all the traits i would use two typefaces. 
+
+---
+# aram (p4): 
+- adventurous
+- experimental
+- fluid
+- care-giving / carer
+- invested / passionate
+
+wants to try. wants to change individual characters. 
+
+what is leading? 
+
+fits words. 
