@@ -9,7 +9,7 @@ draft: "false"
 
 # on regaining control over our letterforms.
 
-# regaining typographical control: the starting point for a more expressive internet.
+# a plea for typographical control: the starting point for a more expressive internet.
 
 # 1. introduction
 as of february 2025, there exist more than 5.25 billion social-media 'user' identities in the world[^1] — 63% of the world's population is expressing itself online. 
@@ -28,11 +28,17 @@ this essay argues against the idea of letterforms simply being a vessel for stor
 
 ---
 
+in *graphic devices: narration and navigation*, johanna drucker introduces the term 'graphic devices'. she writes — "in my usage, the term graphic includes all aspects of layout and composition by which elements are organized on a surface". then, she presents the argument that graphic elements do more than simply structure narration — they affect the narrative itself in *substantive* ways.
 
+early in *the assimilation of text by image*, david (jhave) jhonston argues that typography speaks to the body at a lived level. he writes — (while speaking about illuminated manuscripts from the 5th-15th century) "they physically emulate forms of choreography .... the curlicue swirls that  adorn these letterforms are the typographic-equivalent of the death flourishes  of Sarah Bernhardt or the guitar licks of Jerry Garcia: torsional excess,  magnetic vortices seeking to entice ... what these features  share is that they are all primarily attributes of matter. they reference the  world directly in ways that do not require literacy; they are read by experienced embodied subjectivity. as humans, we have tasted honey, known  or heard of gold, walked a labyrinth (or studied a curl of smoke), and held  things in our hands. so the typography is speaking to the body at a lived level. it is engaging with the energy of our hands, muscles, and tongue".
 
-in *graphic devices: narration and navigation*, johanna drucker presents the term 'graphic devices'. she writes — "in my usage, the term graphic includes all aspects of layout and composition by which elements are organized on a surface". then, she further argues that graphic elements do more than simply structure narration, but affect the narrative itself in *substantive ways*. 
+the above two examples provide enough inertia to re-examine the power of typography in digital environments, and seeing how perceptible expressive changes *actually* could be. in my study, i use the context of a personal-messaging-interface, something like a mock dating application, where people *have* to make a judgement about the messenger's personality (who is also a stranger). 
 
-using that definition, graphic elements in a bare-minimum-personal-messaging-interface can be thought of as: 
+---
+# 2: setup of the experiments: 
+the objectives of the experiments were to: (a) see what graphic elements people would change in a typographically-heavy interface, if tasked with making the display of a message feel like certain personality traits; and (b) how accurately these changes translated into perception (by other strangers). 
+
+borrowing drucker's definition of graphic elements, a bare-minimum-personal-messaging-interface would contain the following: 
 - text (content) + its letter-case
 - container-colour
 - font-colour
@@ -45,13 +51,21 @@ using that definition, graphic elements in a bare-minimum-personal-messaging-int
 - kerning
 - background-colour
 
-currently, most messaging-platforms allow people the power to change only the content; that is 1/10 of the available graphic elements.
+currently, most messaging-platforms allow people the power to change 1/10th of the available elements — the content (and its casing, which is set as your phone's default). so, an interface was designed with a standard text-message (borrowed from apple's imessage design), which allowed people control over the different graphical elements. 
+
+*image*
+
+in experiment (a): a person was brought into a closed room, and was first asked to list 5 personality traits that they'd want their digital identity to give off on a dating application. the participant was then asked to craft a message (shaping the content). next, control was given over each graphic element sequentially, with the sole task of making the message *feel* as close as possible to the previously stated personality traits. for every graphic element, participants could either change the parameters or refuse to change them.
+
+*image*
+
+after the changes were made, participants were asked about what traits they felt were communicated by the display of their message and why they couldn't get certain traits across. this experiment was carried out with 4 participants.
+
+in experiment (b): a person was brought into an open space, and was quickly instructed about the premise of experiment (a) — that a person had made certain changes to the display of a message to communicate certain aspects of their personality. their task was to list personality traits that they thought were reflected in the message. this experiment was also carried out with 4 participants, but each participant was shown all 4 experiment (a) outputs; one after the other.
 
 ---
-# experiment:
-
-
-
+# results: 
+all participants 
 
 ---
 # asks: 
