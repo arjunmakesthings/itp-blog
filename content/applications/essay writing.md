@@ -20,11 +20,11 @@ this presents an interesting juxtaposition; i wonder — how can 5.25 billion u
 
 ---
 
-previous research over the years strongly suggests that small, concrete changes in typography can influence larger, more abstract perceptions about the communication & its source. for example, xiaobing xu, et. al., have shown that changing the letter-case of a wordmark can make a brand *feel* more or less authoritative & friendly. aekyoung kim & sam j. maglio have shown that letter-casing relates directly to the perception of gender; with lowercase letters *feeling* more feminine than uppercase ones (and vice-versa). finally, dawn shaikh & barbara chaparro have shown that even people who are not typographically sensistive — such as the "*casual consumers of onscreen information*" — also attribute personality descriptors to typefaces (such as 'courier-new' *feeling* more cool, stiff, passive, as opposed to 'poor richard', which *feels* more active & exciting). 
+previous research over the years strongly suggest that small, concrete changes in typography can influence larger, more abstract perceptions about the communication & its source. for example, xiaobing xu, et. al., have shown that changing the letter-case of a wordmark can make a brand *feel* more or less authoritative & friendly. aekyoung kim & sam j. maglio have shown that letter-casing directly related to the perception of the messenger's gender; with lowercase letters *feeling* more feminine than uppercase ones (and vice-versa). finally, dawn shaikh & barbara chaparro have shown that even people who are not typographically sensitive — such as the "*casual consumers of onscreen information*" — also attribute personality descriptors to typefaces (such as 'courier-new' *feeling* more cool, stiff, passive, as opposed to 'poor richard', which *feels* more active & exciting). 
 
-yet, in pursuit of efficiency, the purpose of typography on screens — even in places where people wish to express their identity — is reduced to mere legibility. dawn shaikh & barbara chaparro, in their study *perception of fonts: perceived personality traits and appropriate uses*, show that neutral, but legible, typefaces are normatively chosen as *feeling* 'appropriate' for digital screens; stripping letterforms off their expressive ability. 
+however, perhaps in pursuit of efficiency, the purpose of typography on screens — and especially in places where people express their personality — is reduced to mere legibility. in fact, dawn shaikh & barbara chaparro explicitly highlight this norm in their study *perception of fonts: perceived personality traits and appropriate uses*, by showing that people choose expressively-neutral, but legible, typefaces as more 'appropriate' for digital screens; thereby stripping letterforms off their innate expressive abilities.
 
-this essay argues against the idea of letterforms simply being a vessel for storing & transporting semantic content, and proposes that control over typography (and typographical elements) could lead to a more expressive internet. 
+this essay attempts to fight for that ability in digital-interfaces, and argues against the idea of letterforms simply being a vessel for storing & transporting semantic content. furthermore, it proposes that control over typography (and its environment) could lead to a more expressive internet.
 
 ---
 
@@ -32,7 +32,7 @@ in *graphic devices: narration and navigation*, johanna drucker introduces the t
 
 early in *the assimilation of text by image*, david (jhave) jhonston argues that typography speaks to the body at a lived level. he writes — (while speaking about illuminated manuscripts from the 5th-15th century) "they physically emulate forms of choreography .... the curlicue swirls that  adorn these letterforms are the typographic-equivalent of the death flourishes  of Sarah Bernhardt or the guitar licks of Jerry Garcia: torsional excess,  magnetic vortices seeking to entice ... what these features  share is that they are all primarily attributes of matter. they reference the  world directly in ways that do not require literacy; they are read by experienced embodied subjectivity. as humans, we have tasted honey, known  or heard of gold, walked a labyrinth (or studied a curl of smoke), and held  things in our hands. so the typography is speaking to the body at a lived level. it is engaging with the energy of our hands, muscles, and tongue".
 
-the above two examples provide enough inertia to re-examine the power of typography in digital environments, and seeing how perceptible expressive changes *actually* could be. in my study, i use the context of a personal-messaging-interface, something like a mock dating application, where people *have* to make a judgement about the messenger's personality (who is also a stranger). 
+the above two examples provide enough inertia to re-examine the power of typography in digital environments, and seeing how perceptible expressive-changes *actually* could be. in my study, i use the context of a personal-messaging-interface, something like a mock dating application, where people *have* to make a judgement about the messenger's personality (who is also a stranger). 
 
 ---
 # 2: setup of the experiments: 
@@ -40,8 +40,8 @@ the objectives of the experiments were to: (a) see what graphic elements people 
 
 borrowing drucker's definition of graphic elements, a bare-minimum-personal-messaging-interface would contain the following: 
 - text (content) + its letter-case
-- container-colour
-- font-colour
+- container-color
+- font-color
 - font
 - font-size
 - font-weight
@@ -49,23 +49,63 @@ borrowing drucker's definition of graphic elements, a bare-minimum-personal-mess
 - container-roundedness
 - leading
 - kerning
-- background-colour
+- background-color
 
-currently, most messaging-platforms allow people the power to change 1/10th of the available elements — the content (and its casing, which is set as your phone's default). so, an interface was designed with a standard text-message (borrowed from apple's imessage design), which allowed people control over the different graphical elements. 
+currently, most messaging-platforms allow people the power to change 1/10th of the available elements — the content (and its casing, which is set as the phone's default). so, an interface was designed with a standard text-message (borrowed from apple's imessage design), which allowed people control over the different graphical elements. 
 
 *image*
 
-in experiment (a): a person was brought into a closed room, and was first asked to list 5 personality traits that they'd want their digital identity to give off on a dating application. the participant was then asked to craft a message (shaping the content). next, control was given over each graphic element sequentially, with the sole task of making the message *feel* as close as possible to the previously stated personality traits. for every graphic element, participants could either change the parameters or refuse to change them.
+in experiment (a): a person was brought into a closed room, and was asked to list 5 personality traits that they'd want their digital identity to give off on a dating application. they were then asked to craft a two-line message (shaping the content). then, control was given over each graphic element sequentially, with the sole task of making the message *feel* as close as possible to the previously stated personality traits. for every graphic element, participants could either change the parameters or refuse to change them.
 
 *image*
 
 after the changes were made, participants were asked about what traits they felt were communicated by the display of their message and why they couldn't get certain traits across. this experiment was carried out with 4 participants.
 
-in experiment (b): a person was brought into an open space, and was quickly instructed about the premise of experiment (a) — that a person had made certain changes to the display of a message to communicate certain aspects of their personality. their task was to list personality traits that they thought were reflected in the message. this experiment was also carried out with 4 participants, but each participant was shown all 4 experiment (a) outputs; one after the other.
+in experiment (b): a person was brought into an open space, and was quickly instructed about the premise of experiment (a) — that a person had made certain changes to the display of a message to communicate certain aspects of their personality. their task was to list personality traits reflected in the message, based on their perception. this experiment was also carried out with 4 participants, but each participant was shown all 4 experiment (a) outputs; one after the other; with a control (initial state of the messaging application). 
+
+*image*
 
 ---
 # results: 
-all participants 
+### experiment(a): 
+all participants changed the container-color, followed by font and / or leading. no participant decided to change the kerning of the letterforms.
+
+*image*
+
+via conversations, i could establish that certain traits are easier to communicate via typographical change than others. for example, participant-1 (p1) said: "i don't know what i can change to make it feel more 'energetic'". 
+
+interestingly, the sole ability to make a change made many participants want to try. most of them said "can i see" / "can i try", for more complicated elements such as 'leading'. 
+### experiment(b): 
+very few traits come off as 1:1 matches between expression and perception. 
+
+*image*
+
+*image*
+
+this, i would argue, displays an inability to translate the abstract into concrete (personality trait into graphical element). however, the data immediately becomes more interesting when you let go of trying to match intention to result. 
+
+*image*
+
+this shows that there is a clear general image, congruent across participants, 
+
+
+when looking at the perceived data, there is a lot of variance. some participants of experiment (a) got a 1:1 match with how their message was perceived (such as in the case of p1). 
+
+*image*
+
+however, in others, it went completely opposite (such as in p4). 
+
+*image*
+
+i believe this highlights the inability to translate the abstract into concrete form (personality trait into graphics). 
+
+however, the data becomes more interesting if you let go of attempting to match intention to result. this shows that there is a clear general idea that a person could make from a typographically-manipulated text, and that there was similarity across different people perceiving the same data.
+
+*image*
+
+---
+
+
 
 ---
 # asks: 
