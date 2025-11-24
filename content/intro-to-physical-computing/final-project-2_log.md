@@ -154,6 +154,20 @@ for context: there is no photoresistor here, but current flows as my hand is on 
 ![[z_images/ghost mode hq.mp4]]
 
 ---
+
+i spent a night messing around with my circuit. 
+
+first, i understood that with more layers, mixing became a problem. it didn't play individual channels of sound, but rather added them together to create a single channel. that isn't great, musically. 
+
+![[z_images/IMG_6956.mp4]]
+
+achieved voluntary emf manipulation: 
+
+![[z_images/IMG_6959.mp4]]
+
+i just had to make bad circuitry on purpose. 
+
+---
 # references: 
 [[people/david rios|david rios]] shared these: 
 - https://www.electronics-tutorials.ws/waveforms/555_oscillator.html
