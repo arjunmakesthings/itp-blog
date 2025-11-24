@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essay writing.md",
+                "file": "applications/essay writing.md",
                 "mode": "source",
                 "source": false
               },
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "applications_experiment.md",
+                "file": "applications/applications_experiment.md",
                 "mode": "source",
                 "source": false
               },
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -239,7 +238,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "essay writing.md"
+                "file": "applications/essay writing.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -266,10 +265,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b6826165f3e58596",
+  "active": "32f876c5ef6f4df6",
   "lastOpenFiles": [
     "applications/essay_progress-log.md",
-    "essay writing.md",
+    "applications/essay writing.md",
     "intro-to-physical-computing/final-project-2_log.md",
     "z_images/99E4C8CE-0F0C-452D-8155-84158D13FC86.webp",
     "z_images/IMG_6954.webp",
@@ -277,12 +276,12 @@
     "z_images/IMG_6940.mp4",
     "z_images/IMG_6956.mp4",
     "z_images/IMG_6959.mp4",
-    "applications_experiment.md",
+    "applications/applications_experiment.md",
     "hypercinema/index.md",
     "hypercinema/final-project-log.md",
     "class selections.md",
     "flora residency log.md",
-    "icm_class-11.md",
+    "intro-to-computational-media/icm_class-11.md",
     "intro-to-computational-media/icm_experiments_week-11_to_week-12 (music).md",
     "applications/index.md",
     "z_images/Screenshot 2025-11-20 at 18.25.33.png",

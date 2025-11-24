@@ -28,7 +28,7 @@ this essay presents a case ...
 
 in *graphic devices: narration and navigation*, johanna drucker presents the term 'graphic devices'. she writes — "in my usage, the term graphic includes all aspects of layout and composition by which elements are organized on a surface". then, she further argues that graphic elements do more than simply structure narration, but affect the narrative itself in *substantive ways*. 
 
-using that definition, graphic elements in a bare-minimum-personal-messaging-interface are: 
+using that definition, graphic elements in a bare-minimum-personal-messaging-interface can be thought of as: 
 - text (content) + its letter-case
 - container-colour
 - font-colour
@@ -41,7 +41,11 @@ using that definition, graphic elements in a bare-minimum-personal-messaging-int
 - kerning
 - background-colour
 
-currently, most messaging-platforms allow people the power to change only the content; that is 1/10 graphic elements.
+currently, most messaging-platforms allow people the power to change only the content; that is 1/10 of the available graphic elements.
+
+---
+# experiment:
+
 
 
 
@@ -91,6 +95,9 @@ Final Thoughts: End with a thought-provoking statement or question that encourag
 References
 List all sources cited in your essay, following MLA citation style. 
 At least five citations required. 
+
+---
+- file:///Users/a/Downloads/graphology.pdf
 
 
 [^1]: A Need-finding Study for Understanding Text Entry in Smartphone App Usage: Text entry makes up about one-fourth of the smartphone interaction events, and is known to be challenging and difficult.
