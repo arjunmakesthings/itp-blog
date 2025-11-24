@@ -5,26 +5,30 @@ tags:
 noteOrder: "180"
 draft: "false"
 ---
-# draft: 
+# title:  dear interface-designers, we want control over our letterforms 
 
-# title:  dear interface-designers, we want control over our letterforms / on regaining control over our letterforms.
+# on regaining control over our letterforms.
 
 # regaining typographical control: the starting point for a more expressive internet.
 
 # 1. introduction
-as of february 2025, there exist more than 5.25 billion social-media 'user' identities in the world[^1] — 63% of the world's population is expressing itself online. while interaction over the internet remains largely multimodal, more than a fourth of all interactions deal with the display of textual information. in fact, i would reasonably argue that most communication over the internet happens via the exchange of latin alphabets — especially between two strangers living across two borders.
+as of february 2025, there exist more than 5.25 billion social-media 'user' identities in the world[^1] — 63% of the world's population is expressing itself online. 
 
-this presents an interesting juxtaposition; i wonder — why are 5.25 billion unique personalities forced to express via the same nondescript typeface? 
+while interaction over the internet remains largely multimodal, more than a fourth of all interactions deal with the display of textual information[^2]. in fact, i would reasonably argue that most communication between strangers over the internet happens via the exchange of latin alphabets. 
+
+this presents an interesting juxtaposition; i wonder — how can 5.25 billion unique personalities be forced to express via the same nondescript typeface? 
+
+---
+
+previous research over the years strongly suggests that small, concrete changes in typography can influence larger, more abstract perceptions about the communication & its source. for example, xiaobing xu, et. al., have shown that changing the letter-case of a wordmark can make a brand *feel* more or less authoritative & friendly. aekyoung kim & sam j. maglio have shown that letter-casing relates directly to the perception of gender; with lowercase letters *feeling* more feminine than uppercase ones (and vice-versa). finally, dawn shaikh & barbara chaparro have shown that even people who are not typographically sensistive — such as the "*casual consumers of onscreen information*" — also attribute personality descriptors to typefaces (such as 'courier-new' *feeling* more cool, stiff, passive, as opposed to 'poor richard', which *feels* more active & exciting). 
+
+yet, in pursuit of efficiency, the purpose of typography on screens — even in places where people wish to express their identity — is reduced to mere legibility. dawn shaikh & barbara chaparro, in their study *perception of fonts: perceived personality traits and appropriate uses*, show that neutral, but legible, typefaces are normatively chosen as *feeling* 'appropriate' for digital screens; stripping letterforms off their expressive ability. 
+
+this essay argues against the idea of letterforms simply being a vessel for storing & transporting semantic content, and proposes that control over typography (and typographical elements) could lead to a more expressive internet. 
 
 ---
 
-previous research indicates that small, concrete changes in typography can influence larger, abstract perceptions about what is being communicated and whom it is being communicated by. xu, et. al, have shown that changing the letter-case of wordmarks can make a brand appear more or less authoritative & friendly. maglio & kim have shown that lowercase letters are linked with feminity, while uppercase letters *feel* more masculine. shaikh & chapparo have shown that even people who are not typographically-sensitive — such as  'casual consumers of onscreen information' — *also* attribute personality descriptors to typefaces (such as masculine, hard, soft, rugged, et-cetera). 
 
-yet, somehow — most likely in pursuit of efficiency — the purpose of typography on the screen is reduced to mere legibility. letterforms on **personal**-messaging-interfaces are stripped off their expressive ability, and are treated simply as vessels for storing & transporting semantic content.
-
-this essay presents a case ...
-
----
 
 in *graphic devices: narration and navigation*, johanna drucker presents the term 'graphic devices'. she writes — "in my usage, the term graphic includes all aspects of layout and composition by which elements are organized on a surface". then, she further argues that graphic elements do more than simply structure narration, but affect the narrative itself in *substantive ways*. 
 
@@ -100,7 +104,7 @@ At least five citations required.
 - file:///Users/a/Downloads/graphology.pdf
 
 
-[^1]: A Need-finding Study for Understanding Text Entry in Smartphone App Usage: Text entry makes up about one-fourth of the smartphone interaction events, and is known to be challenging and difficult.
+[^1]: https://datareportal.com/reports/digital-2025-global-overview-report?utm_source=chatgpt.com.
 	
 
-[^2]: https://datareportal.com/reports/digital-2025-global-overview-report?utm_source=chatgpt.com.
+[^2]: A Need-finding Study for Understanding Text Entry in Smartphone App Usage: Text entry makes up about one-fourth of the smartphone interaction events, and is known to be challenging and difficult.

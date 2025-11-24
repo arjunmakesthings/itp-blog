@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -249,8 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,7 +265,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "32f876c5ef6f4df6",
+  "active": "b6826165f3e58596",
   "lastOpenFiles": [
     "applications/essay_progress-log.md",
     "applications/essay writing.md",
