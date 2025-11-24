@@ -5,11 +5,7 @@ tags:
 noteOrder: "180"
 draft: "false"
 ---
-# title:  dear interface-designers, we want control over our letterforms 
-
-# on regaining control over our letterforms.
-
-# a plea for typographical control: the starting point for a more expressive internet.
+# title: regaining typographical control: the starting point for a more expressive & authentic internet.
 
 # 1. introduction
 as of february 2025, there exist more than 5.25 billion social-media 'user' identities in the world[^1] — 63% of the world's population is expressing itself online. 
@@ -86,26 +82,11 @@ this, i would argue, displays an inability to translate the abstract into concre
 
 *image*
 
-this shows that there is a clear general image, congruent across participants, 
-
-
-when looking at the perceived data, there is a lot of variance. some participants of experiment (a) got a 1:1 match with how their message was perceived (such as in the case of p1). 
-
-*image*
-
-however, in others, it went completely opposite (such as in p4). 
-
-*image*
-
-i believe this highlights the inability to translate the abstract into concrete form (personality trait into graphics). 
-
-however, the data becomes more interesting if you let go of attempting to match intention to result. this shows that there is a clear general idea that a person could make from a typographically-manipulated text, and that there was similarity across different people perceiving the same data.
-
-*image*
+there is a clear general image that is largely congruent across participants — i.e, most people can get a sense of *what* this person is like. now, *that* is powerful — people have an ability to perceive a stranger, simply based on the aesthetic choices they make; that too over something often considered 'trivial' like typography (and its environment). 
 
 ---
-
-
+# conclusion: 
+with this, i wonder whether the ability to personalize publicly-viewable graphic elements  — say, typestyles on a messaging environment — would lead to a more authentic internet. with so much of the internet being carefully curated (selective self-presentation),  
 
 ---
 # asks: 
@@ -162,3 +143,6 @@ At least five citations required.
 	
 
 [^2]: A Need-finding Study for Understanding Text Entry in Smartphone App Usage: Text entry makes up about one-fourth of the smartphone interaction events, and is known to be challenging and difficult.
+
+- mla guide: https://libguides.ucd.ie/ld.php?content_id=450289
+
