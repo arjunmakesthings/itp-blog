@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -231,9 +232,21 @@
               "icon": "file-digit",
               "title": "Notes by ID"
             }
+          },
+          {
+            "id": "7931c8a3e5847235",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "essay writing.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -253,15 +266,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3daf9390daa2eb0a",
+  "active": "b6826165f3e58596",
   "lastOpenFiles": [
+    "applications/essay_progress-log.md",
+    "essay writing.md",
+    "intro-to-physical-computing/final-project-2_log.md",
     "z_images/99E4C8CE-0F0C-452D-8155-84158D13FC86.webp",
     "z_images/IMG_6954.webp",
     "z_images/IMG_6957.mp4",
     "z_images/IMG_6940.mp4",
     "z_images/IMG_6956.mp4",
     "z_images/IMG_6959.mp4",
-    "essay writing.md",
     "applications_experiment.md",
     "hypercinema/index.md",
     "hypercinema/final-project-log.md",
@@ -270,7 +285,6 @@
     "icm_class-11.md",
     "intro-to-computational-media/icm_experiments_week-11_to_week-12 (music).md",
     "applications/index.md",
-    "applications/essay_progress-log.md",
     "z_images/Screenshot 2025-11-20 at 18.25.33.png",
     "people/beatrice.md",
     "z_images/Screen Recording 2025-11-19 at 11.00.12.mp4",
@@ -283,8 +297,6 @@
     "z_images/Screenshot 2025-11-18 at 00.54.13.webp",
     "z_images/Screenshot 2025-11-17 at 18.39.04.png",
     "z_images/image-8.png",
-    "z_images/image-7.png",
-    "intro-to-physical-computing/final-project-2_log.md",
     "people/nnenna.md",
     "i am sitting in a room, by alvin lucier.md",
     "z_images/ghost mode hq.mp4",
