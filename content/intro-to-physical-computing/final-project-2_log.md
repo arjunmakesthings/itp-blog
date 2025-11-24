@@ -168,13 +168,32 @@ first, i understood that with more layers, mixing became a problem. it didn't pl
 
 next, i understood that every component in this circuit affected the sound that is produced, because voltage gets split between the components. 
 
+![[z_images/IMG_6957.mp4]]
 
+i then spent time trying to create a emf to manipulate with my hand. 
+
+![[z_images/IMG_6954.webp]]
+
+it didn't work.
+
+stripped the entire circuit, understood what every single thing was doing. took [[people/tom|tom]] & [[people/david rios|david rios]]'s advice, and put decoupling capacitors on the power rail for cleaner sound. 
 
 achieved voluntary emf manipulation: 
 
 ![[z_images/IMG_6959.mp4]]
 
 i just had to make bad circuitry on purpose. 
+
+spent too much time playing, had to remind myself to go home.
+
+![[z_images/99E4C8CE-0F0C-452D-8155-84158D13FC86.webp]]
+
+---
+i know that i could keep playing around with this for a long, long time. i can add more things — such as a delay circuit, an op-amp, and more 555-ics. 
+
+but, i will remind myself what [[people/tom|tom]] told me: <mark>what's the bare minimum you need to do in this class, to be able to explore this further in the other classes? </mark>
+
+i will play a teeny bit more, and then move to other parts of this: i.e, the physical interaction. 
 
 ---
 # references: 
