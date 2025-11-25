@@ -4,53 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "834b817e21ae2e4e",
+        "id": "34c3fe9ad5cbdded",
         "type": "tabs",
         "children": [
           {
-            "id": "5d12dd6f57df6225",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "applications/essay_progress-log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "essay_progress-log"
-            }
-          },
-          {
-            "id": "b6826165f3e58596",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "applications/essay writing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "essay writing"
-            }
-          },
-          {
-            "id": "aae3a09f46add815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "applications/essay_progress-log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "essay_progress-log"
-            }
-          },
-          {
-            "id": "3daf9390daa2eb0a",
+            "id": "a564bd76e412e36b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -61,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "final-project-2_log"
-            }
-          },
-          {
-            "id": "a596c50f1f86de6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flora residency log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "flora residency log"
             }
           }
         ]
@@ -134,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -238,7 +181,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "applications/essay_progress-log.md"
+                "file": "intro-to-physical-computing/final-project-2_log.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -249,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,13 +208,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5d12dd6f57df6225",
+  "active": "a564bd76e412e36b",
   "lastOpenFiles": [
-    "z_images/essay.pdf",
-    "applications/essay writing.md",
-    "applications/essay_progress-log.md",
-    "applications/applications_experiment.md",
+    "z_images/IMG_6967.mp4",
+    "IMG_6652-preview.webp",
+    "introduction-map-image_250824.webp",
+    "anxiety.md",
+    "flora residency log.md",
     "intro-to-physical-computing/final-project-2_log.md",
+    "applications/essay_progress-log.md",
+    "applications/essay writing.md",
+    "z_images/essay.pdf",
+    "applications/applications_experiment.md",
     "z_images/99E4C8CE-0F0C-452D-8155-84158D13FC86.webp",
     "z_images/IMG_6954.webp",
     "z_images/IMG_6957.mp4",
@@ -280,7 +229,6 @@
     "hypercinema/index.md",
     "hypercinema/final-project-log.md",
     "class selections.md",
-    "flora residency log.md",
     "intro-to-computational-media/icm_class-11.md",
     "intro-to-computational-media/icm_experiments_week-11_to_week-12 (music).md",
     "applications/index.md",
@@ -294,14 +242,11 @@
     "people/nausheen.md",
     "z_images/research-advert.webp",
     "z_images/Screenshot 2025-11-18 at 00.54.13.webp",
-    "z_images/Screenshot 2025-11-17 at 18.39.04.png",
-    "z_images/image-8.png",
     "people/nnenna.md",
     "i am sitting in a room, by alvin lucier.md",
     "z_images/ghost mode hq.mp4",
     "z_images/IMG_6934.mp4",
     "z_images/IMG_6935.mp4",
-    "z_images/IMG_6933.mp4",
     "people/ivan.md",
     "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
     "projects-by-other-people/undo, by zongze chen.md",
@@ -311,7 +256,6 @@
     "intro-to-physical-computing/ipc_experiments_week-8_to_week-9 (all serial).md",
     "intro-to-physical-computing/index.md",
     "terms & concepts/qualia.md",
-    "people/luisa pereira.md",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"

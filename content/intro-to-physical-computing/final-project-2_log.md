@@ -196,6 +196,13 @@ but, i will remind myself what [[people/tom|tom]] told me: <mark>what's the bare
 i will play a teeny bit more, and then move to other parts of this: i.e, the physical interaction. 
 
 ---
+spent time cleaning up the circuit. had ordered toggle-switches, but they didn't come. found 4 on the floor; made do with what i had. 
+
+![[z_images/IMG_6967.mp4]]
+
+i need to figure out mixing somehow. i have an idea to make my own mixer, with a bunch of potentiometers; but let's see if i get it done before the playtest. 
+
+---
 # references: 
 [[people/david rios|david rios]] shared these: 
 - https://www.electronics-tutorials.ws/waveforms/555_oscillator.html
