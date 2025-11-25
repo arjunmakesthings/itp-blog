@@ -77,8 +77,7 @@
               "title": "flora residency log"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,7 +238,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "applications/essay writing.md"
+                "file": "applications/essay_progress-log.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -265,10 +264,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b6826165f3e58596",
+  "active": "5d12dd6f57df6225",
   "lastOpenFiles": [
-    "applications/essay_progress-log.md",
+    "z_images/essay.pdf",
     "applications/essay writing.md",
+    "applications/essay_progress-log.md",
     "applications/applications_experiment.md",
     "intro-to-physical-computing/final-project-2_log.md",
     "z_images/99E4C8CE-0F0C-452D-8155-84158D13FC86.webp",

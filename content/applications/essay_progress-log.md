@@ -135,3 +135,9 @@ and made an advert to stick on the walls of the floor:
 
 
 
+wrote drafts here: [[applications/essay writing|essay writing]]. 
+
+---
+submitted this: 
+
+![[z_images/essay.pdf]]
