@@ -86,7 +86,21 @@ there is a clear general image that is largely congruent across participants —
 
 ---
 # conclusion: 
-with this, i wonder whether the ability to personalize publicly-viewable graphic elements  — say, typestyles on a messaging environment — would lead to a more authentic internet. with so much of the internet being carefully curated (selective self-presentation),  
+experiment (a) shows that it is difficult to manipulate typography. since not all users of a digital-interface might not be artistically capable, it is too big of an ask for them to reflect abstract things such as a personality trait via something so specific; such as leading on their messages. 
+
+however, experiment (a) also shows that people do make big changes, in, atleast, an attempt to communicate who they are (or who they want to be), by ways of changing the font & container-colour. arguing for the notion that users of a digital-interface should be given more control over graphic elements, i propose looking at the results of experiment (b) more closely. 
+
+there is a certain degree of innate authenticity in the aesthetic selection of graphic elements to communicate personality. a person may have problems articulating who they are, and even manage to lie about it (https://www.sbs.com.au/news/insight/article/confessions-of-a-catfisher-fake-identities-online-relationships-and-lies/fyyttvwlc?utm_source=chatgpt.com). however, the task of making the display of their content *feel* more like them, and receivers having a visceral reaction to it suggests something more authentic between the messenger & its receiver that pre-fabricated personalities. 
+
+the fact that a person would choose red over all the other colours in the palette suggests something about them. some of the validity of correlations between aesthetic preferences & personality traits are validated by the work of kalia cleridou & adrian furnham, in their article: *personality correlates of aesthetic preferences for art, architecture, and music*. 
+
+in an internet-world where heaps of expression are based on selective self-presentation, i wonder what difference an ask to make aesthetic choices — such as changing how your messages look to someone else — could make. my gut trusts these intuitive judgements — there is, perhaps, an unharnessed power in the ability to communicate without words, that the internet refuses to actively use. 
+
+---
+# limitations: 
+this was a three-week-long assignment, from formulating an enquiry to conducting experiments & writing the paper. i am well aware that i have cut corners on academic rigour, and that drawing conclusions on such a weak dataset (and an underdeveloped experiment) is not ideal.
+
+however, i still believe in the potency of my enquiry. there *may* be something there; something powerful; that i should examine more closely at a later stage in my life. 
 
 ---
 # asks: 
