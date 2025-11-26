@@ -203,6 +203,32 @@ spent time cleaning up the circuit. had ordered toggle-switches, but they didn't
 i need to figure out mixing somehow. i have an idea to make my own mixer, with a bunch of potentiometers; but let's see if i get it done before the playtest. 
 
 ---
+# playtest (251126): 
+[[daniel rozin]] told me to think about the form that i present my project in. he suggested the work of [bjorn schulke](https://www.bitforms.art/artist/bjorn-schulke/), and suggested me to make a <mark>'sculpture'</mark> out of the electronic components; like so: 
+
+![[z_images/bjorn.webp]]
+
+he also suggested that there is a <mark>sequential element</mark> in my project. the signal first gets processed via the metronome, and then can be distorted. he said why not make an invisible breadboard — show the components but hide the wiring. 
+
+i observed that <mark>,people press buttons linearly, and quickly, and expect immediate changes</mark>, to happen. my circuit takes a little bit of time — simply because of the way the capacitors are structured. the changes are also more subtle than people were keen to notice. 
+
+i also felt that people weren't as patient as i wanted them to be — they kept hopping from project to project. that, however, will be the nature of a gallery-show too — <mark>why would anyone want to care about your project</mark> ?
+
+that left me a bit puzzled. i loved making the thing that i made. there was so much beauty in those tiny circuits, and how the different components behaved. [[people/shloka|shloka]], for example, understood it and spent way more time than anyone else in my playtest. it brings back the point: [[maybe my work is meant to be consumed by a tiny audience]]. 
+
+and i need to be okay with this reality. i, perhaps, will not make a mass-viral project in my life. it, in fact, is not even a part of [[my approach to itp]]. 
+
+so, i will make this choice, and i shall do so explicitly:
+
+my project is not meant to be consumed by everyone. in fact, it is not *designed* to be consumed by everyone. i want to do justice to my curiosity — make the form follow my initial enquiry, and be swayed by the idea of making it more 'usable' for the masses. if this causes academic conflict, i will argue that i know how to do so (with [previous work](https://arjunmakesthings.github.io/projects.html)), and justify that this project is designed keeping in mind a tiny audience. 
+
+next step: define the audience, and think about the subsequent form. 
+
+### media from the playtest: 
+
+
+
+---
 # references: 
 [[people/david rios|david rios]] shared these: 
 - https://www.electronics-tutorials.ws/waveforms/555_oscillator.html
