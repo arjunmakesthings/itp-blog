@@ -225,8 +225,19 @@ my project is not meant to be consumed by everyone. in fact, it is not *designed
 next step: define the audience, and think about the subsequent form. 
 
 ### media from the playtest: 
+intentional change-making audience: 
 
+![[z_images/IMG_6969.mp4]]
 
+messing around audience: 
+
+![[z_images/IMG_6970.mp4]]
+
+shloka just playing with distortion: 
+
+![[z_images/IMG_6971.mp4]]
+
+![[z_images/IMG_6972.mp4]]
 
 ---
 # references: 
