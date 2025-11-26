@@ -220,7 +220,7 @@ and i need to be okay with this reality. i, perhaps, will not make a mass-viral 
 
 so, i will make this choice, and i shall do so explicitly:
 
-my project is not meant to be consumed by everyone. in fact, it is not *designed* to be consumed by everyone. i want to do justice to my curiosity — make the form follow my initial enquiry, and be swayed by the idea of making it more 'usable' for the masses. if this causes academic conflict, i will argue that i know how to do so (with [previous work](https://arjunmakesthings.github.io/projects.html)), and justify that this project is designed keeping in mind a tiny audience. 
+my project is <mark>not meant to be consumed by everyone</mark>. in fact, it is not *designed* to be consumed by everyone. i want to <mark>do justice to my curiosity</mark> — make the form follow my initial enquiry, and not be swayed by the idea of making it more 'usable' for the masses. if this causes academic conflict, i will argue that i know how to do so (with [previous work](https://arjunmakesthings.github.io/projects.html)), and justify that this project is designed keeping in mind a tiny audience. 
 
 next step: define the audience, and think about the subsequent form. 
 
