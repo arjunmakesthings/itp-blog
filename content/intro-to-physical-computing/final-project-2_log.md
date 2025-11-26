@@ -204,6 +204,11 @@ i need to figure out mixing somehow. i have an idea to make my own mixer, with a
 
 ---
 # playtest (251126): 
+
+presented this: 
+
+![[z_images/IMG_6976.webp]]
+
 [[daniel rozin]] told me to think about the form that i present my project in. he suggested the work of [bjorn schulke](https://www.bitforms.art/artist/bjorn-schulke/), and suggested me to make a <mark>'sculpture'</mark> out of the electronic components; like so: 
 
 ![[z_images/bjorn.webp]]
