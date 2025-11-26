@@ -210,7 +210,11 @@ i need to figure out mixing somehow. i have an idea to make my own mixer, with a
 
 he also suggested that there is a <mark>sequential element</mark> in my project. the signal first gets processed via the metronome, and then can be distorted. he said why not make an invisible breadboard — show the components but hide the wiring. 
 
-i observed that <mark>,people press buttons linearly, and quickly, and expect immediate changes</mark>, to happen. my circuit takes a little bit of time — simply because of the way the capacitors are structured. the changes are also more subtle than people were keen to notice. 
+[[people/tom|tom]] also recommended 'little-bits', and suggested <mark>modular units that could be plugged & played together</mark>. that is also an interesting approach — but i don't think that i have the time to realise that vision now. 
+
+![[z_images/littlebits-electronics-premium-kit.webp]]
+
+i observed that <mark>people press buttons linearly, and quickly, and expect immediate changes</mark>, to happen. my circuit takes a little bit of time — simply because of the way the capacitors are structured. the changes are also more subtle than people were keen to notice. 
 
 i also felt that people weren't as patient as i wanted them to be — they kept hopping from project to project. that, however, will be the nature of a gallery-show too — <mark>why would anyone want to care about your project</mark> ?
 

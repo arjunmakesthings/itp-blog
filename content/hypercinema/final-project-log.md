@@ -53,6 +53,9 @@ as they get closer, the blurriness would reduce.
 i thought about how i would detect the faces, and what i could do. it can't be a pre-created video (like runway), and it needs to detect the faces and blur / manipulate them, somehow, live. 
 
 ---
+
+
+---
 # programming resources: 
 - face detection (using blaze-face): https://www.youtube.com/watch?v=jovusqHNpRo
 
