@@ -354,6 +354,9 @@ function get_coordinates(n) {
 
 ```
 
+![[z_images/blob_251128.mp4]]
+
+---
 
 
 ---
