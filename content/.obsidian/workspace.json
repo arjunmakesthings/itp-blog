@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a564bd76e412e36b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-physical-computing/final-project-2_log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "final-project-2_log"
-            }
-          },
-          {
             "id": "316576b2d4b00831",
             "type": "leaf",
             "state": {
@@ -34,8 +20,51 @@
               "icon": "lucide-file",
               "title": "final-project-log"
             }
+          },
+          {
+            "id": "718846412cdf3a82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "exhaustion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "exhaustion"
+            }
+          },
+          {
+            "id": "6aa1b88d189497b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "creative-rebel-drafts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "creative-rebel-drafts"
+            }
+          },
+          {
+            "id": "95b7bf1610f98082",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "icm_experiments_week-9_to_week-10"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,19 +224,18 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "intro-to-physical-computing/final-project-2_log.md"
+                "file": "creative-rebel-drafts.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,12 +250,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a564bd76e412e36b",
+  "active": "6aa1b88d189497b3",
   "lastOpenFiles": [
+    "exhaustion.md",
+    "creative-rebel-drafts.md",
+    "hypercinema/final-project-log.md",
+    "z_images/Screen Recording 2025-11-26 at 18.55.05.mp4",
+    "z_images/Screen Recording 2025-11-26 at 18.55.05.mov",
+    "z_images/Screen Recording 2025-11-26 at 17.36.20.mp4",
+    "z_images/Screenshot 2025-11-26 at 17.37.26.webp",
+    "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
+    "z_images/251126.webp",
+    "z_images/image-10.png",
+    "intro-to-physical-computing/final-project-2_log.md",
     "z_images/IMG_6976.webp",
     "z_images/littlebits-electronics-premium-kit.webp",
-    "hypercinema/final-project-log.md",
-    "intro-to-physical-computing/final-project-2_log.md",
     "z_images/IMG_6972.mp4",
     "z_images/IMG_6971.mp4",
     "z_images/IMG_6970.mp4",
@@ -245,31 +282,21 @@
     "z_images/essay.pdf",
     "applications/applications_experiment.md",
     "z_images/99E4C8CE-0F0C-452D-8155-84158D13FC86.webp",
-    "z_images/IMG_6954.webp",
     "z_images/IMG_6957.mp4",
-    "z_images/IMG_6940.mp4",
-    "z_images/IMG_6956.mp4",
-    "z_images/IMG_6959.mp4",
     "hypercinema/index.md",
     "class selections.md",
     "intro-to-computational-media/icm_class-11.md",
     "intro-to-computational-media/icm_experiments_week-11_to_week-12 (music).md",
     "applications/index.md",
-    "z_images/Screenshot 2025-11-20 at 18.25.33.png",
     "people/beatrice.md",
-    "z_images/image-10.webp",
-    "z_images/image-9.webp",
     "people/nausheen.md",
     "people/nnenna.md",
     "i am sitting in a room, by alvin lucier.md",
     "people/ivan.md",
-    "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
     "projects-by-other-people/undo, by zongze chen.md",
     "handmade electronic music, by nicolas collins.md",
     "intro-to-physical-computing/final-project-1_log.md",
     "intro-to-physical-computing/midterm-log.md",
-    "intro-to-physical-computing/ipc_experiments_week-8_to_week-9 (all serial).md",
-    "intro-to-physical-computing/index.md",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"

@@ -53,6 +53,202 @@ as they get closer, the blurriness would reduce.
 i thought about how i would detect the faces, and what i could do. it can't be a pre-created video (like runway), and it needs to detect the faces and blur / manipulate them, somehow, live. 
 
 ---
+i spent time thinking of the algorithm; also spoke with [[people/mimi yin|mimi yin]]. 
+
+![[z_images/251126.webp]]
+
+i then used flora to create my video assets. 
+
+![[z_images/Screenshot 2025-11-26 at 17.37.26.webp]]
+
+i used a maximum value detection to keep track of the blobs. to make the media is controlled even with human-interaction, i need to make sure that the maximum value (whether colour, saturation, brightness — whatever) is emitted from my object and not from a person interacting with the object. 
+
+![[z_images/Screen Recording 2025-11-26 at 17.36.20.mp4]]
+
+``` js
+//blob detection; november, 2025.
+
+let cam;
+
+let cw = 1280;
+let ch = 720;
+
+function setup() {
+  cam = createCapture(VIDEO, {flipped:true}, make_canvas);
+  cam.hide();
+
+  pixelDensity(1);
+  noStroke();
+}
+function make_canvas(){
+  createCanvas(cam.width, cam.height); 
+}
+
+
+function draw() {
+  background(0);
+
+  cam.loadPixels();
+
+  detect();
+
+  tint(255,50); 
+  image(cam, 0, 0);
+
+   updatePixels();
+}
+
+let max_r = 0;
+let max_r_index = 0;
+
+let max_g = 0;
+let max_g_index = 0; 
+
+function detect() {
+  //every frame, find the location of the highest colour values.
+
+  max_r = 0;
+  max_r_index = 0;
+  max_g = 0;
+  max_g_index = 0;
+  
+  for (let i = 0; i < cam.pixels.length; i += 4) {
+    let r = cam.pixels[i]; 
+    let g = cam.pixels[i+1]; 
+
+    if (r>max_r){
+      max_r = r; 
+      max_r_index = i; 
+    }
+
+    if (g > max_g) {
+      max_g = g;
+      max_g_index = i;
+    }
+  }
+
+  //draw rectangle wherever that is. 
+  let pos = get_coordinates(max_r_index); 
+
+  rect (pos.x, pos.y, 50,50); 
+
+  console.log(max_r, max_g);
+}
+
+//helper to convert from pixels array to x, y.
+function get_pixel_index(x, y) {
+  return (y * cam.width + x) * 4;
+}
+
+function get_coordinates(n) {
+  let pixel_number = n / 4;
+
+  let x = pixel_number % cam.width;
+  let y = Math.floor(pixel_number / cam.width);
+
+  return { x, y };
+}
+
+class Unit {}
+
+```
+
+later, i tried brightness detection too, but decided against it (since the maximum brightness p5 would give me was 100; which collided with reflections (and i was going to project media; so)). 
+
+even with a red threshold of 200, it was still detecting other things from my video feed: 
+
+![[z_images/Screen Recording 2025-11-26 at 18.55.05.mp4]]
+
+``` js
+//blob detection; november, 2025.
+
+let cam;
+
+let my_memories = [];
+let dad_memories = [];
+
+let units = []; //keep track of how many units are on the area.
+
+function preload() {
+  my_memories[0] = createVideo("./assets/media/my-memories/0.mp4");
+  dad_memories[0] = createVideo("./assets/media/dad-memories/0.mp4");
+
+  for (let i = 0; i < my_memories.length; i++) {
+    my_memories[i].hide();
+    dad_memories[i].hide();
+  }
+}
+
+function setup() {
+  cam = createCapture(VIDEO, { flipped: true }, make_canvas);
+  cam.hide();
+
+  pixelDensity(1);
+}
+function make_canvas() {
+  createCanvas(cam.width, cam.height);
+}
+
+function draw() {
+  background(0);
+
+  cam.loadPixels();
+
+  detect();
+
+  //tint(255,20);  
+  //image(cam, 0, 0);
+
+  // updatePixels();
+
+  for (let unit of units) {
+    unit.show();
+  }
+}
+
+let threshold = 200;
+
+function detect() {
+  for (let i = 0; i < cam.pixels.length; i+=4) {
+    if (cam.pixels[i] > threshold) {
+      let pos = get_coordinates(i);
+      rect(pos.x, pos.y, 20, 20);
+    }
+  }
+}
+
+//helper to convert from pixels array to x, y.
+function get_pixel_index(x, y) {
+  return (y * cam.width + x) * 4;
+}
+
+function get_coordinates(n) {
+  let pixel_number = n / 4;
+
+  let x = pixel_number % cam.width;
+  let y = Math.floor(pixel_number / cam.width);
+
+  return { x, y };
+}
+
+//each unit has a media file that it loops, a position on the screen
+
+class Unit {
+  constructor(x, y, file) {
+    this.x = x;
+    this.y = y;
+    this.file = file;
+  }
+
+  show() {
+    image(this.file, this.x, this.y, 50, 50);
+  }
+}
+
+```
+
+realised why. cleaned it up. 
+
 
 
 ---
