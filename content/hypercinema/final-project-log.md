@@ -357,7 +357,11 @@ function get_coordinates(n) {
 ![[z_images/blob_251128.mp4]]
 
 ---
+kinda works. 
 
+![[z_images/Screen Recording 2025-11-28 at 12.37.03.mp4]]
+
+this is enough for a minimum test with the projector, which i shall do today. then, i will resolve the multiple blob tracks, division of space (and subsequent allocation of video), and blurring between different videos (which i have cracked separately). 
 
 ---
 # programming resources: 
