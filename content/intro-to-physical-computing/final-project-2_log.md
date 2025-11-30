@@ -248,6 +248,15 @@ shloka just playing with distortion:
 ![[z_images/IMG_6972.mp4]]
 
 ---
+spent time thinking through the final form. 
+
+![[z_images/251130_117-2.webp]]
+
+inspiration: 
+
+![[z_images/2511301017.webp]]
+
+---
 # references: 
 [[people/david rios|david rios]] shared these: 
 - https://www.electronics-tutorials.ws/waveforms/555_oscillator.html
