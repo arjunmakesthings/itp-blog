@@ -255,6 +255,16 @@ spent time thinking through the final form.
 inspiration: 
 
 ![[z_images/2511301017.webp]]
+in case it isn't clear, the idea is: 
+
+to produce 3 small spheres, with components mounted on top of it. the spheres are connected to each other (since my circuits are connected to each other). the spheres are metaphors for electrons, which together produce sound. the platform on the bottom could be my power & ground rails. 
+
+everything is white, so as to take focus out of the structure, and focus attention on the manufactured-colour(s) of the components instead. 
+
+---
+i spent time trying to understand fusion. i realised that i *could* spend time and learn how to model a sphere with holes cut (and then 3-d print it). however, it wasn't worth the effort. i would need a specific number of holes for each circuit. it would be better to make a sphere that could be dismantled (half & half), and drill the holes myself. i would, however, still need some sort of power & ground rail inside each sphere. 
+
+![[z_images/Screenshot 2025-11-30 at 13.21.41.webp]]
 
 ---
 # references: 
