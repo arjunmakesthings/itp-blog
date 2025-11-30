@@ -364,6 +364,28 @@ kinda works.
 this is enough for a minimum test with the projector, which i shall do today. then, i will resolve the multiple blob tracks, division of space (and subsequent allocation of video), and blurring between different videos (which i have cracked separately). 
 
 ---
+### 251129: 
+figured out the setup. 
+
+![[z_images/IMG_6987.webp|539x404]]
+
+
+![[z_images/IMG_6986.webp|455x607]]
+
+basic program works.
+
+![[z_images/IMG_6989.mp4]]
+
+however, ran into a problem with scaling. 
+
+![[z_images/Screenshot 2025-11-29 at 20.23.59.webp]]
+
+my guess is that i'll have to do some sort of matrix transformation to get the two (output & input) to line up. 
+
+---
+
+
+---
 # programming resources: 
 - face detection (using blaze-face): https://www.youtube.com/watch?v=jovusqHNpRo
 
