@@ -384,6 +384,20 @@ my guess is that i'll have to do some sort of matrix transformation to get the t
 
 ---
 
+ran into more problems. 
+
+![[z_images/IMG_6991.webp]]
+
+![[z_images/IMG_6990.mp4]]
+
+then, tried to project the image according to markers that it sees, so as to get some coordinate system for the webcam. 
+
+![[Screenshot 2025-11-30 at 19.51.58.png]]
+
+i couldn't understand it only. booked an appointment with mimi tomorrow. no point breaking my head over this right now.
+
+---
+
 
 ---
 # programming resources: 

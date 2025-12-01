@@ -266,6 +266,8 @@ i spent time trying to understand fusion. i realised that i *could* spend time a
 
 ![[z_images/Screenshot 2025-11-30 at 13.21.41.webp]]
 
+the 3-d printer auto-converted my dimensions into mm. stupid shit. now i have to wait until the printer is empty again, to be able to prototype this.
+
 ---
 # references: 
 [[people/david rios|david rios]] shared these: 
