@@ -269,6 +269,15 @@ i spent time trying to understand fusion. i realised that i *could* spend time a
 the 3-d printer auto-converted my dimensions into mm. stupid shit. now i have to wait until the printer is empty again, to be able to prototype this.
 
 ---
+tried more 3-d prints: 
+
+![[z_images/IMG_6994.webp|450x600]]
+
+realised that making a spherical breadboard was too complicated. spoke to [[people/tom|tom]], [[people/aram|aram]]. decided to make something flatter — but i really want to play with some sort of dimensionality too. 
+
+my brain is too consumed by the problems i'm facing in hypercinema ([[hypercinema/final-project-log|final-project-log]]). 
+
+---
 # references: 
 [[people/david rios|david rios]] shared these: 
 - https://www.electronics-tutorials.ws/waveforms/555_oscillator.html

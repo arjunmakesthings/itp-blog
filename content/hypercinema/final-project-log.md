@@ -394,9 +394,18 @@ then, tried to project the image according to markers that it sees, so as to get
 
 ![[Screenshot 2025-11-30 at 19.51.58.png]]
 
-i couldn't understand it only. booked an appointment with mimi tomorrow. no point breaking my head over this right now.
+i couldn't understand it only. booked an appointment with [[people/mimi yin|mimi yin]] tomorrow. no point breaking my head over this right now.
 
 ---
+### 251203: 
+i spent a long time trying to debug this. i couldn't get it to work. 
+
+my program works in isolation, if i don't scale up the webcam. 
+
+![[z_images/Screen Recording 2025-12-02 at 23.57.58.mp4]]
+
+i also managed to scale up the webcam with scaling & translation, but then the placement of my units got messed up. 
+
 
 
 ---

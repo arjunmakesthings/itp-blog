@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "final-project-2_log"
             }
+          },
+          {
+            "id": "562c0b4483491e0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hypercinema/final-project-log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "final-project-log"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -236,8 +250,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7f899544032bde99",
+  "active": "562c0b4483491e0d",
   "lastOpenFiles": [
+    "z_images/Screen Recording 2025-12-02 at 23.57.58.mp4",
+    "intro-to-physical-computing/final-project-2_log.md",
+    "z_images/IMG_6994.webp",
     "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
     "hypercinema/final-project-log.md",
     "z_images/Screenshot 2025-11-30 at 19.51.58.png",
@@ -249,7 +266,6 @@
     "flora residency log.md",
     "handmade electronic music, by nicolas collins.md",
     "intro-to-physical-computing/ipc_experiments_week-8_to_week-9 (all serial).md",
-    "intro-to-physical-computing/final-project-2_log.md",
     "z_images/Screenshot 2025-11-30 at 13.21.41.webp",
     "z_images/IMG_6989.mp4",
     "z_images/Screenshot 2025-11-29 at 20.23.59.webp",
@@ -258,7 +274,6 @@
     "z_images/251130_117-2.webp",
     "z_images/2511301017.webp",
     "z_images/temporal-drawings.png",
-    "z_images/image-12.png",
     "z_images/Screen Recording 2025-11-28 at 12.37.03.mp4",
     "z_images/blob_251128.mp4",
     "z_images/Screen Recording 2025-11-26 at 18.55.05.mp4",
