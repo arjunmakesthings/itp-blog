@@ -634,7 +634,9 @@ so, i pivoted to a scaled down version.
 
 ![[z_images/IMG_7002.mp4]]
 
+pivot sketch: 
 
+![[z_images/251204_sketch.png]]
 
 ---
 # programming resources: 
