@@ -55,16 +55,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hypercinema/final-project-log.md",
+                "file": "applications/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "final-project-log"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,13 +250,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "562c0b4483491e0d",
+  "active": "316576b2d4b00831",
   "lastOpenFiles": [
-    "z_images/Screen Recording 2025-12-02 at 23.57.58.mp4",
+    "z_images/IMG_7002.mp4",
+    "z_images/IMG_7001.mp4",
+    "z_images/IMG_7001.mov",
+    "z_images/Screen Recording 2025-12-03 at 19.11.56.mp4",
     "intro-to-physical-computing/final-project-2_log.md",
-    "z_images/IMG_6994.webp",
     "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
+    "applications/index.md",
     "hypercinema/final-project-log.md",
+    "z_images/Screen Recording 2025-12-02 at 23.57.58.mp4",
+    "z_images/IMG_6994.webp",
     "z_images/Screenshot 2025-11-30 at 19.51.58.png",
     "z_images/IMG_6990.mp4",
     "z_images/IMG_6991.webp",
@@ -278,10 +283,6 @@
     "z_images/blob_251128.mp4",
     "z_images/Screen Recording 2025-11-26 at 18.55.05.mp4",
     "z_images/Screen Recording 2025-11-26 at 18.55.05.mov",
-    "z_images/Screen Recording 2025-11-26 at 17.36.20.mp4",
-    "z_images/IMG_6972.mp4",
-    "z_images/IMG_6971.mp4",
-    "z_images/IMG_6970.mp4",
     "people/daniel rozin.md",
     "anxiety.md",
     "applications/essay_progress-log.md",
@@ -290,7 +291,6 @@
     "hypercinema/index.md",
     "intro-to-computational-media/icm_class-11.md",
     "intro-to-computational-media/icm_experiments_week-11_to_week-12 (music).md",
-    "applications/index.md",
     "people/beatrice.md",
     "people/nausheen.md",
     "people/nnenna.md",
