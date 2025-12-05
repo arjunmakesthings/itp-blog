@@ -638,6 +638,18 @@ pivot sketch:
 
 ![[z_images/251204_sketch.png]]
 
+i spent another night trying to figure out a better algorithm. failed. 
+
+![[z_images/Screenshot 2025-12-05 at 00.45.00.webp]]
+
+i'll get there. 
+
+today, in class, [[people/emilia|emilia]] made a comment that "arjun doesn't use ai", and [[ana]] scoffed. everyone thinks that i do it to "be a purist", or to "act better than others who do", but that's not it. 
+
+i came to itp to learn the mediums that i am going to use in my work & life. making chat-gpt write my code will not allow me to understand the essence of code — my work will, then, remain shallow, because i would've spent my time chasing outcomes here. i will never arrive at something interesting. 
+
+so, i will <mark>choose not to make the next big thing</mark>, and <mark>compromise outcome-quality over learning</mark>. 
+
 ---
 # programming resources: 
 - face detection (using blaze-face): https://www.youtube.com/watch?v=jovusqHNpRo
