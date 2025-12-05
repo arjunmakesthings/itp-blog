@@ -881,6 +881,8 @@ function get_coordinates(n) {
 }
 ```
 
+![[z_images/IMG_7009 2.mp4]]
+
 ---
 # programming resources: 
 - face detection (using blaze-face): https://www.youtube.com/watch?v=jovusqHNpRo
