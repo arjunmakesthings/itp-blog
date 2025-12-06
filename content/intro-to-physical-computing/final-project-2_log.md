@@ -278,6 +278,20 @@ realised that making a spherical breadboard was too complicated. spoke to [[peop
 my brain is too consumed by the problems i'm facing in hypercinema ([[hypercinema/final-project-log|final-project-log]]). 
 
 ---
+### 251206: 
+i began sketching out a schematic on fritzing. 
+
+![[z_images/Screenshot 2025-12-06 at 18.09.30.webp]]
+
+it took me about an hour to get the hang of fritzing, and make the schematic for the first one. i quickly realised that my circuit was a little complicated.
+
+![[z_images/IMG_7022-1.webp]]
+
+at this point, [[people/gabriel|gabriel]] suggested that i just draw the circuit out by hand and get to soldering. he was right — it was more important to get to soldering than to draw a pretty circuit. so, i did that. 
+
+
+
+---
 # references: 
 [[people/david rios|david rios]] shared these: 
 - https://www.electronics-tutorials.ws/waveforms/555_oscillator.html
