@@ -289,7 +289,7 @@ it took me about an hour to get the hang of fritzing, and make the schematic for
 
 at this point, [[people/gabriel|gabriel]] suggested that i just draw the circuit out by hand and get to soldering. he was right — it was more important to get to soldering than to draw a pretty circuit. so, i did that. 
 
-
+but, when i started drawing it, i realised that the structure of my software was helping me be more rigid, and it would also result in a better schematic. so, i continued with what i was doing. 
 
 ---
 # references: 
