@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/final-project-2_log.md",
+                "file": "intro-to-computational-media/final-project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "final-project-2_log"
+              "title": "final-project"
+            }
+          },
+          {
+            "id": "0611d763be77be43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mimi's talk at movement-lab, barnard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mimi's talk at movement-lab, barnard"
             }
           }
         ],
@@ -93,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -207,8 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,6 +239,17 @@
   },
   "active": "e5e2c50b44889eca",
   "lastOpenFiles": [
+    "z_images/sketchbook1.webp",
+    "z_images/sketchbook3.webp",
+    "z_images/sketchbook2.webp",
+    "z_images/Screen Recording 2025-12-07 at 11.48.31.mp4",
+    "mimi's talk at movement-lab, barnard.md",
+    "intro-to-computational-media/final-project.md",
+    "z_images/IMG_7006.webp",
+    "z_images/n=4_video.mp4",
+    "z_images/IMG_6993.webp",
+    "z_images/Screenshot 2025-12-07 at 11.54.59.webp",
+    "intro-to-physical-computing/final-project-2_log.md",
     "z_images/IMG_7022-1.webp",
     "z_images/IMG_7022.jpg",
     "z_images/Screenshot 2025-12-06 at 18.09.30.webp",
@@ -235,30 +260,21 @@
     "intro-to-physical-computing/no to noui, by timo arnall (against invisible design).md",
     "my approach to itp.md",
     "applications/index.md",
-    "intro-to-physical-computing/final-project-2_log.md",
     "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
     "people/ana.md",
     "z_images/Screenshot 2025-12-05 at 00.45.00.webp",
     "z_images/251204_sketch.png",
-    "z_images/image-10.png",
     "z_images/IMG_7002.mp4",
     "z_images/IMG_7001.mp4",
     "z_images/IMG_7001.mov",
     "z_images/Screen Recording 2025-12-03 at 19.11.56.mp4",
     "z_images/Screen Recording 2025-12-02 at 23.57.58.mp4",
-    "z_images/IMG_6994.webp",
-    "z_images/Screenshot 2025-11-30 at 19.51.58.png",
-    "z_images/IMG_6990.mp4",
-    "z_images/IMG_6991.webp",
     "creative-rebel-drafts.md",
     "exhaustion.md",
     "class selections.md",
     "flora residency log.md",
     "handmade electronic music, by nicolas collins.md",
     "intro-to-physical-computing/ipc_experiments_week-8_to_week-9 (all serial).md",
-    "z_images/Screenshot 2025-11-30 at 13.21.41.webp",
-    "z_images/IMG_6989.mp4",
-    "z_images/Screenshot 2025-11-29 at 20.23.59.webp",
     "people/daniel rozin.md",
     "anxiety.md",
     "applications/essay_progress-log.md",
@@ -269,8 +285,6 @@
     "intro-to-computational-media/icm_experiments_week-11_to_week-12 (music).md",
     "people/beatrice.md",
     "people/nausheen.md",
-    "people/nnenna.md",
-    "i am sitting in a room, by alvin lucier.md",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"
