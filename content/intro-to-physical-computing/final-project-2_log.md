@@ -292,6 +292,31 @@ at this point, [[people/gabriel|gabriel]] suggested that i just draw the circuit
 but, when i started drawing it, i realised that the structure of my software was helping me be more rigid, and it would also result in a better schematic. so, i continued with what i was doing. 
 
 ---
+i spent time thinking through the form. tom's voice "think about the interaction" kept looming in my head. [[people/aram|aram]] also reinforced it when i was thinking of going in a more sculptural direction. 
+
+the idea was to mess around with planes; i.e: one one plane (when you look top-down), your job is to interact. when you look from the left, your job is to admire (or be curious about) the components. and, when you look from the right, your job is to admire the wiring. 
+
+![[IMG_7030.webp|0x0]]
+
+![[IMG_7031.webp|465x620]]
+
+![[IMG_7032.webp|468x623]]
+
+![[IMG_7028.webp|474x637]]
+
+
+![[IMG_7029.webp|469x624]]
+
+i quickly understood that the fabrication of this would take me time. i have two days, and a bunch of other finals work to finish. i don't know what i'll do yet. 
+
+the problem is that there are many interconnections between the different circuits. it was easy to do so on a breadboard, because i wasn't worrying about the aesthetics much: i wanted the sound to work, and to understand what was happening. 
+
+but now, especially after the midterm, i know that fabrication requires time — perhaps more time than i spent in circuitry. but that's impossible, unless i figure out how to stretch a day beyond 24 hours. 
+
+---
+
+
+---
 # references: 
 [[people/david rios|david rios]] shared these: 
 - https://www.electronics-tutorials.ws/waveforms/555_oscillator.html
