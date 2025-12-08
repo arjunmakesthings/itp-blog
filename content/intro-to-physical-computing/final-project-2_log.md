@@ -314,7 +314,40 @@ the problem is that there are many interconnections between the different circui
 but now, especially after the midterm, i know that fabrication requires time — perhaps more time than i spent in circuitry. but that's impossible, unless i figure out how to stretch a day beyond 24 hours. 
 
 ---
+i sketched out the schematic to laser cut wood. 
 
+![[z_images/Screenshot 2025-12-07 at 18.32.09.webp]]
+
+the pins didn't reach the bottom of the panel. the wood was too thick. 
+
+![[z_images/IMG_7043.webp|337x449]]
+
+burnt the foam board:
+
+![[z_images/IMG_7044.webp|410x546]]
+
+lowered power: 
+
+![[z_images/IMG_7045.webp|413x563]]
+
+
+![[z_images/IMG_7046.webp|416x555]]
+
+soldered one circuit painstakingly. realised i didn't have enough space. it became a pain to do this.
+
+![[z_images/IMG_7047.webp|423x564]]
+
+spent the whole night soldering. didn't get very far.
+
+![[IMG_7048.webp|455x607]]
+
+it's beginning to look pretty though; prettier than the physical-thing i made last time.
+
+![[IMG_7049.webp|454x605]]
+
+
+
+---
 
 ---
 # references: 
