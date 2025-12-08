@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/final-project-2_log.md",
+                "file": "intro-to-physical-computing/midterm-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "final-project-2_log"
+              "title": "midterm-log"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -211,21 +210,23 @@
   },
   "active": "162fbc512e97c139",
   "lastOpenFiles": [
+    "z_images/ay3020-34.webp",
+    "z_images/ay3020-35.webp",
+    "z_images/ay3020-32.webp",
+    "z_images/ay3020-25.webp",
+    "z_images/ay3020-22.webp",
+    "z_images/ay3020-19.webp",
+    "z_images/ay3020-16.webp",
+    "z_images/zoomed.mp4",
+    "z_images/hand.mp4",
+    "intro-to-physical-computing/final-project-2_log.md",
     "z_images/IMG_7049.webp",
     "z_images/IMG_7048.webp",
     "z_images/IMG_7044.webp",
     "z_images/IMG_7046.webp",
-    "z_images/IMG_7047.webp",
-    "z_images/IMG_7045.webp",
-    "z_images/IMG_7043.webp",
-    "z_images/Screenshot 2025-12-07 at 18.32.09.webp",
     "intro-to-computational-media/final-project.md",
     "intro-to-computational-media/icm_experiments_week-3.md",
     "intro-to-physical-computing/ipc_experiments_week-2.md",
-    "intro-to-physical-computing/final-project-2_log.md",
-    "z_images/IMG_7030.webp",
-    "z_images/IMG_7031.webp",
-    "z_images/IMG_7032.webp",
     "mimi's talk at movement-lab, barnard.md",
     "my approach to itp.md",
     "hypercinema/final-project-log.md",
@@ -241,8 +242,6 @@
     "z_images/IMG_7002.mp4",
     "z_images/IMG_7001.mp4",
     "z_images/IMG_7001.mov",
-    "z_images/Screen Recording 2025-12-03 at 19.11.56.mp4",
-    "z_images/Screen Recording 2025-12-02 at 23.57.58.mp4",
     "creative-rebel-drafts.md",
     "exhaustion.md",
     "class selections.md",

@@ -32,20 +32,35 @@ the idea was to communicate this magic — borrowed from dahiya's humility, cou
 ---
 # output: 
 
-![[z_images/IMG_6810.mp4]]
-<figcaption>shows the movement of electrons through a closed-circuit.</figcaption>
-
-![[z_images/IMG_6808 2.webp|407x543]]
+![[z_images/hand.mp4]]
+<figcaption>electrons flow through the components & the circuit.</figcaption>
 
 
-![[z_images/IMG_6805.webp]]
-<figcaption>back. i wire-wrapped everything.</figcaption>
+![[z_images/zoomed.mp4]]
+<figcaption>starting state when the circuit is not complete, inviting a person to complete it.</figcaption>
 
-![[z_images/IMG_6819.webp|0x0]]
+still images: 
 
-![[IMG_6818.jpg|0x0]]
+![[ay3020-16.webp]]
 
-![[IMG_6816.jpg|425x567]]
+
+![[ay3020-19.webp]]
+<figcaption>i wire wrapped all of the 37 leds on the back. they were being sent pseudo-pulses via bit-banging and multiplexors. </figcaption>
+
+
+![[ay3020-22.webp]]
+
+
+![[ay3020-25.webp]]
+
+
+![[ay3020-35.webp]]
+
+
+![[ay3020-34.webp|655x983]]
+
+
+![[ay3020-32.webp]]
 
 reflection is here: [[intro-to-physical-computing/midterm reflection|midterm reflection]]. 
 
