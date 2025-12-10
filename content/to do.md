@@ -13,3 +13,6 @@ an always evolving list of things to do and read; hidden from the public website
 
 # questions: 
 - [ ] for a microcontroller, you need an external clock called a crystal? what is that? 
+
+# see: 
+- https://abc.decontextualize.com/more-than-you-wanted-to-know/ / sebastian lague's how computers work
