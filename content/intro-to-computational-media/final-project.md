@@ -206,7 +206,15 @@ class Letterform {
 ```
 
 ---
-3-d transformation: 
+matt & i had to do a bunch of 3-d thinking to get the cursor to line up with the way text is rotated in 3-d space. 
+
+![[z_images/2512_sped up.mp4]]
+
+whenever we got stuck on a problem, i could see matt try to come up with the most efficient solution. i instead would put together scrappy prototypes. we stumbled upon this difference during [[itp-winter-show-2025 poster design]] too.
+
+when we spoke about it, we realised that it comes from our difference in how we've grown up to use code. he always thinks of the most efficient way (which is why i, sometimes, cannot understand the code he writes), and i think of the easiest way to achieve the desired thing (and he cannot understand why i may have used what i use (for example multiple transformations instead of one (which he would attempt to do))). 
+
+i made him a sketch to understand 3-d transformations: 
 
 ``` js
 let objs = [];
@@ -265,3 +273,5 @@ class Obj {
 }
 
 ```
+
+---
