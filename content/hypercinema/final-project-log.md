@@ -1647,6 +1647,22 @@ function get_coordinates(n) {
 
 ```
 
+---
+rewrote things for the show: 
+
+# description: 
+my father left me & my mother when i was 19. we haven't spoken in the last 5 years. 
+
+i have media on my hard-drive that show me close to him, but i can't recall those memories — because we are estranged in reality.
+
+as time passes, i'm beginning to forget what he looked like, how he talked and how he behaved. on one side, that's good — i'm finally beginning to let go. but on the other, as i've come to realise lately, parts of me desperately desire us to meet,; and for me to preserve those memories in their original shape.
+
+this project invites you to influence my dilemma. physical-units in space represent neurons in either my brain or my father's. by moving them around, you see the same memory represented differently in our brains. moving neurons of the same memory to the center combine the two estranged memories. every 3 minutes, the program takes a snapshot of all the neurons and calculates a score that results in the collective decision of whether i should 'reach out' or 'let go'. 
+
+# project does technically: 
+a computer-algorithm detects colour-blobs via units placed on a flat surface (table). based on the position of the blobs, it displays a memory of me & my father, with either my father removed (if the unit is placed on the left side) or myself removed (if the unit is placed on the right side). as units move closer to each other, both individuals in the memory begin to appear. if units move away from each other, we fade out of each other's lives.
+
+every 3 minutes, the program takes a snapshot of all the units in space, and calculates a score that results in the collective decision of whether i should 'reach out' or 'let go'. 
 
 ---
 # programming resources: 
