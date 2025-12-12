@@ -277,3 +277,6 @@ class Obj {
 ---
 # output: 
 
+![[z_images/Screen Recording 2025-12-11 at 23.29.42.mp4]]
+
+[[people/mimi yin|mimi yin]] said that this exploration was meaningful. that was interesting: to reveal meaning of things over time. i'm too tired to reflect on this properly, but i shall; once winter-break resumes.

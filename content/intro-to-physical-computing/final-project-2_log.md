@@ -14,6 +14,17 @@ this time, instead of seeing the things we can't, i wanted to focus on hearing t
 so, for my final project (see original attempt at [[intro-to-physical-computing/final-project-1_log|final-project-1_log]]), i want to build a portable, hackable synthesizer, without a microcontroller, that simply uses electricity to generate sound (that i could then orchestrate musically). 
 
 ---
+# output: 
+
+![[z_images/finals.webp]]
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-MBHHO_WjQQ?si=dU3cZCp26iBk8Oqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![[IMG_7062.webp|392x523]]
+
+
+---
 
 > But on the other hand, if you think about the “laptop music” style of performance which is currently in vogue, you might notice that there could be a problem, even if the music sounds good, with watching a person sitting in front of a computer and operating the mouse and keyboard. It is just too depressingly similar to what hundreds of millions of workers have to do from nine to five at the office. 
 > 
@@ -360,7 +371,7 @@ got the circuits to work. spent another night soldering.
 
 photos: 
 
-![[IMG_7062.webp]]
+![[IMG_7062.webp|392x523]]
 
 ![[IMG_7063.webp]]
 

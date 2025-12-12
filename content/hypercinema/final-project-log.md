@@ -13,6 +13,22 @@ draft: "false"
 > Your box should include at least (3) points of interactivity.  This could include mouse-click, keypress interactivity, camera movement, spatial audio, proximity triggers. 
 
 ---
+# output:
+description: 
+
+> my father left me & my mother when i was 19. we haven't spoken in the last 5 years. 
+> 
+> i have media on my hard-drive that show me close to him, but i can't recall those memories — because we are estranged in reality.
+> 
+> as time passes, i'm beginning to forget what he looked like, how he talked and how he behaved. on one side, that's good — i'm finally beginning to let go. but on the other, as i've come to realise lately, parts of me desperately desire us to meet,; and for me to preserve those memories in their original shape.
+> 
+> this project invites you to influence my dilemma. physical-units in space represent neurons in either my brain or my father's. by moving them around, you see the same memory represented differently in our brains. moving neurons of the same memory to the center combine the two estranged memories. every 3 minutes, the program takes a snapshot of all the neurons and calculates a score that results in the collective decision of whether i should 'reach out' or 'let go'. 
+
+demo video: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4fMQ44g6BfM?si=Qj2dULB1fhJTgH7B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 [[people/shloka|shloka]] & i decided to work together on this one, since we'll likely not have the same courses in the future. 
 
