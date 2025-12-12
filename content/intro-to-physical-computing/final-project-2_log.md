@@ -345,6 +345,14 @@ it's beginning to look pretty though; prettier than the physical-thing i made la
 
 ![[IMG_7049.webp|454x605]]
 
+when i soldered things together, my circuit didn't work the way it did on the breadboard. however, because i had made many circuits with the 555 before this, i was able to quickly build up a circuit and compare to debug. 
+
+![[z_images/IMG_7052.webp]]
+
+![[z_images/IMG_7054.mp4]]
+
+my guess is that it had something to do with components being in a certain order that i messed up, thereby removing the resistor-bridge between trigger & discharge. 
+
 
 
 ---
