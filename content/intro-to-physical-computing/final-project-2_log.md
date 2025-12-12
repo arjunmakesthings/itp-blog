@@ -372,6 +372,13 @@ photos:
 
 ---
 ### playtest: 
+video showing people interacting with it: https://youtu.be/-MBHHO_WjQQ
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-MBHHO_WjQQ?si=dU3cZCp26iBk8Oqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+i initially thought that my project was a failure. but something surprising happened. [[people/summer|summer]] discovered that if you touch the circuitry, it would generate different sounds (since you complete the circuit in different ways). that became my saving grace, and i changed my instruction from then-on to be: this device makes sounds. touch whatever you want on the board. people obliged. 
+
+![[z_images/finals.webp]]
 
 ---
 [[people/octavio|octavio]] said that i had fabricated it well. he was right — i didn't give myself enough credit for making it look neat. i wish i had planned it before (but that's going to be a recurring problem for me this year). 
