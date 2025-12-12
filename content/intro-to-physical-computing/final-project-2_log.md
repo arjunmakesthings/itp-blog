@@ -353,9 +353,28 @@ when i soldered things together, my circuit didn't work the way it did on the br
 
 my guess is that it had something to do with components being in a certain order that i messed up, thereby removing the resistor-bridge between trigger & discharge. 
 
+---
+got the circuits to work. spent another night soldering. 
 
+![[z_images/IMG_7061.mp4]]
+
+photos: 
+
+![[IMG_7062.webp]]
+
+![[IMG_7063.webp]]
+
+![[IMG_7064.webp]]
+
+![[IMG_7066.webp]]
+
+![[IMG_7065.webp]]
 
 ---
+### playtest: 
+
+---
+[[people/octavio|octavio]] said that i had fabricated it well. he was right — i didn't give myself enough credit for making it look neat. i wish i had planned it before (but that's going to be a recurring problem for me this year). 
 
 ---
 # references: 
