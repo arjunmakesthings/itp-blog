@@ -391,7 +391,16 @@ i initially thought that my project was a failure. but something surprising happ
 
 ![[z_images/finals.webp]]
 
+at the end, we discussed a little bit about interaction. my project had more room for play, and it ended up being an exploratory interface. it also, surprisingly, led to sustained interaction.
+
+[[people/galt|galt]] made an interesting connection to [[applications/finite & infinite games|finite & infinite games]] — there were some experiences with a clear beginning, middle and end (and often ended with you 'winning such as [[valerie]] & [[raven]]'s'); whereas others were more infinite (such as [[shentong]]'s and mine).
+
+i wondered about sustained interaction in that discussion. i thought: wasn't it just a combinatorial problem? an interface that has many possibilities for inputs, with fast-feedback, will often result in sustained-interaction; because people love 'figuring things out'. but i wonder how much of it would sustain outside the premise of "go try someone's project". 
+
+as i think more about this, the <mark>goal is **not** sustained interaction</mark> (otherwise you fall into traps of making a facebook). the goal is to <mark>make contextually-sensitive interactions</mark> (sustained when it must, easy when it must, 'intuitive' when it must, and jarring when it must). related to [[my principles as a creator]]. 
+
 ---
+### 251211:
 [[people/octavio|octavio]] said that i had fabricated it well. he was right — i didn't give myself enough credit for making it look neat. i wish i had planned it before (but that's going to be a recurring problem for me this year). 
 
 ---

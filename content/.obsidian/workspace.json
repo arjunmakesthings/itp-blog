@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "hypercinema/final-project-log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "final-project-log"
+            }
+          },
+          {
+            "id": "913d1c6237b04e08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "intro-to-physical-computing/final-project-2_log.md",
                 "mode": "source",
                 "source": false
@@ -20,8 +34,23 @@
               "icon": "lucide-file",
               "title": "final-project-2_log"
             }
+          },
+          {
+            "id": "345359f8b76b48e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "my principles as a creator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "my principles as a creator"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,14 +236,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c49b10d1b5a2b73f",
+  "active": "913d1c6237b04e08",
   "lastOpenFiles": [
+    "my principles as a creator.md",
+    "hypercinema/final-project-log.md",
+    "intro-to-physical-computing/final-project-2_log.md",
+    "people/shentong.md",
+    "people/valerie.md",
+    "people/raven.md",
+    "z_images/Screenshot 2025-12-11 at 23.40.35.webp",
     "paper as a substrate for circuits.md",
     "submarine map.md",
     "intro-to-computational-media/final-project.md",
-    "hypercinema/final-project-log.md",
     "z_images/Screen Recording 2025-12-11 at 23.29.42.mp4",
-    "intro-to-physical-computing/final-project-2_log.md",
     "z_images/finals.webp",
     "z_images/IMG_7062.webp",
     "z_images/IMG_7063.webp",
@@ -227,7 +261,6 @@
     "z_images/Screenshot 2025-12-10 at 23.12.56.png",
     "z_images/demo-film.mp4",
     "z_images/Screenshot 2025-12-10 at 23.34.58.png",
-    "z_images/Screenshot 2025-12-10 at 17.16.06.png",
     "people/noah pivnick.md",
     "to do.md",
     "intro-to-physical-computing/midterm-log.md",
@@ -251,9 +284,6 @@
     "flora residency log.md",
     "handmade electronic music, by nicolas collins.md",
     "intro-to-physical-computing/ipc_experiments_week-8_to_week-9 (all serial).md",
-    "people/daniel rozin.md",
-    "anxiety.md",
-    "applications/essay_progress-log.md",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"

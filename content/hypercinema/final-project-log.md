@@ -1681,6 +1681,24 @@ a computer-algorithm detects colour-blobs via units placed on a flat surface (ta
 every 3 minutes, the program takes a snapshot of all the units in space, and calculates a score that results in the collective decision of whether i should 'reach out' or 'let go'. 
 
 ---
+made a demo video: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4fMQ44g6BfM?si=Qj2dULB1fhJTgH7B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+when i presented in class, people cried. i hadn't anticipated that. turns out that it was a really powerful project. 
+
+[[people/shloka|shloka]] wrote this to me: 
+
+![[z_images/Screenshot 2025-12-11 at 23.40.35.webp]]
+
+[[people/emilia|emilia]] also said that she wouldn't have the courage to do something like this (so vulnerable) in front of an audience. i said: speaking about it helps it not feel like an extreme situation, it transcends into normalcy. 
+
+[[people/aidan nelson|aidan nelson]] said that i might want to reconsider my 'data' point. everyone deals with loss & grief at some point, and that immediately forms the connection with this project. i hadn't anticipated that, and thought i needed more incentive to make people want to try it. but naturally they wanted to. 
+
+it also became an exploratory interface; perhaps tied to what [[people/tom|tom]] spoke about with regards to sustained interaction: something new (and unexpected happens) when you add a neuron, and move it around in space. there are many combinatorial possibilities. 
+
+---
 # programming resources: 
 - face detection (using blaze-face): https://www.youtube.com/watch?v=jovusqHNpRo
 
