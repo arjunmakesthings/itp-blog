@@ -9,7 +9,7 @@ we presented what we made in [[intro-to-computational-media/icm_experiments_week
 
 ![[z_images/IMG_6886.webp|465x620]]
 
-[[people/mimi yin|mimi yin]] made the point that <mark>people will <em>always</em> see more things than you originally intended</mark>. 
+[[people/mimi|mimi]] made the point that <mark>people will <em>always</em> see more things than you originally intended</mark>. 
 
 i also realised that an image is never perfectly received by people. [[eyes are beautiful — they wander]].
 

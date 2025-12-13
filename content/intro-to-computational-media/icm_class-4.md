@@ -6,7 +6,7 @@ noteOrder: "91"
 draft: "false"
 ---
 # notes: 
-- [[people/mimi yin|mimi yin]] explained the differences between a boolean variable & expression: 
+- [[people/mimi|mimi]] explained the differences between a boolean variable & expression: 
 	- variable: store memory over time
 	- expression: evaluate for right now
 - that distinction was the answer to the question i couldn't solve in the last 'homework'. 

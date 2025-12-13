@@ -40,7 +40,7 @@ i think the reading was so inspiring, but so overwhelming. there's so much to le
 
 ---
 
-this article shared by [[people/mimi yin|mimi yin]] is also related: https://drive.google.com/drive/folders/1cPo3n0YWy2_Urc5XIwUewzmg34994w9T
+this article shared by [[people/mimi|mimi]] is also related: https://drive.google.com/drive/folders/1cPo3n0YWy2_Urc5XIwUewzmg34994w9T
 
 > The human hand is a marvel of nature. No other creature on Earth, not even our
 closest primate relatives, has hands structured quite like ours, capable of such

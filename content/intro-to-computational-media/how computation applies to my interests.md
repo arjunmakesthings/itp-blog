@@ -5,7 +5,7 @@ tags:
 noteOrder: "34"
 draft: "false"
 ---
-[[people/mimi yin|mimi yin]] asked us to do this in [[intro-to-computational-media/icm_class-1|icm_class-1]]: 
+[[people/mimi|mimi]] asked us to do this in [[intro-to-computational-media/icm_class-1|icm_class-1]]: 
 
 > Write a blog post about how computation applies to *your* interests, **due 24 hours before the next class**.  This could be a subject you've studied, a job you've worked, a personal hobby, or a cause you care about.  What projects do you imagine making this term?  What projects do you love? (You can review and contribute to the [ICM Inspiration Wiki page](https://github.com/ITPNYU/ICM-2025-Code/wiki/Inspiration)).
 

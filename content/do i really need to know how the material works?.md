@@ -12,7 +12,7 @@ now, i realise that that's perhaps impossible.
 
 say you work with code. you'd first understand the language, and how it produces things. then, you'll understand how the computer processes code. then, from there, you'll get into the circuitry. then, electricity. then, matter. then, electrons. then, trying to find a source of truth when you realise that electrons are just conventionally believed to be true — we don't know if they *are* true. then you'll perhaps go into *what is true?*
 
-[[people/mimi yin|mimi yin]] presented this thought (indirectly) in my head: 
+[[people/mimi|mimi]] presented this thought (indirectly) in my head: 
 
 > do i really need to know the material? or do i *really* need to know how the material interacts with the human? 
 

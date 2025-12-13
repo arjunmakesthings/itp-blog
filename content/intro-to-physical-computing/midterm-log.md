@@ -220,7 +220,7 @@ void turn_on(int a_val, int b_val, int c_val){
 
 ```
 
-since i'm new to cpp, i'll follow what [[people/mimi yin|mimi yin]] makes students do in [[intro-to-computational-media]] — hard-code values, then begin to abstract.
+since i'm new to cpp, i'll follow what [[people/mimi|mimi]] makes students do in [[intro-to-computational-media]] — hard-code values, then begin to abstract.
 
 what follows can be thought of as github commits.
 
@@ -677,7 +677,7 @@ good ~~day~~ night. now, i have to figure out how to pass this to the multiplexo
 
 ![[z_images/IMG_6675.webp]]
 
-she explained that while the computer sends out signal linearly, the eye doesn't quite perceive it similarly. this is the difference between computation & perception that [[people/mimi yin|mimi yin]] was also referring to; in my [[conversation with mimi]]. 
+she explained that while the computer sends out signal linearly, the eye doesn't quite perceive it similarly. this is the difference between computation & perception that [[people/mimi|mimi]] was also referring to; in my [[conversation with mimi]]. 
 
 we spoke about [photopic curves](https://en.wikipedia.org/wiki/Luminous_efficiency_function) too.
 

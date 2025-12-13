@@ -20,7 +20,7 @@ phenomenal guy though.
 
 he made me re-believe in rigour ([[the lack of rigour in creatives]]), and i understood how insane their r & d process was. it made me feel like i was doing less, and i again felt a shock of [[there's too little time.]]
 
-[[people/mimi yin|mimi yin]], however, in [[intro-to-computational-media/icm_class-2|icm_class-2]] told me that the overwhelm is my design. i have a lot to learn, and not jump forward in time. 
+[[people/mimi|mimi]], however, in [[intro-to-computational-media/icm_class-2|icm_class-2]] told me that the overwhelm is my design. i have a lot to learn, and not jump forward in time. 
 
 just keep making (and reflecting on what you made). 
 

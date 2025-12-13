@@ -4,7 +4,7 @@ date: 2025-09-03
 folderOrder: "2"
 draft: "false"
 ---
-taken by [[people/mimi yin|mimi yin]], in semester-1. 
+taken by [[people/mimi|mimi]], in semester-1. 
 
 ---
 # why i took this class: 

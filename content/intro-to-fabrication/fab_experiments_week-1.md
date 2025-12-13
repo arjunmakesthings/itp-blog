@@ -13,7 +13,7 @@ wanted to make a box that isn't just a box. think of it as a panel opening into 
 
 ![[z_images/IMG_6187 1.webp]]
 
-[[people/ian|ian]] helped me with gaining confidence about my thought. he also told me that this might take way longer that i anticipate. 
+[[people/ian cox|ian cox]] helped me with gaining confidence about my thought. he also told me that this might take way longer that i anticipate. 
 
 ![[z_images/IMG_6163.webp]]
 
@@ -51,7 +51,7 @@ also cut the wrong size for the lid.
 
 ![[z_images/IMG_6202.webp]]
 
-decided to start again, after a conversation with [[ian]]. 
+decided to start again, after a conversation with [[people/ian cox]]. 
 
 ---
 
@@ -69,7 +69,7 @@ realised it's better to make sure that the saw is on the outside of the line i w
 
 ![[z_images/IMG_6203.webp]]
 
-[[people/ian|ian]] showed me how to create a sink for the screw, so that the screw doesn't crack the wood. used his personal drill-bit. 
+[[people/ian cox|ian cox]] showed me how to create a sink for the screw, so that the screw doesn't crack the wood. used his personal drill-bit. 
 
 ![[z_images/IMG_6210.webp]]
 

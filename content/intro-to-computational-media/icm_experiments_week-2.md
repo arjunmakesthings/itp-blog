@@ -19,7 +19,7 @@ made this for one of the assignments:
 ---
 thought about the creative assignment.
 
-[[people/mimi yin|mimi yin]]'s brief: 
+[[people/mimi|mimi]]'s brief: 
 
 > The world is defined through relationships and those relationships shape our perspectives. Use variables to build in some relationships between two or more elements in your sketch and think about how the perception of what’s happening is different depending on which element's perspective you take on.
 

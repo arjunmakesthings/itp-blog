@@ -6,7 +6,7 @@ tags:
 noteOrder: "123"
 draft: "false"
 ---
-we were instructed by [[people/ian|ian]] to keep testing the uv-printer, and to make sure that it prints often. 
+we were instructed by [[people/ian cox|ian cox]] to keep testing the uv-printer, and to make sure that it prints often. 
 
 i took this image, that i'd generated a few years ago.
 

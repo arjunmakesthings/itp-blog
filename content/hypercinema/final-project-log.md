@@ -69,7 +69,7 @@ as they get closer, the blurriness would reduce.
 i thought about how i would detect the faces, and what i could do. it can't be a pre-created video (like runway), and it needs to detect the faces and blur / manipulate them, somehow, live. 
 
 ---
-i spent time thinking of the algorithm; also spoke with [[people/mimi yin|mimi yin]]. 
+i spent time thinking of the algorithm; also spoke with [[people/mimi|mimi]]. 
 
 ![[z_images/251126.webp]]
 
@@ -410,7 +410,7 @@ then, tried to project the image according to markers that it sees, so as to get
 
 ![[Screenshot 2025-11-30 at 19.51.58.png]]
 
-i couldn't understand it only. booked an appointment with [[people/mimi yin|mimi yin]] tomorrow. no point breaking my head over this right now.
+i couldn't understand it only. booked an appointment with [[people/mimi|mimi]] tomorrow. no point breaking my head over this right now.
 
 ---
 ### 251203: 

@@ -5,7 +5,7 @@ tags:
 noteOrder: "177"
 draft: "false"
 ---
-this was one of the most beautiful classes i've attended. [[people/mimi yin|mimi yin]] broke down popular songs, and we collectively saw how changing the pattern influences the feeling of the song (she compared it to the analogy of opening a door). 
+this was one of the most beautiful classes i've attended. [[people/mimi|mimi]] broke down popular songs, and we collectively saw how changing the pattern influences the feeling of the song (she compared it to the analogy of opening a door). 
 
 we discussed how <mark>ratios matter</mark>, because they're encoded in our brains (even if they aren't salient). 
 

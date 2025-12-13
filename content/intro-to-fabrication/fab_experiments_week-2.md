@@ -27,14 +27,14 @@ messed around with half-cuts, some ikea-inspired mechanisms, et-cetera for the c
 
 ![[z_images/IMG_6269.mov]]
 
-[[people/ian|ian]] helped me understand that i was obsessing over the wrong thing (mechanism over replication), and that wood probably wasn't the best material for something that moves. <mark>wood is best for something solid</mark>.
+[[people/ian cox|ian cox]] helped me understand that i was obsessing over the wrong thing (mechanism over replication), and that wood probably wasn't the best material for something that moves. <mark>wood is best for something solid</mark>.
 
 ---
 grappled with that for a few days, came in and made a few sketches. 
 
 ![[z_images/IMG_6300.webp]]
 
-[[people/ian|ian]] had recommended [tinkercad](https://www.tinkercad.com) to help see things in 3-d. worked more, to visualise a simple thing made of 5 smaller things that move. 
+[[people/ian cox|ian cox]] had recommended [tinkercad](https://www.tinkercad.com) to help see things in 3-d. worked more, to visualise a simple thing made of 5 smaller things that move. 
 
 ![[z_images/Screenshot 2025-09-19 at 102.32.webp]]
 

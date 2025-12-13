@@ -5,7 +5,7 @@ tags:
 noteOrder: "80"
 draft: "false"
 ---
-i had to make a sketch with [[may]] for this. the ask by [[people/mimi yin|mimi yin]] was: 
+i had to make a sketch with [[may]] for this. the ask by [[people/mimi|mimi]] was: 
 
 > use conditional statements to control the flow of your programs. Create a sketch that asks people to make difficult choices that have surprising consequences.
 

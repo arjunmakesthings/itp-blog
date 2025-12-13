@@ -30,7 +30,7 @@ operate out of <mark>love</mark>, and <mark>be true to your own curiosity</mark>
 
 ---
 # 251003:
-[[people/mimi yin|mimi yin]] & [[people/tom|tom]] have helped me see that i'm <mark>not here to produce (right now)</mark>, i'm <mark>here to learn</mark>.
+[[people/mimi|mimi]] & [[people/tom|tom]] have helped me see that i'm <mark>not here to produce (right now)</mark>, i'm <mark>here to learn</mark>.
 
 ---
 # 250928: 

@@ -5,7 +5,7 @@ tags:
 noteOrder: "151"
 draft: "false"
 ---
-[[people/mimi yin|mimi yin]] made me wonder about the working material here at itp: 
+[[people/mimi|mimi]] made me wonder about the working material here at itp: 
 
 is it *really* code? is it wood? is it tangibility? 
 

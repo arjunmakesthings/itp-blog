@@ -5,7 +5,7 @@ tags:
 noteOrder: "108"
 draft: "false"
 ---
-spoke to [[people/mimi yin|mimi yin]] about this: 
+spoke to [[people/mimi|mimi]] about this: 
 
 >email: 
 > yes, i know (and will know more through your class) about programming techniques with a high-level language (they may translate to low-level languages too). but, yesterday, i attended a talk about bairui's thesis and i felt the same way that i did a few years ago — i can understand & write (some) code, but when they get into the technical details of how things are processed, i'm lost. i realise that knowing how to use a tool creates limits on what i can make. p5 is still a tool (yes, it allows more possibilities, but it is still restricted by my lack of understanding about how the computer processes code). 

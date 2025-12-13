@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6ae24bc95aa0d395",
+        "id": "007eebf566df1532",
         "type": "tabs",
         "children": [
           {
-            "id": "c49b10d1b5a2b73f",
+            "id": "79691d2e9580f829",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hypercinema/final-project-log.md",
+                "file": "the anxiety, it kills me.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "final-project-log"
-            }
-          },
-          {
-            "id": "913d1c6237b04e08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-physical-computing/final-project-2_log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "final-project-2_log"
-            }
-          },
-          {
-            "id": "345359f8b76b48e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "my principles as a creator.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "my principles as a creator"
+              "title": "the anxiety, it kills me"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,8 +208,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "913d1c6237b04e08",
+  "active": "79691d2e9580f829",
   "lastOpenFiles": [
+    "people/phil.md",
+    "the anxiety, it kills me.md",
+    "people/ian cox.md",
+    "people/mimi.md",
+    "z_images/IMG_7122.webp",
+    "z_images/IMG_7122.webp",
     "my principles as a creator.md",
     "hypercinema/final-project-log.md",
     "intro-to-physical-computing/final-project-2_log.md",
@@ -258,9 +236,7 @@
     "z_images/IMG_7061.mp4",
     "z_images/IMG_7054.mp4",
     "z_images/IMG_7052.webp",
-    "z_images/Screenshot 2025-12-10 at 23.12.56.png",
     "z_images/demo-film.mp4",
-    "z_images/Screenshot 2025-12-10 at 23.34.58.png",
     "people/noah pivnick.md",
     "to do.md",
     "intro-to-physical-computing/midterm-log.md",
@@ -280,10 +256,6 @@
     "people/ana.md",
     "creative-rebel-drafts.md",
     "exhaustion.md",
-    "class selections.md",
-    "flora residency log.md",
-    "handmade electronic music, by nicolas collins.md",
-    "intro-to-physical-computing/ipc_experiments_week-8_to_week-9 (all serial).md",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"
