@@ -29,6 +29,7 @@ that people will instead be kinder;
 and sympathize. 
 
 ---
+
 0155: a post-it goes up on my wall. it says "winning is not your job". 
 
 i have to write myself reminders (like this one)
@@ -49,6 +50,7 @@ one just says:
 <figcaption>desk; 251213.</figcaption>
 
 ---
+
 thanks to [[people/david rios|david rios]] & [[people/shloka|shloka]] today; and all the other professors who've helped me navigate my existentialism this semester: [[people/shawn|shawn]], [[people/dan-o|dan-o]], [[people/mimi|mimi]], [[people/tom|tom]], [[people/tanika williams|tanika williams]], [[people/phil|phil]], [[people/ian cox|ian cox]]. 
 
 [[people/matt|matt]], [[people/ryan|ryan]]; for noticing early on.

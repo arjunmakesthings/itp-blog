@@ -1702,3 +1702,10 @@ it also became an exploratory interface; perhaps tied to what [[people/tom|tom]]
 # programming resources: 
 - face detection (using blaze-face): https://www.youtube.com/watch?v=jovusqHNpRo
 
+---
+# text for the show: 
+
+instructions: 
+
+
+

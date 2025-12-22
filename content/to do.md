@@ -16,3 +16,4 @@ an always evolving list of things to do and read; hidden from the public website
 
 # see: 
 - https://abc.decontextualize.com/more-than-you-wanted-to-know/ / sebastian lague's how computers work
+- Reading on the Brain by stanislas dehaene suggested by dan-o.
