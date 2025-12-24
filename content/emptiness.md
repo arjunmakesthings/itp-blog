@@ -15,7 +15,7 @@ of bright blue water.
 the politics of tight water-molecule bonds
 abhor 
 every proton, nucleus & electron,
-of every ink atom. 
+of every black atom. 
 
 vantablack ink 
 can never bond with water; 
@@ -33,7 +33,7 @@ vantablack ink is no more.
 
 from the next minute
 to 
-the last second of demolition, 
+the last second of holy demolition, 
 a zillion blue children
 learn the ways of the water.
 
