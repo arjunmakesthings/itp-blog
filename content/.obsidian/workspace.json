@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "007eebf566df1532",
+        "id": "6f11e5775de3f083",
         "type": "tabs",
         "children": [
           {
-            "id": "79691d2e9580f829",
+            "id": "db24de371101a195",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "to do.md",
+                "file": "intro-to-physical-computing/midterm-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "to do"
-            }
-          },
-          {
-            "id": "5b2712c6291eba35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shopping list.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "shopping list"
-            }
-          },
-          {
-            "id": "7895223efd7271a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "musicboards, by elena rykova & martina schlusnus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "musicboards, by elena rykova & martina schlusnus"
-            }
-          },
-          {
-            "id": "a34690dc848c1cc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "emptiness.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "emptiness"
+              "title": "midterm-log"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,16 +208,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a34690dc848c1cc1",
+  "active": "db24de371101a195",
   "lastOpenFiles": [
-    "musicboards, by elena rykova & martina schlusnus.md",
+    "projects-by-other-people/timepaint, by john maeda.md",
+    "z_images/Screenshot 2025-12-27 at 19.10.10.png",
+    "projects-by-other-people/infinite drum machine.md",
+    "projects-by-other-people/index.md",
     "emptiness.md",
+    "musicboards, by elena rykova & martina schlusnus.md",
+    "shopping list.md",
+    "to do.md",
     "z_images/Screenshot 2025-12-21 at 21.54.42.png",
     "people/yeseul.md",
     "people/zach lieberman.md",
-    "projects-by-other-people/infinite drum machine.md",
-    "shopping list.md",
-    "to do.md",
     "hypercinema/final-project-log.md",
     "the anxiety, it kills me.md",
     "people/phil.md",
@@ -282,7 +243,6 @@
     "z_images/IMG_7063.webp",
     "z_images/IMG_7064.webp",
     "z_images/IMG_7066.webp",
-    "z_images/IMG_7065.webp",
     "z_images/IMG_7061.mp4",
     "z_images/IMG_7054.mp4",
     "z_images/demo-film.mp4",
@@ -292,9 +252,6 @@
     "z_images/zoomed.mp4",
     "z_images/hand.mp4",
     "intro-to-computational-media/icm_experiments_week-3.md",
-    "intro-to-physical-computing/ipc_experiments_week-2.md",
-    "mimi's talk at movement-lab, barnard.md",
-    "my approach to itp.md",
     "z_images/Screen Recording 2025-12-07 at 11.48.31.mp4",
     "z_images/n=4_video.mp4",
     "z_images/IMG_7009 2.mp4",
