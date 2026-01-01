@@ -5,33 +5,18 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "path:people  ",
-      "color": {
-        "a": 1,
-        "rgb": 15339663
-      }
-    },
-    {
-      "query": "tag:#experiments  ",
-      "color": {
-        "a": 1,
-        "rgb": 3006984
-      }
-    }
-  ],
-  "collapse-display": false,
+  "collapse-color-groups": false,
+  "colorGroups": [],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.8,
   "nodeSizeMultiplier": 1.23791695030633,
   "lineSizeMultiplier": 1.39159292035398,
   "collapse-forces": false,
-  "centerStrength": 0.273655547991831,
+  "centerStrength": 0.173003987163279,
   "repelStrength": 11.6989205484781,
   "linkStrength": 0.82184187493922,
-  "linkDistance": 30,
-  "scale": 0.9401388367307061,
-  "close": false
+  "linkDistance": 228,
+  "scale": 0.3197343036232089,
+  "close": true
 }

@@ -2,6 +2,7 @@
 date: 2025-11-07
 tags:
   - ideas
+  - experiments
 noteOrder: "169"
 draft: "false"
 ---

@@ -2,6 +2,7 @@
 date: 2025-12-10
 tags:
   - reading
+  - ideas
 noteOrder: "185"
 draft: "false"
 ---
