@@ -11,17 +11,40 @@
             "id": "db24de371101a195",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "projects-by-other-people/ahmed ansari's work.md",
-                "mode": "source",
-                "source": false
+                "file": "z_images/introduction-map-image_250824 1.webp"
               },
-              "icon": "lucide-file",
-              "title": "ahmed ansari's work"
+              "icon": "lucide-image",
+              "title": "introduction-map-image_250824 1"
+            }
+          },
+          {
+            "id": "53cacf62a5d224af",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "z_images/IMG_6652-preview 1.webp"
+              },
+              "icon": "lucide-image",
+              "title": "IMG_6652-preview 1"
+            }
+          },
+          {
+            "id": "431b8669a29a8782",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "z_images/introduction-map-image_250824 1.webp"
+              },
+              "icon": "lucide-image",
+              "title": "introduction-map-image_250824 1"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,42 +228,43 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "note-id:Open side panel": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "db24de371101a195",
+  "active": "32f876c5ef6f4df6",
   "lastOpenFiles": [
-    "terms & concepts/onotology.md",
+    "z_images/IMG_6652-preview 1.webp",
+    "index.md",
+    "z_images/introduction-map-image_250824 1.webp",
+    "what is technology?.md",
+    "emptiness.md",
+    "intro-to-computational-media/index.md",
+    "sortspec.md",
+    "intro-to-fabrication/index.md",
+    "people/daniel rozin.md",
+    "people/raven.md",
+    "people/zach lieberman.md",
+    "people/aditya.md",
+    "terms & concepts/firmware.md",
+    "terms & concepts/hoisting.md",
     "projects-by-other-people/ahmed ansari's work.md",
+    "terms & concepts/onotology.md",
     "terms & concepts/qualia.md",
     "Untitled",
     "working material(s) for artists.md",
     "work, by zimoun.md",
     "why i don't want to do vr.md",
     "what makes people want to touch or play with objects?.md",
-    "what is technology?.md",
     "what is intuitive design?.md",
     "uv-printer experiments.md",
     "tongue-assisted wheelchair moving mechanism, by georgia tech.md",
     "to do.md",
     "thispersondoesnotexist.md",
     "there's too little time..md",
-    "the pressure to do big things.md",
-    "the lack of rigour in creatives.md",
-    "the anxiety, it kills me.md",
-    "testing for racial-biases on thispersondoesnotexist.md",
-    "terms & concepts/translators.md",
-    "terms & concepts/tool vs medium vs material.md",
-    "terms & concepts/representational state transfer api.md",
-    "terms & concepts/magic.md",
-    "terms & concepts/index.md",
-    "terms & concepts/hoisting.md",
-    "terms & concepts/firmware.md",
-    "terms & concepts/encoding.md",
     "terms & concepts",
     "resources & tools",
     "projects-by-other-people",
-    "introduction-map-image_250824.webp",
     "intro-to-physical-computing",
     "intro-to-fabrication",
     "hypercinema",
@@ -253,7 +277,6 @@
     "z_images/finals.webp",
     "z_images/IMG_7062.webp",
     "z_images/IMG_7063.webp",
-    "z_images/IMG_7064.webp",
     "z_images/IMG_7061.mp4",
     "z_images/IMG_7054.mp4",
     "damp vision finding canvas.canvas",
