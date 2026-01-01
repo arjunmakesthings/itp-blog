@@ -35,12 +35,14 @@
             "id": "431b8669a29a8782",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "z_images/introduction-map-image_250824 1.webp"
+                "file": "applications/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "introduction-map-image_250824 1"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -63,7 +65,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -215,8 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,36 +233,37 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "32f876c5ef6f4df6",
+  "active": "431b8669a29a8782",
   "lastOpenFiles": [
-    "z_images/IMG_6652-preview 1.webp",
+    "hypercinema/index.md",
+    "intro-to-computational-media/index.md",
+    "intro-to-fabrication/index.md",
+    "intro-to-physical-computing/index.md",
+    "applications/index.md",
+    "facilitating a discussion on why we do what we do at itp.md",
+    "intro-to-fabrication/fab_class-7.md",
+    "bairui's talk on recho.md",
+    "3d printed material does interesting light diffusion.md",
+    "tangibility makes magic more plausible.md",
+    "dani bacon's talk.md",
+    "conversation with dan-o-sullivan.md",
     "index.md",
+    "projects-by-other-people/work, by zimoun.md",
+    "all design (technically) excludes people.md",
+    "programmable resistors.md",
+    "digital potentiometers.md",
+    "applications_class_.md",
     "z_images/introduction-map-image_250824 1.webp",
+    "z_images/IMG_6652-preview 1.webp",
     "what is technology?.md",
     "emptiness.md",
-    "intro-to-computational-media/index.md",
     "sortspec.md",
-    "intro-to-fabrication/index.md",
     "people/daniel rozin.md",
     "people/raven.md",
     "people/zach lieberman.md",
     "people/aditya.md",
     "terms & concepts/firmware.md",
-    "terms & concepts/hoisting.md",
-    "projects-by-other-people/ahmed ansari's work.md",
-    "terms & concepts/onotology.md",
-    "terms & concepts/qualia.md",
     "Untitled",
-    "working material(s) for artists.md",
-    "work, by zimoun.md",
-    "why i don't want to do vr.md",
-    "what makes people want to touch or play with objects?.md",
-    "what is intuitive design?.md",
-    "uv-printer experiments.md",
-    "tongue-assisted wheelchair moving mechanism, by georgia tech.md",
-    "to do.md",
-    "thispersondoesnotexist.md",
-    "there's too little time..md",
     "terms & concepts",
     "resources & tools",
     "projects-by-other-people",

@@ -1,7 +1,7 @@
 ---
 title: applications
 date: 2025-09-03
-folderOrder: "3"
+folderOrder: "5"
 draft: "false"
 ---
 taken by [[people/sharon de la cruz|sharon de la cruz]], in semester-1. 

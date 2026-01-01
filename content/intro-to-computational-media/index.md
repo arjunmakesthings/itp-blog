@@ -1,7 +1,7 @@
 ---
 title: intro-to-computational-media
 date: 2025-09-03
-folderOrder: "2"
+folderOrder: "3"
 draft: "false"
 ---
 taken by [[people/mimi|mimi]], in semester-1. 

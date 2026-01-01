@@ -1,7 +1,7 @@
 ---
 title: intro-to-fabrication
 date: 2025-09-08
-folderOrder: "5"
+folderOrder: "2"
 draft: "false"
 ---
 taken by [[phil]], in semester-1. 
