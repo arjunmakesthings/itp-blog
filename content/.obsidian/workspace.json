@@ -11,10 +11,14 @@
             "id": "431b8669a29a8782",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "set the stage, then shut up and listen, by tom igoe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "set the stage, then shut up and listen, by tom igoe"
             }
           },
           {
