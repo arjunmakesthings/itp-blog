@@ -34,8 +34,7 @@ an always evolving list of things to do and read; hidden from the public website
 - [ ] organise zotero library
 - [ ] write back to allison
 - [ ] finish there are no electrons and publish writing
-
-- [ ] readings for p-comp: https://itp.nyu.edu/physcomp/week-to-week-activity/#Week_1
+- [ ] me, my father & our neurons at itp show — video
 - [ ] write america, freedom post
 - [x] read this: where the action is: the foundations of embodied interaction: https://archive.ph/JMA90; found in [[intro-to-physical-computing/no to noui, by timo arnall (against invisible design)|no to noui, by timo arnall (against invisible design)]]
 

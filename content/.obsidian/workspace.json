@@ -10,6 +10,7 @@
           {
             "id": "e3fb6d411e1f4875",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,6 +18,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "to do"
             }
@@ -74,8 +76,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,6 +213,8 @@
   },
   "active": "e3fb6d411e1f4875",
   "lastOpenFiles": [
+    "2026-01-03.md",
+    "to do.md",
     "why i never want to use frameworks or plugins again.md",
     "set the stage, then shut up and listen, by tom igoe.md",
     "paper as a substrate for circuits.md",
@@ -238,8 +241,6 @@
     "programmable resistors.md",
     "digital potentiometers.md",
     "applications_class_.md",
-    "what is technology?.md",
-    "emptiness.md",
     "Untitled",
     "terms & concepts",
     "resources & tools",
