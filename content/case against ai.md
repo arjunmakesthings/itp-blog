@@ -18,7 +18,11 @@ yet to formulate.
 	  i told him that it is because i *can* get it work by asking a chatbot, but (a) i won't bother understanding how it worked, and (b) i would lose out on all the other potential learning that 'not knowing' could lead me to (such as *actually* understanding what transistors do). 
 	
 	  yes, not asking an ai-chatbot consumes more time, but it gives me more than *a* answer. 
-- 
+
+- the tisch statement of principle says:
+  > The core of the educational experience at the Tisch School of the Arts is the creation of original academic and artistic work by students for the critical review of faculty members.  It is therefore of the utmost importance that students at all times provide their instructors with an accurate sense of their current abilities and knowledge in order to receive appropriate constructive criticism and advice.  Any attempt to evade that essential, transparent transaction between instructor and student through plagiarism or cheating is educationally self-defeating and a grave violation of Tisch School of the Arts community standards. 
+  
+  meaning that when students write code (or build something) that they do not fully understand, they are doing a grave dissatisfaction to their learning. they give a false sense of understanding to the instructor, by displaying the application of something that hasn't been understood. 
 
 
 ---

@@ -22,8 +22,51 @@
               "icon": "lucide-file",
               "title": "to do"
             }
+          },
+          {
+            "id": "8ec96c87113028cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "educationally self-defeating.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "educationally self-defeating"
+            }
+          },
+          {
+            "id": "d51133f8f6be3392",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "case against ai.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "case against ai"
+            }
+          },
+          {
+            "id": "711f68f2c5645c85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "llms evade learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "llms evade learning"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -80,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -195,8 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,10 +252,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e3fb6d411e1f4875",
+  "active": "711f68f2c5645c85",
   "lastOpenFiles": [
-    "2026-01-03.md",
+    "z_images/revised-blooms-taxonomy-1969950567.webp",
+    "z_images/image-13.png",
+    "z_images/image-13.webp",
+    "educationally self-defeating.md",
+    "llms evade learning.md",
+    "case against ai.md",
     "to do.md",
+    "2026-01-03.md",
     "why i never want to use frameworks or plugins again.md",
     "set the stage, then shut up and listen, by tom igoe.md",
     "paper as a substrate for circuits.md",
@@ -237,10 +284,6 @@
     "conversation with dan-o-sullivan.md",
     "index.md",
     "projects-by-other-people/work, by zimoun.md",
-    "all design (technically) excludes people.md",
-    "programmable resistors.md",
-    "digital potentiometers.md",
-    "applications_class_.md",
     "Untitled",
     "terms & concepts",
     "resources & tools",
@@ -255,8 +298,6 @@
     "z_images/Screenshot 2025-12-11 at 23.40.35.webp",
     "z_images/Screen Recording 2025-12-11 at 23.29.42.mp4",
     "z_images/finals.webp",
-    "z_images/IMG_7062.webp",
-    "z_images/IMG_7063.webp",
     "z_images/IMG_7061.mp4",
     "z_images/IMG_7054.mp4",
     "damp vision finding canvas.canvas",
