@@ -18,6 +18,7 @@ an always evolving list of things to do and read; hidden from the public website
 - [ ] behaviour design writing
 - [ ] write draft of both projects (synth + neurons)
 - [ ] end of semester writing
+- [ ] teaching work for website
 ---
 # creative: 
 

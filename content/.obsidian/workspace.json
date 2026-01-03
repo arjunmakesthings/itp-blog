@@ -135,8 +135,7 @@
               "title": "tim szetela"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -308,11 +308,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8996672a0cced3f5",
+  "active": "e3fb6d411e1f4875",
   "lastOpenFiles": [
+    "working with science without being a scientist yourself.md",
     "people/tim szetela.md",
     "itp-winter-show 2025.md",
-    "working with science without being a scientist yourself.md",
     "projects-by-other-people/expressive tactical controls, by hayeon hwang.md",
     "z_images/impatient_hayeon.gif",
     "z_images/image-14.png",
