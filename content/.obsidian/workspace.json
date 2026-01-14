@@ -24,118 +24,31 @@
             }
           },
           {
-            "id": "8ec96c87113028cd",
+            "id": "820ae4f4f7a82501",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "educationally self-defeating.md",
+                "file": "tangibility makes data more manipulative.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "educationally self-defeating"
+              "title": "tangibility makes data more manipulative"
             }
           },
           {
-            "id": "d51133f8f6be3392",
+            "id": "1dc4c68b181f9d70",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "case against ai.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "case against ai"
-            }
-          },
-          {
-            "id": "711f68f2c5645c85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "llms evade learning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "llms evade learning"
-            }
-          },
-          {
-            "id": "1ecd93dc0fa6e35b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects-by-other-people/expressive tactical controls, by hayeon hwang.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "expressive tactical controls, by hayeon hwang"
-            }
-          },
-          {
-            "id": "8996672a0cced3f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "working with science without being a scientist yourself.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "working with science without being a scientist yourself"
-            }
-          },
-          {
-            "id": "f9ff327a759cff14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "people/tim szetela.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tim szetela"
-            }
-          },
-          {
-            "id": "2d50b0d5a2841e5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "itp-winter-show 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "itp-winter-show 2025"
-            }
-          },
-          {
-            "id": "60a8a86064eb014e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "people/tim szetela.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tim szetela"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"noteOrder\"]",
+                "query": "intuit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -192,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -286,6 +198,21 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "b9726f96ba772463",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "to do.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of to do"
+            }
           }
         ],
         "currentTab": 4
@@ -308,41 +235,41 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e3fb6d411e1f4875",
+  "active": "820ae4f4f7a82501",
   "lastOpenFiles": [
+    "to do.md",
+    "why i never want to use frameworks or plugins again.md",
+    "educationally self-defeating.md",
+    "taste is what you have to train.md",
+    "tongue-assisted wheelchair moving mechanism, by georgia tech.md",
+    "what is intuitive design?.md",
+    "intro-to-physical-computing/nothing is intuitive, everything is learned.md",
+    "make more time to see work.md",
+    "inferiority, narcissism & the time i spend working.md",
+    "handmade electronic music, by nicolas collins.md",
+    "uv-printer experiments.md",
+    "working material(s) for artists.md",
+    "what is technology?.md",
     "working with science without being a scientist yourself.md",
-    "people/tim szetela.md",
     "itp-winter-show 2025.md",
+    "shopping list.md",
+    "intro-to-fabrication/fab_experiments_week-5_to_week-6.md",
+    "people/tim szetela.md",
     "projects-by-other-people/expressive tactical controls, by hayeon hwang.md",
+    "llms evade learning.md",
+    "case against ai.md",
     "z_images/impatient_hayeon.gif",
     "z_images/image-14.png",
-    "llms evade learning.md",
     "z_images/revised-blooms-taxonomy-1969950567.webp",
     "z_images/image-13.png",
     "z_images/image-13.webp",
-    "educationally self-defeating.md",
-    "case against ai.md",
-    "to do.md",
     "2026-01-03.md",
-    "why i never want to use frameworks or plugins again.md",
     "set the stage, then shut up and listen, by tom igoe.md",
     "paper as a substrate for circuits.md",
     "intro-to-physical-computing/is it is our duty to make people notice things?.md",
     "intro-to-physical-computing/ipc_class-1.md",
-    "intro-to-physical-computing/final-project-2_log.md",
-    "applications/index.md",
     "z_images/IMG_6652-preview 1.webp",
     "z_images/introduction-map-image_250824 1.webp",
-    "hypercinema/index.md",
-    "intro-to-computational-media/index.md",
-    "intro-to-fabrication/index.md",
-    "intro-to-physical-computing/index.md",
-    "facilitating a discussion on why we do what we do at itp.md",
-    "intro-to-fabrication/fab_class-7.md",
-    "bairui's talk on recho.md",
-    "3d printed material does interesting light diffusion.md",
-    "tangibility makes magic more plausible.md",
-    "dani bacon's talk.md",
     "Untitled",
     "terms & concepts",
     "resources & tools",

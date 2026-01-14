@@ -9,8 +9,8 @@ an always evolving list of things to do and read; hidden from the public website
 ---
 # urgent / time-bound: 
 
-- [ ] fee payment — 14th january
-- [ ] amazon shop + order — 5th january
+- [x] fee payment — 14th january
+- [x] amazon shop + order — 5th january
 - [ ] presentation preparation for purdue
 ---
 # writing: 
@@ -30,6 +30,13 @@ an always evolving list of things to do and read; hidden from the public website
 - [ ] write back to sakina
 
 ---
+# to see:
+
+- [ ] sebastian lague's — [how computers work](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq); found in  https://abc.decontextualize.com/more-than-you-wanted-to-know/
+- [ ] Reading on the Brain by stanislas dehaene suggested by dan-o.
+- [ ] Natalie Jeremijenko's work (suggested by [[people/mimi|mimi]]). 
+
+---
 # all others: 
 
 - [ ] organise zotero library
@@ -39,7 +46,8 @@ an always evolving list of things to do and read; hidden from the public website
 - [ ] write america, freedom post
 - [x] read this: where the action is: the foundations of embodied interaction: https://archive.ph/JMA90; found in [[intro-to-physical-computing/no to noui, by timo arnall (against invisible design)|no to noui, by timo arnall (against invisible design)]]
 
+
+
 # see: 
 
-- [ ] sebastian lague's — [how computers work](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq); found in  https://abc.decontextualize.com/more-than-you-wanted-to-know/
-- Reading on the Brain by stanislas dehaene suggested by dan-o.
+
