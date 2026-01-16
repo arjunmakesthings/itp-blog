@@ -24,27 +24,17 @@
             }
           },
           {
-            "id": "820ae4f4f7a82501",
+            "id": "fd3d577e312409a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tangibility makes data more manipulative.md",
+                "file": "itp-winter-show 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tangibility makes data more manipulative"
-            }
-          },
-          {
-            "id": "1dc4c68b181f9d70",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "itp-winter-show 2025"
             }
           }
         ],
@@ -80,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intuit",
+                "query": "me, my father ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -164,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intro-to-fabrication/fab_experiments_week-4.md",
+                "file": "itp-winter-show 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for fab_experiments_week-4"
+              "title": "Backlinks for itp-winter-show 2025"
             }
           },
           {
@@ -219,8 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,39 +224,40 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "820ae4f4f7a82501",
+  "active": "fd3d577e312409a5",
   "lastOpenFiles": [
-    "to do.md",
-    "why i never want to use frameworks or plugins again.md",
-    "educationally self-defeating.md",
-    "taste is what you have to train.md",
-    "tongue-assisted wheelchair moving mechanism, by georgia tech.md",
-    "what is intuitive design?.md",
-    "intro-to-physical-computing/nothing is intuitive, everything is learned.md",
-    "make more time to see work.md",
-    "inferiority, narcissism & the time i spend working.md",
-    "handmade electronic music, by nicolas collins.md",
-    "uv-printer experiments.md",
-    "working material(s) for artists.md",
-    "what is technology?.md",
-    "working with science without being a scientist yourself.md",
+    "first-semester reflections.md",
     "itp-winter-show 2025.md",
-    "shopping list.md",
-    "intro-to-fabrication/fab_experiments_week-5_to_week-6.md",
+    "what is technology?.md",
+    "to do.md",
+    "people/cody.md",
+    "projects-by-other-people/todd bryant's thesis at itp.md",
+    "zz_templates/note.md",
+    "educationally self-defeating.md",
+    "Untitled.canvas",
+    "intro-to-physical-computing/midterm-log.md",
+    "zz_templates/index.md",
+    "oushdla.md",
+    "intro-to-physical-computing/midterm reflection.md",
+    "people/bolong.md",
+    "people/noah pivnick.md",
     "people/tim szetela.md",
-    "projects-by-other-people/expressive tactical controls, by hayeon hwang.md",
-    "llms evade learning.md",
-    "case against ai.md",
+    "people/daniel rozin.md",
+    "people/raven.md",
+    "people/shentong.md",
+    "people/nnenna.md",
+    "people/kezia.md",
+    "hypercinema/index.md",
+    "projects-by-other-people/undo, by zongze chen.md",
+    "projects-by-other-people/voltage, by david rios.md",
+    "projects-by-other-people/complete minimal poems, by aram saroyan.md",
+    "projects-by-other-people/durell bishop's answering machine.md",
+    "projects-by-other-people/dissent.exe by peter burr, et.al.md",
     "z_images/impatient_hayeon.gif",
     "z_images/image-14.png",
     "z_images/revised-blooms-taxonomy-1969950567.webp",
     "z_images/image-13.png",
     "z_images/image-13.webp",
-    "2026-01-03.md",
-    "set the stage, then shut up and listen, by tom igoe.md",
-    "paper as a substrate for circuits.md",
-    "intro-to-physical-computing/is it is our duty to make people notice things?.md",
-    "intro-to-physical-computing/ipc_class-1.md",
     "z_images/IMG_6652-preview 1.webp",
     "z_images/introduction-map-image_250824 1.webp",
     "Untitled",
