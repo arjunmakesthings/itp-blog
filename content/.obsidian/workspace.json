@@ -36,9 +36,23 @@
               "icon": "lucide-file",
               "title": "itp-winter-show 2025"
             }
+          },
+          {
+            "id": "8aebd15ae2f1e1d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "me, my father ",
+                "query": "index",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -91,7 +105,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -224,19 +239,24 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fd3d577e312409a5",
+  "active": "8aebd15ae2f1e1d2",
   "lastOpenFiles": [
     "first-semester reflections.md",
+    "z_images/cover-image_blog-1.webp",
+    "index.md",
     "itp-winter-show 2025.md",
-    "what is technology?.md",
+    "z_images/cover-image_blog.webp",
+    "hypercinema/index.md",
+    "applications/index.md",
+    "zz_templates/index.md",
     "to do.md",
+    "what is technology?.md",
     "people/cody.md",
     "projects-by-other-people/todd bryant's thesis at itp.md",
     "zz_templates/note.md",
     "educationally self-defeating.md",
     "Untitled.canvas",
     "intro-to-physical-computing/midterm-log.md",
-    "zz_templates/index.md",
     "oushdla.md",
     "intro-to-physical-computing/midterm reflection.md",
     "people/bolong.md",
@@ -247,12 +267,8 @@
     "people/shentong.md",
     "people/nnenna.md",
     "people/kezia.md",
-    "hypercinema/index.md",
     "projects-by-other-people/undo, by zongze chen.md",
     "projects-by-other-people/voltage, by david rios.md",
-    "projects-by-other-people/complete minimal poems, by aram saroyan.md",
-    "projects-by-other-people/durell bishop's answering machine.md",
-    "projects-by-other-people/dissent.exe by peter burr, et.al.md",
     "z_images/impatient_hayeon.gif",
     "z_images/image-14.png",
     "z_images/revised-blooms-taxonomy-1969950567.webp",
@@ -268,8 +284,6 @@
     "intro-to-fabrication",
     "hypercinema",
     "z_images/Screenshot 2025-12-27 at 19.10.10.png",
-    "z_images/Screenshot 2025-12-21 at 21.54.42.png",
-    "z_images/IMG_7122.webp",
     "z_images/Screen Recording 2025-12-11 at 23.29.42.mp4",
     "z_images/IMG_7061.mp4",
     "z_images/IMG_7054.mp4",

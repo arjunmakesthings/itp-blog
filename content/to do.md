@@ -27,7 +27,7 @@ an always evolving list of things to do and read; hidden from the public website
 # personal social: 
 
 - [ ] whatsapp & imessage responses
-- [ ] write back to sakina
+- [x] write back to sakina
 
 ---
 # to see:
@@ -39,15 +39,10 @@ an always evolving list of things to do and read; hidden from the public website
 ---
 # all others: 
 
-- [ ] organise zotero library
-- [ ] write back to allison
+- [x] organise zotero library
+- [x] write back to allison
 - [ ] finish there are no electrons and publish writing
 - [ ] me, my father & our neurons at itp show — video
 - [ ] write america, freedom post
 - [x] read this: where the action is: the foundations of embodied interaction: https://archive.ph/JMA90; found in [[intro-to-physical-computing/no to noui, by timo arnall (against invisible design)|no to noui, by timo arnall (against invisible design)]]
-
-
-
-# see: 
-
 
