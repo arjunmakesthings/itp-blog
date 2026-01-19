@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "first-semester reflections.md",
+                "file": "itp-winter-show 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "first-semester reflections"
+              "title": "itp-winter-show 2025"
             }
           }
         ],
@@ -240,10 +240,13 @@
   },
   "active": "8aebd15ae2f1e1d2",
   "lastOpenFiles": [
-    "index.md",
-    "first-semester reflections.md",
-    "z_images/cover-image_blog-1.webp",
+    "llms evade learning.md",
+    "working with science without being a scientist yourself.md",
     "itp-winter-show 2025.md",
+    "tangibility makes data more manipulative.md",
+    "first-semester reflections.md",
+    "index.md",
+    "z_images/cover-image_blog-1.webp",
     "z_images/cover-image_blog.webp",
     "hypercinema/index.md",
     "applications/index.md",
@@ -266,8 +269,6 @@
     "people/shentong.md",
     "people/nnenna.md",
     "people/kezia.md",
-    "projects-by-other-people/undo, by zongze chen.md",
-    "projects-by-other-people/voltage, by david rios.md",
     "z_images/impatient_hayeon.gif",
     "z_images/image-14.png",
     "z_images/revised-blooms-taxonomy-1969950567.webp",
