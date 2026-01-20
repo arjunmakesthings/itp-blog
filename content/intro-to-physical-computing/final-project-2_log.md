@@ -28,6 +28,8 @@ so, for my final project (see original attempt at [[intro-to-physical-computing/
 ![[IMG_7062.webp|392x523]]
 
 
+![[IMG_7067.webp|546x409]]
+
 ---
 
 > But on the other hand, if you think about the “laptop music” style of performance which is currently in vogue, you might notice that there could be a problem, even if the music sounds good, with watching a person sitting in front of a computer and operating the mouse and keyboard. It is just too depressingly similar to what hundreds of millions of workers have to do from nine to five at the office. 
