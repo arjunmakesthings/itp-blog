@@ -8,6 +8,38 @@
         "type": "tabs",
         "children": [
           {
+            "id": "8aebd15ae2f1e1d2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "my approach to itp.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "my approach to itp"
+            }
+          },
+          {
+            "id": "126801875e0939ea",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "what is good work?.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "what is good work?"
+            }
+          },
+          {
             "id": "e3fb6d411e1f4875",
             "type": "leaf",
             "pinned": true,
@@ -38,21 +70,22 @@
             }
           },
           {
-            "id": "8aebd15ae2f1e1d2",
+            "id": "ad252b42983d70de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "itp-winter-show 2025.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "itp-winter-show 2025"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -84,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "index",
+                "query": "my approa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -238,18 +271,28 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8aebd15ae2f1e1d2",
+  "active": "ad252b42983d70de",
   "lastOpenFiles": [
-    "llms evade learning.md",
-    "working with science without being a scientist yourself.md",
-    "itp-winter-show 2025.md",
-    "tangibility makes data more manipulative.md",
+    "z_images/IMG_7145.webp",
+    "z_images/IMG_7154.webp",
+    "z_images/IMG_8087.webp",
+    "z_images/IMG_7137.webp",
+    "z_images/2590CD45-0D81-4717-9343-68901AD08551 copy.webp",
+    "z_images/IMG_7128.webp",
     "first-semester reflections.md",
+    "what is good work?.md",
+    "my approach to itp.md",
+    "itp-winter-show 2025.md",
     "index.md",
-    "z_images/cover-image_blog-1.webp",
-    "z_images/cover-image_blog.webp",
+    "z_images/IMG_7362.jpg",
+    "z_images/temporal-drawings.webp",
     "hypercinema/index.md",
     "applications/index.md",
+    "tangibility makes data more manipulative.md",
+    "llms evade learning.md",
+    "working with science without being a scientist yourself.md",
+    "z_images/cover-image_blog-1.webp",
+    "z_images/cover-image_blog.webp",
     "zz_templates/index.md",
     "to do.md",
     "what is technology?.md",
@@ -266,16 +309,7 @@
     "people/tim szetela.md",
     "people/daniel rozin.md",
     "people/raven.md",
-    "people/shentong.md",
-    "people/nnenna.md",
-    "people/kezia.md",
     "z_images/impatient_hayeon.gif",
-    "z_images/image-14.png",
-    "z_images/revised-blooms-taxonomy-1969950567.webp",
-    "z_images/image-13.png",
-    "z_images/image-13.webp",
-    "z_images/IMG_6652-preview 1.webp",
-    "z_images/introduction-map-image_250824 1.webp",
     "Untitled",
     "terms & concepts",
     "resources & tools",
@@ -283,7 +317,6 @@
     "intro-to-physical-computing",
     "intro-to-fabrication",
     "hypercinema",
-    "z_images/Screenshot 2025-12-27 at 19.10.10.png",
     "z_images/Screen Recording 2025-12-11 at 23.29.42.mp4",
     "z_images/IMG_7061.mp4",
     "z_images/IMG_7054.mp4",

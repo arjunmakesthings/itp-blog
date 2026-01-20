@@ -7,10 +7,16 @@ draft: "false"
 ---
 my approach will keep evolving, as i make my way through the program. this list is sorted by newest addition first. 
 
+# 260120: 
+==pursue good, ask why. ==
+
+# 260120: 
+it takes a certain kind of obsession to be a 'good' artist. don't let anyone else try to tell you otherwise. 
+
 # 251205:
 addition; written during hypercinema-finals (see [[hypercinema/final-project-log|final-project-log]]). 
 
-i will <mark>choose not to pursue the next big thing</mark>, and <mark>compromise outcome-quality over learning</mark> if need be.
+i will <mark>choose <strong>not</strong> to pursue the next big thing</mark>, and <mark>compromise outcome-quality over learning</mark> if need be.
 
 ---
 # 251018: 
