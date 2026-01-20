@@ -31,3 +31,9 @@ i messed around with each of the settings that the printer had, and made these:
 ![[z_images/IMG_6645.webp]]
 
 [[jiyou]] showed me how to set up the file nicely and use flexidesigner (by using four squares to mark as registration with the software, select within, and so on ... ). 
+
+---
+
+an ima student requested me to uv-print on a piece of pita bread. 
+
+![[IMG_6893.webp|434x579]]

@@ -35,3 +35,5 @@ remember feeling empty at one point, attempting to trivialize pain. also wondere
 i kept a little box asking people to drop me a post-it, to which i wrote email-responses back. 
 
 ![[2590CD45-0D81-4717-9343-68901AD08551 copy.webp]]
+
+[[shloka]] also wrote me two postcards. 
