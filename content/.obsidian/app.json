@@ -3,8 +3,9 @@
   "showLineNumber": false,
   "autoConvertHtml": false,
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "shortest",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "z_images",
-  "promptDelete": false
+  "promptDelete": false,
+  "useMarkdownLinks": false
 }
