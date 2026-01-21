@@ -61,16 +61,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/aidan nelson.md",
+                "file": "bioart-as-biopolitics/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aidan nelson"
+              "title": "index"
+            }
+          },
+          {
+            "id": "4290aec0128889a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sound-studio/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "617ffc10fd362fef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sound-studio/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "5986ab2d17e0bf97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sound-studio/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "44121bf692487dc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/craig fahner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "craig fahner"
+            }
+          },
+          {
+            "id": "7a11c91b4f8e0bca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "applications/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -102,7 +172,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "musicboa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -143,12 +213,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "testing-template.md",
+                "file": "sound-studio/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from testing-template"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -253,13 +323,35 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "note-id:Open side panel": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "32f876c5ef6f4df6",
+  "active": "5986ab2d17e0bf97",
   "lastOpenFiles": [
-    "projects-by-other-people/ahmed ansari's work.md",
+    "nature-of-code/index.md",
+    "shader-time/index.md",
+    "electronics-for-inventors/index.md",
+    "bioart-as-biopolitics/index.md",
+    "haptics/index.md",
+    "people/kate hartman.md",
+    "people/heather dewey-hagborg.md",
+    "people/elias (elie) zananiri.md",
+    "sound-studio/index.md",
+    "people/lenin compres.md",
+    "people/luke dubois.md",
+    "people/craig fahner.md",
+    "applications/index.md",
+    "sortspec.md",
+    "haptics",
+    "electronics-for-inventors",
+    "shader-time",
+    "nature-of-code",
+    "sound-studio",
+    "hypercinema/index.md",
+    "bioart-as-biopolitics",
     "people/aidan nelson.md",
+    "projects-by-other-people/ahmed ansari's work.md",
     "itp-winter-show 2025.md",
     "projects-by-other-people/everything, by david o'reilly.md",
     "people/shobhan.md",
@@ -270,41 +362,20 @@
     "first-semester reflections.md",
     "intro-to-physical-computing/final-project-2_log.md",
     "z_images/IMG_7067.webp",
-    "uv-printer experiments.md",
     "z_images/IMG_6893.webp",
-    "what is good work?.md",
     "z_images/IMG_7145.webp",
     "z_images/IMG_7154.webp",
     "z_images/IMG_8087.webp",
     "z_images/IMG_7137.webp",
     "z_images/2590CD45-0D81-4717-9343-68901AD08551 copy.webp",
     "z_images/IMG_7128.webp",
-    "my approach to itp.md",
-    "index.md",
     "z_images/IMG_7362.jpg",
     "z_images/temporal-drawings.webp",
-    "hypercinema/index.md",
-    "applications/index.md",
-    "tangibility makes data more manipulative.md",
-    "llms evade learning.md",
-    "working with science without being a scientist yourself.md",
-    "zz_templates/index.md",
-    "what is technology?.md",
-    "people/cody.md",
-    "projects-by-other-people/todd bryant's thesis at itp.md",
-    "zz_templates/note.md",
-    "educationally self-defeating.md",
     "Untitled.canvas",
-    "Untitled",
     "terms & concepts",
     "resources & tools",
     "projects-by-other-people",
     "intro-to-physical-computing",
-    "intro-to-fabrication",
-    "hypercinema",
-    "z_images/Screen Recording 2025-12-11 at 23.29.42.mp4",
-    "z_images/IMG_7061.mp4",
-    "z_images/IMG_7054.mp4",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"
