@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shader-time/index.md",
+                "file": "shader-time/st-experiments_week-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "st-experiments_week-1"
             }
           }
         ],
@@ -285,16 +285,19 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "33161f272b003267",
+  "active": "32f876c5ef6f4df6",
   "lastOpenFiles": [
-    "sound-studio/experiments_week-1.md",
+    "shader-time/class-1.md",
+    "shader-time/st-experiments_week-1.md",
+    "shader-time/index.md",
+    "sound-studio/analog vs digital vs electric vs electronic sound.md",
+    "sound-studio/ss-experiments_week-1.md",
+    "nature-of-code/class-1.md",
+    "nature-of-code/index.md",
     "unit generator theory.md",
     "sound-studio/class-1.md",
     "z_images/Screenshot 2026-01-21 at 16.39.14.png",
-    "sound-studio/analog vs digital vs electric vs electronic sound.md",
     "sound-studio/index.md",
-    "nature-of-code/index.md",
-    "nature-of-code/class-1.md",
     "to do.md",
     "z_images/aram_saroyan_3.webp",
     "z_images/1-1.webp",
@@ -314,11 +317,9 @@
     "applications/index.md",
     "people/craig fahner.md",
     "bioart-as-biopolitics/index.md",
-    "shader-time/index.md",
     "electronics-for-inventors/index.md",
     "haptics/index.md",
     "people/kate hartman.md",
-    "people/heather dewey-hagborg.md",
     "haptics",
     "electronics-for-inventors",
     "shader-time",
