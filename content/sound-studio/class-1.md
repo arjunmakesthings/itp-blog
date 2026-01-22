@@ -18,7 +18,6 @@ draft: "false"
 - [[craig fahner]] mentioned [listen](https://letterboxd.com/film/listen-2009/)
 - spoke about analog being analogous to something, and not physical. 
 - discussed [[analog vs digital vs electric vs electronic sound]]. 
-
 - [[craig fahner]] showed us this (a group of japanese scientists trying to digitally produce human-voice): 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HmSYnOvEueo?si=P_QgJYE9m9zGy5W4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

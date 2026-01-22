@@ -15,5 +15,6 @@ i am excited by the possibility of live-performing weird music (with code / elec
 ---
 # resources: 
 - [syllabus](https://idmnyu.github.io/Sound-Studio-S2026/) 
+- weird sounds [playlist](https://www.youtube.com/playlist?list=PL0p5f1oNOSdk-sj7uWuxvq8b4h3m7r8-P)
 
 ---
