@@ -1,4 +1,6 @@
 ---
-date: {{date}}
+date:
+  "{ date }":
 tags:
+draft: "true"
 ---

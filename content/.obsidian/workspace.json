@@ -56,49 +56,35 @@
             }
           },
           {
-            "id": "9bfb736edc1eb3e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sound-studio/class-1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "class-1"
-            }
-          },
-          {
-            "id": "cb1ace4d2bfca909",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unit generator theory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "unit generator theory"
-            }
-          },
-          {
             "id": "33161f272b003267",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bioart-as-biopolitics/index.md",
+                "file": "nature-of-code/noc-experiments_week-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "noc-experiments_week-1"
+            }
+          },
+          {
+            "id": "971efe2ffc4726c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro-to-physical-computing/electrical components.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "electrical components"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"z_images/\" ",
+                "query": "electrical compo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -287,19 +273,28 @@
   },
   "active": "33161f272b003267",
   "lastOpenFiles": [
-    "haptics/index.md",
-    "electronics-for-inventors/efi-class-1.md",
-    "sound-studio/ss-class-1.md",
     "nature-of-code/noc-class-1.md",
+    "nature-of-code/noc-experiments_week-1.md",
+    "shader-time/st-experiments_week-1.md",
+    "electronics-for-inventors/efi-class-1.md",
+    "z_images/IMG_7367.webp",
+    "intro-to-physical-computing/electrical components.md",
+    "unit generator theory.md",
+    "z_images/resistors_sparkfun.webp",
+    "zz_templates/uncategorized.md",
+    "zz_templates/note.md",
+    "zz_templates/testing-template.md",
+    "zz_templates/index.md",
+    "bioart-as-biopolitics/index.md",
+    "haptics/index.md",
+    "sound-studio/ss-class-1.md",
     "shader-time/st-class-1.md",
     "electronics-for-inventors/index.md",
     "nature-of-code/index.md",
     "sound-studio/ss-experiments_week-1.md",
     "z_images/Screen Recording 2026-01-22 at 12.37.54.mp4",
-    "shader-time/st-experiments_week-1.md",
     "shader-time/index.md",
     "sound-studio/analog vs digital vs electric vs electronic sound.md",
-    "unit generator theory.md",
     "z_images/Screenshot 2026-01-21 at 16.39.14.png",
     "sound-studio/index.md",
     "to do.md",
@@ -312,15 +307,8 @@
     "spear.md",
     "terms & concepts/umvelt.md",
     "terms & concepts/firmware.md",
-    "zz_templates/uncategorized.md",
-    "zz_templates/note.md",
     "resources & tools/circuit lab.md",
-    "resources & tools/index.md",
-    "terms & concepts/hoisting.md",
     "z_images/ear-ss.webp",
-    "applications/index.md",
-    "people/craig fahner.md",
-    "bioart-as-biopolitics/index.md",
     "haptics",
     "electronics-for-inventors",
     "shader-time",
@@ -328,8 +316,6 @@
     "sound-studio",
     "bioart-as-biopolitics",
     "z_images/IMG_7067.webp",
-    "z_images/IMG_6893.webp",
-    "z_images/IMG_7145.webp",
     "Untitled.canvas",
     "terms & concepts",
     "resources & tools",

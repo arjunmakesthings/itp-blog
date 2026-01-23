@@ -12,8 +12,10 @@ a list of electrical components, and what they do; as learnt in [[intro to physi
 # resistor: 
 a resistor essentially takes electricity as input, and limits the output. the resistance (see [[intro-to-physical-computing/electricity]]) used must be appropriate for the output, and is usually understood by the type of band that is present on the resistor. 
 
-![[z_images/Screenshot 2025-09-02 at 23.05.35.webp]]
-<figcaption>image from <a href = "https://resistorcolorcodecalc.com/">resistor color code calculator</a>.</figcaption>
+always remember that ==the band with space preceding it (usually in a 4-band resistor) is for tolerance== (-/+5 or 10% in resistance value from what it should be). 
+
+![[resistors_sparkfun.webp]]
+<figcaption>from sparkfun.</figcaption>
 
 there are different types of resistors; some are variable (change resistance based on data such as light or force). 
 
