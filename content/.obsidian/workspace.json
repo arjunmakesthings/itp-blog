@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "electronics-for-inventors/index.md",
+                "file": "bioart-as-biopolitics/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -269,8 +269,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,16 +287,19 @@
   },
   "active": "33161f272b003267",
   "lastOpenFiles": [
+    "haptics/index.md",
+    "electronics-for-inventors/efi-class-1.md",
+    "sound-studio/ss-class-1.md",
+    "nature-of-code/noc-class-1.md",
+    "shader-time/st-class-1.md",
+    "electronics-for-inventors/index.md",
+    "nature-of-code/index.md",
     "sound-studio/ss-experiments_week-1.md",
     "z_images/Screen Recording 2026-01-22 at 12.37.54.mp4",
     "shader-time/st-experiments_week-1.md",
-    "shader-time/class-1.md",
     "shader-time/index.md",
     "sound-studio/analog vs digital vs electric vs electronic sound.md",
-    "nature-of-code/class-1.md",
-    "nature-of-code/index.md",
     "unit generator theory.md",
-    "sound-studio/class-1.md",
     "z_images/Screenshot 2026-01-21 at 16.39.14.png",
     "sound-studio/index.md",
     "to do.md",
@@ -319,8 +321,6 @@
     "applications/index.md",
     "people/craig fahner.md",
     "bioart-as-biopolitics/index.md",
-    "electronics-for-inventors/index.md",
-    "haptics/index.md",
     "haptics",
     "electronics-for-inventors",
     "shader-time",

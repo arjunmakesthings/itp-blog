@@ -2,7 +2,7 @@
 title: haptics
 date: 2026-01-20
 folderOrder: "6"
-draft: "false"
+draft: "true"
 ---
 1-credit class taken by [[kate hartman]], over a weekend in semester-2.
 
