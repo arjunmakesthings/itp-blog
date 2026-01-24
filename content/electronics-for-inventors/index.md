@@ -14,6 +14,6 @@ i want to learn everything there is to know about whipping up circuits to achiev
 
 ---
 # resources: 
-- 
+- [syllabus](https://github.com/juxtapix/E4I/wiki)
 
 ---

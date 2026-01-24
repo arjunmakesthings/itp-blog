@@ -39,5 +39,3 @@ spoke about ==voltage divider circuits==. a circuit with two equal resistors wil
 
 spoke about capacitance. ==capacitors charge & discharge really quickly==, but ==they can be slowed down with resistors==. i'm going to try to make a wave generator (for sound) with this concept. 
 
-
-

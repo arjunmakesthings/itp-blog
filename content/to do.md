@@ -46,3 +46,7 @@ an always evolving list of things to do and read; hidden from the public website
 - [ ] write america, freedom post
 - [x] read this: where the action is: the foundations of embodied interaction: https://archive.ph/JMA90; found in [[intro-to-physical-computing/no to noui, by timo arnall (against invisible design)|no to noui, by timo arnall (against invisible design)]]
 
+---
+
+
+
