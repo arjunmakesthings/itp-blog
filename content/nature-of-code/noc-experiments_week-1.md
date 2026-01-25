@@ -13,4 +13,4 @@ to see:
 - assignment page: https://github.com/lenincompres/noc-syllabus-s26/wiki/ITP-Assignment-1
 
 ---
-
+read through the first chapter. i had already read it before. watched a video on [open simplex noise](https://thecodingtrain.com/tracks/noise/noise/open-simplex-noise).
