@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#reading",
+  "search": "euler",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 11.6989205484781,
   "linkStrength": 0.82184187493922,
   "linkDistance": 228,
-  "scale": 0.6092202659641351,
-  "close": false
+  "scale": 0.5779396327894069,
+  "close": true
 }

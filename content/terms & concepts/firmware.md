@@ -1,3 +1,9 @@
+---
+tags:
+  - terms_and_concepts
+---
+
+
 software that provides low-level control of computing device hardware. For a relatively simple device, firmware may perform all control, monitoring and data manipulation functionality. 
 
 https://en.wikipedia.org/wiki/Firmware

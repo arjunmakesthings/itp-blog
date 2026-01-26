@@ -1,3 +1,8 @@
+---
+tags:
+  - terms_and_concepts
+---
+
 # my definitions: 
 tool: a device that amplifies human [^1]-capabilities. 
 

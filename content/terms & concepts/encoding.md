@@ -1,3 +1,8 @@
+---
+tags:
+  - terms_and_concepts
+---
+
 convert characters into signals that a computer can understand (0,1; and high and low voltage for even base units). 
 
 sources: 

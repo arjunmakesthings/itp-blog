@@ -1,3 +1,8 @@
+---
+tags:
+  - terms_and_concepts
+---
+
 [[people/shobhan|shobhan]] responded to [[what is intuitive design?]], and eventually introduced me to qualia. 
 
 https://en.wikipedia.org/wiki/Qualia

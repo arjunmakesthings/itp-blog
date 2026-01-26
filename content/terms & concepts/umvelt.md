@@ -1,3 +1,9 @@
+---
+tags:
+  - terms_and_concepts
+---
+
+
 https://en.wikipedia.org/wiki/Umwelt
 
 specific way in which organisms of a particular species perceive and experience the world, shaped by the capabilities of their sensory organs and perceptual systems.
