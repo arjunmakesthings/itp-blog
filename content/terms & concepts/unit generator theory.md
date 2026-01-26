@@ -1,7 +1,7 @@
 ---
 date: 2026-01-21
 tags:
-  - concepts
+  - terms_and_concepts
 noteOrder: "204"
 draft: "false"
 ---
