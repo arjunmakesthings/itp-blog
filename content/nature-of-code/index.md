@@ -17,5 +17,10 @@ i've dealt with simple algorithms in the past. in this class, i want to push it 
 ---
 # resources: 
 - [syllabus](https://github.com/lenincompres/noc-syllabus-s26)
+- submission standard format for wiki: 
+
+```
+* arjun: [title](link); [code](); [blog-post].
+```
 
 ---

@@ -17,13 +17,18 @@ a random walker can be applied to text too. heavily inspired by the nonsense lab
 
 a keyboard is laid out like so: 
 
+```
 q w e r t y u i o p
 a s d f g h j k l
 z x c v b n m
+```
 
 each letter can be thought of as a point in two-dimensional space. going by the random walker algorithm, each letter has a maximum of 8 possibilities to move to, and a minimum of 1.
 
 # output: 
+the definitive list of acceptable typos for a given word: [sketch](https://arjunmakesthings.github.io/nature-of-code_sp2026/sketches/260125_random-walker/) , [code](https://github.com/arjunmakesthings/nature-of-code_sp2026). 
+
+![[Screen Recording 2026-01-25 at 23.02.58.mp4]]
 
 
 ---
@@ -409,6 +414,8 @@ function get_neighbours(char) {
 ```
 
 but i realized that this wasn't accurate. when i take a messed up string and manipulate it, it goes further away from the original word. i should always manipulate the original word, 
+
+it struck to me that the sketch would be more powerful as an exhaustive collection of possible typos for a word. 
 
 
 

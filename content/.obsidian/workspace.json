@@ -75,12 +75,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nature-of-code/noc-experiments_week-1.md",
+                "file": "nature-of-code/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "noc-experiments_week-1"
+              "title": "index"
             }
           },
           {
@@ -301,9 +301,12 @@
   },
   "active": "550953bf3288846a",
   "lastOpenFiles": [
+    "nature-of-code/noc-class-1.md",
+    "nature-of-code/noc-experiments_week-1.md",
+    "z_images/Screen Recording 2026-01-25 at 23.02.58.mp4",
+    "sound-studio/ss-experiments_week-1.md",
     "z_images/demo_260125.mp4",
     "electronics-for-inventors/index.md",
-    "nature-of-code/noc-experiments_week-1.md",
     "terms & concepts/unit generator theory.md",
     "terms & concepts/euler's number.md",
     "projects-by-other-people/bicycle built for two, by max mathews.md",
@@ -326,7 +329,6 @@
     "people/david rios.md",
     "shader-time/st-experiments_week-1.md",
     "nature-of-code/index.md",
-    "nature-of-code/noc-class-1.md",
     "z_images/IMG_7369.webp",
     "z_images/IMG_7367.webp",
     "z_images/resistors_sparkfun.webp",
@@ -346,8 +348,6 @@
     "bioart-as-biopolitics",
     "Untitled.canvas",
     "terms & concepts",
-    "resources & tools",
-    "projects-by-other-people",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
     "3.4 - my reflections/my artistic practice.canvas"
