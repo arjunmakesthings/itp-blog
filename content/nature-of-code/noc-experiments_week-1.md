@@ -30,7 +30,6 @@ the definitive list of acceptable typos for a given word: [sketch](https://arjun
 
 ![[Screen Recording 2026-01-25 at 23.02.58.mp4]]
 
-
 ---
 read through the first chapter. i had already read it before. watched a video on [open simplex noise](https://thecodingtrain.com/tracks/noise/noise/open-simplex-noise).
 
@@ -416,6 +415,11 @@ function get_neighbours(char) {
 but i realized that this wasn't accurate. when i take a messed up string and manipulate it, it goes further away from the original word. i should always manipulate the original word, 
 
 it struck to me that the sketch would be more powerful as an exhaustive collection of possible typos for a word. 
+
+---
+i'm also happy with the code i wrote. there's little javascript, and uses simple html manipulation to 'draw' things. ==i also like that i was able to apply the concept of a 'walker' to something non-visual== like letters on a keyboard. 
+
+i did struggle with syntax a little bit, and that's why i kept the project-scope simple; unlike my attempt in shader-time [[st-experiments_week-1 ]]. 
 
 
 
