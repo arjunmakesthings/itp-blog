@@ -455,6 +455,8 @@ my algorithm works decently, because it chunks vertices together.
 
 achieved a cool gouache sort of sketch. 
 
+![[Screen Recording 2026-01-26 at 17.38.26.mp4]]
+
 ``` js
 //untitled; arjun; month, 2026.
 
