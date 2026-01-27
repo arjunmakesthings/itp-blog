@@ -75,12 +75,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ulgorave.md",
+                "file": "shader-time/st-experiments_week-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ulgorave"
+              "title": "st-experiments_week-1"
             }
           }
         ],
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "david ro",
+                "query": "flora ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -273,17 +273,21 @@
   },
   "active": "7c0056267cf3e774",
   "lastOpenFiles": [
+    "z_images/Screenshot 2026-01-27 at 15.44.36.webp",
+    "z_images/demo_st_week-1.mp4",
+    "electronics-for-inventors/index.md",
+    "electronics-for-inventors/efi-class-1.md",
+    "flora residency log.md",
+    "ulgorave.md",
     "z_images/IMG_7376.mp4",
     "z_images/IMG_7373.webp",
     "shader-time/st-experiments_week-1.md",
-    "ulgorave.md",
     "ga_ima_physical-computing_class_log.md",
     "z_images/Screen Recording 2026-01-26 at 17.38.26.mp4",
     "intro-to-physical-computing/practical electronics for inventors.md",
     "terms & concepts/unit generator theory.md",
     "to do.md",
     "inferring object properties using wrist changes.md",
-    "electronics-for-inventors/index.md",
     "sound-studio/index.md",
     "shader-time/index.md",
     "z_images/Screenshot 2026-01-26 at 17.03.02.webp",
@@ -306,8 +310,6 @@
     "terms & concepts/bootloader.md",
     "terms & concepts/bios or basic input-output system.md",
     "terms & concepts/baud rate.md",
-    "terms & concepts/translators.md",
-    "terms & concepts/tool vs medium vs material.md",
     "z_images/IMG_7369.webp",
     "z_images/IMG_7367.webp",
     "z_images/resistors_sparkfun.webp",
@@ -317,8 +319,6 @@
     "z_images/1-1.webp",
     "haptics",
     "electronics-for-inventors",
-    "shader-time",
-    "nature-of-code",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",

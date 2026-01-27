@@ -14,7 +14,16 @@ Use the version of vertex() that includes the z parameter.
 Use both position and color attributes.
 Make your mesh react to user input. This can be using the mouse, keyboard, microphone, or any other input you can think of.
 
+# thought: 
+every enclosed body is a mesh, with vertices inside. shape is affected by the topology. 
+
+an enclosed body can be thought of as a group of similar colours. 
+
 # output: 
+
+![[demo_st_week-1.mp4]]
+
+![[Screenshot 2026-01-27 at 15.44.36.webp]]
 
 ---
 i tried programming something very complex, and it got too complicated. 
