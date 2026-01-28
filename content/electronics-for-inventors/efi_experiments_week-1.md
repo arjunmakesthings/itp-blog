@@ -17,4 +17,4 @@ i then proceeded to ask [[david rios]], [[jesse simpson]], [[octavio]], [[ryan]]
 
 i will then attempt to be patient, and wait for [[pedro]]'s class next week. 
 
-the idea was to combine this to produce sound, as part of the work i was doing in [[ss-experiments_week-1]]. but, never-mind. 
+the idea was to combine this to produce sound, as part of the work i was doing in [[ss_experiments_week-1]]. but, never-mind. 

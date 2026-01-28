@@ -419,7 +419,7 @@ it struck to me that the sketch would be more powerful as an exhaustive collecti
 ---
 i'm also happy with the code i wrote. there's little javascript, and uses simple html manipulation to 'draw' things. ==i also like that i was able to apply the concept of a 'walker' to something non-visual== like letters on a keyboard. 
 
-i did struggle with syntax a little bit, and that's why i kept the project-scope simple; unlike my attempt in shader-time [[st-experiments_week-1 ]]. 
+i did struggle with syntax a little bit, and that's why i kept the project-scope simple; unlike my attempt in shader-time [[st_experiments_week-1]]. 
 
 
 
