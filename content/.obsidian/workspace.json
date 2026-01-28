@@ -56,17 +56,31 @@
             }
           },
           {
-            "id": "5acfa8b0be200af9",
+            "id": "f86bc170a45f0a03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shader-time/st-experiments_week-1.md",
+                "file": "sound-studio/ss_class-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "st-experiments_week-1"
+              "title": "ss_class-2"
+            }
+          },
+          {
+            "id": "3a2912e1be286539",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes from strangers need strange moments together.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "notes from strangers need strange moments together"
             }
           },
           {
@@ -75,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nature-of-code/index.md",
+                "file": "sound-studio/ss_class-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "ss_class-2"
             }
           },
           {
@@ -98,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -285,12 +299,21 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "7c0056267cf3e774",
+  "active": "f86bc170a45f0a03",
   "lastOpenFiles": [
+    "z_images/speakers_260128.webp",
+    "z_images/compression.webp",
+    "notes from strangers need strange moments together.md",
+    "z_images/Screenshot 2026-01-28 at 15.44.17.webp",
+    "z_images/Screenshot 2026-01-28 at 15.44.06.webp",
     "sound-studio/ss_class-2.md",
+    "projects-by-other-people/7702 vocoder, by harald bode.md",
+    "sound-studio/index.md",
+    "z_images/Screenshot 2026-01-28 at 15.27.12.webp",
+    "shader-time/index.md",
+    "nature-of-code/index.md",
     "nature-of-code/noc_class-2.md",
     "projects-by-other-people/electric stimulus to face, by daito manabe.md",
-    "sound-studio/index.md",
     "my approach to itp.md",
     "z_images/Screenshot 2026-01-28 at 09.30.10.webp",
     "sound-studio/ss_experiments_week-1.md",
@@ -313,24 +336,15 @@
     "terms & concepts/unit generator theory.md",
     "to do.md",
     "inferring object properties using wrist changes.md",
-    "shader-time/index.md",
     "z_images/Screenshot 2026-01-26 at 17.03.02.webp",
     "z_images/Screenshot 2026-01-26 at 17.02.40.webp",
     "z_images/Screen Recording 2026-01-26 at 14.42.32.mp4",
     "z_images/Screen Recording 2026-01-26 at 14.40.18.mov",
     "z_images/Screenshot 2026-01-26 at 12.51.13.webp",
     "what is good work?.md",
-    "nature-of-code/index.md",
     "z_images/Screen Recording 2026-01-25 at 23.02.58.mp4",
     "z_images/demo_260125.mp4",
-    "terms & concepts/euler's number.md",
-    "projects-by-other-people/bicycle built for two, by max mathews.md",
-    "resources & tools/circuit lab.md",
-    "z_images/IMG_7369.webp",
-    "z_images/IMG_7367.webp",
-    "z_images/resistors_sparkfun.webp",
     "z_images/Screen Recording 2026-01-22 at 12.37.54.mp4",
-    "z_images/Screenshot 2026-01-21 at 16.39.14.png",
     "haptics",
     "electronics-for-inventors",
     "Untitled.canvas",
