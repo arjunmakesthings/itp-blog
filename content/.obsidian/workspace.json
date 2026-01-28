@@ -61,12 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sound-studio/ss_class-2.md",
+                "file": "sound-studio/ss_experiments_week-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ss_class-2"
+              "title": "ss_experiments_week-2"
+            }
+          },
+          {
+            "id": "b9520b97ffa18472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes from the soundscape, by r. murray schaeffer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "notes from the soundscape, by r. murray schaeffer"
             }
           },
           {
@@ -112,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,7 +158,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flora ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -299,14 +313,19 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f86bc170a45f0a03",
+  "active": "b9520b97ffa18472",
   "lastOpenFiles": [
+    "sound-studio/ss_experiments_week-2.md",
+    "notes from the soundscape, by r. murray schaeffer.md",
+    "z_images/Screenshot 2026-01-28 at 16.37.57.webp",
+    "z_images/Screenshot 2026-01-28 at 16.36.38.webp",
+    "notes from strangers need strange moments together.md",
+    "z_images/Screenshot 2026-01-28 at 16.11.47.webp",
+    "sound-studio/ss_class-2.md",
     "z_images/speakers_260128.webp",
     "z_images/compression.webp",
-    "notes from strangers need strange moments together.md",
     "z_images/Screenshot 2026-01-28 at 15.44.17.webp",
     "z_images/Screenshot 2026-01-28 at 15.44.06.webp",
-    "sound-studio/ss_class-2.md",
     "projects-by-other-people/7702 vocoder, by harald bode.md",
     "sound-studio/index.md",
     "z_images/Screenshot 2026-01-28 at 15.27.12.webp",
@@ -329,19 +348,14 @@
     "flora residency log.md",
     "ulgorave.md",
     "z_images/IMG_7376.mp4",
-    "z_images/IMG_7373.webp",
     "ga_ima_physical-computing_class_log.md",
     "z_images/Screen Recording 2026-01-26 at 17.38.26.mp4",
     "intro-to-physical-computing/practical electronics for inventors.md",
     "terms & concepts/unit generator theory.md",
     "to do.md",
     "inferring object properties using wrist changes.md",
-    "z_images/Screenshot 2026-01-26 at 17.03.02.webp",
-    "z_images/Screenshot 2026-01-26 at 17.02.40.webp",
     "z_images/Screen Recording 2026-01-26 at 14.42.32.mp4",
     "z_images/Screen Recording 2026-01-26 at 14.40.18.mov",
-    "z_images/Screenshot 2026-01-26 at 12.51.13.webp",
-    "what is good work?.md",
     "z_images/Screen Recording 2026-01-25 at 23.02.58.mp4",
     "z_images/demo_260125.mp4",
     "z_images/Screen Recording 2026-01-22 at 12.37.54.mp4",
