@@ -5,6 +5,8 @@ tags:
 noteOrder: "215"
 draft: "false"
 ---
-a max-patch that outputs signals to make people act involuntarily. 
+https://www.youtube.com/watch?v=pLAma-lrJRM
+
+a max-patch that outputs signals to make people act involuntarily, based on the signals it sends. 
 
 ![[Screenshot 2026-01-28 at 09.30.10.webp]]

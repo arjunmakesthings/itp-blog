@@ -61,30 +61,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sound-studio/ss_experiments_week-2.md",
+                "file": "shader-time/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ss_experiments_week-2"
+              "title": "index"
             }
           },
           {
-            "id": "b9520b97ffa18472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes from the soundscape, by r. murray schaeffer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "notes from the soundscape, by r. murray schaeffer"
-            }
-          },
-          {
-            "id": "3a2912e1be286539",
+            "id": "50f964dc28eeb9b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -95,34 +81,6 @@
               },
               "icon": "lucide-file",
               "title": "notes from strangers need strange moments together"
-            }
-          },
-          {
-            "id": "7c0056267cf3e774",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sound-studio/ss_class-2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ss_class-2"
-            }
-          },
-          {
-            "id": "50f964dc28eeb9b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nature-of-code/noc_class-2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "noc_class-2"
             }
           }
         ],
@@ -313,15 +271,21 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "b9520b97ffa18472",
+  "active": "50f964dc28eeb9b1",
   "lastOpenFiles": [
-    "sound-studio/ss_experiments_week-2.md",
     "notes from the soundscape, by r. murray schaeffer.md",
+    "shader-time/index.md",
+    "shader-time/st_class-2.md",
+    "shader-time/st_experiments_week-1.md",
+    "shader-time/st_class-1.md",
+    "sound-studio/ss_experiments_week-2.md",
+    "nature-of-code/noc_class-2.md",
+    "sound-studio/ss_class-2.md",
+    "notes from strangers need strange moments together.md",
+    "projects-by-other-people/electric stimulus to face, by daito manabe.md",
     "z_images/Screenshot 2026-01-28 at 16.37.57.webp",
     "z_images/Screenshot 2026-01-28 at 16.36.38.webp",
-    "notes from strangers need strange moments together.md",
     "z_images/Screenshot 2026-01-28 at 16.11.47.webp",
-    "sound-studio/ss_class-2.md",
     "z_images/speakers_260128.webp",
     "z_images/compression.webp",
     "z_images/Screenshot 2026-01-28 at 15.44.17.webp",
@@ -329,18 +293,13 @@
     "projects-by-other-people/7702 vocoder, by harald bode.md",
     "sound-studio/index.md",
     "z_images/Screenshot 2026-01-28 at 15.27.12.webp",
-    "shader-time/index.md",
     "nature-of-code/index.md",
-    "nature-of-code/noc_class-2.md",
-    "projects-by-other-people/electric stimulus to face, by daito manabe.md",
     "my approach to itp.md",
     "z_images/Screenshot 2026-01-28 at 09.30.10.webp",
     "sound-studio/ss_experiments_week-1.md",
     "sound-studio/ss_class-1.md",
     "nature-of-code/noc_experiments_week-1.md",
     "nature-of-code/noc_class-1.md",
-    "shader-time/st_class-1.md",
-    "shader-time/st_experiments_week-1.md",
     "electronics-for-inventors/efi_class-1.md",
     "z_images/Screenshot 2026-01-27 at 15.44.36.webp",
     "z_images/demo_st_week-1.mp4",
@@ -353,7 +312,6 @@
     "intro-to-physical-computing/practical electronics for inventors.md",
     "terms & concepts/unit generator theory.md",
     "to do.md",
-    "inferring object properties using wrist changes.md",
     "z_images/Screen Recording 2026-01-26 at 14.42.32.mp4",
     "z_images/Screen Recording 2026-01-26 at 14.40.18.mov",
     "z_images/Screen Recording 2026-01-25 at 23.02.58.mp4",
