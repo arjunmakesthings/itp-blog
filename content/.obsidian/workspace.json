@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shader-time/index.md",
+                "file": "sound-studio/ss_experiments_week-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "ss_experiments_week-2"
             }
           },
           {
@@ -75,16 +75,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes from the soundscape, by r. murray schaeffer.md",
+                "file": "intro-to-physical-computing/electrical components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes from the soundscape, by r. murray schaeffer"
+              "title": "electrical components"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "semicond",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -272,14 +272,23 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "50f964dc28eeb9b1",
+  "active": "f86bc170a45f0a03",
   "lastOpenFiles": [
+    "z_images/IMG_7409.webp",
+    "z_images/IMG_7410.mp4",
+    "z_images/IMG_7408.webp",
+    "shader-time/index.md",
+    "intro-to-physical-computing/electrical components.md",
+    "electronics-for-inventors/index.md",
+    "nature-of-code/noc_experiments_week-1.md",
+    "nature-of-code/index.md",
+    "class selections.md",
+    "notes from the soundscape, by r. murray schaeffer.md",
     "working with science without being a scientist yourself.md",
     "tangibility makes data more manipulative.md",
     "what is good work?.md",
     "sortspec.md",
     "notes from strangers need strange moments together.md",
-    "notes from the soundscape, by r. murray schaeffer.md",
     "set the stage, then shut up and listen, by tom igoe.md",
     "making computing visible.md",
     "projects-by-other-people/plotclock.md",
@@ -293,12 +302,6 @@
     "resources & tools/circuit lab.md",
     "sound-studio/ss_experiments_week-2.md",
     "shader-time/st_experiments_week-1.md",
-    "shader-time/st_class-2.md",
-    "shader-time/index.md",
-    "shader-time/st_class-1.md",
-    "nature-of-code/noc_class-2.md",
-    "sound-studio/ss_class-2.md",
-    "projects-by-other-people/electric stimulus to face, by daito manabe.md",
     "z_images/Screenshot 2026-01-28 at 16.37.57.webp",
     "z_images/Screenshot 2026-01-28 at 16.36.38.webp",
     "z_images/Screenshot 2026-01-28 at 16.11.47.webp",
@@ -306,10 +309,8 @@
     "z_images/compression.webp",
     "z_images/Screenshot 2026-01-28 at 15.44.17.webp",
     "z_images/Screenshot 2026-01-28 at 15.44.06.webp",
-    "projects-by-other-people/7702 vocoder, by harald bode.md",
     "z_images/Screenshot 2026-01-28 at 15.27.12.webp",
     "z_images/Screenshot 2026-01-28 at 09.30.10.webp",
-    "z_images/Screenshot 2026-01-27 at 15.44.36.webp",
     "z_images/demo_st_week-1.mp4",
     "z_images/IMG_7376.mp4",
     "z_images/Screen Recording 2026-01-26 at 17.38.26.mp4",
@@ -319,7 +320,6 @@
     "z_images/demo_260125.mp4",
     "z_images/Screen Recording 2026-01-22 at 12.37.54.mp4",
     "haptics",
-    "electronics-for-inventors",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",

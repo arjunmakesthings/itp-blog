@@ -67,3 +67,21 @@ from the readings:
 
 ![[Screenshot 2026-01-28 at 16.37.57.webp|527x758]]
 
+
+---
+the idea was to record the sound of jay street when no student is present — i.e. at night. 
+
+![[IMG_7408.webp|0x0]]
+
+but when i went out in the night, there was ==no actor to create sound==. 
+
+all i heard was the wind. 
+
+so, i came back, and it struck me. i started recording sounds of the things that remain on the itp floor, when everyone is gone. the ==soundscape is about the sounds that are there when no one is on the floor. ==
+
+![[IMG_7410.mp4]]
+
+i stood behind all the machines that remain on — on the floor, and on the kitchen. usually i got a lot of fans running sounds. 
+
+![[IMG_7409.webp|432x575]]
+
