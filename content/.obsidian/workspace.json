@@ -8,38 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8aebd15ae2f1e1d2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "my approach to itp.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "my approach to itp"
-            }
-          },
-          {
-            "id": "126801875e0939ea",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "what is good work?.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "what is good work?"
-            }
-          },
-          {
             "id": "e3fb6d411e1f4875",
             "type": "leaf",
             "pinned": true,
@@ -70,21 +38,21 @@
             }
           },
           {
-            "id": "50f964dc28eeb9b1",
+            "id": "858002fdaf2fe859",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-physical-computing/electrical components.md",
+                "file": "shader-time/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "electrical components"
+              "title": "index"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -255,8 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,34 +241,36 @@
   },
   "active": "f86bc170a45f0a03",
   "lastOpenFiles": [
+    "projects-by-other-people/voltage, by david rios.md",
+    "projects-by-other-people/work, by zimoun.md",
+    "projects-by-other-people/expressive tactical controls, by hayeon hwang.md",
+    "projects-by-other-people/bicycle built for two, by max mathews.md",
+    "projects-by-other-people/electric stimulus to face, by daito manabe.md",
+    "projects-by-other-people/7702 vocoder, by harald bode.md",
+    "electronics-for-inventors/efi_class-2.md",
+    "z_images/image-15.webp",
+    "electronics-for-inventors/Untitled.md",
+    "shader-time/st_class-1.md",
+    "shader-time/st_class-2.md",
+    "nature-of-code/noc_class-1.md",
+    "nature-of-code/noc_class-2.md",
+    "sound-studio/ss_class-2.md",
+    "sound-studio/ss_experiments_week-2.md",
+    "sound-studio/ss_experiments_week-1.md",
+    "electronics-for-inventors/efi_class-1.md",
+    "electronics-for-inventors/index.md",
+    "electronics-for-inventors/efi_experiments_week-1.md",
+    "shader-time/st_experiments_week-2.md",
+    "shader-time/index.md",
+    "intro-to-physical-computing/electrical components.md",
+    "shader-time/st_experiments_week-1.md",
+    "nature-of-code/noc_experiments_week-2.md",
+    "nature-of-code/index.md",
+    "to do.md",
+    "nature-of-code/noc_experiments_week-1.md",
     "z_images/IMG_7409.webp",
     "z_images/IMG_7410.mp4",
     "z_images/IMG_7408.webp",
-    "shader-time/index.md",
-    "intro-to-physical-computing/electrical components.md",
-    "electronics-for-inventors/index.md",
-    "nature-of-code/noc_experiments_week-1.md",
-    "nature-of-code/index.md",
-    "class selections.md",
-    "notes from the soundscape, by r. murray schaeffer.md",
-    "working with science without being a scientist yourself.md",
-    "tangibility makes data more manipulative.md",
-    "what is good work?.md",
-    "sortspec.md",
-    "notes from strangers need strange moments together.md",
-    "set the stage, then shut up and listen, by tom igoe.md",
-    "making computing visible.md",
-    "projects-by-other-people/plotclock.md",
-    "what is technology?.md",
-    "projects-by-other-people/inferring object properties using wrist changes.md",
-    "ga_ima_physical-computing_class_log.md",
-    "ulgorave.md",
-    "terms & concepts/euler's number.md",
-    "resources & tools/spear.md",
-    "resources & tools/index.md",
-    "resources & tools/circuit lab.md",
-    "sound-studio/ss_experiments_week-2.md",
-    "shader-time/st_experiments_week-1.md",
     "z_images/Screenshot 2026-01-28 at 16.37.57.webp",
     "z_images/Screenshot 2026-01-28 at 16.36.38.webp",
     "z_images/Screenshot 2026-01-28 at 16.11.47.webp",
@@ -309,8 +278,6 @@
     "z_images/compression.webp",
     "z_images/Screenshot 2026-01-28 at 15.44.17.webp",
     "z_images/Screenshot 2026-01-28 at 15.44.06.webp",
-    "z_images/Screenshot 2026-01-28 at 15.27.12.webp",
-    "z_images/Screenshot 2026-01-28 at 09.30.10.webp",
     "z_images/demo_st_week-1.mp4",
     "z_images/IMG_7376.mp4",
     "z_images/Screen Recording 2026-01-26 at 17.38.26.mp4",

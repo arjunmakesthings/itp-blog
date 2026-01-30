@@ -71,7 +71,7 @@ from the readings:
 ---
 the idea was to record the sound of jay street when no student is present — i.e. at night. 
 
-![[IMG_7408.webp|0x0]]
+![[IMG_7408.webp|419x559]]
 
 but when i went out in the night, there was ==no actor to create sound==. 
 
