@@ -43,16 +43,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shader-time/index.md",
+                "file": "sound-studio/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "082d30e360bb6a88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "propranolol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "propranolol"
+            }
+          },
+          {
+            "id": "0b433a2497b6dec1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "people/tanika.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tanika"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -239,8 +267,14 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f86bc170a45f0a03",
+  "active": "082d30e360bb6a88",
   "lastOpenFiles": [
+    "electronics-for-inventors/Untitled.md",
+    "propranolol.md",
+    "people/tanika.md",
+    "sound-studio/index.md",
+    "shader-time/index.md",
+    "sound-studio/ss_experiments_week-2.md",
     "projects-by-other-people/voltage, by david rios.md",
     "projects-by-other-people/work, by zimoun.md",
     "projects-by-other-people/expressive tactical controls, by hayeon hwang.md",
@@ -249,25 +283,19 @@
     "projects-by-other-people/7702 vocoder, by harald bode.md",
     "electronics-for-inventors/efi_class-2.md",
     "z_images/image-15.webp",
-    "electronics-for-inventors/Untitled.md",
     "shader-time/st_class-1.md",
     "shader-time/st_class-2.md",
     "nature-of-code/noc_class-1.md",
     "nature-of-code/noc_class-2.md",
     "sound-studio/ss_class-2.md",
-    "sound-studio/ss_experiments_week-2.md",
     "sound-studio/ss_experiments_week-1.md",
     "electronics-for-inventors/efi_class-1.md",
     "electronics-for-inventors/index.md",
     "electronics-for-inventors/efi_experiments_week-1.md",
     "shader-time/st_experiments_week-2.md",
-    "shader-time/index.md",
     "intro-to-physical-computing/electrical components.md",
     "shader-time/st_experiments_week-1.md",
     "nature-of-code/noc_experiments_week-2.md",
-    "nature-of-code/index.md",
-    "to do.md",
-    "nature-of-code/noc_experiments_week-1.md",
     "z_images/IMG_7409.webp",
     "z_images/IMG_7410.mp4",
     "z_images/IMG_7408.webp",
