@@ -9,7 +9,7 @@ two-oh-two.
 
 thesis. the pressure to produce good work. visas. ice. 
 
-the news is filled with error; i wake up to erratic presidential decisions. i'm in the 'promised-land' — i've 'made it' for 15-year-old-me. 15-year-old-me didn't know shit. 60-year-old-me will think the same of 25-year-old-me. 
+the news is filled with terror; i wake up to erratic presidential decisions. i'm in the 'promised-land' — i've 'made it' for 15-year-old-me. 15-year-old-me didn't know shit. 60-year-old-me will think the same of 25-year-old-me. 
 
 two days ago, [[tanika]]  said i have 'artistic-potential'. that damned word again — potential. somehow, it always remains potential, as if my brain has the capacity to do good things, but my hands fail to translate it. i'm a walking example of voltage. 
 
