@@ -92,3 +92,10 @@ also, turns out if i have multiple dacs, it refuses to work (it syncs up all of 
 
 ![[Screenshot 2026-02-01 at 22.34.46.webp]]
 
+---
+[[craig fahner]] & i spoke. he explained how `read` maintains the parameters from what it was originally set to (even if you change the file). 
+
+![[Screenshot 2026-02-02 at 14.38.32.webp]]
+
+learnt how to debug via the `print` object. also realized that the ==float / int specification is very strict.==
+
