@@ -85,3 +85,10 @@ i stood behind all the machines that remain on — on the floor, and on the kit
 
 ![[IMG_7409.webp|432x575]]
 
+---
+max was so fucking frustrating to work with. it bugged out so many times. 
+
+also, turns out if i have multiple dacs, it refuses to work (it syncs up all of them). 
+
+![[Screenshot 2026-02-01 at 22.34.46.webp]]
+
