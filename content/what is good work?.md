@@ -5,4 +5,10 @@ tags:
 noteOrder: "200"
 draft: "false"
 ---
-i don't yet know. but i'm working on it. 
+# 260203: 
+- makes someone feel, with intention. 
+- has a conscience.
+- is authentic & vulnerable. 
+- stays across time (*timeless*).
+- provokes (?)
+
