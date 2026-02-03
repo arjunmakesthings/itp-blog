@@ -15,11 +15,11 @@ all my work aspires to:
 
 - originate from curiosity. 
 - imbibe a conscience. 
-- make someone feel something, intentionally. 
-- stay across times, trends, and waves.
+- make someone feel something ~~, intentionally. ~~
+- stay ~~across times, trends, and waves.~~
 - be authentic & vulnerable.
 
-thanks to: [[tom]], [[shobhan]], [[inventing on principle, by bret victor]], [[bairui]], and [[mimi's talk at movement-lab, barnard]] where she mentions the pursuit of 'legacy'. 
+thanks to: [[tom]], [[shobhan]], [[inventing on principle, by bret victor]], [[bairui]], and [[mimi's talk at movement-lab, barnard]] where she mentions the pursuit of 'legacy'. and [[10 bullets. by tom sachs]]. 
 
 ---
 # draft: 
