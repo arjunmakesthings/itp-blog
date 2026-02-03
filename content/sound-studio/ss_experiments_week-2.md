@@ -104,3 +104,8 @@ now i can't select any of the files that i could select earlier. i don't underst
 
 ![[Screenshot 2026-02-02 at 20.44.12.webp]]
 
+---
+# 260203: 
+aaaaha! i realized all my mistakes 20 minutes before class. 
+
+[[gabriel]] showed me that replace accepted a file parameter. so, i had to make sure that the names of the files were without spaces, and enter that in the replace. 
