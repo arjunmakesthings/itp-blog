@@ -23,6 +23,8 @@ borrowed from the [red thread of fate](https://en.wikipedia.org/wiki/Red_thread_
 ---
 # outputs: 
 
+![[demo_260203.mp4]]
+
 ---
 tried to make the sketch in 3-d, but it got too complicated for me too soon. 
 

@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sound-studio/index.md",
+                "file": "shader-time/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -267,17 +267,18 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e9bf5b1820271973",
+  "active": "f86bc170a45f0a03",
   "lastOpenFiles": [
+    "z_images/demo_260203.mp4",
+    "shader-time/index.md",
+    "sound-studio/index.md",
     "sound-studio/ss_experiments_week-2.md",
     "z_images/Screenshot 2026-02-02 at 20.44.12.webp",
-    "shader-time/index.md",
     "terms & concepts/transducer.md",
     "zz_templates/uncategorized.md",
     "zz_templates/testing-template.md",
     "terms & concepts/euler's number.md",
     "z_images/Screenshot 2026-02-02 at 14.38.32.webp",
-    "sound-studio/index.md",
     "nature-of-code/noc_experiments_week-2.md",
     "projects-by-other-people/electric stimulus to face, by daito manabe.md",
     "people/sakina.md",
