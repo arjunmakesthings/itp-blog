@@ -7,12 +7,20 @@ draft: "false"
 ---
 my approach will keep evolving, as i make my way through the program. this list is sorted by newest addition first. 
 
+# 260203: 
+==move more consistently, in smaller chunks==. do 1.5h windows for each course to try things out, and block longer (4h) for sustained projects; when you know what you have to do.
+
+code from home.
+
+---
 # 260120: 
 ==pursue good, ask why. ==
 
+---
 # 260120: 
 it takes a certain kind of obsession to be a 'good' artist. don't let anyone else try to tell you otherwise. 
 
+---
 # 251205:
 addition; written during hypercinema-finals (see [[hypercinema/final-project-log|final-project-log]]). 
 

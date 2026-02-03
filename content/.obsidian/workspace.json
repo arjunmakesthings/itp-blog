@@ -29,54 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nature-of-code/noc_experiments_week-2.md",
+                "file": "my approach to itp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "noc_experiments_week-2"
-            }
-          },
-          {
-            "id": "e9bf5b1820271973",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shader-time/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "7d963b414f2d896c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects-by-other-people/electric stimulus to face, by daito manabe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "electric stimulus to face, by daito manabe"
-            }
-          },
-          {
-            "id": "082d30e360bb6a88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "people/sakina.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sakina"
+              "title": "my approach to itp"
             }
           }
         ],
@@ -112,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sakina",
+                "query": "approach",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +91,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -251,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,8 +229,13 @@
   },
   "active": "f86bc170a45f0a03",
   "lastOpenFiles": [
-    "z_images/demo_260203.mp4",
+    "people/sakina.md",
+    "projects-by-other-people/electric stimulus to face, by daito manabe.md",
     "shader-time/index.md",
+    "my approach to itp.md",
+    "nature-of-code/index.md",
+    "nature-of-code/noc_experiments_week-2.md",
+    "z_images/demo_260203.mp4",
     "sound-studio/index.md",
     "sound-studio/ss_experiments_week-2.md",
     "z_images/Screenshot 2026-02-02 at 20.44.12.webp",
@@ -279,9 +244,6 @@
     "zz_templates/testing-template.md",
     "terms & concepts/euler's number.md",
     "z_images/Screenshot 2026-02-02 at 14.38.32.webp",
-    "nature-of-code/noc_experiments_week-2.md",
-    "projects-by-other-people/electric stimulus to face, by daito manabe.md",
-    "people/sakina.md",
     "people/tanika.md",
     "z_images/Screenshot 2026-02-01 at 22.34.46.webp",
     "propranolol.md",
@@ -298,7 +260,6 @@
     "shader-time/st_class-2.md",
     "nature-of-code/noc_class-1.md",
     "nature-of-code/noc_class-2.md",
-    "sound-studio/ss_class-2.md",
     "z_images/IMG_7409.webp",
     "z_images/IMG_7410.mp4",
     "z_images/IMG_7408.webp",
@@ -314,7 +275,6 @@
     "z_images/Screen Recording 2026-01-25 at 23.02.58.mp4",
     "z_images/demo_260125.mp4",
     "z_images/Screen Recording 2026-01-22 at 12.37.54.mp4",
-    "haptics",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
