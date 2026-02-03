@@ -85,12 +85,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sound-studio/ss_experiments_week-2.md",
+                "file": "nature-of-code/noc_experiments_week-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ss_experiments_week-2"
+              "title": "noc_experiments_week-2"
             }
           }
         ],
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sound-studio/ss_experiments_week-2.md",
+                "file": "nature-of-code/noc_experiments_week-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ss_experiments_week-2"
+              "title": "Backlinks for noc_experiments_week-2"
             }
           },
           {
@@ -265,7 +265,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,6 +284,7 @@
   },
   "active": "b0a5463c3649e25a",
   "lastOpenFiles": [
+    "sound-studio/ss_experiments_week-2.md",
     "my principles as a creator.md",
     "what do i want my art to be about?.md",
     "what is good work?.md",
@@ -295,7 +297,6 @@
     "nature-of-code/noc_experiments_week-2.md",
     "z_images/demo_260203.mp4",
     "sound-studio/index.md",
-    "sound-studio/ss_experiments_week-2.md",
     "z_images/Screenshot 2026-02-02 at 20.44.12.webp",
     "terms & concepts/transducer.md",
     "zz_templates/uncategorized.md",
