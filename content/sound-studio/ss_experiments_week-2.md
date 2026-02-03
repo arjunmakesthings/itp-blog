@@ -99,3 +99,8 @@ also, turns out if i have multiple dacs, it refuses to work (it syncs up all of 
 
 learnt how to debug via the `print` object. also realized that the ==float / int specification is very strict.==
 
+---
+now i can't select any of the files that i could select earlier. i don't understand this software at all. it is so, so buggy. 
+
+![[Screenshot 2026-02-02 at 20.44.12.webp]]
+
