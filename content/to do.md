@@ -35,6 +35,7 @@ an always evolving list of things to do and read; hidden from the public website
 - [ ] sebastian lague's — [how computers work](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq); found in  https://abc.decontextualize.com/more-than-you-wanted-to-know/
 - [ ] Reading on the Brain by stanislas dehaene suggested by dan-o.
 - [ ] Natalie Jeremijenko's work (suggested by [[people/mimi|mimi]]). 
+- [ ] https://en.wikipedia.org/wiki/Flatliners
 
 ---
 # all others: 
