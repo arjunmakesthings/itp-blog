@@ -36,6 +36,7 @@ an always evolving list of things to do and read; hidden from the public website
 - [ ] Reading on the Brain by stanislas dehaene suggested by dan-o.
 - [ ] Natalie Jeremijenko's work (suggested by [[people/mimi|mimi]]). 
 - [ ] https://en.wikipedia.org/wiki/Flatliners
+- [ ] museum of computers
 
 ---
 # all others: 

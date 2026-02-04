@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "to do"
             }
+          },
+          {
+            "id": "cd51b395686fbde2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "electronics-for-inventors/efi_class-2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "efi_class-2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,21 +225,26 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e3fb6d411e1f4875",
+  "active": "cd51b395686fbde2",
   "lastOpenFiles": [
+    "to do.md",
+    "electronics-for-inventors/efi_class-2.md",
+    "z_images/260204_charlieplex.png",
+    "z_images/260104_and.webp",
+    "z_images/260204_power-block.webp",
+    "nature-of-code/noc_experiments_week-3.md",
+    "nature-of-code/index.md",
+    "nature-of-code/noc_experiments_week-2.md",
     "shader-time/st_experiments_week-2.md",
     "shader-time/index.md",
     "sound-studio/ss_class-3.md",
     "z_images/Screen Recording 2026-02-04 at 00.30.57.mp4",
     "shader-time/st_class-1.md",
     "sound-studio/index.md",
-    "nature-of-code/index.md",
     "electronics-for-inventors/index.md",
-    "to do.md",
     "z_images/Screenshot 2026-02-03 at 20.26.21.png",
     "z_images/Screenshot 2026-02-03 at 20.25.31.png",
     "sound-studio/ss_experiments_week-2.md",
-    "nature-of-code/noc_experiments_week-2.md",
     "what do i want my art to be about?.md",
     "futility of artistic work.md",
     "my approach to itp.md",
@@ -242,14 +262,9 @@
     "people/tanika.md",
     "z_images/Screenshot 2026-02-01 at 22.34.46.webp",
     "propranolol.md",
-    "notes from the soundscape, by r. murray schaeffer.md",
-    "electronics-for-inventors/Untitled.md",
     "z_images/image-15.webp",
     "z_images/IMG_7409.webp",
     "z_images/IMG_7410.mp4",
-    "z_images/IMG_7408.webp",
-    "z_images/Screenshot 2026-01-28 at 16.37.57.webp",
-    "z_images/Screenshot 2026-01-28 at 16.36.38.webp",
     "z_images/demo_st_week-1.mp4",
     "z_images/IMG_7376.mp4",
     "z_images/Screen Recording 2026-01-26 at 17.38.26.mp4",
