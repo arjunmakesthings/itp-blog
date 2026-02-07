@@ -13,6 +13,6 @@ i wrote in my notebook:
 > people need to find more spaces to get their work shredded to bits. that's how you learn to not fall in love with your work, and chase betterment. 
 
 ---
-the second one was better. people cared. i only remember [[people/shloka|shloka]] & [[people/ian_itp-27|ian_itp-27]] from that group. but all of them seemed to care. they had good critical thought about the prompt, and <mark>actually gave a shit</mark>. 
+the second one was better. people cared. i only remember [[people/shloka|shloka]] & [[ian askie|ian askie]] from that group. but all of them seemed to care. they had good critical thought about the prompt, and <mark>actually gave a shit</mark>. 
 
 <mark>they also played actual games to understand play</mark>. i can't believe i missed that with my group. 
