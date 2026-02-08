@@ -4,41 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "71cf3e70387d037b",
+        "id": "a9c1bee6b6a759a5",
         "type": "tabs",
         "children": [
           {
-            "id": "e3fb6d411e1f4875",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "to do.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "to do"
-            }
-          },
-          {
-            "id": "532a49bdc1df6b8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nature-of-code/noc_experiments_week-1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "noc_experiments_week-1"
-            }
-          },
-          {
-            "id": "72e156e22c661896",
+            "id": "a5efb90f03ff5cb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,23 +20,9 @@
               "icon": "lucide-file",
               "title": "ss_experiments_week-3"
             }
-          },
-          {
-            "id": "cda44e2cb67d5db3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hypercinema/final-project-log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "final-project-log"
-            }
           }
         ],
-        "currentTab": 2
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -98,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "typos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -254,15 +210,27 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "72e156e22c661896",
+  "active": "a5efb90f03ff5cb9",
   "lastOpenFiles": [
-    "shader-time/resources from shader-time.md",
+    "sound-studio/index.md",
+    "to do.md",
+    "nature-of-code/noc_experiments_week-1.md",
+    "shader-time/st_experiments_week-2.md",
+    "shader-time/st_experiments_week-1.md",
     "shader-time/ss_experiments_week-3.md",
+    "hypercinema/final-project-log.md",
+    "projects-by-other-people/time studies, by patricio gonzalez vivo.md",
+    "z_images/Screenshot 2026-02-07 at 20.45.05.webp",
+    "projects-by-other-people/plotclock.md",
+    "projects-by-other-people/inferring object properties using wrist changes.md",
+    "projects-by-other-people/electric stimulus to face, by daito manabe.md",
+    "projects-by-other-people/7702 vocoder, by harald bode.md",
+    "z_images/Screenshot 2026-02-07 at 20.20.12.png",
+    "shader-time/index.md",
+    "shader-time/resources from shader-time.md",
     "nature-of-code/noc_experiments_week-3.md",
     "nature-of-code/noc_class-3.md",
-    "shader-time/index.md",
     "nature-of-code/index.md",
-    "hypercinema/final-project-log.md",
     "terms & concepts/syntactic sugar.md",
     "shader-time/st_class-3.md",
     "electronics-for-inventors/efi_class-2.md",
@@ -271,29 +239,17 @@
     "sound-studio/ss_experiments_week-3.md",
     "futility of artistic work.md",
     "sound-studio/ss_class-3.md",
-    "sound-studio/index.md",
     "itp-winter-show 2025.md",
-    "to do.md",
-    "people/ian askie.md",
-    "electronics-for-inventors/index.md",
-    "shader-time/st_experiments_week-2.md",
     "z_images/260204_charlieplex.png",
     "z_images/260104_and.webp",
     "z_images/260204_power-block.webp",
-    "nature-of-code/noc_experiments_week-2.md",
     "z_images/Screen Recording 2026-02-04 at 00.30.57.mp4",
-    "shader-time/st_class-1.md",
     "z_images/Screenshot 2026-02-03 at 20.26.21.png",
     "z_images/Screenshot 2026-02-03 at 20.25.31.png",
-    "sound-studio/ss_experiments_week-2.md",
-    "my approach to itp.md",
-    "my principles as a creator.md",
     "z_images/demo_260203.mp4",
     "z_images/Screenshot 2026-02-02 at 20.44.12.webp",
     "z_images/Screenshot 2026-02-02 at 14.38.32.webp",
     "z_images/Screenshot 2026-02-01 at 22.34.46.webp",
-    "z_images/image-15.webp",
-    "z_images/IMG_7409.webp",
     "z_images/IMG_7410.mp4",
     "z_images/demo_st_week-1.mp4",
     "z_images/IMG_7376.mp4",

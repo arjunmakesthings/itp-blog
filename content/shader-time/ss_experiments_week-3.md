@@ -32,9 +32,17 @@ from the book of shaders:
 
 > It's impossible for a thread to know what it was doing in the previous moment. It could be drawing a button from the UI of the operating system, then rendering a portion of sky in a game, then displaying the text of an email. Each thread is not just blind but also memoryless.
 
+---
+understood each line of a barebones shader program.
 
+made a [template](https://github.com/arjunmakesthings/shader-time_sp26/tree/main/templates/weekly-sketch_p5-shader). 
 
+---
 
+>     In the same way GLSL gives us a default output, vec4 gl_FragColor, it also gives us a default input, vec4 gl_FragCoord, which holds the screen coordinates of the pixel or screen fragment that the active thread is working on. With vec4 gl_FragCoord, we know where a thread is working inside the billboard. In this case we don't call it uniform because it will be different from thread to thread, instead gl_FragCoord is called a varying.
 
+![[Screenshot 2026-02-07 at 20.20.12.png]]
 
+---
 
+i decided to do something with light. since shaders interpolate colors between two vertices, i thought it would lead to an interesting output. 
