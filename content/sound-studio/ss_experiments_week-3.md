@@ -5,7 +5,7 @@ tags:
 noteOrder: "230"
 draft: "false"
 ---
-made so many sounds. i spent about 6 hours in the synth-lab, over two days. all sounds are available [here](https://github.com/arjunmakesthings/sound-studio_sp2026/tree/main/260205_synth-your-sound/cleaned). 
+made so many sounds. i spent about 7 hours in the synth-lab, over two days. all sounds are available [here](https://github.com/arjunmakesthings/sound-studio_sp2026/tree/main/260205_synth-your-sound/cleaned). 
 
 ---
 did this on the sh101. 
@@ -56,7 +56,6 @@ made about three patches.
 ![[IMG_7465.webp]]
 
 i ==couldn't understand how to split a wave into two waves== (so as to output sound from one, and use it as a control for another). 
-
 
 ---
 
