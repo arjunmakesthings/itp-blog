@@ -47,3 +47,8 @@ made these:
 ![[touch circuit_class-2.webp]]
 
 second one felt a little bit useless. you could just complete the circuit yourself (conducting electricity through the body). 
+
+also realized that it's easier to see circuits in a vertical flow of components. 
+
+![[IMG_7454.webp]]
+

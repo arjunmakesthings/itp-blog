@@ -15,6 +15,10 @@ all pin outs are how they would be when you face the component. you can also pla
 
 ![[transistor-metronome_schem.png]]
 
+fried transistors in the process: 
+
+![[IMG_7432.mp4]]
 
 ---
 
+fried transistors

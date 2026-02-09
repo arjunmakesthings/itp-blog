@@ -27,3 +27,7 @@ spoke about using the oscilloscope a little bit. each square is the voltage and 
 
 ![[IMG_7467.webp|495x660]]
 
+looked inside a 555-timer. 
+
+![[IMG_7457.jpg]]
+

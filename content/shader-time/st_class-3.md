@@ -11,3 +11,8 @@ draft: "false"
 - ==smoothstep is lerp of glsl. ==
 - ==signed values are -1,1; unsigned are 0,1.==
 
+different uv mapping for different geometries. 
+
+![[IMG_7433.webp]]
+
+
