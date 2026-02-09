@@ -40,3 +40,10 @@ spoke about multiplexing and charlieplexing.
 
 ==arrow always points towards the n gate in a transistor. ==
 
+made these: 
+
+![[ledflasher_class-2.webp]]
+
+![[touch circuit_class-2.webp]]
+
+second one felt a little bit useless. you could just complete the circuit yourself (conducting electricity through the body). 

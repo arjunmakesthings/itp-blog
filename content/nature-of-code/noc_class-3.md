@@ -5,6 +5,13 @@ tags:
 noteOrder: "228"
 draft: "false"
 ---
+- scalars have only magnitude, measured over time (temperature, speed, et-cetera). 
+- vectors have direction (like force). 
+
+==in p5 there is no time, everything is over 1== frame.
+
+
+
 learnt about a new way to loop through each array: 
 
 ``` js
