@@ -4,7 +4,9 @@ date: 2026-01-20
 folderOrder: "9"
 draft: "false"
 ---
-2-credit class taken by [[elias (elie) zananiri]], in the first-half of semester-2.
+2-credit class taken by [[elias (elie) zananiri]], in the first-half of semester-2. 
+
+all the work i produced in this class is in [this](https://github.com/arjunmakesthings/shader-time_sp26) repo.
 
 ---
 # why: 

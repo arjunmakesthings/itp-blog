@@ -6,6 +6,8 @@ draft: "false"
 ---
 4-credit class taken by [[lenin compres]], in semester-2.
 
+all the work i produced in this class is in [this](https://github.com/arjunmakesthings/nature-of-code_sp2026) repo.
+
 ---
 # why: 
 [[mimi]] & i arrived at this class after discussing my specific interest in developing better & more complex algorithms for my work. 

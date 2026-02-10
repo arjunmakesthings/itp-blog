@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sound-studio/ss_experiments_week-3.md",
+                "file": "sound-studio/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ss_experiments_week-3"
+              "title": "index"
             }
           }
         ],
@@ -212,8 +212,13 @@
   },
   "active": "b22483b73fd7c975",
   "lastOpenFiles": [
-    "sound-studio/index.md",
+    "nature-of-code/index.md",
+    "shader-time/index.md",
+    "nature-of-code/noc_experiments_week-3.md",
+    "z_images/tinfoil_os.mp4",
     "sound-studio/ss_experiments_week-3.md",
+    "z_images/demo_09020206.mp4",
+    "sound-studio/index.md",
     "z_images/IMG_7465.webp",
     "z_images/IMG_7463.mp4",
     "sound-studio/ss_class-3.md",
@@ -240,7 +245,6 @@
     "nature-of-code/noc_class-3.md",
     "what do i want my art to be about?.md",
     "shader-time/ss_experiments_week-3.md",
-    "shader-time/index.md",
     "shader-time/st_class-1.md",
     "to do.md",
     "nature-of-code/noc_experiments_week-1.md",
@@ -252,11 +256,7 @@
     "projects-by-other-people/inferring object properties using wrist changes.md",
     "projects-by-other-people/electric stimulus to face, by daito manabe.md",
     "projects-by-other-people/7702 vocoder, by harald bode.md",
-    "shader-time/resources from shader-time.md",
-    "nature-of-code/noc_experiments_week-3.md",
     "z_images/Screen Recording 2026-02-04 at 00.30.57.mp4",
-    "z_images/demo_260203.mp4",
-    "z_images/IMG_7410.mp4",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",

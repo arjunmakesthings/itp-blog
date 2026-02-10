@@ -8,7 +8,7 @@ draft: "false"
 made so many sounds. i spent about 7 hours in the synth-lab, over two days. all sounds are available [here](https://github.com/arjunmakesthings/sound-studio_sp2026/tree/main/260205_synth-your-sound/cleaned). 
 
 ---
-did this on the sh101. 
+did this on the synth near the sh101. 
 
 ![[IMG_7442.mp4]]
 
