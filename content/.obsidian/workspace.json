@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nature-of-code/noc_class-4.md",
+                "file": "sound-studio/ss_class-4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "noc_class-4"
+              "title": "ss_class-4"
             }
           },
           {
@@ -225,8 +225,9 @@
   },
   "active": "b22483b73fd7c975",
   "lastOpenFiles": [
-    "nature-of-code/index.md",
     "nature-of-code/noc_class-4.md",
+    "sound-studio/ss_class-4.md",
+    "nature-of-code/index.md",
     "shader-time/st_experiments_week-3.md",
     "shader-time/index.md",
     "recurse center.md",
@@ -270,7 +271,6 @@
     "shader-time/st_experiments_week-1.md",
     "hypercinema/final-project-log.md",
     "projects-by-other-people/time studies, by patricio gonzalez vivo.md",
-    "projects-by-other-people/plotclock.md",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",

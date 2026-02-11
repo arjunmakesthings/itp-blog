@@ -96,3 +96,6 @@ class whatever {
 ```
 
 now you can call `this.radius` and that will run the function. 
+
+particles have a position. they have a velocity. ==velocity is changed with the acceleration, which is the combination of all forces acting on it. ==
+
