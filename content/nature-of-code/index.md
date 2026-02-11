@@ -19,7 +19,7 @@ i've dealt with simple algorithms in the past. in this class, i want to push it 
 ---
 # resources: 
 - [syllabus](https://github.com/lenincompres/noc-syllabus-s26)
-- [homeworks](https://github.com/lenincompres/noc-syllabus-s26/wiki)
+- [homeworks]([https://github.com/lenincompres/noc-syllabus-s26/wiki](https://github.com/lenincompres/noc-syllabus-s26/wiki/))
 - submission standard format for wiki: 
 
 ```

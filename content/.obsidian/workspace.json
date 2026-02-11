@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shader-time/st_experiments_week-3.md",
+                "file": "nature-of-code/noc_class-4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "st_experiments_week-3"
+              "title": "noc_class-4"
             }
           },
           {
@@ -225,13 +225,14 @@
   },
   "active": "b22483b73fd7c975",
   "lastOpenFiles": [
-    "shader-time/index.md",
+    "nature-of-code/index.md",
+    "nature-of-code/noc_class-4.md",
     "shader-time/st_experiments_week-3.md",
+    "shader-time/index.md",
     "recurse center.md",
     "z_images/loop_250210.mp4",
     "sound-studio/ss_experiments_week-3.md",
     "nature-of-code/noc_experiments_week-3.md",
-    "nature-of-code/index.md",
     "sound-studio/index.md",
     "conversation with vedant das swain.md",
     "people/vedant das swain.md",
@@ -270,7 +271,6 @@
     "hypercinema/final-project-log.md",
     "projects-by-other-people/time studies, by patricio gonzalez vivo.md",
     "projects-by-other-people/plotclock.md",
-    "projects-by-other-people/inferring object properties using wrist changes.md",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
