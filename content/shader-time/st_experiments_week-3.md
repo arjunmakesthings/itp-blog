@@ -15,6 +15,10 @@ Use p5.js and WebGL.
 Your effect should be coded in the fragment unit of your shader.
 Your effect should not use any uniform textures as input.
 
+### output: 
+
+![[loop_250210.mp4]]
+
 ### assignment-2:
 Build a solar system with moons, planets, and a sun.
 
@@ -241,4 +245,20 @@ function draw() {
 }
 
 ```
+
+just ended up making a simple looping animation: impossible origami. 
+
+![[loop_250210.mp4]]
+
+it didn't work the way i intended it to, but that's okay — i used the stuff i learnt in my [[noc_experiments_week-3]], which turned out nicer. 
+
+---
+
+then moved on to assignment 3. 
+
+made the planet sketch; wasn't particularly interested. 
+
+
+
+
 

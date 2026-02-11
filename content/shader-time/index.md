@@ -17,5 +17,6 @@ i've always looked at shaders, engaged with them briefly, but never managed to p
 ---
 # resources: 
 - [syllabus](https://shadertime.betamovement.net).
+- prefix for sketches: https://arjunmakesthings.github.io/shader-time_sp26/sketches/
 
 ---

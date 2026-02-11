@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sound-studio/index.md",
+                "file": "shader-time/st_experiments_week-3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "st_experiments_week-3"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conversation with vedant das swain.md",
+                "file": "nature-of-code/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conversation with vedant das swain"
+              "title": "index"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -94,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -225,16 +223,19 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f77f2b89a87b97e1",
+  "active": "b22483b73fd7c975",
   "lastOpenFiles": [
-    "vedant das swain.md",
-    "conversation with vedant das swain.md",
-    "sound-studio/index.md",
-    "nature-of-code/index.md",
     "shader-time/index.md",
-    "nature-of-code/noc_experiments_week-3.md",
-    "z_images/tinfoil_os.mp4",
+    "shader-time/st_experiments_week-3.md",
+    "recurse center.md",
+    "z_images/loop_250210.mp4",
     "sound-studio/ss_experiments_week-3.md",
+    "nature-of-code/noc_experiments_week-3.md",
+    "nature-of-code/index.md",
+    "sound-studio/index.md",
+    "conversation with vedant das swain.md",
+    "people/vedant das swain.md",
+    "z_images/tinfoil_os.mp4",
     "z_images/demo_09020206.mp4",
     "z_images/IMG_7465.webp",
     "z_images/IMG_7463.mp4",
@@ -261,7 +262,6 @@
     "electronics-for-inventors/index.md",
     "nature-of-code/noc_class-3.md",
     "what do i want my art to be about?.md",
-    "shader-time/ss_experiments_week-3.md",
     "shader-time/st_class-1.md",
     "to do.md",
     "nature-of-code/noc_experiments_week-1.md",
@@ -271,8 +271,6 @@
     "projects-by-other-people/time studies, by patricio gonzalez vivo.md",
     "projects-by-other-people/plotclock.md",
     "projects-by-other-people/inferring object properties using wrist changes.md",
-    "projects-by-other-people/electric stimulus to face, by daito manabe.md",
-    "z_images/Screen Recording 2026-02-04 at 00.30.57.mp4",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
