@@ -85,3 +85,14 @@ class better_vec {
 
 ---
 
+in classes, you can make *getters*; 
+
+``` js
+class whatever {
+	get radius (){
+	//whatever
+	}
+}
+```
+
+now you can call `this.radius` and that will run the function. 
