@@ -5,7 +5,7 @@ tags:
 noteOrder: "241"
 draft: "false"
 ---
-==words==, 
+==words==,
 arranged, composed, and sang; 
 heard over wired-earphones,
 on a brooklyn subway station;
