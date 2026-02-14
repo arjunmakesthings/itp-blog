@@ -31,4 +31,70 @@ const vert_shader = await loadShader("./vert.vert");
 const frag_shader = await loadShader("./frag.frag");
 ```
 
+---
+made each pixel a unit on a checkerboard grid. 
+
+![[Screenshot 2026-02-14 at 17.32.36.webp]]
+
+``` c
+precision mediump float;
+
+varying vec2 vUv;
+
+uniform vec2 u_resolution;
+
+void main() {
+    //since texture coords are called uv, we call normalized position values st.
+    vec2 st = gl_FragCoord.xy / u_resolution;
+
+    // float scale = u_resolution.x * u_resolution.y;
+
+    vec2 grid = floor(st * u_resolution);
+
+    float checker = mod(grid.x + grid.y, 2.0);
+
+    vec3 col = vec3(checker);
+
+    gl_FragColor = vec4(col, 1.0);
+}
+
+```
+
+made this: 
+
+![[Screen Recording 2026-02-14 at 17.45.53.mp4]]
+
+``` c
+precision mediump float;
+
+varying vec2 vUv;
+
+uniform vec2 u_resolution;
+uniform float u_time;
+
+void main() {
+    //since texture coords are called uv, we call normalized position values st.
+    vec2 st = gl_FragCoord.xy / u_resolution;
+
+    float scale = 1000.0;
+
+    vec2 grid = floor(st * u_resolution);
+
+    float checker = mod(grid.x + grid.y, 2.0);
+
+    float speed = 3.0;
+    float v = cos((grid.x * grid.y) + u_time * speed) / 1.0;
+
+    vec3 col = vec3(v);
+
+    gl_FragColor = vec4(col, 1.0);
+}
+
+```
+
+i hate three.js. 
+
+i also couldn't think of anything to make except messing around with  few parameters to make something that looks 'cool'. 
+
+---
 
