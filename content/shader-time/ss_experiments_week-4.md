@@ -97,4 +97,13 @@ i hate three.js.
 i also couldn't think of anything to make except messing around with  few parameters to make something that looks 'cool'. 
 
 ---
+### 260216: 
+i tried again. 
 
+this time i had an idea about what i wanted to make. i wanted to do something with photographs, and manipulate them somehow. 
+
+decided against it. the ask is to do vertex displacement. i'll keep the fragment as simple as possible, and see what i can do with vertices instead. 
+
+![[Screen Recording 2026-02-16 at 18.46.22.mp4]]
+
+i realized that i could make a random walker of sorts with each vertex on a geometry. 
