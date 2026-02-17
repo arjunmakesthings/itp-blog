@@ -4,25 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "9073dde0297fc6eb",
+        "id": "764c00081b2e0631",
         "type": "tabs",
         "children": [
           {
-            "id": "2e7f2cfef0b6e3b6",
+            "id": "c8c24af8d1096411",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spatial representation of tex.md",
+                "file": "ga_ima_physical-computing_class_log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "spatial representation of tex"
+              "title": "ga_ima_physical-computing_class_log"
+            }
+          },
+          {
+            "id": "ff893fa6b1af6d6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "case against ai.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "case against ai"
             }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "case ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -75,12 +89,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -211,13 +225,19 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "2e7f2cfef0b6e3b6",
+  "active": "ff893fa6b1af6d6e",
   "lastOpenFiles": [
+    "ga_ima_physical-computing_class_log.md",
+    "case against ai.md",
+    "sound-studio/ss_class-4.md",
+    "sound-studio/ss_experiments_week-4.md",
+    "shader-time/st_class-1.md",
+    "shader-time/st_class-2.md",
+    "spatial representation of tex.md",
     "z_images/Screen Recording 2026-01-05 at 19.10.44.mp4",
     "z_images/Screenshot 2026-01-06 at 11.17.34.webp",
     "z_images/Screenshot 2026-01-05 at 21.07.35.webp",
     "shader-time/ss_experiments_week-4.md",
-    "spatial representation of tex.md",
     "z_images/Screen Recording 2026-02-16 at 18.46.22.mp4",
     "nature-of-code/noc_experiments_week-4.md",
     "nature-of-code/index.md",
@@ -234,14 +254,12 @@
     "it's about more than making money.md",
     "futility of artistic work.md",
     "notes from strangers need strange moments together.md",
-    "sound-studio/ss_experiments_week-4.md",
     "notes from the soundscape, by r. murray schaeffer.md",
     "projects-by-other-people/simple harmonic motion, by memo akten.md",
     "nature-of-code/noc_class-4.md",
     "shader-time/ss_class-4.md",
     "electronics-for-inventors/index.md",
     "sound-studio/index.md",
-    "sound-studio/ss_class-4.md",
     "z_images/IMG_7475.webp",
     "z_images/IMG_7473.webp",
     "shader-time/st_experiments_week-3.md",
@@ -249,16 +267,12 @@
     "z_images/loop_250210.mp4",
     "sound-studio/ss_experiments_week-3.md",
     "nature-of-code/noc_experiments_week-3.md",
-    "conversation with vedant das swain.md",
-    "people/vedant das swain.md",
     "z_images/tinfoil_os.mp4",
     "z_images/demo_09020206.mp4",
     "z_images/IMG_7465.webp",
     "z_images/IMG_7463.mp4",
-    "sound-studio/ss_class-3.md",
     "z_images/IMG_7457.jpg",
     "z_images/IMG_7454.webp",
-    "z_images/IMG_7449.mp4",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",

@@ -24,6 +24,9 @@ yet to formulate.
   
   meaning that when students write code (or build something) that they do not fully understand, they are doing a grave dissatisfaction to their learning. they give a false sense of understanding to the instructor, by displaying the application of something that hasn't been understood. 
 
+- from [[ga_ima_physical-computing_class_log]]: 
+  > the use of ai is also astounding. somehow, making art is not about the process anymore — it's a *job*, a chore — and about the final outcome. 
+
 
 ---
 
