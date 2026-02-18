@@ -110,6 +110,8 @@ i realized that i could make a random walker of sorts with each vertex on a geom
 
 tried a random walker algorithm. it didn't work the way i thought it would ... it was too fast. 
 
+![[vid260217.mp4]]
+
 ``` c
 precision mediump float;
 
