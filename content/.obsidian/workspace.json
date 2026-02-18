@@ -49,8 +49,7 @@
               "title": "noc_class-5"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,12 +236,13 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ca8fcfd2e2117593",
+  "active": "947e232993173d9a",
   "lastOpenFiles": [
     "electronics-for-inventors/index.md",
+    "z_images/260218_bad-solders.webp",
     "electronics-for-inventors/efi_class-4.md",
-    "z_images/260218_solder.png",
     "nature-of-code/noc_class-5.md",
+    "z_images/260218_solder.webp",
     "sound-studio/ss_experiments_week-4.md",
     "shader-time/st_class-4.md",
     "shader-time/st_experiments_week-4.md",
@@ -283,7 +283,6 @@
     "z_images/loop_250210.mp4",
     "z_images/tinfoil_os.mp4",
     "z_images/IMG_7465.webp",
-    "z_images/IMG_7457.jpg",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
