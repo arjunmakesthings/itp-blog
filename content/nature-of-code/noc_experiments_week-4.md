@@ -3,7 +3,7 @@ date: 2026-02-13
 tags:
   - experiments
 noteOrder: "240"
-draft: "true"
+draft: "false"
 ---
 # ask: 
 use trigonometric functions and/or oscillating motion in a sketch. This is a very loose constraint and you should feel free to design your own exercise or pick from below.
