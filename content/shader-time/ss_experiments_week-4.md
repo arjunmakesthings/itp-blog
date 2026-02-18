@@ -237,4 +237,9 @@ void main() {
 }
 ```
 
+from there, i messed around with rotating different planes of the cube, with the normals that three.js already provides. 
+
+made this. 
+
+![[260217_jitter.mp4]]
 
