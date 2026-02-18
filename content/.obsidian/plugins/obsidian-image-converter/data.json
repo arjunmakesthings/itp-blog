@@ -237,7 +237,7 @@
   "ProcessCurrentNoteresizeModaldesiredLength": 800,
   "ProcessCurrentNoteskipImagesInTargetFormat": false,
   "ProcessCurrentNoteEnlargeOrReduce": "Always",
-  "ProcessCurrentNoteSkipFormats": "tif,tiff,heic",
+  "ProcessCurrentNoteSkipFormats": "tif,tiff,heic, webp",
   "ProcessAllVaultconvertTo": "webp",
   "ProcessAllVaultquality": 0.8,
   "ProcessAllVaultResizeModalresizeMode": "None",
