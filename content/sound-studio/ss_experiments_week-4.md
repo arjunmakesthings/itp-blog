@@ -5,7 +5,7 @@ tags:
 noteOrder: "238"
 draft: "false"
 ---
-	studied the filters. 
+studied the filters. 
 
 non recursive finite impulse response filter. 
 
