@@ -3,7 +3,7 @@ date: 2026-02-13
 tags:
   - experiments
 noteOrder: "239"
-draft: "true"
+draft: "false"
 ---
 # ask: 
 Create a ==looping animation using vertex displacement.==
