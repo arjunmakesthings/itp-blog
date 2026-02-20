@@ -19,6 +19,18 @@ fried transistors in the process:
 
 ![[IMG_7432.mp4]]
 
+soldering attempts: 
+
+![[IMG_7494.jpg]]
+
+
+![[IMG_7495.jpg]]
+
+happy with my soldering: 
+
+![[IMG_7496.jpg]]
+
 ---
 
-fried transistors
+
+
