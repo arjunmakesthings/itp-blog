@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "haptics/index.md",
+                "file": "haptics/vibration-motors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "vibration-motors"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "recurse ",
+                "query": "sample",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "haptics/index.md",
+                "file": "haptics/vibration-motors.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for vibration-motors"
             }
           },
           {
@@ -231,7 +231,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -253,10 +253,20 @@
   },
   "active": "ab7d4684f330114b",
   "lastOpenFiles": [
-    "bioart-as-biopolitics/index.md",
-    "haptics/index.md",
-    "intro-to-physical-computing/final-project-2_log.md",
+    "z_images/IMG_7520.mp4",
+    "haptics/hp_class-1.md",
     "intro-to-physical-computing/final-project-1_log.md",
+    "haptics/vibration-motors.md",
+    "z_images/IMG_7521.jpg",
+    "proprioception.md",
+    "analog synth experiments.md",
+    "sound-studio/ss_class-2.md",
+    "shader-time/st_class-2.md",
+    "sound-studio/ss_experiments_week-4.md",
+    "z_images/IMG_7519.webp",
+    "haptics/index.md",
+    "bioart-as-biopolitics/index.md",
+    "intro-to-physical-computing/final-project-2_log.md",
     "intro-to-physical-computing/midterm-log.md",
     "intro-to-fabrication/fab_class-1.md",
     "recurse center.md",
@@ -270,7 +280,6 @@
     "electronics-for-inventors/efi_class-4.md",
     "spatial representation of text.md",
     "shopping list.md",
-    "analog synth experiments.md",
     "z_images/IMG_7494.jpg",
     "z_images/IMG_7496.jpg",
     "z_images/IMG_7495.jpg",
@@ -278,20 +287,11 @@
     "z_images/260218_toggle-circuit_efi.webp",
     "z_images/260218_circuit.png",
     "z_images/260218_bad-solders.webp",
-    "z_images/260218_solder.webp",
-    "sound-studio/ss_experiments_week-4.md",
     "shader-time/st_class-4.md",
     "conversation with vedant das swain.md",
-    "notes from strangers need strange moments together.md",
-    "itp-winter-show 2025.md",
-    "what is good work?.md",
-    "propranolol.md",
-    "futility of artistic work.md",
-    "what do i want my art to be about?.md",
     "z_images/260217_jitter.mp4",
     "z_images/vid260217.mp4",
     "z_images/Screen Recording 2026-01-05 at 19.10.44.mp4",
-    "z_images/Screenshot 2026-01-06 at 11.17.34.webp",
     "z_images/Screen Recording 2026-02-16 at 18.46.22.mp4",
     "z_images/Screen Recording 2026-02-14 at 23.56.03.mp4",
     "z_images/260214_vid.mp4",

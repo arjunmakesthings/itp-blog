@@ -32,5 +32,8 @@ happy with my soldering:
 
 ---
 
+note to self: ==always have a diode to prevent audio-signal cross contamination.==
+
+---
 
 
