@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shader-time/st_class-5.md",
+                "file": "electronics-for-inventors/efi_class-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "st_class-5"
+              "title": "efi_class-5"
             }
           },
           {
@@ -55,16 +55,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "haptics/vibration-motors.md",
+                "file": "sound-studio/ss_experiments_week-4-&-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vibration-motors"
+              "title": "ss_experiments_week-4-&-5"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sample",
+                "query": "analog sy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -180,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "haptics/vibration-motors.md",
+                "file": "electronics-for-inventors/efi_class-5.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for vibration-motors"
+              "title": "Backlinks for efi_class-5"
             }
           },
           {
@@ -251,44 +250,45 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "ab7d4684f330114b",
+  "active": "c8652255878529de",
   "lastOpenFiles": [
+    "intro-to-physical-computing/midterm-log.md",
+    "intro-to-physical-computing/final-project-1_log.md",
+    "sound-studio/ss_experiments_week-4-&-5.md",
+    "analog synth experiments.md",
+    "electronics-for-inventors/efi_class-5.md",
+    "z_images/260221_schematic-amp.webp",
+    "z_images/IMG_7529.webp",
+    "z_images/IMG_7528.webp",
+    "z_images/IMG_7527.webp",
+    "z_images/IMG_7526.webp",
+    "shader-time/st_class-5.md",
+    "electronics-for-inventors/efi_class-4.md",
+    "z_images/IMG_7524.mp4",
+    "haptics/vibration-motors.md",
     "z_images/IMG_7520.mp4",
     "haptics/hp_class-1.md",
-    "intro-to-physical-computing/final-project-1_log.md",
-    "haptics/vibration-motors.md",
     "z_images/IMG_7521.jpg",
     "proprioception.md",
-    "analog synth experiments.md",
     "sound-studio/ss_class-2.md",
     "shader-time/st_class-2.md",
-    "sound-studio/ss_experiments_week-4.md",
     "z_images/IMG_7519.webp",
     "haptics/index.md",
     "bioart-as-biopolitics/index.md",
     "intro-to-physical-computing/final-project-2_log.md",
-    "intro-to-physical-computing/midterm-log.md",
     "intro-to-fabrication/fab_class-1.md",
     "recurse center.md",
     "multiplexing workshop for stupid hackathon.md",
-    "shader-time/st_class-5.md",
     "electronics-for-inventors/efi_class-2.md",
     "z_images/IMG_7515.webp",
     "z_images/260219_mux-pinout.webp",
     "shader-time/st_experiments_week-4.md",
     "electronics-for-inventors/index.md",
-    "electronics-for-inventors/efi_class-4.md",
     "spatial representation of text.md",
     "shopping list.md",
     "z_images/IMG_7494.jpg",
-    "z_images/IMG_7496.jpg",
-    "z_images/IMG_7495.jpg",
     "nature-of-code/noc_class-5.md",
-    "z_images/260218_toggle-circuit_efi.webp",
-    "z_images/260218_circuit.png",
-    "z_images/260218_bad-solders.webp",
     "shader-time/st_class-4.md",
-    "conversation with vedant das swain.md",
     "z_images/260217_jitter.mp4",
     "z_images/vid260217.mp4",
     "z_images/Screen Recording 2026-01-05 at 19.10.44.mp4",
@@ -297,8 +297,6 @@
     "z_images/260214_vid.mp4",
     "z_images/260214_vid.mov",
     "z_images/Screen Recording 2026-02-14 at 17.45.53.mp4",
-    "z_images/loop_250210.mp4",
-    "z_images/tinfoil_os.mp4",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",

@@ -19,3 +19,11 @@ infinite impulse response filter:
 
 want to build a filter that makes sound pass through physical material. first, needed to find a way to amplify audio signals, using o-amps. 
 
+made this while messing around with an op-amp. 
+
+![[IMG_7524.mp4]]
+
+understood how they work, and revised my understanding of [[efi_class-5]]. 
+
+---
+
