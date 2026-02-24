@@ -26,4 +26,10 @@ made this while messing around with an op-amp.
 understood how they work, and revised my understanding of [[efi_class-5]]. 
 
 ---
+watched [[serge tcherpnin, on waveshaper]]. 
 
+---
+
+soldered my initial circuit. 
+
+![[IMG_7549.mp4]]
