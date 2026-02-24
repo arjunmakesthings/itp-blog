@@ -11,10 +11,14 @@
             "id": "68d2aad584b734c6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "serge tcherpnin, on waveshaper.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "serge tcherpnin, on waveshaper"
             }
           }
         ]
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,6 +210,7 @@
   },
   "active": "68d2aad584b734c6",
   "lastOpenFiles": [
+    "serge tcherpnin, on waveshaper.md",
     "emptiness.md",
     "projects-by-other-people/complete minimal poems, by aram saroyan.md",
     "terms & concepts/unit generator theory.md",
@@ -233,7 +237,6 @@
     "terms & concepts/electromyographic sensors.md",
     "case against ai.md",
     "shader-time/st_experiments_week-5.md",
-    "shader-time/st_class-5.md",
     "z_images/Screenshot 2026-02-22 at 19.19.07.png",
     "z_images/IMG_7536.webp",
     "z_images/260221_schematic-amp.webp",
