@@ -27,6 +27,12 @@ yet to formulate.
 - from [[ga_ima_physical-computing_class_log]]: 
   > the use of ai is also astounding. somehow, making art is not about the process anymore — it's a *job*, a chore — and about the final outcome. 
 
+- from [extended overthinking](https://uxdesign.cc/extended-overthinking-cdbaa06dc1b8) by pablo stanley: 
+  > Yes, they let us do more. But there’s this weird disconnect growing between me and the things I make. When everything is instant, it starts feeling like a slot machine. Except you always win. Which makes it more addictive. And somehow… also boring?
+  > 
+  > The thing gets done but it doesn’t feel like I did anything. I could’ve written that code myself… but sometimes I don’t even know where the component lives in the files. I’d have to inspect the element in the browser, find the classes, copy them, search them in my IDE, locate the file, then edit it (am I the only one who does this?) So instead… I just talk to the machine. I overexplain so it only changes what I want. ==I don’t design anymore. I direct.==
+
+
 
 ---
 

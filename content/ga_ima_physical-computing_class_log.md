@@ -12,3 +12,7 @@ it's interesting to see differences between ima and itp students.
 ==ima students are very instruction-driven== — i'll do what i'm told. some itp students also come that way (especially ones straight from undergrad). 
 
 the use of ai is also astounding. somehow, making art is not about the process anymore — it's a *job*, a chore — and about the final outcome. 
+
+---
+### 260223: 
+there is a real-time clock on the arduino. can be used to automate certain tasks (such as send an email every morning or something). 

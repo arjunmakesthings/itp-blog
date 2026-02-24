@@ -20,6 +20,7 @@ the course also mentions biopolitics, and with heather's background in academia,
 
 ---
 # resources: 
-- 
+- [class folder](https://drive.google.com/drive/folders/1tAv-4vEDi9c-tYDk9Jw-aetCd9DjPiI8)
+- [schedule](https://docs.google.com/spreadsheets/d/1oIJXd9Lawhmk-YswxfKCt6QzVT5Zld1XCLucM3qDOJY/edit?usp=sharing)
 
 ---
