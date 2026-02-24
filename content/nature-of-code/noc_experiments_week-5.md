@@ -17,7 +17,32 @@ draft: "true"
 ---
 # outputs: 
 
+---
 
+made a quick sketch to get the width of each letter. 
 
+![[Screenshot 2026-02-23 at 22.42.52.png]]
 
+``` js
+// a letter
+class Letter {
+  constructor(alphabet) {
+    this.alphabet = alphabet;
+
+    this.pos = createVector(random(0, width), random(0, height));
+
+    this.w = textWidth(this.alphabet);
+    this.h = textAscent() + textDescent();
+  }
+  display() {
+    noStroke(); 
+    fill(255);
+    text(this.alphabet, this.pos.x, this.pos.y);
+
+    noFill(); 
+    stroke (255); 
+    rect(this.pos.x, this.pos.y - textAscent(), this.w, this.h);
+  }
+}
+```
 

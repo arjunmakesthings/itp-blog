@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "noc_experiments_week-5"
             }
-          },
-          {
-            "id": "1c07430c3aefb476",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "case against ai.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "case against ai"
-            }
-          },
-          {
-            "id": "df89e766294c563a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ga_ima_physical-computing_class_log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ga_ima_physical-computing_class_log"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -238,9 +208,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "1c07430c3aefb476",
+  "active": "4463bbdbe892ec29",
   "lastOpenFiles": [
+    "z_images/Screenshot 2026-02-23 at 22.42.52.png",
     "ga_ima_physical-computing_class_log.md",
+    "terms & concepts/proprioception.md",
+    "terms & concepts/electromyographic sensors.md",
     "case against ai.md",
     "shader-time/st_experiments_week-5.md",
     "shader-time/st_class-5.md",
@@ -254,7 +227,6 @@
     "intro-to-physical-computing/midterm-log.md",
     "haptics/day-2.md",
     "z_images/Screenshot 2026-02-22 at 19.19.07.png",
-    "electromyographic sensors.md",
     "z_images/IMG_7536.webp",
     "haptics/vibration-motors.md",
     "electronics-for-inventors/efi_class-5.md",
@@ -269,14 +241,12 @@
     "z_images/IMG_7520.mp4",
     "haptics/hp_class-1.md",
     "z_images/IMG_7521.jpg",
-    "proprioception.md",
     "sound-studio/ss_class-2.md",
     "shader-time/st_class-2.md",
     "z_images/IMG_7519.webp",
     "haptics/index.md",
     "intro-to-physical-computing/final-project-2_log.md",
     "intro-to-fabrication/fab_class-1.md",
-    "recurse center.md",
     "z_images/IMG_7515.webp",
     "z_images/260217_jitter.mp4",
     "z_images/vid260217.mp4",
