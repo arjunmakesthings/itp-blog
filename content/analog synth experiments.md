@@ -36,4 +36,10 @@ note to self: ==always have a diode to prevent audio-signal cross contamination.
 
 ---
 
+made a filter with an op-amp, for [[ss_experiments_week-4-&-5]]. 
 
+![[IMG_7549.mp4]]
+
+[[luke dubois]] suggested that i buy pcb-mountable potentiometers, and power the whole thing with a different jack. 
+
+---
