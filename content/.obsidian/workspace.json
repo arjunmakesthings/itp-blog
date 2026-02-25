@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shader-time/st_experiments_week-5.md",
+                "file": "shader-time/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "st_experiments_week-5"
+              "title": "index"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shader-time/st_experiments_week-5.md",
+                "file": "nature-of-code/noc_class-6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "st_experiments_week-5"
+              "title": "noc_class-6"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,12 +223,14 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "b8e7aaf1161fc0f1",
+  "active": "52a1e35854d70254",
   "lastOpenFiles": [
-    "sound-studio/ss_experiments_week-4-&-5.md",
-    "nature-of-code/noc_experiments_week-5.md",
-    "nature-of-code/index.md",
     "shader-time/st_experiments_week-5.md",
+    "sound-studio/ss_experiments_week-4-&-5.md",
+    "nature-of-code/noc_class-6.md",
+    "nature-of-code/index.md",
+    "shader-time/index.md",
+    "nature-of-code/noc_experiments_week-5.md",
     "z_images/Screen Recording 2026-02-24 at 22.53.53.mp4",
     "z_images/Screenshot 2026-02-24 at 22.20.49.webp",
     "analog synth experiments.md",
@@ -253,8 +254,6 @@
     "terms & concepts/bios or basic input-output system.md",
     "terms & concepts/bootloader.md",
     "terms & concepts/encoding.md",
-    "terms & concepts/syntactic sugar.md",
-    "terms & concepts/transducer.md",
     "z_images/Screenshot 2026-02-23 at 22.42.52.webp",
     "z_images/Screenshot 2026-02-22 at 19.19.07.png",
     "z_images/IMG_7536.webp",

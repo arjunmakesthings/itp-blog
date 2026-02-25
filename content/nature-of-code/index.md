@@ -20,10 +20,11 @@ i've dealt with simple algorithms in the past. in this class, i want to push it 
 # resources: 
 - [syllabus](https://github.com/lenincompres/noc-syllabus-s26)
 - [homeworks](https://github.com/lenincompres/noc-syllabus-s26/wiki)
+- prefix for sketches: https://arjunmakesthings.github.io/nature-of-code_sp2026/sketches/
 - submission standard format for wiki: 
 
 ```
-* arjun: [title](link); [code](); [blog-post].
+* arjun: [title](link); [code](); [blog-post]().
 ```
 
 ---
