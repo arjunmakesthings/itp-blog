@@ -21,7 +21,7 @@ draft: "true"
 
 made a quick sketch to get the width of each letter. 
 
-![[Screenshot 2026-02-23 at 22.42.52.png]]
+![[Screenshot 2026-02-23 at 22.42.52.webp]]
 
 ``` js
 // a letter
@@ -45,4 +45,8 @@ class Letter {
   }
 }
 ```
+
+lines between the same attract type: 
+
+![[Screenshot 2026-02-24 at 22.20.49.webp]]
 
