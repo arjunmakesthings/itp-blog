@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nature-of-code/noc_experiments_week-5.md",
+                "file": "shader-time/st_experiments_week-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "noc_experiments_week-5"
+              "title": "st_experiments_week-5"
             }
           }
         ]
@@ -210,6 +210,8 @@
   },
   "active": "52a1e35854d70254",
   "lastOpenFiles": [
+    "nature-of-code/noc_experiments_week-5.md",
+    "z_images/Screen Recording 2026-02-24 at 22.53.53.mp4",
     "z_images/Screenshot 2026-02-24 at 22.20.49.webp",
     "analog synth experiments.md",
     "sound-studio/ss_experiments_week-4-&-5.md",
@@ -235,7 +237,6 @@
     "terms & concepts/encoding.md",
     "terms & concepts/syntactic sugar.md",
     "terms & concepts/transducer.md",
-    "nature-of-code/noc_experiments_week-5.md",
     "z_images/Screenshot 2026-02-23 at 22.42.52.webp",
     "ga_ima_physical-computing_class_log.md",
     "z_images/Screenshot 2026-02-22 at 19.19.07.png",
@@ -248,14 +249,12 @@
     "z_images/IMG_7524.mp4",
     "z_images/IMG_7520.mp4",
     "z_images/IMG_7521.jpg",
-    "z_images/IMG_7519.webp",
     "z_images/260217_jitter.mp4",
     "z_images/vid260217.mp4",
     "z_images/Screen Recording 2026-01-05 at 19.10.44.mp4",
     "z_images/Screen Recording 2026-02-16 at 18.46.22.mp4",
     "z_images/Screen Recording 2026-02-14 at 23.56.03.mp4",
     "z_images/260214_vid.mp4",
-    "z_images/260214_vid.mov",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
