@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shader-time/index.md",
+                "file": "nature-of-code/noc_midterm-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "noc_midterm-log"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nature-of-code/noc_class-6.md",
+                "file": "nature-of-code/noc_midterm-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "noc_class-6"
+              "title": "noc_midterm-log"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,13 +224,19 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "52a1e35854d70254",
+  "active": "b8e7aaf1161fc0f1",
   "lastOpenFiles": [
+    "composer's black box, by ted gordon.md",
+    "nature-of-code/noc_midterm-log.md",
+    "people/ted gordon.md",
+    "people/vedant das swain.md",
+    "shader-time/st_class-6.md",
+    "nature-of-code/index.md",
+    "electronics-for-inventors/index.md",
+    "nature-of-code/noc_class-6.md",
+    "shader-time/index.md",
     "shader-time/st_experiments_week-5.md",
     "sound-studio/ss_experiments_week-4-&-5.md",
-    "nature-of-code/noc_class-6.md",
-    "nature-of-code/index.md",
-    "shader-time/index.md",
     "nature-of-code/noc_experiments_week-5.md",
     "z_images/Screen Recording 2026-02-24 at 22.53.53.mp4",
     "z_images/Screenshot 2026-02-24 at 22.20.49.webp",
@@ -248,12 +255,6 @@
     "terms & concepts/onotology.md",
     "terms & concepts/qualia.md",
     "terms & concepts/representational state transfer api.md",
-    "terms & concepts/tool vs medium vs material.md",
-    "terms & concepts/translators.md",
-    "terms & concepts/baud rate.md",
-    "terms & concepts/bios or basic input-output system.md",
-    "terms & concepts/bootloader.md",
-    "terms & concepts/encoding.md",
     "z_images/Screenshot 2026-02-23 at 22.42.52.webp",
     "z_images/Screenshot 2026-02-22 at 19.19.07.png",
     "z_images/IMG_7536.webp",
