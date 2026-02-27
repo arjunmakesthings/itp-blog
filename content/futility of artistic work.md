@@ -10,3 +10,7 @@ been feeling lately that artistic work — today — is futile. also spoke with 
 
 i wonder [[what do i want my art to be about?]]
 
+---
+
+this opinion evolved, and i wrote [[it's about more than making money]]. 
+
