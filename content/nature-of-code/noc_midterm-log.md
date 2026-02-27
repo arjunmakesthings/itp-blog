@@ -10,18 +10,35 @@ draft: "false"
 
 ---
 # thought: 
-i spent time getting reacquainted with the idea of rule-based art. when i [taught computational-sketching](https://arjunmakesthings.github.io/teaching/2023_set-rules-make-art/page.html), i'd used examples of sol-lewitt and yoko-ono. 
+i spent time getting reacquainted with the idea of 'rule-based art'. when i [taught computational-sketching](https://arjunmakesthings.github.io/teaching/2023_set-rules-make-art/page.html), i used examples of sol-lewitt and yoko-ono to introduce the idea of an 'algorithm' to students.
 
-in [[noc_class-6]], we also watched casey reas's [process compendium](https://vimeo.com/22955812) together which was built around the idea of emergence — put a few rules together, and see the outcome that emerges. 
+in [[noc_class-6]], we also watched casey reas's [process compendium](https://vimeo.com/22955812) together, which was built around the idea of emergence — put a few rules together, and see the outcome that emerges. 
 
 i wanted to take the two lines — instructions & emergence — further. 
 
 ---
 
-when you consider rule-based art, or algorithmic art, much of it is arbitrarily decided. almost like a cybernetic-practice — i will discover something or myself — through computational-expression (from
+xwhen you look at the *rules* of these 'programs', much of it seems arbitrarily decided. the process veers more towards cyberdelia — i discover myself through computational means.  
+
+i wanted to be more intentional about the rules, and model them based on felt experience. therefore, the piece & the rules that make the piece become the ==emergent expression of a particular feeling.==
 
 ---
 # outputs: 
+yet to generate. 
+
+---
+
+i decided to derive rules based on social-exclusion. 
+
+the first distinction i must make is that *my* definition of rules does not encompass the whole phenomenon. it is purely a projection of how *i* think the world works — how certain groups get ahead, and others die. 
+
+the other thing i must accept is that i myself cannot know what this outcome will produce. i can simply develop the rules, and then come up interesting ideas for what is visually represented. 
+
+so, the first step is the expression of the rules: 
+
+---
+# rules:
+
 
 
 
