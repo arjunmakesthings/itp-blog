@@ -5,6 +5,21 @@ tags:
 noteOrder: "246"
 draft: "false"
 ---
+slides: https://arjunmakesthings.github.io/presentations/slides/260228_stupid-hackathon.html#1
+
+circuits: 
+
+![[IMG_7560.webp]]
+
+---
+- electricity refresher
+	- battery
+	- wire
+	- load
+- microcontroller: 
+	- led 
+
+
 # rough notes for planning:
 - explaining 'loads'. we use leds. 
 - powering one led with a switch. 

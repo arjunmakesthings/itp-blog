@@ -1,10 +1,10 @@
 {
   "collapse-filter": false,
   "search": "euler",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [],
   "collapse-display": true,
@@ -17,6 +17,6 @@
   "repelStrength": 11.6989205484781,
   "linkStrength": 0.82184187493922,
   "linkDistance": 228,
-  "scale": 0.5779396327894069,
+  "scale": 1.1105178278460666,
   "close": true
 }
