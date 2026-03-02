@@ -17,6 +17,7 @@ this is a working pros & cons list, as i wade through this dilemma
 - gated platform; goes against how i think the internet should be. but what does it matter what i think? ==morals==.
 - ==insecurity==? 
 - ==numbing of senses== (but not if i have a system to just post and not look at things)
+- ==saturation==
 - living under a rock
 - ==time==
 
@@ -28,3 +29,5 @@ i like zach's approach of posting sketches from: [[notes & thoughts from zach's 
 
 i wonder if i'll get sucked into the vortex. 
 
+# current decision: 
+no.
