@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "8246306b6067b770",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "86a1ed822d56cde2",
+        "id": "84ce0c669a4b6a17",
         "type": "tabs",
         "children": [
           {
-            "id": "e45c13d1986e48a5",
+            "id": "241ee7a6a7641370",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "sound-studio/ss_experiments_week-6.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ss_experiments_week-6"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -156,14 +159,27 @@
               "icon": "lucide-list",
               "title": "Outline of my principles as a creator"
             }
+          },
+          {
+            "id": "79f05786aa3e6238",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,63 +187,63 @@
       "custom-sort:Toggle custom sorting": false,
       "daily-notes:Open today's daily note": true,
       "bases:Create new base": true,
-      "switcher:Open quick switcher": false,
+      "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": true,
       "templates:Insert template": true,
-      "command-palette:Open command palette": false,
-      "note-id:Open side panel": false,
+      "command-palette:Open command palette": true,
+      "note-id:Open side panel": true,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e45c13d1986e48a5",
+  "active": "241ee7a6a7641370",
   "lastOpenFiles": [
     "sound-studio/ss_experiments_week-4-&-5.md",
-    "2026-03-01.md",
-    "examples of artistic rigor.md",
-    "on rigor in the arts.md",
-    "set the stage, then shut up and listen, by tom igoe.md",
-    "recurse center.md",
-    "shopping list.md",
-    "to do.md",
-    "notes & thoughts from zach's writing on 10 years of sketching.md",
-    "vera molnar on regrets.md",
-    "zz_templates/testing-template.md",
-    "notes from strangers need strange moments together.md",
-    "handmade electronic music, by nicolas collins.md",
-    "white hair.md",
+    "sound-studio/ss_experiments_week-6.md",
+    "sound-studio/index.md",
+    "nature-of-code/noc_midterm-log.md",
+    "all technology is assistive, by sarah hendren.md",
+    "people/cody.md",
+    "zz_templates/course_experiments_week-x.md",
+    "projects-by-other-people/lose, lose, by zach cage.md",
+    "resources & tools/index.md",
+    "sound-studio/ss_class-2.md",
+    "z_images/IMG_7032.webp",
+    "nature-of-code/noc_class-5.md",
+    "z_images/IMG_7410.mp4",
+    "electronics-for-inventors/efi_class-3.md",
+    "notes from the soundscape, by r. murray schaeffer.md",
+    "intro-to-computational-media/icm_experiments_week-9_to_week-10.md",
+    "applications/applications_assignment-1.md",
+    "what makes people want to touch or play with objects?.md",
+    "intro-to-physical-computing/ipc_experiments_week-1.md",
+    "perception may be the working material.md",
+    "perfect flushing mechanism.md",
+    "people/jeffrey.md",
+    "resources & tools/spear.md",
+    "projects-by-other-people/time studies, by patricio gonzalez vivo.md",
+    "people/nnenna.md",
+    "people/tanika.md",
     "sound-studio/ss_experiments_week-3.md",
-    "people/shaunaq.md",
-    "the lack of rigor in creatives.md",
+    "intro-to-fabrication/10 bullets. by tom sachs.md",
     "z_images/IMG_7550.webp",
-    "work & subsequent media.md",
     "z_images/Screenshot 2026-03-01 at 20.01.39.webp",
-    "performance piece with cody.md",
     "z_images/breakdown-timelapse.mp4",
-    "intro-to-physical-computing/midterm-log.md",
     "z_images/breakdown-timelapse.mov",
     "z_images/IMG_0489.webp",
     "z_images/IMG_0485.webp",
     "z_images/IMG_0481.webp",
-    "sound-studio/ss_experiments_week-1.md",
     "z_images/iPhone-handheld-timelapse.mp4",
-    "people/sai.md",
-    "multiplexing workshop for stupid hackathon.md",
     "z_images/invite_260301.webp",
-    "people/cody.md",
     "z_images/IMG_7560.webp",
-    "resources & tools/midi to notes to frequency to period conversion.md",
     "z_images/midi.webp",
-    "zz_templates/note.md",
     "z_images/Screen Recording 2026-02-24 at 22.53.53.mp4",
     "z_images/Screenshot 2026-02-24 at 22.20.49.webp",
     "z_images/IMG_7549.mp4",
-    "z_images/Screenshot 2026-02-23 at 22.42.52.webp",
     "z_images/IMG_7524.mp4",
     "z_images/IMG_7520.mp4",
     "z_images/260217_jitter.mp4",
     "z_images/vid260217.mp4",
-    "z_images/Screen Recording 2026-01-05 at 19.10.44.mp4",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",

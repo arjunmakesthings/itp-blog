@@ -18,7 +18,7 @@ i wanted to take the two lines — instructions & emergence — further.
 
 ---
 
-xwhen you look at the *rules* of these 'programs', much of it seems arbitrarily decided. the process veers more towards cyberdelia — i discover myself through computational means.  
+when you look at the *rules* of these 'programs', much of it seems arbitrarily decided. the process veers more towards cyberdelia — i discover myself through computational means.  
 
 i wanted to be more intentional about the rules, and model them based on felt experience. therefore, the piece & the rules that make the piece become the ==emergent expression of a particular feeling.==
 
@@ -38,8 +38,7 @@ so, the first step is the expression of the rules:
 
 ---
 # rules:
-
-
+there is a world and there is a unit. 
 
 
 
