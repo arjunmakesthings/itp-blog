@@ -15,6 +15,7 @@ even someone like zach felt the same kind of disappointment:
 > I apologize if these are repetitive to things I’ve said in talks or in write-ups, but I think they are important, so I’ll repeat them.
 
 his first sketch in 2016: 
+
 <iframe 
     src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*WBLTJ3GZptMjTjDBkNlVew.gif"
     width="500"
