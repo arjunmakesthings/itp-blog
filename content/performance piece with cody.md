@@ -25,6 +25,6 @@ some media that [[sai]] took.
 
 ![[IMG_0489.webp]]
 
-![[breakdown-timelapse.mov]]
+![[breakdown-timelapse.mp4]]
 
 ---
