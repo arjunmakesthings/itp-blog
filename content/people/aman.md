@@ -1,0 +1,1 @@
+data-~~viz~~ storytelling genius, based in bangalore, india. we've never met in person, but admire each other's work over the internet. i spoke to him for the first time in 2026, even though i knew of him since 2022 (and we stayed in the same city for a couple of years). 
