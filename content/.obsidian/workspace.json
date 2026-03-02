@@ -4,49 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b7458e6e2c4842d4",
+        "id": "86a1ed822d56cde2",
         "type": "tabs",
         "children": [
           {
-            "id": "9128e84ba5feda6f",
+            "id": "e45c13d1986e48a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "examples of artistic rigor.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "examples of artistic rigor"
-            }
-          },
-          {
-            "id": "f75d68d408473bb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "set the stage, then shut up and listen, by tom igoe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "set the stage, then shut up and listen, by tom igoe"
-            }
-          },
-          {
-            "id": "a5fd8dc3702a884b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "on rigor in the arts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "on rigor in the arts"
+              "title": "New tab"
             }
           }
         ]
@@ -147,26 +115,11 @@
             }
           },
           {
-            "id": "ae34e20afdac49dd",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
             "id": "0546de2d6fe51147",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "electronics-for-inventors/efi_class-5.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for efi_class-5"
+              "title": "Backlinks"
             }
           },
           {
@@ -187,18 +140,6 @@
               "state": {},
               "icon": "file-digit",
               "title": "Notes by ID"
-            }
-          },
-          {
-            "id": "7931c8a3e5847235",
-            "type": "leaf",
-            "state": {
-              "type": "footnotes",
-              "state": {
-                "file": "creative-rebel-drafts.md"
-              },
-              "icon": "lucide-file-signature",
-              "title": "Footnotes"
             }
           },
           {
@@ -217,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -226,28 +167,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's daily note": false,
-      "bases:Create new base": false,
+      "random-note:Open random note": false,
+      "custom-sort:Toggle custom sorting": false,
+      "daily-notes:Open today's daily note": true,
+      "bases:Create new base": true,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
+      "canvas:Create new canvas": true,
+      "templates:Insert template": true,
       "command-palette:Open command palette": false,
       "note-id:Open side panel": false,
-      "omnisearch:Omnisearch": false,
-      "custom-sort:Toggle custom sorting": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "9128e84ba5feda6f",
+  "active": "e45c13d1986e48a5",
   "lastOpenFiles": [
-    "on rigor in the arts.md",
+    "sound-studio/ss_experiments_week-4-&-5.md",
+    "2026-03-01.md",
     "examples of artistic rigor.md",
+    "on rigor in the arts.md",
+    "set the stage, then shut up and listen, by tom igoe.md",
     "recurse center.md",
     "shopping list.md",
     "to do.md",
     "notes & thoughts from zach's writing on 10 years of sketching.md",
     "vera molnar on regrets.md",
-    "set the stage, then shut up and listen, by tom igoe.md",
     "zz_templates/testing-template.md",
     "notes from strangers need strange moments together.md",
     "handmade electronic music, by nicolas collins.md",
@@ -274,9 +218,7 @@
     "z_images/IMG_7560.webp",
     "resources & tools/midi to notes to frequency to period conversion.md",
     "z_images/midi.webp",
-    "sound-studio/ss_experiments_week-4-&-5.md",
     "zz_templates/note.md",
-    "nature-of-code/noc_experiemnts_week-7.md",
     "z_images/Screen Recording 2026-02-24 at 22.53.53.mp4",
     "z_images/Screenshot 2026-02-24 at 22.20.49.webp",
     "z_images/IMG_7549.mp4",
