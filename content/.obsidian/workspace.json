@@ -4,49 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "409600af2895aee9",
+        "id": "b7458e6e2c4842d4",
         "type": "tabs",
         "children": [
           {
-            "id": "a512604e095a7273",
+            "id": "9128e84ba5feda6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sound-studio/ss_experiments_week-3.md",
+                "file": "examples of artistic rigor in computational-sketches.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ss_experiments_week-3"
+              "title": "examples of artistic rigor in computational-sketches"
             }
           },
           {
-            "id": "39943cd447467f5c",
+            "id": "f75d68d408473bb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/shaunaq.md",
+                "file": "set the stage, then shut up and listen, by tom igoe.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shaunaq"
+              "title": "set the stage, then shut up and listen, by tom igoe"
             }
           },
           {
-            "id": "a0732728b7ec2a41",
+            "id": "8d2cabc6d9fee491",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "the lack of rigor in creatives.md",
+                "file": "vera molnar on regrets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the lack of rigor in creatives"
+              "title": "vera molnar on regrets"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rigo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -238,13 +237,20 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "a0732728b7ec2a41",
+  "active": "8d2cabc6d9fee491",
   "lastOpenFiles": [
+    "set the stage, then shut up and listen, by tom igoe.md",
+    "vera molnar on regrets.md",
+    "zz_templates/testing-template.md",
+    "notes from strangers need strange moments together.md",
+    "handmade electronic music, by nicolas collins.md",
+    "notes & thoughts from zach's writing on 10 years of sketching.md",
     "examples of artistic rigor in computational-sketches.md",
-    "people/shaunaq.md",
     "white hair.md",
-    "z_images/IMG_7550.webp",
     "sound-studio/ss_experiments_week-3.md",
+    "people/shaunaq.md",
+    "the lack of rigor in creatives.md",
+    "z_images/IMG_7550.webp",
     "work & subsequent media.md",
     "z_images/Screenshot 2026-03-01 at 20.01.39.webp",
     "performance piece with cody.md",
@@ -266,17 +272,10 @@
     "sound-studio/ss_experiments_week-4-&-5.md",
     "zz_templates/note.md",
     "nature-of-code/noc_experiemnts_week-7.md",
-    "zz_templates/testing-template.md",
     "zz_templates/index.md",
     "zz_templates/uncategorized.md",
     "zz_templates/course_experiments_week-x.md",
     "terms & concepts/cyberdelia.md",
-    "terms & concepts/butt.md",
-    "futility of artistic work.md",
-    "nature-of-code/noc_midterm-log.md",
-    "to do.md",
-    "there's too little time..md",
-    "projects-by-other-people/7702 vocoder, by harald bode.md",
     "z_images/Screen Recording 2026-02-24 at 22.53.53.mp4",
     "z_images/Screenshot 2026-02-24 at 22.20.49.webp",
     "z_images/IMG_7549.mp4",
