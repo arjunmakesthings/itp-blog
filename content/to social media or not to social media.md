@@ -20,7 +20,11 @@ this is a working pros & cons list, as i wade through this dilemma
 - living under a rock
 - ==time==
 
-i like zach's approach of posting sketches from: [[notes & thoughts from zach's writing on 10 years of sketching]]. [[cody]] says he posts the process. 
+i like zach's approach of posting sketches from: [[notes & thoughts from zach's writing on 10 years of sketching]].
+
+[[cody]] says he posts the process. 
+
+[[luke dubois]] posts serge patches. 
 
 i wonder if i'll get sucked into the vortex. 
 
