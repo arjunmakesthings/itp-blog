@@ -18,3 +18,6 @@ rigor encompasses not only hard-work; but discipline (the [swiss](https://en.wik
 good-enough is not good enough. 
 
 that is rigor in the arts. 
+
+---
+some examples of people who pursue rigor are here: [[examples of artistic rigor]]. 
