@@ -33,6 +33,7 @@ yet to formulate.
   > The thing gets done but it doesn’t feel like I did anything. I could’ve written that code myself… but sometimes I don’t even know where the component lives in the files. I’d have to inspect the element in the browser, find the classes, copy them, search them in my IDE, locate the file, then edit it (am I the only one who does this?) So instead… I just talk to the machine. I overexplain so it only changes what I want. ==I don’t design anymore. I direct.==
 
 - during [[noc_midterm-log]], i realized that there is a certain philosophical way to write code — i.e: a way where code itself can be the artifact accompanying the work. when i write code with ai, it fucks it up. ==it may be great for helper functions,== but not for the score itself.  
+- attending studio jadu's talk, and witnessing ==the absence of craftsmanship==. ==every platform looks the same?== people are so hungry to ~~make things~~ generate outputs, as quickly as possible. 
 
 ---
 

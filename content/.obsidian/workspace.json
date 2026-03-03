@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sound-studio/ss_experiments_week-6.md",
+                "file": "case against ai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ss_experiments_week-6"
+              "title": "case against ai"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "good work",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -211,8 +210,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cb2af49e96c032e9",
+  "active": "e51cdcbf791d831a",
   "lastOpenFiles": [
+    "what is good work?.md",
+    "nature-of-code/noc_midterm-log.md",
+    "nature-of-code/noc_experiments_week-5.md",
+    "sound-studio/ss_experiments_week-6.md",
     "projects-by-other-people/musicboards, by elena rykova & martina schlusnus.md",
     "projects-by-other-people/plotclock.md",
     "projects-by-other-people/new interfaces for textual expression, by allison parrish.md",
@@ -235,12 +238,8 @@
     "projects-by-other-people/time studies, by patricio gonzalez vivo.md",
     "projects-by-other-people/simple harmonic motion, by memo akten.md",
     "projects-by-other-people/7702 vocoder, by harald bode.md",
-    "sound-studio/index.md",
-    "shader-time/index.md",
-    "nature-of-code/noc_midterm-log.md",
     "z_images/IMG_7574.webp",
     "z_images/2603_noc-rules-1.webp",
-    "ga_ima_physical-computing_class_log.md",
     "z_images/260302_aman-4.png",
     "z_images/260302_aman-3.png",
     "z_images/260302_aman-2.png",
