@@ -12,10 +12,18 @@ think of additions for the midterm:
 
 ---
 # thought: 
-one circuit zaps someone, and the other stores & plays back the last zapped sound. 
+### instrument 1: you are the instrument
+a circuit that zaps you as you play, so that you make the sound. 
+zapper circuit reference: https://medium.com/@shubhanshu.sensai/how-to-make-a-harmless-electric-shocker-a72e391b0b4c
 
-zapper: https://medium.com/@shubhanshu.sensai/how-to-make-a-harmless-electric-shocker-a72e391b0b4c
+### instrument 2: vco + shiftregister + feedback mechanism
+this is a complex circuit with a few parts. 
 
+first, a vco. 
+
+the voltage is controlled by different resistors at the end of the shift register. when a person hits the key, it should send out the output through the resistors into the vco — that should change the frequency. 
+
+the speaker faces a mic which forms a feedback loop for some time (based on rc constant). the longer you hold, the more feedback it should produce. 
 
 ---
 # outputs: 
