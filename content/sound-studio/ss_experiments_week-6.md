@@ -8,7 +8,7 @@ draft: "false"
 # ask: 
 think of additions for the midterm: 
 
-> BaWe are going to build a collective instrument, in which each “key” triggers a sound via an object you have designed. Each student in the class will be assigned two of 32 possible keys. You will install your two sound producing objects in the IDM gallery at 370 Jay Street, and they will be playable using a keyboard controller installed in the space.
+> We are going to build a collective instrument, in which each “key” triggers a sound via an object you have designed. Each student in the class will be assigned two of 32 possible keys. You will install your two sound producing objects in the IDM gallery at 370 Jay Street, and they will be playable using a keyboard controller installed in the space.
 
 ---
 # thought: 
@@ -16,6 +16,9 @@ think of additions for the midterm:
 a circuit that zaps you as you play, so that you make the sound. 
 zapper circuit reference: https://medium.com/@shubhanshu.sensai/how-to-make-a-harmless-electric-shocker-a72e391b0b4c
 
+read that it wasn't safe: https://forum.arduino.cc/t/how-to-build-a-safe-shocker-party-zapper/586864
+
+so, i walked around and found an old keyboard on the itp-junk-shelf. in the first class, someone recorded the sound of a keyboard tapping. i thought it would be interesting if the keyboard is live destroyed with a key from a keyboard. 
 ### instrument 2: vco + shiftregister + feedback mechanism
 this is a complex circuit with a few parts. 
 
@@ -27,6 +30,11 @@ the speaker faces a mic which forms a feedback loop for some time (based on rc c
 
 ---
 # outputs: 
+
+---
+made this. 
+
+![[IMG_7576.mp4]]
 
 
 
