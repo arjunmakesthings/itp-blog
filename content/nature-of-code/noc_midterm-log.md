@@ -179,8 +179,302 @@ i think this is why ==generative art that focuses on emergence has a simpler set
 
 ---
 
+made this: 
 
+![[Screen Recording 2026-03-03 at 21.06.32.mp4]]
 
+![[Screenshot 2026-03-03 at 21.08.33.webp]]
 
+code: 
 
+``` js
+/* 
+untitled; by arjun; march 2026. 
+simple system: 
+
+- there are beings the world.
+- beings move, and stay on surface. 
+- beings close together cluster together. 
+
+*/
+
+let beings = [];
+
+let num = 100;
+
+function setup() {
+  // createCanvas(1000, 562); //in 16:9 aspect ratio.
+  createCanvas(800, 800); //square to handle calculations better.
+
+  for (let i = 0; i < num; i++) {
+    beings.push(new Being(width / 2, height / 2));
+  }
+
+  //clear canvas with a black background.
+  background(0);
+}
+
+function draw() {
+  // background(0);
+  for (let being of beings) {
+    //being.show();
+    being.move(time);
+  }
+
+  for (let i = 0; i < beings.length; i++) {
+    for (let j = 0; j < beings.length; j++) {
+      if (i === j) continue;
+
+      strokeWeight(0.08);
+      if ((i + j) % 2 === 0) {
+        stroke(255, 100);
+      } else {
+        stroke(0, 100);
+      }
+      line(beings[i].pos.x, beings[i].pos.y, beings[j].pos.x, beings[j].pos.y);
+    }
+  }
+
+  keep_time();
+}
+
+class Being {
+  constructor(x, y) {
+    this.pos = createVector(x, y);
+    this.home = this.pos.copy();
+    this.dest = this.home.copy();
+
+    this.other_places = [createVector(random(0, width), random(0, height))];
+
+    this.vel = createVector(0, 0);
+
+    this.last_time = 0;
+
+    this.pace = random(0.5, 2);
+  }
+  show() {
+    noFill();
+    stroke(255);
+    circle(this.pos.x, this.pos.y, 20);
+
+    //this.show_places();
+  }
+  show_places() {
+    for (let i = 0; i < this.other_places.length; i++) {
+      noFill();
+      stroke(255, 0, 0);
+      circle(this.other_places[i].x, this.other_places[i].y, 50);
+    }
+  }
+  move(time) {
+    let norm_time = Math.floor(map(time[1], 0, 30, 0, 24));
+
+    noStroke();
+    fill(255, 0, 0);
+    text(norm_time, 50, 50);
+
+    if (norm_time < 8) {
+      this.dest.set(this.home);
+    } else if (norm_time >= 8 && norm_time < 17) {
+      this.dest.set(this.other_places[0]);
+    } else if (norm_time >= 17 && norm_time < 20) {
+      let n = Math.floor(random(this.other_places.length));
+      this.dest.set(this.other_places[n]);
+    } else {
+      this.dest.set(this.home);
+    }
+
+    if (norm_time === 23 && this.last_time !== 23) {
+      //new day:
+      this.other_places.push(createVector(random(0, width), random(0, height)));
+    }
+
+    this.last_time = norm_time;
+
+    // Calculate direction and distance
+    let d = p5.Vector.sub(this.dest, this.pos);
+    let distance = d.mag();
+
+    // Slow down as you get close (max speed = this.pace, min speed = 0)
+    let speed = map(distance, 0, 100, 0, this.pace); // 100 is the "slowing radius"
+    speed = constrain(speed, 0, this.pace);
+
+    if (distance > 1) {
+      d.setMag(speed);
+      this.vel = d;
+    } else {
+      this.vel.set(0, 0);
+    }
+
+    this.pos.add(this.vel);
+    this.stay();
+  }
+  stay() {
+    if (this.pos.x >= width || this.pos.x < 0) {
+      this.vel.x *= -1;
+    }
+    if (this.pos.y >= height || this.pos.y < 0) {
+      this.vel.y *= -1;
+    }
+  }
+}
+
+//helper to keep time.
+let day = 0;
+let time = [0, 0, 0, 0]; //ms, seconds, minutes, hours.
+
+function keep_time() {
+  const ms = millis() - day;
+  const seconds = Math.floor(ms / 1000) % 60;
+  const minutes = Math.floor(ms / (1000 * 60)) % 60;
+  const hours = Math.floor(ms / (1000 * 60 * 60));
+
+  //one minute loop.
+  if (seconds >= 30) {
+    day = millis();
+    time[0] = 0;
+    time[1] = 0;
+    time[2] = 0;
+    time[3] = 0;
+  } else {
+    time[0] = Math.floor(ms);
+    time[1] = seconds;
+    time[2] = minutes;
+    time[3] = hours;
+  }
+}
+```
+
+not particularly accurate in terms of what i wanted to get done. but it's ok. 
+
+---
+
+i realized that my thinking wasn't clear. i referenced [process compendium](https://github.com/REAS/studio/blob/master/ProcessCompendium.md) again. he had simple rules, such as: 
+
+> B1: Move in a straight line
+> B2: Constrain to surface 
+> B3: Change direction while touching another Element
+
+his thinking was very clear: 
+
+> The most important element of Process is the text. ==The text is the Process described in English, written with the intent to translate its content into software.== The Elements, Forms, and Behaviors referenced within the Process text are defined in the Library. The ==software interpretation is secondary to the text.== The text leaves many decisions open to the programmer, decisions that must be made using personal judgment. The ==act of translating the Process from English into a machine language interprets the text.== Process was implemented by into the language in . The hardware is inconsequential and in time it will fail. It was selected to be robust, but electronic devices are fragile. If a component of the hardware fails, it may be replaced without diminishing the work. Eventually, compatible components won't be available. When this happens, a new hardware system must be acquired and the software modified for the new platform.
+
+> The Elements, Forms, and Behaviors referenced within the Processes are defined in the Library:
+
+> Forms 
+> F1: Circle 
+> F2: Line 
+
+> Behaviors
+> B1: Move in a straight line
+> B2: Constrain to surface 
+> B3: Change direction while touching another Element
+> B4: Move away from an overlapping Element 
+> B5: Enter from the opposite edge after moving off the surface
+> B6: Orient toward the direction of an Element that is touching 
+> B7: Deviate from the current direction
+
+> Elements
+> E1: F1 + B1 + B2 + B3 + B4
+> E2: F1 + B1 + B5
+> E3: F2 + B1 + B3 + B5
+> E4: F1 + B1 + B2 + B3
+> E5: F2 + B1 + B5 + B6 + B7
+
+---
+
+# untitled: 
+there is a world. a world keeps time, and runs on days. a day is 24-second long by human-time. 
+
+a world is made of beings. 
+
+base structure: 
+
+``` js
+/*
+there is one world, and is created during the big-bang. 
+
+the world has beings. beings do the following: 
+- they are born. 
+- they exist. 
+- they die. 
+
+*/
+
+let world;
+
+function setup() {
+  createCanvas(1000, 1000);
+
+  world = new World(0, 0);
+  world.big_bang();
+}
+function draw() {
+  world.run();
+}
+
+class World {
+  constructor(x, y) {
+    this.x = x;
+    this.y = y;
+
+    this.beings = [];
+  }
+  big_bang() {
+    let x = width / 2;
+    let y = height / 2;
+    this.beings.push(Being.birth(x, y));
+  }
+  run() {
+    background(0);
+
+    for (let being of this.beings) {
+      being.live();
+    }
+  }
+}
+
+class Being {
+  constructor(x, y) {
+    this.pos = createVector(x, y);
+  }
+  static birth(x, y) {
+    return new Being(x, y);
+  }
+  live() {
+    this.show();
+  }
+  show() {
+    noFill();
+    stroke(255);
+    circle(this.pos.x, this.pos.y, 20);
+  }
+  static death() {}
+}
+
+//helper to keep time.
+let day = 0;
+let time = [0, 0, 0, 0]; //ms, seconds, minutes, hours.
+
+function keep_time() {
+  const ms = millis() - day;
+  const seconds = Math.floor(ms / 1000) % 60;
+  const minutes = Math.floor(ms / (1000 * 60)) % 60;
+  const hours = Math.floor(ms / (1000 * 60 * 60));
+
+  //one minute loop.
+  if (seconds >= 30) {
+    day = millis();
+    time[0] = 0;
+    time[1] = 0;
+    time[2] = 0;
+    time[3] = 0;
+  } else {
+    time[0] = Math.floor(ms);
+    time[1] = seconds;
+    time[2] = minutes;
+    time[3] = hours;
+  }
+}
+```
 

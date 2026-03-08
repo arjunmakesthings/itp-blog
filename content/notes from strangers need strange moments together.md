@@ -27,3 +27,4 @@ from the preface — strangers need strange moments together.
 
 ![[Screenshot 2026-01-28 at 15.44.17.webp]]
 
+
