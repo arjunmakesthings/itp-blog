@@ -33,3 +33,7 @@ i need to be wiser with how i spend my time. ==i don't need to surround myself w
 surviving as an immigrant, working technology & the arts requires you to be loud, famous on the internet, et-cetera. i wonder if i want to do that with my life. 
 
 ==is the quality of my life worth more than the cost of my ambition?==
+
+---
+
+we also won an electronics-prize at the hackathon — at a hackathon with engineers from the top schools of the world. that goes to ascertain that ==i'm not far behind==. 
