@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nature-of-code/index.md",
+                "file": "nature-of-code/noc_midterm-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "noc_midterm-log"
             }
           }
         ]
@@ -198,12 +198,12 @@
   },
   "active": "0e96c66c374c3758",
   "lastOpenFiles": [
+    "nature-of-code/index.md",
     "nature-of-code/noc_midterm-log.md",
     "z_images/Screenshot 2026-03-11 at 01.01.19.png",
     "z_images/Screen Recording 2026-03-11 at 00.50.13.mp4",
     "z_images/Screen Recording 2026-03-11 at 00.15.43.mp4",
     "nature-of-code/noc_class-7_and_dissatisfaction.md",
-    "nature-of-code/index.md",
     "shopping list.md",
     "people/sakina.md",
     "resources & tools/example.com.md",

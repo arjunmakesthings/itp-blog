@@ -24,10 +24,33 @@ i wanted to be more intentional about the rules, and model them based on felt ex
 
 ---
 # outputs: 
-yet to generate. 
+my rule-set was the following: 
+
+there is one world, and is created during the big-bang. 
+
+the world has beings. beings do the following: 
+- they are born. 
+- they exist. 
+	- while existing, they move: 
+		- movement happens according to a schedule, that the world generates for them. 
+		- they are constrained to the surface of the world. 
+- they die. 
+
+the world keeps time. each day is day_length units long. 
+
+interpretation strand followed was this: 
+- beings are grouped together at birth, based on the proximity of being born next to other beings. groups are shown as filled or outlined objects. for example: 
+
+fill with stroke: 
+![[Screen Recording 2026-03-11 at 00.50.13.mp4]]
+
+only stroke: 
+![[Screenshot 2026-03-11 at 01.01.19.png]]
+
+i am unhappy with my lack of exploration for the interpretation, but happy with my programming of the initial ruleset. 
 
 ---
-
+# process-log: 
 i decided to derive rules based on social-exclusion. 
 
 the first distinction i must make is that *my* definition of rules does not encompass the whole phenomenon. it is purely a projection of how *i* think the world works — how certain groups get ahead, and others die. 
