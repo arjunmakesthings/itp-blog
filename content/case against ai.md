@@ -6,7 +6,7 @@ tags:
 noteOrder: "19"
 draft: "false"
 ---
-yet to formulate. 
+running note.
 
 ---
 # incidents: 

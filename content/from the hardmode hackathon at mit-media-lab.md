@@ -42,4 +42,6 @@ we also won an electronics-prize at the hackathon — at a hackathon with engin
 
 ![[260309_1.jpg]]
 
+what we made: 
 
+![[MIT Hardmode Hackathon Demo Video.mp4]]

@@ -32,6 +32,17 @@ the speaker faces a mic which forms a feedback loop for some time (based on rc c
 
 ---
 # outputs: 
+instrument 1: 
+
+![[IMG_7602.mp4]]
+
+drilled glass with the diamond-drill-bits to make a hole for the microphone. [[b(ethany)]] helped me with this. 
+
+instrument 2: 
+
+![[IMG_7604.mp4]]
+
+[[ian cox]] helped me with the standoffs for this. 
 
 ---
 made this. 

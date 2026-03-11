@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nature-of-code/noc_midterm-log.md",
+                "file": "sound-studio/ss_midterm-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "noc_midterm-log"
+              "title": "ss_midterm-log"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "strangers need",
+                "query": "case aa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,18 +199,22 @@
   },
   "active": "0e96c66c374c3758",
   "lastOpenFiles": [
-    "z_images/260311_rules..mp4",
+    "z_images/IMG_7604.mp4",
+    "z_images/IMG_7602.mp4",
+    "from the hardmode hackathon at mit-media-lab.md",
+    "z_images/MIT Hardmode Hackathon Demo Video.mp4",
+    "case against ai.md",
     "nature-of-code/index.md",
     "nature-of-code/noc_midterm-log.md",
+    "nature-of-code/noc_class-7_and_dissatisfaction.md",
+    "z_images/260311_rules..mp4",
     "z_images/Screenshot 2026-03-11 at 01.01.19.png",
     "z_images/Screen Recording 2026-03-11 at 00.50.13.mp4",
     "z_images/Screen Recording 2026-03-11 at 00.15.43.mp4",
-    "nature-of-code/noc_class-7_and_dissatisfaction.md",
     "shopping list.md",
     "people/sakina.md",
     "resources & tools/example.com.md",
     "resources & tools/midi to notes to frequency to period conversion.md",
-    "from the hardmode hackathon at mit-media-lab.md",
     "z_images/260309_1.jpg",
     "z_images/260309_2.jpg",
     "notes from strangers need strange moments together.md",
@@ -217,7 +222,6 @@
     "sound-studio/ss_midterm-log.md",
     "electronics-for-inventors/efi_class-3.md",
     "shader-time/index.md",
-    "case against ai.md",
     "to social media or not to social media.md",
     "programs as scores.md",
     "z_images/Screenshot 2026-03-03 at 21.08.33.webp",
@@ -241,9 +245,6 @@
     "z_images/IMG_7410.mp4",
     "z_images/breakdown-timelapse.mp4",
     "z_images/breakdown-timelapse.mov",
-    "z_images/iPhone-handheld-timelapse.mp4",
-    "z_images/Screen Recording 2026-02-24 at 22.53.53.mp4",
-    "z_images/IMG_7549.mp4",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
