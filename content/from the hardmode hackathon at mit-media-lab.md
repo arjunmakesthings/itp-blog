@@ -10,7 +10,7 @@ coming to mit was powerful for me. not the most pleasant — perhaps a little b
 
 my life has largely revolved around being a generalist, and i think that is what separates me from the people in labs here (not in a good way). ==i'm not that far behind== in terms of aptitude, skill, or sharpness (although i shall admit that people are way smarter here, but reaching there for a particular  subject matter is not impossible). 
 
-i ==need to become specific==, if i am to go down the path of research. ==or== i can *choose* not to too, and ==be good at a bunch of different things, and make peace with the fact that i may not become a researcher.
+i ==need to become specific==, if i am to go down the path of research. ==or== i can *choose* not to too, and ==be good at a bunch of different things, and make peace with the fact that i may not become a researcher.==
 
 ---
 
