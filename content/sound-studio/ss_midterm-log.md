@@ -38,6 +38,8 @@ instrument 1:
 
 drilled glass with the diamond-drill-bits to make a hole for the microphone. [[b(ethany)]] helped me with this. 
 
+![[IMG_7600.webp]]
+
 instrument 2: 
 
 ![[IMG_7604.mp4]]

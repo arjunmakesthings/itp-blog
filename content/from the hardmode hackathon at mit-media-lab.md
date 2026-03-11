@@ -45,3 +45,17 @@ we also won an electronics-prize at the hackathon — at a hackathon with engin
 what we made: 
 
 ![[MIT Hardmode Hackathon Demo Video.mp4]]
+
+other projects: 
+
+using electrodes to control body. 
+
+![[IMG_7597.mp4]]
+
+duck typing by [ling dong huang](https://lingdong.works). i didn't have the courage to speak with him. 
+
+![[IMG_7596.mp4]]
+
+all people before the presentations: 
+
+![[IMG_7595.mp4]]
