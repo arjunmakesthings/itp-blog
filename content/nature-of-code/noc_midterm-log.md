@@ -38,6 +38,10 @@ the world has beings. beings do the following:
 
 the world keeps time. each day is day_length units long. 
 
+rules can be visualized like so: 
+
+![[260311_rules..mp4]]
+
 interpretation strand followed was this: 
 - beings are grouped together at birth, based on the proximity of being born next to other beings. groups are shown as filled or outlined objects. for example: 
 
@@ -60,7 +64,7 @@ the other thing i must accept is that i myself cannot know what this outcome wil
 so, the first step is the expression of the rules: 
 
 ---
-# rules:
+
 there is a world and there is a unit. 
 
 ![[IMG_7574.webp]]
