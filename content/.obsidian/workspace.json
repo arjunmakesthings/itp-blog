@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bioart-as-biopolitics/notes from bioart, by william myers.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes from bioart, by william myers"
+              "title": "index"
             }
           }
         ]
@@ -198,6 +198,8 @@
   },
   "active": "7379c45b9fcc0c56",
   "lastOpenFiles": [
+    "sound-studio/index.md",
+    "bioart-as-biopolitics/notes from bioart, by william myers.md",
     "my practice is about emergence.md",
     "projects-by-other-people/process compendium, by casey reas.md",
     "nature-of-code/noc_midterm-reflections.md",
@@ -207,8 +209,6 @@
     "shader-time/index.md",
     "electronics-for-inventors/index.md",
     "nature-of-code/index.md",
-    "sound-studio/index.md",
-    "bioart-as-biopolitics/notes from bioart, by william myers.md",
     "z_images/zoosemiotics_suzanne.png",
     "z_images/Screenshot 2026-03-11 at 23.40.21.png",
     "from the hardmode hackathon at mit-media-lab.md",
