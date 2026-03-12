@@ -1,7 +1,7 @@
 ---
 title: shader-time
 date: 2026-01-20
-folderOrder: "9"
+folderOrder: "7"
 draft: "false"
 ---
 2-credit class taken by [[elias (elie) zananiri]], in the first-half of semester-2. 

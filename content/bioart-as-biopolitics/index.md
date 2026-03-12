@@ -1,8 +1,8 @@
 ---
 title: bioart-as-biopolitics
 date: 2026-01-20
-folderOrder: "7"
-draft: "true"
+folderOrder: "8"
+draft: "false"
 ---
 4-credit class taken by [[heather dewey-hagborg]], in the second-half of semester-2. 
 

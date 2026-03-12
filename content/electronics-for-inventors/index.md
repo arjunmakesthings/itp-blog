@@ -1,7 +1,7 @@
 ---
 title: electronics-for-inventors
 date: 2026-01-20
-folderOrder: "8"
+folderOrder: "9"
 draft: "false"
 ---
 4-credit class taken by [[pedro]], in semester-2. 
