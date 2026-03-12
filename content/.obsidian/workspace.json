@@ -11,10 +11,14 @@
             "id": "7379c45b9fcc0c56",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "bioart-as-biopolitics/notes from bioart, by william myers.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "notes from bioart, by william myers"
             }
           }
         ]
@@ -192,8 +196,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "32f876c5ef6f4df6",
+  "active": "7379c45b9fcc0c56",
   "lastOpenFiles": [
+    "my practice is about emergence.md",
+    "projects-by-other-people/process compendium, by casey reas.md",
+    "nature-of-code/noc_midterm-reflections.md",
     "sortspec.md",
     "bioart-as-biopolitics/index.md",
     "haptics/index.md",
@@ -201,9 +208,6 @@
     "electronics-for-inventors/index.md",
     "nature-of-code/index.md",
     "sound-studio/index.md",
-    "nature-of-code/noc_midterm-reflections.md",
-    "projects-by-other-people/process compendium, by casey reas.md",
-    "my practice is about emergence.md",
     "bioart-as-biopolitics/notes from bioart, by william myers.md",
     "z_images/zoosemiotics_suzanne.png",
     "z_images/Screenshot 2026-03-11 at 23.40.21.png",

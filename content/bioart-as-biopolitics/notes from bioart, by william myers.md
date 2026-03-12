@@ -46,13 +46,16 @@ leads bio art lab at the school of visual arts in new york. made a piece called 
 # patricia piccinini: 
 "and if she could be engineered, would she actually be something people might choose to create?", about her work the skywhale. 
 
-> “My practice is focused on bodies and relationships; the relationships between people and other creatures, between people and our bodies, between creatures and the environment, between the artificial and the natural. I am particularly interested in the way that the everyday realities of the world around us change these relations. Perhaps because of this, many have looked at my practice in terms of science and technology, however, for me it is just as informed by Surrealism and mythology. My work aims to shift the way that people look at the world around them and question their assumptions about the relationships they have with the world.”
+> “My practice is focused on bodies and relationships; the relationships between people and other creatures, between people and our bodies, between creatures and the environment, between the artificial and the natural. I am particularly interested in the way that the everyday realities of the world around us change these relations. 
+
+
+> My work aims to shift the way that people look at the world around them and question their assumptions about the relationships they have with the world.”
+
 
 > thrusts into our consciousness an uncomfortable combination of the plausible and the grotesque: life forms we might one day breed, engineer, or simply imagine. 
 
 # jalila essaidi: 
 made bulletproof skin: 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/drNHlPXNewI?si=6DRMA9ZOxVhotPq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
