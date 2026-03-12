@@ -56,7 +56,13 @@ leads bio art lab at the school of visual arts in new york. made a piece called 
 
 # jalila essaidi: 
 made bulletproof skin: 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/drNHlPXNewI?si=6DRMA9ZOxVhotPq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+# ask: 
+Please read this full book over the next weeks and ==choose one artist you are excited about== from the reading. ==Research a bit more about them== and come to class prepared to tell us very informally about what you learned. Prepare to ==share at least one additional artwork from this artist which is not described in the book== and ==bring a discussion question to engage us in thinking about the meaning of this artist's work.==
+
 
 
 

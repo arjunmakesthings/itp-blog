@@ -10,5 +10,3 @@ i also upload longer (often random) videos on youtube, which are [here](https://
 ![[z_images/cover-image_blog-1.webp]]
 
 if you are looking for my website, it is [here](https://arjunmakesthings.github.io).
-
-
