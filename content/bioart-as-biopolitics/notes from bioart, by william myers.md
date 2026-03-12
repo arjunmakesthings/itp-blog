@@ -26,8 +26,6 @@ william makes the case that during surrealism, people were also learning more ab
 # azuma makoto: 
 flower artist, growing artificial trees. 
 
-![[Screenshot 2026-03-11 at 23.40.21.png]]
-
 # ai hasegawa
 around reproduction. 
 
