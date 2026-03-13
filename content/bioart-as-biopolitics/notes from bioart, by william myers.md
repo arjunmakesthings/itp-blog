@@ -63,6 +63,25 @@ made bulletproof skin:
 # ask: 
 Please read this full book over the next weeks and ==choose one artist you are excited about== from the reading. ==Research a bit more about them== and come to class prepared to tell us very informally about what you learned. Prepare to ==share at least one additional artwork from this artist which is not described in the book== and ==bring a discussion question to engage us in thinking about the meaning of this artist's work.==
 
+piccinini: the tension between the absurd and the believable is so remarkable. 
+
+the emphasis on the eyes too. 
+
+immediately makes you think: what about this made me wonder if this is human or 'real'? 
+
+![[piccinini-1.png]]
+
+![[piccinini-2.png]]
+
+^ from https://pursuit.unimelb.edu.au/articles/beautiful-and-unsettling-the-world-of-artist-patricia-piccinini?in_c=articlelistingblock
+
+whereas: 
+
+jalila made bulletproof skin: https://jalilaessaidi.com/2-6g-329ms/
+
+and manure-based bioplastics: https://jalilaessaidi.com/cowmanure/
+
+so my question is in the contrast between the two artists: do we make something that has a utilitarian-purpose, problem-solving method (like jalila) or something to pose questions (like what about *this* is 'human') like piccinini. 
 
 
 

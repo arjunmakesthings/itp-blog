@@ -179,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,9 +198,14 @@
   },
   "active": "7379c45b9fcc0c56",
   "lastOpenFiles": [
+    "z_images/piccinini-2.png",
+    "z_images/piccinini-1.png",
+    "notes on designing design, by kenya hara.md",
+    "terms & concepts/exformation.md",
+    "electronics-for-inventors/index.md",
+    "bioart-as-biopolitics/notes from bioart, by william myers.md",
     "index.md",
     "sound-studio/index.md",
-    "bioart-as-biopolitics/notes from bioart, by william myers.md",
     "my practice is about emergence.md",
     "projects-by-other-people/process compendium, by casey reas.md",
     "nature-of-code/noc_midterm-reflections.md",
@@ -209,7 +213,6 @@
     "bioart-as-biopolitics/index.md",
     "haptics/index.md",
     "shader-time/index.md",
-    "electronics-for-inventors/index.md",
     "nature-of-code/index.md",
     "z_images/zoosemiotics_suzanne.png",
     "z_images/Screenshot 2026-03-11 at 23.40.21.png",
@@ -237,14 +240,10 @@
     "z_images/260309_2.jpg",
     "notes from strangers need strange moments together.md",
     "nature-of-code/Untitled.md",
-    "electronics-for-inventors/efi_class-3.md",
-    "to social media or not to social media.md",
-    "programs as scores.md",
     "z_images/Screenshot 2026-03-03 at 21.08.33.webp",
     "z_images/Screen Recording 2026-03-03 at 21.06.32.mp4",
     "z_images/IMG_7574.webp",
     "z_images/2603_noc-rules-1.webp",
-    "z_images/260302_aman-4.png",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
