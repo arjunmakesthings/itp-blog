@@ -32,7 +32,7 @@ when you go, you go. when you rest, you rest. ==rest is not *just* rest — it'
 
 ---
 
-j==ust keep going further with your curiosity — don't let the pressure get to you.== you have two more years; ==look at how far you've come, a.==
+==just keep going further with your curiosity — don't let the pressure get to you.== you have two more years; ==look at how far you've come, a.==
 
 ==you're only going to go further.==
 
