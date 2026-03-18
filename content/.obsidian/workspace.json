@@ -13,34 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bioart-as-biopolitics/notes from bioart, by william myers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "notes from bioart, by william myers"
-            }
-          },
-          {
-            "id": "757c395697264f56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tanika's talk on applying for open calls.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "tanika's talk on applying for open calls"
-            }
-          },
-          {
-            "id": "d47e67996ad36acc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "artist material drafts.md",
                 "mode": "source",
                 "source": false
@@ -50,21 +22,21 @@
             }
           },
           {
-            "id": "516b6981751eb25a",
+            "id": "1281d992df3d9612",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "artist material drafts.md",
+                "file": "slow down, you crazy child.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "artist material drafts"
+              "title": "slow down, you crazy child"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,18 +213,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "516b6981751eb25a",
+  "active": "1281d992df3d9612",
   "lastOpenFiles": [
-    "notes from dynamics of complex systems, by yaneer bar-yam.md",
-    "tanika's talk on applying for open calls.md",
+    "propranolol.md",
+    "slow down, you crazy child.md",
     "artist material drafts.md",
+    "bioart-as-biopolitics/notes from bioart, by william myers.md",
+    "tanika's talk on applying for open calls.md",
+    "terms & concepts/posse.md",
+    "z_images/posse.webp",
+    "notes from dynamics of complex systems, by yaneer bar-yam.md",
     "terms & concepts/cute picture syndrome.md",
     "z_images/Screenshot 2026-03-17 at 00.07.49.png",
     "the anxiety, it kills me.md",
     "z_images/Screenshot 2026-03-17 at 00.05.31.webp",
     "case against ai.md",
     "resources & tools/indie web tools.md",
-    "bioart-as-biopolitics/notes from bioart, by william myers.md",
     "bioart-as-biopolitics/bioart_resources.md",
     "bioart-as-biopolitics/index.md",
     "z_images/piccinini-2.webp",
@@ -275,19 +251,15 @@
     "z_images/IMG_7595.mp4",
     "z_images/IMG_7596.mp4",
     "z_images/IMG_7597.mp4",
-    "sound-studio/ss_midterm-log.md",
     "z_images/IMG_7600.webp",
     "z_images/IMG_7604.mp4",
     "z_images/IMG_7602.mp4",
     "z_images/MIT Hardmode Hackathon Demo Video.mp4",
-    "nature-of-code/noc_midterm-log.md",
-    "nature-of-code/noc_class-7_and_dissatisfaction.md",
     "z_images/260311_rules..mp4",
     "z_images/Screenshot 2026-03-11 at 01.01.19.png",
     "z_images/Screen Recording 2026-03-11 at 00.50.13.mp4",
     "z_images/Screen Recording 2026-03-11 at 00.15.43.mp4",
     "z_images/260309_1.jpg",
-    "z_images/260309_2.jpg",
     "z_images/Screen Recording 2026-03-03 at 21.06.32.mp4",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
