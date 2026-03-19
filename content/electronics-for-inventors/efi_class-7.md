@@ -11,5 +11,28 @@ spoke about voltage regulators. anything with a 78xx is a regulator. the 'xx' de
 
 always add decoupling to a voltage regulator. 
 
-![[IMG_7672-1.webp]]
+![[IMG_7672-1.webp|457]]
+
+two types of power supplies: 
+
+- linear -> has a transformer; is, therefore, big. 
+- switch -> uses pwm; non-stable; has noise; small. 
+
+- use some kind of adhesive to secure components on pcb (like hot glue, epoxy, silicone). 
+
+- sometimes ==through-hole > smds for heat-dissipation.==
+
+- ==voltage -> you decide; current -> the load decides.== 
+
+- always ensure that: 
+
+`i (supply) > i(circuit) && v(supply) == v(circuit)`
+
+- ac -> ac (regulate voltage) via a transformer. 
+- ac -> dc (bridge rectifier)
+- dc -> dc (voltage regulator)
+
+![[IMG_7673.webp]]
+
+
 

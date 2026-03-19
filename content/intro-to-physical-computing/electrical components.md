@@ -119,6 +119,12 @@ Activity boards contain a pre-programmed microcontrollers and some sensors and a
 https://itp.nyu.edu/physcomp/lessons/microcontrollers-the-basics/
 
 ---
+# asic: 
+application-specific-integrated-circuit: 
+
+chip customized for a particular use, rather than intended for general-purpose use, such as a chip designed to run in a digital voice recorder or a high-efficiency video codec. Application-specific standard product chips are intermediate between ASICs and industry standard integrated circuits like the 7400 series or the 4000 series.
+
+---
 # servo motors: 
 Servomotors are mo.webpith a combination of gears and an embedded potentiometer (variable resistor) that allows you to set their position fairly precisely within a 180-degree range. They’re very common in toys and other small mechanical devices. They have three wires:
 
