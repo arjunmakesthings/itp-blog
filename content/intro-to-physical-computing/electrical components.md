@@ -167,10 +167,18 @@ infinite number of values within a given range.
 
 ---
 # pwm or pulse-width-modulation: 
-a dig.webpignal that is rapidly switching on and off, mimicking an analog signal (a waveform).
+a digital signal that is rapidly switching on and off, mimicking an analog signal (a waveform).
 
 ![[z_images/Pasted image 20251014205508.webp]]
 <figcaption>source: https://docs.arduino.cc/micropython/micropython-course/course/analog/</figcaption>
+
+---
+
+# logic level voltage; 
+the voltage thresholds that are considered high or low for logic-shifting. 
+
+![[ttl-logic.webp|368]]
+
 
 
 ---

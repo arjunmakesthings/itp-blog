@@ -4,39 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "06aee8686ce69c5d",
+        "id": "605a4d938dbf76f5",
         "type": "tabs",
         "children": [
           {
-            "id": "7379c45b9fcc0c56",
+            "id": "41062d771ee52c28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "artist material drafts.md",
+                "file": "electronics-for-inventors/efi_class-6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "artist material drafts"
+              "title": "efi_class-6"
             }
           },
           {
-            "id": "1281d992df3d9612",
+            "id": "09cb0e62f2c9cc66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slow down, you crazy child.md",
+                "file": "intro-to-physical-computing/electrical components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "slow down, you crazy child"
+              "title": "electrical components"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "artist",
+                "query": "electronic component",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -195,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,11 +210,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1281d992df3d9612",
+  "active": "41062d771ee52c28",
   "lastOpenFiles": [
-    "propranolol.md",
+    "z_images/IMG_7671.webp",
+    "z_images/IMG_7670.webp",
+    "intro-to-physical-computing/electrical components.md",
+    "electronics-for-inventors/efi_class-6.md",
+    "z_images/ttl-logic.webp",
+    "z_images/IMG_7669.webp",
+    "sound-studio/ss_class-4.md",
+    "electronics-for-inventors/efi_class-5.md",
+    "electronics-for-inventors/index.md",
+    "bioart-as-biopolitics/index.md",
+    "sound-studio/index.md",
+    "nature-of-code/index.md",
     "slow down, you crazy child.md",
     "artist material drafts.md",
+    "propranolol.md",
     "bioart-as-biopolitics/notes from bioart, by william myers.md",
     "tanika's talk on applying for open calls.md",
     "terms & concepts/posse.md",
@@ -230,36 +239,24 @@
     "case against ai.md",
     "resources & tools/indie web tools.md",
     "bioart-as-biopolitics/bioart_resources.md",
-    "bioart-as-biopolitics/index.md",
     "z_images/piccinini-2.webp",
     "z_images/piccinini-1.webp",
     "notes on designing design, by kenya hara.md",
     "terms & concepts/exformation.md",
-    "electronics-for-inventors/index.md",
     "index.md",
-    "sound-studio/index.md",
     "my practice is about emergence.md",
     "projects-by-other-people/process compendium, by casey reas.md",
-    "nature-of-code/noc_midterm-reflections.md",
-    "sortspec.md",
-    "haptics/index.md",
-    "shader-time/index.md",
-    "nature-of-code/index.md",
     "z_images/zoosemiotics_suzanne.webp",
     "z_images/Screenshot 2026-03-11 at 23.40.21.png",
-    "from the hardmode hackathon at mit-media-lab.md",
     "z_images/IMG_7595.mp4",
     "z_images/IMG_7596.mp4",
     "z_images/IMG_7597.mp4",
-    "z_images/IMG_7600.webp",
     "z_images/IMG_7604.mp4",
     "z_images/IMG_7602.mp4",
     "z_images/MIT Hardmode Hackathon Demo Video.mp4",
     "z_images/260311_rules..mp4",
-    "z_images/Screenshot 2026-03-11 at 01.01.19.png",
     "z_images/Screen Recording 2026-03-11 at 00.50.13.mp4",
     "z_images/Screen Recording 2026-03-11 at 00.15.43.mp4",
-    "z_images/260309_1.jpg",
     "z_images/Screen Recording 2026-03-03 at 21.06.32.mp4",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
