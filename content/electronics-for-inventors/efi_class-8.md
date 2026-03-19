@@ -20,5 +20,5 @@ spoke about deriving harmonics:
 
 ![[IMG_7674.jpg]]
 
-spoke about ==asics==: application-specific-ics; and used a dmtf decoder. added to [[electrical components]] too. 
+spoke about ==asic==: application-specific-ics; and used a dmtf decoder. added to [[electrical components]] too. 
 
