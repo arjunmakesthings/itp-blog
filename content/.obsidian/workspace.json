@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "electronics-for-inventors/efi_experiments_week-9.md",
+                "file": "sound-studio/ss_class-8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "efi_experiments_week-9"
+              "title": "ss_class-8"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -179,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,9 +200,11 @@
   },
   "active": "41062d771ee52c28",
   "lastOpenFiles": [
+    "resources & tools/scala.md",
+    "sound-studio/ss_class-8.md",
+    "electronics-for-inventors/efi_experiments_week-9.md",
     "z_images/shift register normal.mp4",
     "electronics-for-inventors/efi_class-6.md",
-    "electronics-for-inventors/efi_experiments_week-9.md",
     "z_images/same clocks.mp4",
     "to do.md",
     "projects-by-other-people/a machine that turns you into a criminal, by rootkid.md",
@@ -208,7 +212,6 @@
     "electronics-for-inventors/efi_class-7.md",
     "electronics-for-inventors/efi_class-8.md",
     "people/noah dorazio.md",
-    "sound-studio/ss_class-8.md",
     "z_images/260323_rootkid-1.png",
     "nature-of-code/noc_midterm-log.md",
     "nature-of-code/noc_class-7_and_dissatisfaction.md",
@@ -243,7 +246,6 @@
     "z_images/MIT Hardmode Hackathon Demo Video.mp4",
     "z_images/260311_rules..mp4",
     "z_images/Screen Recording 2026-03-11 at 00.50.13.mp4",
-    "z_images/Screen Recording 2026-03-11 at 00.15.43.mp4",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
