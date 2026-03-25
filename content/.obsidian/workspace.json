@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -200,8 +199,9 @@
   },
   "active": "41062d771ee52c28",
   "lastOpenFiles": [
-    "resources & tools/scala.md",
+    "projects-by-other-people/data-verse, by ryoji ikeda.md",
     "sound-studio/ss_class-8.md",
+    "resources & tools/scala.md",
     "electronics-for-inventors/efi_experiments_week-9.md",
     "z_images/shift register normal.mp4",
     "electronics-for-inventors/efi_class-6.md",
@@ -230,7 +230,6 @@
     "terms & concepts/cyberdelia.md",
     "z_images/IMG_7674.jpg",
     "z_images/human-hearing.png",
-    "cpu-land.md",
     "z_images/IMG_7673.webp",
     "z_images/IMG_7672-1.webp",
     "z_images/IMG_7672.jpg",
