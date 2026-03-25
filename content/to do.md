@@ -6,12 +6,12 @@ draft: "true"
 ---
 an always evolving list of things to do and read; hidden from the public website. 
 
+- [ ] glsl canvas and https://www.youtube.com/watch?v=7UvpTTEE1Hs&t=85s
+
 ---
 # urgent / time-bound: 
 
-- [x] fee payment — 14th january
-- [x] amazon shop + order — 5th january
-- [ ] presentation preparation for purdue
+- [ ] 
 ---
 # writing: 
 
@@ -26,8 +26,7 @@ an always evolving list of things to do and read; hidden from the public website
 ---
 # personal social: 
 
-- [ ] whatsapp & imessage responses
-- [x] write back to sakina
+
 
 ---
 # to see:
@@ -37,6 +36,7 @@ an always evolving list of things to do and read; hidden from the public website
 - [ ] Natalie Jeremijenko's work (suggested by [[people/mimi|mimi]]). 
 - [ ] https://en.wikipedia.org/wiki/Flatliners
 - [ ] museum of computers
+- [ ] from [[jesse simpson]]: https://www.kickstarter.com/projects/musicalbeings/tembo-a-new-musical-instrument-for-playful-music-making | https://www.musicalbeings.com
 
 ---
 # all others: 

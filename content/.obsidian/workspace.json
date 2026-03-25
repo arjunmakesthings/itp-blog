@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects-by-other-people/embracing animal, by kathy high.md",
+                "file": "to do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "embracing animal, by kathy high"
+              "title": "to do"
+            }
+          },
+          {
+            "id": "301f5bcf63442cdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects-by-other-people/a machine that turns you into a criminal, by rootkid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a machine that turns you into a criminal, by rootkid"
+            }
+          },
+          {
+            "id": "4b4d35783cab2ce5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "electronics-for-inventors/efi_experiments_week-9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "efi_experiments_week-9"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "electronic component",
+                "query": "artist materia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -196,36 +225,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "41062d771ee52c28",
+  "active": "4b4d35783cab2ce5",
   "lastOpenFiles": [
+    "electronics-for-inventors/efi_class-6.md",
+    "electronics-for-inventors/efi_class-7.md",
+    "electronics-for-inventors/efi_class-8.md",
+    "electronics-for-inventors/efi_experiments_week-9.md",
+    "people/noah dorazio.md",
+    "sound-studio/ss_class-8.md",
+    "z_images/260323_rootkid-1.png",
+    "to do.md",
+    "projects-by-other-people/a machine that turns you into a criminal, by rootkid.md",
+    "nature-of-code/noc_midterm-log.md",
+    "nature-of-code/noc_class-7_and_dissatisfaction.md",
+    "artist material drafts.md",
+    "bioart-as-biopolitics/bioart_resources.md",
+    "bioart-as-biopolitics/ba_class-1.md",
+    "projects-by-other-people/embracing animal, by kathy high.md",
     "terms & concepts/bioindicator.md",
     "intro-to-physical-computing/electrical components.md",
     "terms & concepts/epigenetics.md",
-    "projects-by-other-people/embracing animal, by kathy high.md",
-    "bioart-as-biopolitics/ba_class-1.md",
     "terms & concepts/artificial life.md",
     "terms & concepts/cymatics.md",
     "terms & concepts/posse.md",
     "terms & concepts/cute picture syndrome.md",
     "terms & concepts/exformation.md",
     "terms & concepts/cyberdelia.md",
-    "electronics-for-inventors/efi_class-8.md",
     "z_images/IMG_7674.jpg",
     "z_images/human-hearing.png",
     "cpu-land.md",
     "creative-rebel-drafts.md",
     "bairui's talk on recho.md",
-    "cool places or studios to look at.md",
-    "projects-by-other-people/electrical walks, by christina kubisch.md",
-    "handmade electronic music, by nicolas collins.md",
-    "projects-by-other-people/i am sitting in a room, by alvin lucier.md",
-    "resources & tools/library of congress.md",
-    "is it a human need to want to communicate or express?.md",
-    "inventing on principle, by bret victor.md",
-    "never make products that try to assume what human beings want to do.md",
-    "people practice telepathy through sounds from their mouth.md",
-    "projects-by-other-people/sarah's what-if mixer.md",
-    "projects-by-other-people/thispersondoesnotexist.md",
     "z_images/IMG_7673.webp",
     "z_images/IMG_7672-1.webp",
     "z_images/IMG_7672.jpg",
@@ -233,7 +263,6 @@
     "z_images/IMG_7670.webp",
     "z_images/ttl-logic.webp",
     "z_images/IMG_7669.webp",
-    "z_images/posse.webp",
     "z_images/IMG_7595.mp4",
     "z_images/IMG_7596.mp4",
     "z_images/IMG_7597.mp4",
