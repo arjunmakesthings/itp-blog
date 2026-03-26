@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sound-studio/ss_class-8.md",
+                "file": "sound-studio/ss_experiments_week-9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ss_class-8"
+              "title": "ss_experiments_week-9"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -199,8 +200,10 @@
   },
   "active": "41062d771ee52c28",
   "lastOpenFiles": [
+    "people/noah dorazio.md",
+    "sound-studio/ss_experiments_week-9.md",
+    "sound-studio/ss_class-9.md",
     "projects-by-other-people/data-verse, by ryoji ikeda.md",
-    "sound-studio/ss_class-8.md",
     "resources & tools/scala.md",
     "electronics-for-inventors/efi_experiments_week-9.md",
     "z_images/shift register normal.mp4",
@@ -211,7 +214,6 @@
     "people/bairui.md",
     "electronics-for-inventors/efi_class-7.md",
     "electronics-for-inventors/efi_class-8.md",
-    "people/noah dorazio.md",
     "z_images/260323_rootkid-1.png",
     "nature-of-code/noc_midterm-log.md",
     "nature-of-code/noc_class-7_and_dissatisfaction.md",
@@ -227,7 +229,6 @@
     "terms & concepts/posse.md",
     "terms & concepts/cute picture syndrome.md",
     "terms & concepts/exformation.md",
-    "terms & concepts/cyberdelia.md",
     "z_images/IMG_7674.jpg",
     "z_images/human-hearing.png",
     "z_images/IMG_7673.webp",

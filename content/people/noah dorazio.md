@@ -3,6 +3,6 @@ tags:
   - noah
 draft: "false"
 ---
-works at the shop; sweet, outgoing. 
+part of itp-'27; works at the shop; sweet, outgoing. he's making a big speaker for his thesis. 
 
-was offended that he wasn't on this blog; so i had to add him. 
+was offended that he wasn't on this blog. 
