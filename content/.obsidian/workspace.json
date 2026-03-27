@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +200,9 @@
   },
   "active": "41062d771ee52c28",
   "lastOpenFiles": [
-    "bioart-as-biopolitics/ba_class-1.md",
+    "bioart-as-biopolitics/ba_class-2.md",
     "bioart-as-biopolitics/ba-reading-notes_week-1.md",
+    "bioart-as-biopolitics/ba_class-1.md",
     "electronics-for-inventors/index.md",
     "electronics-for-inventors/efi_experiments_week-9.md",
     "sound-studio/ss_experiments_week-9.md",
@@ -227,7 +229,6 @@
     "terms & concepts/epigenetics.md",
     "terms & concepts/artificial life.md",
     "terms & concepts/cymatics.md",
-    "terms & concepts/posse.md",
     "z_images/IMG_7674.jpg",
     "z_images/human-hearing.png",
     "z_images/IMG_7673.webp",

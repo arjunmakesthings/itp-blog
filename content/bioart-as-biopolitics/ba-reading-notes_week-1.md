@@ -13,6 +13,7 @@ draft: "false"
 		- Guanine (G).
 - long chains of dna are called bases. the bases coil into 46 chromosomes. 
 - a complete set of dna is a genome.
+- rna converts genetic material to proteins. 
 
 https://www.genetics.edu.au/PDF/DNA_RNA_genes_and_chromosomes_fact_sheet-CGE.pdf
 
