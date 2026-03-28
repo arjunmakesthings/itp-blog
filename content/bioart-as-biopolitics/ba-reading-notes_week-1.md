@@ -99,3 +99,7 @@ their descendants’ arrival in the Americas, either
 willingly or as part of the transatlantic slave trade.
 
 ---
+
+from *who owns the ancient one*, by kim tallbear: 
+
+> For indigenous people, these requests present a conundrum. If more tribes agreed, more local DNA samples would be available for comparison, and the Kennewick Man’s relationship to specific North-American tribes could be clarified. But many are hesitant to participate after centuries of mistreatment of indigenous populations at the hands of Western science.

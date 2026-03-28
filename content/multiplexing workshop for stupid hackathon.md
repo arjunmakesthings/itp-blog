@@ -11,6 +11,30 @@ circuits:
 
 ![[IMG_7560.webp]]
 
+photos: 
+
+![[christina-1.webp]]
+
+^ taken by [[christina tran]]
+
+![[jisoo-1-1.webp]]
+
+
+![[jisoo-2.webp]]
+
+![[jisoo-6.webp]]
+
+
+![[jisoo-7.webp]]
+
+
+![[jisoo-5.webp]]
+
+
+![[jisoo-4.webp]]
+
+^ taken by [[jisoo]]. 
+
 ---
 - electricity refresher
 	- battery

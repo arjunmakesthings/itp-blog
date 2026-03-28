@@ -6,6 +6,10 @@ tags:
 noteOrder: "272"
 draft: "false"
 ---
+did with [[fabri]], [[christina tran]], michael suguitan & shenai chan.
+
+---
+
 coming to mit was powerful for me. not the most pleasant — perhaps a little boring — but still powerful.
 
 my life has largely revolved around being a generalist, and i think that is what separates me from the people in labs here (not in a good way). ==i'm not that far behind== in terms of aptitude, skill, or sharpness (although i shall admit that people are way smarter here, but reaching there for a particular  subject matter is not impossible). 
