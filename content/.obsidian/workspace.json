@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bioart-as-biopolitics/ba_class-2.md",
+                "file": "nature-of-code/noc_experiments_week-8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ba_class-2"
+              "title": "noc_experiments_week-8"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stupid",
+                "query": "elie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,8 +200,15 @@
   },
   "active": "586348d06b644693",
   "lastOpenFiles": [
-    "bioart-as-biopolitics/ba_class-1.md",
+    "shader-time/st_class-5.md",
+    "people/elias (elie) zananiri.md",
+    "nature-of-code/noc_experiments_week-8.md",
+    "nature-of-code/noc_class-8.md",
+    "nature-of-code/index.md",
+    "nature-of-code/noc_midterm-reflections.md",
     "bioart-as-biopolitics/ba_class-2.md",
+    "bioart-as-biopolitics/bioart_resources.md",
+    "bioart-as-biopolitics/ba_class-1.md",
     "multiplexing workshop for stupid hackathon.md",
     "z_images/jisoo-6.webp",
     "z_images/jisoo-1-1.webp",
@@ -219,7 +227,6 @@
     "people/zach lieberman.md",
     "people/tim szetela.md",
     "people/lenin compres.md",
-    "people/elias (elie) zananiri.md",
     "people/vedant das swain.md",
     "people/sai.md",
     "z_images/christina-1.webp",
@@ -229,13 +236,8 @@
     "bioart-as-biopolitics/ba-reading-notes_week-1.md",
     "electronics-for-inventors/index.md",
     "electronics-for-inventors/efi_experiments_week-9.md",
-    "sound-studio/ss_class-9.md",
-    "projects-by-other-people/data-verse, by ryoji ikeda.md",
-    "resources & tools/scala.md",
     "z_images/shift register normal.mp4",
-    "electronics-for-inventors/efi_class-6.md",
     "z_images/same clocks.mp4",
-    "to do.md",
     "z_images/IMG_7595.mp4",
     "z_images/IMG_7596.mp4",
     "z_images/IMG_7597.mp4",
