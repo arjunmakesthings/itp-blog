@@ -29,3 +29,19 @@ saw [[embracing animal, by kathy high]], and read the manifesto.
 
 [[heather dewey-hagborg]] mentioned feminist method of making art. 
 
+---
+
+from [[heather dewey-hagborg]]'s slides: 
+
+• "bioart literally is art using the materials of life,
+
+hence living and semi-living organisms, as the art
+object on display." - Ionat Zurr
+
+• “the artists... engage with biotechnology on a
+material level. In this lies the specificity... For
+them biotechnology is not just a topic but their
+very medium.” - Eduardo Kac
+
+
+
