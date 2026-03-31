@@ -110,3 +110,34 @@ $ freq "<40 50 40 30>"
 
 
 ```
+
+---
+
+i had an idea to use someone else's voice to play a certain song. when i looked at [[luke dubois]]'s patch & recording, it was too much to handle. 
+
+so, instead, i just used this time to practice some composition. 
+
+---
+
+tried to get the autocomplete to work in pure data. failed. 
+
+![[Screenshot 2026-03-30 at 23.17.48.png]]
+
+figured out simple signal generators; called it a day. 
+
+![[Screenshot 2026-03-31 at 00.06.17.png]]
+
+at the end of the day, max or pure data are both simply programming languages. just like tidal-cycles is too. 
+
+at the end of the day, this class is about exploring sound. i think i've done enough: 
+- i ==learnt how to use analog-synthesizers==, via work i did in the audio-lab. 
+- learnt more about ==the electronics & theory of how sound is composed.==
+- ==explored how to make sound electrically, programmatically & with a visual software.==
+- built two analog instruments for my midterm. 
+
+so, now, it's about the final project. there are a few ways i can think about this: 
+- one is to think about it as a project. that way, my synth wall is probably the best thing i have at the moment. it: 
+	- gives me a big physical project. 
+	- allows me to continue exploring electronics. 
+	- actually make a shareable project about sound. 
+- second is to think about it as a way to explore composition. i understand more about myself sonically, by choosing a program and sticking with it (perhaps tidalcycles or pure-data). 

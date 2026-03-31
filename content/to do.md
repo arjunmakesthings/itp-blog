@@ -37,6 +37,8 @@ an always evolving list of things to do and read; hidden from the public website
 - [ ] https://en.wikipedia.org/wiki/Flatliners
 - [ ] museum of computers
 - [ ] from [[jesse simpson]]: https://www.kickstarter.com/projects/musicalbeings/tembo-a-new-musical-instrument-for-playful-music-making | https://www.musicalbeings.com
+- [ ] https://www.technologyreview.com/2020/06/03/1002589/technology-perpetuates-racism-by-design-simulmatics-charlton-mcilwain/
+- [ ] https://laboriacuboniks.net/manifesto/xenofeminism-a-politics-for-alienation/
 
 ---
 # all others: 

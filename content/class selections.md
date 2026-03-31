@@ -7,7 +7,7 @@ draft: "false"
 ---
 # fall 2026: 
 
-might end up taking 17.5 credits. confused still, and have to meet [[pedro]]. 
+might end up taking 18.5 credits. confused still, and have to meet [[pedro]]. 
 
 ![[IMG_7695.jpg]]
 
