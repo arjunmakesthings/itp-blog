@@ -24,6 +24,7 @@ so, i'll make a simulation-system for cells sharing something on a grid, but do 
 
 ---
 # outputs: 
+[sketch](https://arjunmakesthings.github.io/nature-of-code_sp2026/sketches/week-8_cellular-automata-and-fractals_1/index.html)
 
 ---
 

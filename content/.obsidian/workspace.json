@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5e13d477613e8ae",
+            "id": "f9f6bcc902aed6a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/jack b. du.md",
+                "file": "people/ankur.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "jack b. du"
+              "title": "ankur"
+            }
+          },
+          {
+            "id": "8e39298b34ed0b8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nature-of-code/noc_experiments_week-8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "noc_experiments_week-8"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "class selec",
+                "query": "reich",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -197,13 +212,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a5e13d477613e8ae",
+  "active": "8e39298b34ed0b8d",
   "lastOpenFiles": [
-    "nature-of-code/noc_experiments_week-8.md",
+    "nature-of-code/index.md",
+    "people/ankur.md",
+    "making others feel seen.md",
+    "sound-studio/ss_experiments_week-9.md",
+    "bioart-as-biopolitics/ba-reading-notes_week-1.md",
     "people/jack b. du.md",
+    "nature-of-code/noc_experiments_week-8.md",
     "z_images/Screenshot 2026-03-29 at 21.51.27.webp",
     "resources & tools/everything about motors.md",
-    "sound-studio/ss_experiments_week-9.md",
     "sound-studio/index.md",
     "z_images/Screenshot 2026-03-31 at 00.06.17.png",
     "z_images/Screenshot 2026-03-30 at 23.17.48.png",
@@ -211,7 +230,6 @@
     "ga_ima_physical-computing_class_log.md",
     "projects-by-other-people/physical-computing's greatest hits, by tom igoe.md",
     "class selections.md",
-    "nature-of-code/index.md",
     "z_images/260329_vid.mp4",
     "z_images/Screen Recording 2026-03-29 at 21.42.54.mp4",
     "ask yourself why you care about this.md",
@@ -234,9 +252,6 @@
     "from the hardmode hackathon at mit-media-lab.md",
     "people/noah dorazio.md",
     "people/aman.md",
-    "people/shaunaq.md",
-    "people/jesse simpson.md",
-    "people/zach lieberman.md",
     "z_images/shift register normal.mp4",
     "z_images/same clocks.mp4",
     "z_images/IMG_7595.mp4",

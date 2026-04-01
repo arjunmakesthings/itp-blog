@@ -1,0 +1,1 @@
+he co-founded tinkerlabs, a behaviour-design consultancy i worked at between 2
