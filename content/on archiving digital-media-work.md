@@ -6,7 +6,7 @@ tags:
 noteOrder: "298"
 draft: "false"
 ---
-writing draft for a note i want to publish: 
+draft for a note i published here: http://arjunmakesthings.github.io/notes/2026_on-archiving-digital-media-work/page.html
 
 ---
 
