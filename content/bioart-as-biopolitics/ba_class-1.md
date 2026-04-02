@@ -19,6 +19,8 @@ focault defined biopolitics with these pillars:
 
 learned about [[epigenetics]]. 
 
+spoke about the [[dirty dozen & clean 15]]. 
+
 "predictable population" by focault when talking about the power in biopolitics. used to control; so as to maintain status quo. 
 
 - ==using art to find vulnerabilities, as a kind of 'fuck-you' to big companies.==

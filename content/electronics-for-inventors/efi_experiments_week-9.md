@@ -2,7 +2,7 @@
 date: 2026-03-24
 tags:
   - experiments
-noteOrder: "288"
+noteOrder: "297"
 draft: "false"
 ---
 redid the shift register stuff from [[efi_class-6]]. 
