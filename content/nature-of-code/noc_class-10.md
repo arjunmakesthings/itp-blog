@@ -13,3 +13,6 @@ spoke about genetic algorithms. must have:
 ``` js
 let touched_cells = cells.filter(cell => {return cell.isTouched(mouseX, mouseY)}); 
 ```
+
+spoke about [[lenia artificial life, by bert-wang-chak-chan]]. 
+

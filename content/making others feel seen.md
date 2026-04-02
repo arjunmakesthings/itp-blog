@@ -12,4 +12,3 @@ this post by [[ankur]] made me realize why it's perhaps important to greet every
 https://www.linkedin.com/posts/ankurgrover078_almost-15-years-ago-a-shopkeeper-in-singapore-share-7444618462972289025-YYd0?utm_source=share&utm_medium=member_desktop&rcm=ACoAADD9lsYBpabeUyxTBeMZCWcfzIEQXT7ZUuc
 
 
-
