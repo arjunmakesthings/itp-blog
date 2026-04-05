@@ -43,3 +43,8 @@ made a filter with an op-amp, for [[ss_experiments_week-4-&-5]].
 [[luke dubois]] suggested that i buy pcb-mountable potentiometers, and power the whole thing with a different jack. 
 
 ---
+
+sequencer, with the shift-register learnt in [[electronics-for-inventors/index|electronics-for-inventors]]. 
+
+![[260404.mp4]]
+
