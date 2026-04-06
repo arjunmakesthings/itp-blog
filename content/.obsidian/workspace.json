@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "a silent conversation, with ryan webber"
             }
+          },
+          {
+            "id": "b6cbb08a5b2e505b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "solenoid-bouncing-robot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "solenoid-bouncing-robot"
+            }
+          },
+          {
+            "id": "e26ad53def7a52aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "electronics-for-inventors/efi_class-9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "efi_class-9"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "performa",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,13 +117,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -214,8 +240,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a6da5ed1b2cd90e1",
+  "active": "b6cbb08a5b2e505b",
   "lastOpenFiles": [
+    "z_images/IMG_7728.mp4",
+    "electronics-for-inventors/efi_class-9.md",
+    "solenoid-bouncing-robot.md",
+    "a silent conversation, with ryan webber.md",
     "z_images/EI8A9999.webp",
     "z_images/EI8A9998.webp",
     "z_images/EI8A9997.webp",
@@ -226,9 +256,7 @@
     "z_images/EI8A9985.webp",
     "z_images/EI8A9986.webp",
     "z_images/EI8A9984.webp",
-    "z_images/EI8A9983.webp",
     "nature-of-code/noc_final-log.md",
-    "a silent conversation, with ryan webber.md",
     "people/aram.md",
     "nature-of-code/noc_class-10.md",
     "nature-of-code/index.md",
@@ -251,8 +279,6 @@
     "terms & concepts/genotype vs phenotype.md",
     "people/noah dorazio.md",
     "people/ankur.md",
-    "resources & tools/genspace.md",
-    "people/jack b. du.md",
     "z_images/260329_vid.mp4",
     "z_images/Screen Recording 2026-03-29 at 21.42.54.mp4",
     "z_images/shift register normal.mp4",
