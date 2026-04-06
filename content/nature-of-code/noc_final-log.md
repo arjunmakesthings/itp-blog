@@ -30,6 +30,8 @@ was pretty sold on the idea that the computer needs to learn how to program. i'd
 
 [[aram]] is more ambitious; while i'm more conservative (keeping in mind that i have a big build for [[sound-studio/index|sound-studio]]). 
 
+![[260405_noc-sketch.webp]]
+
 ---
 
 
