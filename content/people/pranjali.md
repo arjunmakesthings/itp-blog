@@ -1,0 +1,1 @@
+friend. works at google; was in columbia. we've been friends for 10 years now; never were close, but find ourselves in new-york now.
