@@ -41,3 +41,10 @@ realized banana-cables are very expensive. no time to pivot now.
 
 [[audrey]] helped me cut my 8x4ft panels to 7x4ft. she suggested to use the shaper to cut the breadboard-cut-outs, but i was under-confident; booked an office-hour with [[ian cox]]. 
 
+[[phil]] helped me understand the [shaper](https://support.shapertools.com/hc/en-us/articles/115002721473-Cut-Type-Encoding), and [[audrey]] kindly helped me set it up. 
+
+to put updates of routing, next steps. 
+
+---
+
+

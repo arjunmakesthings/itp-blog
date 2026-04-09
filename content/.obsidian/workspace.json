@@ -4,67 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "dc332da804ae2b60",
+        "id": "a7bd38e1b1d58c6d",
         "type": "tabs",
         "children": [
           {
-            "id": "c2df489b32b055d6",
+            "id": "f3be92fdc7c01c92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nature-of-code/noc_final-log.md",
+                "file": "ask yourself why you care about this.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "noc_final-log"
+              "title": "ask yourself why you care about this"
             }
           },
           {
-            "id": "a6da5ed1b2cd90e1",
+            "id": "55944042f09e2424",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a silent conversation, with ryan webber.md",
+                "file": "questions instead of ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "a silent conversation, with ryan webber"
-            }
-          },
-          {
-            "id": "b6cbb08a5b2e505b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "solenoid-bouncing-robot.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "solenoid-bouncing-robot"
-            }
-          },
-          {
-            "id": "e26ad53def7a52aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "electronics-for-inventors/efi_class-9.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "efi_class-9"
+              "title": "questions instead of ideas"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,12 +210,26 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b6cbb08a5b2e505b",
+  "active": "f3be92fdc7c01c92",
   "lastOpenFiles": [
-    "z_images/IMG_7728.mp4",
-    "electronics-for-inventors/efi_class-9.md",
-    "solenoid-bouncing-robot.md",
+    "making others feel seen.md",
+    "ask yourself why you care about this.md",
     "a silent conversation, with ryan webber.md",
+    "solenoid-bouncing-robot.md",
+    "forcing myself into uncomfortable situations, and the nyu global arts salon.md",
+    "games and the magic circle.md",
+    "if not money, then what?.md",
+    "questions instead of ideas.md",
+    "bioart-as-biopolitics/ba_class-2.md",
+    "nature-of-code/noc_class-11.md",
+    "sound-studio/ss_final-log.md",
+    "people/randall.md",
+    "projects-by-other-people/evolved virtual creatures, by karl simms.md",
+    "people/ellen d. jorgensen.md",
+    "nature-of-code/noc_final-log.md",
+    "electronics-for-inventors/efi_class-9.md",
+    "projects-by-other-people/plotclock.md",
+    "z_images/IMG_7728.mp4",
     "z_images/EI8A9999.webp",
     "z_images/EI8A9998.webp",
     "z_images/EI8A9997.webp",
@@ -256,29 +240,16 @@
     "z_images/EI8A9985.webp",
     "z_images/EI8A9986.webp",
     "z_images/EI8A9984.webp",
-    "nature-of-code/noc_final-log.md",
     "people/aram.md",
     "nature-of-code/noc_class-10.md",
     "nature-of-code/index.md",
     "analog synth experiments.md",
     "z_images/260404.mp4",
-    "sound-studio/ss_final-log.md",
     "bioart-as-biopolitics/index.md",
     "on archiving digital-media-work.md",
     "electronics-for-inventors/index.md",
     "sound-studio/ss_class-10.md",
-    "ask yourself why you care about this.md",
-    "making others feel seen.md",
-    "bioart-as-biopolitics/ba_class-2.md",
     "projects-by-other-people/lenia artificial life, by bert-wang-chak-chan.md",
-    "sound-studio/ss_experiments_week-9.md",
-    "projects-by-other-people/kevin esvelt's gene drive proposition.md",
-    "bioart-as-biopolitics/ba-reading-notes_week-1.md",
-    "projects-by-other-people/stranger visions.md",
-    "projects-by-other-people/physical-computing's greatest hits, by tom igoe.md",
-    "terms & concepts/genotype vs phenotype.md",
-    "people/noah dorazio.md",
-    "people/ankur.md",
     "z_images/260329_vid.mp4",
     "z_images/Screen Recording 2026-03-29 at 21.42.54.mp4",
     "z_images/shift register normal.mp4",
@@ -287,7 +258,6 @@
     "z_images/IMG_7596.mp4",
     "z_images/IMG_7597.mp4",
     "z_images/IMG_7604.mp4",
-    "z_images/IMG_7602.mp4",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
