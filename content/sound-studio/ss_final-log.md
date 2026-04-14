@@ -9,9 +9,9 @@ draft: "false"
 the idea is to build a community-synth-wall, that can be operated with breadboard-audio-circuits. 
 
 ### why: 
-many people at itp — like me & [[gabriel]] — get interested in sound-circuits as they are introduced to physical-computing. these circuits take time to build, and synthesizing a complex-sound requires you to build many of them. there is currently no way to 'immortalize' a circuit — i.e: have it ready to use in conjunction with something that you're testing. you either have to solder it and store it (storage is already a problem at itp), or keep reconstructing simple circuits each time (such as a 555-clock-circuit or signal-generator). 
+many people at itp — like me & [[gabriel]] — get interested in sound-circuits as we're introduced to physical-computing. these circuits take time to build, and synthesizing a complex-sound requires you to build many of them. there is currently no way to 'immortalize' a circuit — i.e: have it ready to use in conjunction with something else that you want to test. you either have to solder it and store it (storage is already a problem at itp), or keep reconstructing simple circuits each time (such as a 555-clock-circuit or signal-generator). 
 
-i had two directions that i could have taken with my final — work on something compositionally-rich, or build out a big project. i see value in the synth wall: both for personal-experimentation, and for larger community use at itp / ima / idm. i operated conservatively during my first-semester, building smaller projects & cutting ambition, while seeing others (like [[cody]]) build projects bigger in scale. 
+i had two directions that i could have taken with my final — work on something compositionally-rich, or build out a big project. i see value in the synth wall: both for personal-experimentation (later), and for larger community use at itp / ima / idm. i operated conservatively during my first-semester, building smaller projects & cutting ambition, while seeing others (like [[cody]]) build projects bigger in scale. 
 
 so, this synth-wall is my attempt at a big-scale project. i tried involving [[gabriel]], but i think he'd like to pursue other interests for now.
 
@@ -40,10 +40,21 @@ realized banana-cables are very expensive. no time to pivot now.
 ---
 
 [[audrey]] helped me cut my 8x4ft panels to 7x4ft. she suggested to use the shaper to cut the breadboard-cut-outs, but i was under-confident; booked an office-hour with [[ian cox]]. 
-
 [[phil]] helped me understand the [shaper](https://support.shapertools.com/hc/en-us/articles/115002721473-Cut-Type-Encoding), and [[audrey]] kindly helped me set it up. 
 
-to put updates of routing, next steps. 
+shaped for 5-hours.
+
+![[IMG_8178.webp]]
+
+![[IMG_8183.webp]]
+
+![[IMG_7735.webp]]
+
+at this point, i ran into problems of mounting the breadboard. with [[phil]], [[aram]], [[matt]] & [[ian cox]], i figured out how to build the rest of the structure. 
+
+[[aram]] also recommended me to make a cardboard prototype, which showed a few things that i hadn't thought about before. 
+
+==it was dumb of me not to make a cardboard prototype before starting the whole build.==
 
 ---
 

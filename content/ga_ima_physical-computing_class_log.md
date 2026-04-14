@@ -81,3 +81,7 @@ this workshop pushes students to define concrete-aspirations for their physical-
 - physical computing greatest hits: https://www.youtube.com/watch?v=_CeNRGCzXco
 
 ---
+
+# 260413: 
+[buck converters](https://www.amazon.com/Seloky-Converter-Adjustable-Electronic-Stabilizer/dp/B0DBVYP91F/ref=sr_1_3?adgrpid=1238050403338300&dib=eyJ2IjoiMSJ9.VQ26J6Hwlnf4srC1Pq_st7ji2tl6kg045XItbni3UImEUdRc-3XcUAIUz3ArkHRmwux_t2XKJC2QQ0UnGFz1KBJ2j40-HfDVGETSRH7FmAXNWQYQlGGgaBHo7u3euescyzAP6h1ENzrIyO-jVu3t_q9bEBMYifSw2bJg4kFkDdFFUANPEN9fsSjrAoR4rqzbFN6glLu2uo9JAXvjq42Z8ERJo8hTfmqu7ku3Rzhrgw4.SlE3JaZhbrDfKkbfZ6GxvK3LSuod1dSBar0ItWI-wp8&dib_tag=se&hvadid=77378317316394&hvbmt=be&hvdev=c&hvlocphy=97554&hvnetw=s&hvqmt=e&hvtargid=kwd-77378386217532%3Aloc-190&hydadcr=18341_13576971&keywords=buck%2Bconverter&mcid=409ac35c65a13b04bad99a620fccb0ab&msclkid=6bef6155845d1556f8b90888cbc301da&qid=1776111525&sr=8-3&th=1) (reduce voltage, boost up current) & boost converters (boost up voltage, current reduced). 
+
