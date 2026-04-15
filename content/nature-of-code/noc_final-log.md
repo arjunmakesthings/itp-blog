@@ -34,5 +34,10 @@ was pretty sold on the idea that the computer needs to learn how to program. i'd
 
 ---
 
+after a long session going back & forth, [[aram]] & i froze on our idea:
 
+![[IMG_7745.webp]]
 
+---
+
+i then began to write simple programs to demonstrate the workings of the idea.

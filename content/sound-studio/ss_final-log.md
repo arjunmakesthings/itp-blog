@@ -58,4 +58,12 @@ at this point, i ran into problems of mounting the breadboard. with [[phil]], [[
 
 ---
 
+made panels & wooden-standoffs. 
 
+![[IMG_7741.webp]]
+
+[[matt]] & [[aram]] suggested making some sort of platforms to keep the breadboards on.
+
+![[IMG_7747.webp]]
+
+i then began wiring & soldering. 
