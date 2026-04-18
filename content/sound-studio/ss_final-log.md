@@ -5,7 +5,7 @@ tags:
 noteOrder: "300"
 draft: "false"
 ---
-### what: 
+z### what: 
 the idea is to build a community-synth-wall, that can be operated with breadboard-audio-circuits. 
 
 ### why: 
@@ -19,13 +19,13 @@ so, this synth-wall is my attempt at a big-scale project. i tried involving [[ga
 
 sketched; spoke with [[ian cox]]; figured out the jacks & wires to use. 
 
-![[IMG_7725.webp|530]]
+![[IMG_7725.webp|360]]
 
 began putting dimensions on a wall, and moving around in that space. 
 
-![[IMG_7709.webp|595]]
+![[IMG_7709.webp|443]]
 
-![[IMG_7720.webp|483]]
+![[IMG_7720.webp|303]]
 
 purchased wood. at some point, i'd like to apply for the prototyping fund to get some of it back. 
 
@@ -44,11 +44,11 @@ realized banana-cables are very expensive. no time to pivot now.
 
 shaped for 5-hours.
 
-![[IMG_8178.webp]]
+![[IMG_8178.webp|522]]
 
-![[IMG_8183.webp]]
+![[IMG_8183.webp|523]]
 
-![[IMG_7735.webp]]
+![[IMG_7735.webp|520]]
 
 at this point, i ran into problems of mounting the breadboard. with [[phil]], [[aram]], [[matt]] & [[ian cox]], i figured out how to build the rest of the structure. 
 
@@ -60,10 +60,13 @@ at this point, i ran into problems of mounting the breadboard. with [[phil]], [[
 
 made panels & wooden-standoffs. 
 
-![[IMG_7741.webp]]
+![[IMG_7741.webp|515]]
 
 [[matt]] & [[aram]] suggested making some sort of platforms to keep the breadboards on.
 
-![[IMG_7747.webp]]
+![[IMG_7747.webp|512]]
 
-i then began wiring & soldering. 
+i then began wiring & soldering. it took way longer than i anticipated. 
+
+![[IMG_7762.webp|467]]
+

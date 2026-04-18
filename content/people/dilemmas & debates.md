@@ -1,1 +1,1 @@
-an unofficial group, organised by [[people/ryan|ryan]], that meets on wednesdays in room #413 between 1815 - 1930. 
+an unofficial group, organised by [[people/ryan|ryan]], that met on wednesdays in room #413 between 1815 - 1930 in the first year. 
