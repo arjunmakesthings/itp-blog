@@ -70,3 +70,12 @@ i then began wiring & soldering. it took way longer than i anticipated.
 
 ![[IMG_7762.webp|467]]
 
+---
+
+goodness gracious — i'm so happy.
+
+![[IMG_7794 2.webp|471]]
+
+![[IMG_7811.webp|471]]
+
+i have a little more soldering to do, and then i can bring it up from the basement & start making circuits. 
