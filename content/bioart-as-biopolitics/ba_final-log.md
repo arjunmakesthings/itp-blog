@@ -14,7 +14,7 @@ i met with [[ellen d. jorgensen]] at the biotech-without-borders lab, and we mad
 ![[260414_ba_plan.webp]]
 
 
-[[tani]] helped me see e. coli. bacteria under a light-microscope. i also broke some of their cover slides while trying to rush through the procedure; ==reminder to slow down.==
+[[tenni]] helped me see e. coli. bacteria under a light-microscope. i also broke some of their cover slides while trying to rush through the procedure; ==reminder to slow down.==
 
 ![[IMG_7752.mp4]]
 
