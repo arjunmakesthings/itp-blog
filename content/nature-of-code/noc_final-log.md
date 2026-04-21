@@ -253,3 +253,9 @@ class Attempt {
 }
 ```
 
+32 x 32 display matrix: https://cdn-learn.adafruit.com/downloads/pdf/32x16-32x32-rgb-led-matrix.pdf
+
+got the display matrix to work, but it didn't line up well. 
+
+![[IMG_7830.jpg]]
+

@@ -100,5 +100,21 @@ this workshop pushes students to define concrete-aspirations for their physical-
 - end wrap up jesse + arjun: 5m
 ref: https://www.tigoe.com/blog/category/physicalcomputing/405/
 
+---
+
+notes from [[jesse simpson]]'s lecture about project hardening: 
+- [[find dc cable size]]
+- use stranded for projects that move — more connection points; less prone to breakage (in comparison to solid-core). 
+- level nuts to make rails without soldering: https://www.wago.com/us/221-series-levernuts#overview
+
+stuff shown: 
+- [Ben Light on Fast DIY Enclosures](https://vimeo.com/album/2801639/video/79552842)
+- [Tom Igoe on Tidy Prototyping](https://vimeo.com/album/2801639/video/79552841)
+- [Jeff Feddersen on Generic Tactile Interfaces](https://vimeo.com/album/2801639/video/74775504)
+- [Benedetta Piantella on Ready-Made Enclosures](https://vimeo.com/album/2801639/video/80390691)
+- [Tom Igoe on Boxes](https://vimeo.com/album/2801639/video/79552841)
+- [Luisa Pereira on User Interfaces and Handling Complex Wiring](https://vimeo.com/album/2801639/video/79553235)
+
+
 
 
