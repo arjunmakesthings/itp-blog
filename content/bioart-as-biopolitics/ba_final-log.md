@@ -72,3 +72,4 @@ then purified it with a kit.
 
 ![[IMG_7826.webp|462]]
 
+later, i'll do a process called [[ligation]].
