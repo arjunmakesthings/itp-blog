@@ -73,3 +73,12 @@ then purified it with a kit.
 ![[IMG_7826.webp|462]]
 
 later, i'll do a process called [[ligation]].
+
+---
+
+made a presentation to explain what i'm doing in class. slides are here: https://arjunmakesthings.github.io/presentations/slides/260424_bioart-final.html#1
+
+i'm happy with how clearly i articulated things there. 
+
+---
+
