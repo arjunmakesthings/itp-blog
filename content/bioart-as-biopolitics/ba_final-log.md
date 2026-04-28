@@ -82,3 +82,32 @@ i'm happy with how clearly i articulated things there.
 
 ---
 
+[[gwen]] suggested looking at the cost of this: what is lost in the bacteria without my dna. [[heather dewey-hagborg]] recommended looking at the artifact as something that i could preserve & take care of — like a tamagotchi. 
+
+biobricks — little modules of dna you can put into a plasmid. 
+
+slime molds to generate paths (computational approach to fast routing). 
+
+who wrote the book of life book referenced by [[heather dewey-hagborg]]. 
+
+brave new world, shared by [[jua]]. listening to prozac — peter d. kramer.
+
+microdosing: 
+- https://www.microdosebros.com/microdosing-and-silicon-valley-how-a-life-hack-turned-into-more-than-a-lifestyle/ 
+- https://www.gq-magazine.co.uk/lifestyle/article/microdosing-lsd
+
+tim hawkinson — emoter: https://www.youtube.com/watch?v=MiqYBSk-fxo
+
+pink chicken: https://pinkchickenproject.com
+
+---
+
+# the cost of trying to hold on: 
+mitochondrial-dna (or mtdna) in human-beings is inherited by a child exclusively from their mother. therefore, as a single male child, my mother's mtdna is fatefully destined to die with me. 
+
+as an offspring with little to no tangible inheritance, learning about this made me want to instinctually preserve & keep this dna alive, and see it passed it down to future generations. through genetic-engineering with dr. ellen d. jorgensen at biotech-without-borders, we addressed my desire, and successfully expressed some of this mtdna into e. coli. bacteria cells — a commonly used organism in many biotech-labs. 
+
+however, my mtdna killed them. millions, living peacefully in small colonies on a petri dish, wiped out by a human-desire to preserve a piece of maternal inheritance. analogous to a world where people increasingly preserve more — data; objects; spaces; genomes — i wonder how many such organisms will be forced to bear the price for the human inability to let go. 
+
+### acknowledgements: 
+dr. heather-dewey-hagborg; dr. ellen d. jorgensen; biotech-without-borders; bioart-as-biopolitics cohort spring-2026. 
