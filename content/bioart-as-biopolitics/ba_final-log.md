@@ -110,10 +110,81 @@ pink chicken: https://pinkchickenproject.com
 
 ---
 
+this is the dna we received: 
 
+![[IMG_7844.webp]]
 
+for the ligation, i had to cut the dna at specific points: 
+
+![[IMG_7874.webp]]
+
+i then had to do a bacteria transformation with bl 21 (a particular strand of e. coli. that [[ellen d. jorgensen]] got for me from her lab). 
+
+the liquid bacteria we then put in a solution of lb and let it mix in the incubator + shaker.
+
+the transformation process is standard, but time consuming. 
+
+![[IMG_7873.webp]]
+
+![[IMG_7856.webp]]
+
+i also poured agar plates. the protocol is: 
+- lb agar + water (some gram per ml conversion that i forgot)
+- mix & autoclave (like pressure cook)
+- let it cool
+- add the antibiotic (i used kanamycin). 
+- pour plates — plates should be as sterile as possible. 
+- wait for them to cool / solidify. 
+- innoculate with bacteria. 
+
+for the proteins to be expressed, i also had to add 100ul of iptg (the activator that uses the t7 promoter). 
+
+![[IMG_7852.webp]]
+
+![[IMG_7850.webp]]
+
+![[IMG_7851.webp]]
+
+i also independently did pcrs & dna purification. pcr: 
+
+![[IMG_7855.webp]]
+
+purification protocol is usually on the kit, but here are my notes: 
+- binding buffer — centrifuge & dispose (dna gets stuck to the filter)
+- wash 2 times — centrifuge & dispose.
+- elute buffer and that gives you pure dna at the bottom. 
 
 ---
+
+when i went back the next day, after incubating at 37 degrees, i didn't get expected results. 
+
+![[IMG_7872.webp]]
+
+![[IMG_7869.webp]]
+
+![[IMG_7871.webp]]
+
+![[IMG_7868.webp]]
+
+![[IMG_7870.webp]]
+
+[[ellen d. jorgensen]] hypothesized that maybe my mtdna was killing the bacteria because it grew without iptg, but not with it. 
+
+to confirm, i streaked more plates. 
+
+---
+
+with those plates, i wrote to may others to let me get microscopic images. didn't hear back from anyone but biobus in harlem. 
+
+i went to harlem, and was told that the bulbs are broken — and that i can't get any images. 
+
+---
+
+i remembered how [[tenni]] showed me fluorescent microscopy, and i did the microscopy myself. 
+
+---
+
+in the meantime, the narrative was poetic to me so i wrote a description based on the hypothesis: 
 
 # the cost of trying to hold on: 
 mitochondrial-dna (or mtdna) in human-beings is inherited by a child exclusively from their mother. therefore, as a single male child, my mother's mtdna is fatefully destined to die with me. 
@@ -136,9 +207,22 @@ plasmid (green-fluorescent-protein + my mitochondrial-dna + pet28a) + e. coli. (
 
 plasmid (green-fluorescent-protein + my mitochondrial-dna + pet28a) + e. coli. (bl. 21) + iptg (activator for bacteria to use plasmid)
 
-raw sequence: 
+---
 
-``` 
-GATCTCGATCCCGCGAAATTAATACGACTCACTATAGGGGAATTGTGAGCGGATAACAATTCCCCTCTAGAAATAATTTTGTTTAACTTTAAGAAGGAGATATACCATGGGCAGCAGCCATCATCATCATCATCACAGCAGCGGCCTGGTGCCGCGCGGCAGCCATATGGCTAGCATGACTGGTGGACAGCAAATGGGTCGCggatccATGTGGGGAAGCAGATTTGGGTACCACCCAAGTATTGACTCACCCATCAACAACCGCTATGTATTTCGTACATTACTGCCAGCCACCATGAATATTGTACAGTACCATAAATACTTGACCACCTGTAGTGCAGACCCCTATCTGAGGGGGGTCATCCATGGGGACGAGAAGGGATTTGACTGTAATGTGCTATGTACGGTAAATGGCTTTATGTACTATGTACTGTTAAGGGTGGGTAGGTTTGTTGGTATCCTAGTGGGTGAGGGGTGGCTTTGGAGTTGCAGTGTTGGTATCCTAGTGatggtgagcaaaggcgaagaactgtttaccggcgtggtgccgattctggtggaactggatggcgatgtgaacggccataaatttagcgtgagcggcgaaggcgaaggcgatgcgacctatggcaaactgaccctgaaatttatttgcaccaccggcaaactgccggtgccgtggccgaccctggtgaccaccctgacctatggcgtgcagtgctttagccgctatccggatcatatgaaacagcatgatttttttaaaagcgcgatgccggaaggctatgtgcaggaacgcaccattttttttaaagatgatggcaactataaaacccgcgcggaagtgaaatttgaaggcgataccctggtgaaccgcattgaactgaaaggcattgattttaaagaagatggcaacattctgggccataaactggaatataactataacagccataacgtgtatattatggcggataaacagaaaaacggcattaaagtgaactttaaaattcgccataacattgaagatggcagcgtgcagctggcggatcattatcagcagaacaccccgattggcgatggcccggtgctgctgccggataaccattatctgagcacccagagcgcgctgagcaaagatccgaacgaaaaacgcgatcatatggtgct
-```
+final media: 
 
+![[IMG_7905.webp]]
+
+![[IMG_7904.webp]]
+
+![[IMG_7906.webp]]
+
+![[IMG_7903.webp]]
+
+![[vidloop_ba_bact.mp4]]
+
+i presented it like so: 
+
+---
+
+i enjoyed working in the lab. biotech is expensive — very, very expensive, and is a very delicate process (in contrast to electricity & code where you can 'hack' things together relatively quickly). 
