@@ -221,6 +221,8 @@ final media:
 
 ![[vidloop_ba_bact.mp4]]
 
+![[the-cost-of-trying-to-hold-on_prints_v1.pdf]]
+
 i presented it like so: 
 
 ![[IMG_7929.webp]]
