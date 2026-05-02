@@ -17,3 +17,5 @@ i learnt so much; became so much better; explored to the breadths of my curiosit
 i grew close to the cohort. i'm so thankful for the lovely people who nod in the hallways ([[making others feel seen]]); deal with my excitement; make weird faces; stare; hug; make me laugh; send me texts; respond to the things i make with excitement; entertain; eat food with me; understand; accept. god i love this place.
 
 somehow the [[people/index|people]] page became a thing? it started with [[noah dorazio]], and then later [[nasif]] said it is interesting to have the option of looking into someone's mind.
+
+![[1000106259-2.webp]]

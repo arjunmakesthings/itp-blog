@@ -79,3 +79,20 @@ goodness gracious — i'm so happy.
 ![[IMG_7811.webp|471]]
 
 i have a little more soldering to do, and then i can bring it up from the basement & start making circuits. 
+
+---
+
+i then installed the synth wall upstairs with [[ian cox]]. i realized that the ends left on the header pins were too short for the jumper wires, so i spent a day opening it all up and rewiring everything to solid-core wire. credit to [[nasif]] for the suggestion, and for [[aram]], [[octavio]] & [[matt]] for willing to help. 
+
+![[IMG_7837-2.webp]]
+
+used heatshrinks to avoid shorting. in retrospect, ==i should have used connectors.==
+
+![[IMG_7838-2.webp]]
+
+
+![[IMG_7839-2.webp]]
+
+
+---
+

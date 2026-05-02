@@ -80,8 +80,6 @@ made a presentation to explain what i'm doing in class. slides are here: https:/
 
 i'm happy with how clearly i articulated things there. 
 
----
-
 [[gwen]] suggested looking at the cost of this: what is lost in the bacteria without my dna. [[heather dewey-hagborg]] recommended looking at the artifact as something that i could preserve & take care of — like a tamagotchi. 
 
 biobricks — little modules of dna you can put into a plasmid. 
@@ -102,12 +100,28 @@ pink chicken: https://pinkchickenproject.com
 
 ---
 
+
+
+
+---
+
 # the cost of trying to hold on: 
 mitochondrial-dna (or mtdna) in human-beings is inherited by a child exclusively from their mother. therefore, as a single male child, my mother's mtdna is fatefully destined to die with me. 
 
-as an offspring with little to no tangible inheritance, learning about this made me want to instinctually preserve & keep this dna alive, and see it passed it down to future generations. through genetic-engineering with dr. ellen d. jorgensen at biotech-without-borders, we addressed my desire, and successfully expressed some of this mtdna into e. coli. bacteria cells — a commonly used organism in many biotech-labs. 
+as an offspring with little to no tangible inheritance, learning about this instinctually made me want to  preserve & keep this dna alive, and see it passed it down to future generations. through genetic-engineering with dr. ellen d. jorgensen at biotech-without-borders, we addressed this desire, and successfully managed to express some of my mtdna into e. coli. bacteria cells — a commonly used organism in many biotech-labs. 
 
-however, my mtdna killed them. millions, living peacefully in small colonies on a petri dish, wiped out by a human-desire to preserve a piece of maternal inheritance. analogous to a world where people increasingly preserve more — data; objects; spaces; genomes — i wonder how many such organisms will be forced to bear the price for the human inability to let go. 
+however, the moment we did so, we killed them. millions of them — living peacefully in small colonies on a petri dish — wiped out by a human-desire to preserve a piece of maternal inheritance. analogous to a world where people increasingly preserve more — data; objects; spaces; genomes — i wonder how many such organisms will bear the price for the human inability to let go. 
 
 ### acknowledgements: 
-dr. heather-dewey-hagborg; dr. ellen d. jorgensen; biotech-without-borders; bioart-as-biopolitics cohort spring-2026. 
+dr. heather dewey hagborg; dr. ellen d. jorgensen; biotech without borders; bioart-as-biopolitics cohort spring-2026. 
+
+### links: 
+- project log: https://arjunmakesthings.github.io/itp-blog/bioart-as-biopolitics/ba_final-log
+- initial proposal: https://arjunmakesthings.github.io/presentations/slides/260424_bioart-final#1
+
+
+plasmid (red-fluorescent-protein) + e. coli. (bl. 21) + iptg (activator for bacteria to use plasmid)
+
+plasmid (green-fluorescent-protein + my mitochondrial-dna + pet28a) + e. coli. (bl. 21)
+
+plasmid (green-fluorescent-protein + my mitochondrial-dna + pet28a) + e. coli. (bl. 21) + iptg (activator for bacteria to use plasmid)
