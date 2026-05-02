@@ -112,11 +112,11 @@ pink chicken: https://pinkchickenproject.com
 
 this is the dna we received: 
 
-![[IMG_7844.webp]]
+![[IMG_7844.webp|402]]
 
 for the ligation, i had to cut the dna at specific points: 
 
-![[IMG_7874.webp]]
+![[IMG_7874.webp|446]]
 
 i then had to do a bacteria transformation with bl 21 (a particular strand of e. coli. that [[ellen d. jorgensen]] got for me from her lab). 
 
@@ -124,9 +124,9 @@ the liquid bacteria we then put in a solution of lb and let it mix in the incuba
 
 the transformation process is standard, but time consuming. 
 
-![[IMG_7873.webp]]
+![[IMG_7873.webp|454]]
 
-![[IMG_7856.webp]]
+![[IMG_7856.webp|497]]
 
 i also poured agar plates. the protocol is: 
 - lb agar + water (some gram per ml conversion that i forgot)
@@ -139,15 +139,15 @@ i also poured agar plates. the protocol is:
 
 for the proteins to be expressed, i also had to add 100ul of iptg (the activator that uses the t7 promoter). 
 
-![[IMG_7852.webp]]
+![[IMG_7852.webp|401]]
 
-![[IMG_7850.webp]]
+![[IMG_7850.webp|399]]
 
-![[IMG_7851.webp]]
+![[IMG_7851.webp|406]]
 
 i also independently did pcrs & dna purification. pcr: 
 
-![[IMG_7855.webp]]
+![[IMG_7855.webp|410]]
 
 purification protocol is usually on the kit, but here are my notes: 
 - binding buffer — centrifuge & dispose (dna gets stuck to the filter)
@@ -158,15 +158,15 @@ purification protocol is usually on the kit, but here are my notes:
 
 when i went back the next day, after incubating at 37 degrees, i didn't get expected results. 
 
-![[IMG_7872.webp]]
+![[IMG_7872.webp|435]]
 
-![[IMG_7869.webp]]
+![[IMG_7869.webp|439]]
 
-![[IMG_7871.webp]]
+![[IMG_7871.webp|438]]
 
-![[IMG_7868.webp]]
+![[IMG_7868.webp|443]]
 
-![[IMG_7870.webp]]
+![[IMG_7870.webp|440]]
 
 [[ellen d. jorgensen]] hypothesized that maybe my mtdna was killing the bacteria because it grew without iptg, but not with it. 
 
@@ -211,13 +211,13 @@ plasmid (green-fluorescent-protein + my mitochondrial-dna + pet28a) + e. coli. (
 
 final media: 
 
-![[IMG_7905.webp]]
+![[IMG_7905.webp|399]]
 
-![[IMG_7904.webp]]
+![[IMG_7904.webp|401]]
 
-![[IMG_7906.webp]]
+![[IMG_7906.webp|406]]
 
-![[IMG_7903.webp]]
+![[IMG_7903.webp|412]]
 
 ![[vidloop_ba_bact.mp4]]
 
@@ -226,3 +226,7 @@ i presented it like so:
 ---
 
 i enjoyed working in the lab. biotech is expensive — very, very expensive, and is a very delicate process (in contrast to electricity & code where you can 'hack' things together relatively quickly). 
+
+making something substantial demands a long enquiry, and many resources. i don't know if — given the current state of the world — i'll have access to that during my time as a student (or beyond). 
+
+[[ellen d. jorgensen]] said i do better lab work (and am more confident) than some of her bio-grad-assistants. that was pleasant to hear. 
