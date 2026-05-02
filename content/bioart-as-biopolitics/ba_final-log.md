@@ -223,6 +223,10 @@ final media:
 
 i presented it like so: 
 
+![[IMG_7929.webp]]
+
+![[IMG_7921.webp]]
+
 ---
 
 i enjoyed working in the lab. biotech is expensive — very, very expensive, and is a very delicate process (in contrast to electricity & code where you can 'hack' things together relatively quickly). 
