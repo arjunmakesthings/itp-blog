@@ -236,3 +236,9 @@ i enjoyed working in the lab. biotech is expensive — very, very expensive, an
 making something substantial demands a long enquiry, and many resources. i don't know if — given the current state of the world — i'll have access to that during my time as a student (or beyond). 
 
 [[ellen d. jorgensen]] said i do better lab work (and am more confident) than some of her bio-grad-assistants. that was pleasant to hear. 
+
+---
+
+presented at the spring show like so: 
+
+![[IMG_7940.mp4]]

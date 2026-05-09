@@ -40,6 +40,12 @@ an always evolving list of things to do and read; hidden from the public website
 - [ ] https://www.technologyreview.com/2020/06/03/1002589/technology-perpetuates-racism-by-design-simulmatics-charlton-mcilwain/
 - [ ] https://laboriacuboniks.net/manifesto/xenofeminism-a-politics-for-alienation/
 
+from claire: 
+
+- https://lean-lang.org
+- proofs in music: https://arxiv.org/abs/0711.1873
+- https://icfp26.sigplan.org/home/farm-2026
+
 ---
 # all others: 
 
