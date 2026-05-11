@@ -104,4 +104,4 @@ multiple chaining simple:
 
 ![[IMG_7899.mp4]]
 
-![[IMG_7900.jpg]]
+![[IMG_7900.webp]]

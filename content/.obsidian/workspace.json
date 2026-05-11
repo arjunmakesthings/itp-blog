@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nature-of-code/noc_final-log.md",
+                "file": "bioart-as-biopolitics/ba_final-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "noc_final-log"
+              "title": "ba_final-log"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sound-studio/ss_final-log.md",
+                "file": "from the hardmode hackathon at mit-media-lab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ss_final-log"
+              "title": "from the hardmode hackathon at mit-media-lab"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "second-semester reflections"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,18 +226,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3982cf84c5e4aa4d",
+  "active": "bac20038fdbc5e1e",
   "lastOpenFiles": [
+    "z_images/IMG_7682.webp",
+    "z_images/IMG_7681.webp",
+    "sound-studio/ss_final-log.md",
+    "bioart-as-biopolitics/ba_final-log.md",
+    "nature-of-code/noc_final-log.md",
     "z_images/IMG_7891.mp4",
     "second-semester reflections.md",
-    "bioart-as-biopolitics/ba_final-log.md",
-    "sound-studio/ss_final-log.md",
-    "z_images/IMG_7900.jpg",
+    "z_images/IMG_7900.webp",
     "z_images/IMG_7899.mp4",
-    "nature-of-code/noc_final-log.md",
     "z_images/01FFECB0-377B-48A5-8328-05D73ABADE3CIMG_2354.mp4",
     "z_images/IMG_7888.mp4",
-    "z_images/IMG_7880.jpg",
+    "z_images/IMG_7880.webp",
     "z_images/IMG_7835.mp4",
     "artist material drafts.md",
     "z_images/IMG_7940.mp4",
@@ -260,7 +263,6 @@
     "z_images/IMG_7906.webp",
     "z_images/IMG_7903.webp",
     "z_images/IMG_7872.webp",
-    "z_images/IMG_7869.webp",
     "z_images/mtdna-plasmid_annotated-seq.pdf",
     "intro-to-physical-computing/midterm-log.md",
     "shop-staff application letter.md",
@@ -272,7 +274,6 @@
     "questions instead of ideas.md",
     "unorganized rant.md",
     "z_images/IMG_7827.heic",
-    "z_images/Screen Recording 2026-04-15 at 23.50.06.mp4",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",

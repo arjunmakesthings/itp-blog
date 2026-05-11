@@ -257,7 +257,7 @@ class Attempt {
 
 got the display matrix to work, but it didn't line up well. 
 
-![[IMG_7830.jpg]]
+![[IMG_7830.webp]]
 
 [[aram]] was courageous to admit his discomfort, and we playtested what we had. we didn't like it, and were back to no concepts. 
 
@@ -1218,7 +1218,7 @@ i was clear in my philosophy, and even when [[aram]] decided to use ai for ardui
 
 learning: 
 
-![[IMG_7880.jpg]]
+![[IMG_7880.webp]]
 
 slap test: 
 

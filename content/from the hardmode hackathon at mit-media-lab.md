@@ -42,9 +42,15 @@ surviving as an immigrant, working technology & the arts requires you to be loud
 
 we also won an electronics-prize at the hackathon — at a hackathon with engineers from the top schools of the world. that goes to ascertain that ==i'm not far behind==. 
 
-![[260309_2.jpg]]
+media: 
 
-![[260309_1.jpg]]
+![[IMG_7682.webp]]
+
+![[IMG_7681.webp]]
+
+![[260309_2.webp]]
+
+![[260309_1.webp]]
 
 what we made: 
 
