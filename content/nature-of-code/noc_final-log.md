@@ -1229,14 +1229,16 @@ in game:
 ![[01FFECB0-377B-48A5-8328-05D73ABADE3CIMG_2354.mp4]]
 
 
+[[daniel shiffman]] watching our thing felt like a wholesome moment. i learnt how to program via his videos: 
 
----
-
-
-
+![[IMG_7891.mp4]]
 
 ---
 
 from class: 
 
 [[raven]] presented her relational database that analyzes her text -messages and helps her start conversations.
+
+---
+
+[[aram]] & i then worked on it quite a bit more to get it ready for the show. 

@@ -103,3 +103,5 @@ basic one circuit working proof:
 multiple chaining simple: 
 
 ![[IMG_7899.mp4]]
+
+![[IMG_7900.jpg]]
