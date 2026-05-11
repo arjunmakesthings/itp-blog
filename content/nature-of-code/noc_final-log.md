@@ -1216,7 +1216,22 @@ function send_serial(c) {
 
 i was clear in my philosophy, and even when [[aram]] decided to use ai for arduino code, i was able to prompt his llm in a specific way; so that it didn't destroy the philosophy and structure of the code. 
 
+learning: 
+
+![[IMG_7880.jpg]]
+
+slap test: 
+
+![[IMG_7888.mp4]]
+
+in game:
+
+![[01FFECB0-377B-48A5-8328-05D73ABADE3CIMG_2354.mp4]]
+
+
+
 ---
+
 
 
 
