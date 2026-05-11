@@ -1239,6 +1239,12 @@ from class:
 
 [[raven]] presented her relational database that analyzes her text -messages and helps her start conversations.
 
+[[kia]]'s god fighting game was cool too: 
+
+![[IMG_7892.mp4]]
+
+![[IMG_7893.mp4]]
+
 ---
 
 [[aram]] & i then worked on it quite a bit more to get it ready for the show. 
