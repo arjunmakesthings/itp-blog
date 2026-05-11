@@ -7,6 +7,14 @@ tags:
 noteOrder: "316"
 draft: "false"
 ---
+---
+### watching theses: 
+- be there for others
+- practiced, articulate, paused
+- emotional, long, sustained enquiries. 
+
+---
+
 ### 260416: 
 i'm at peace with how the second semester went (although i am currently in the thick of it). 
 

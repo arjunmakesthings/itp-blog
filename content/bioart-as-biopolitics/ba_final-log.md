@@ -242,3 +242,5 @@ making something substantial demands a long enquiry, and many resources. i don't
 presented at the spring show like so: 
 
 ![[IMG_7940.mp4]]
+
+added four fsrs under the plate. [[cody]] helped me understand how to get more pressure on the fsr-s (through stacking up tape so that pressure is concentrated). 

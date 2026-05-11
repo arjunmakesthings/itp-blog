@@ -96,3 +96,6 @@ used heatshrinks to avoid shorting. in retrospect, ==i should have used connecto
 
 ---
 
+basic one circuit working proof: 
+
+![[IMG_7835.mp4]]

@@ -13,6 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "sound-studio/ss_final-log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ss_final-log"
+            }
+          },
+          {
+            "id": "577a5ea14c96bad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "second-semester reflections.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "second-semester reflections"
+            }
+          },
+          {
+            "id": "6ba559c90f7efa3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "bioart-as-biopolitics/ba_final-log.md",
                 "mode": "source",
                 "source": false
@@ -53,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "better daisy",
+                "query": "semester",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -199,12 +227,16 @@
   },
   "active": "3982cf84c5e4aa4d",
   "lastOpenFiles": [
+    "z_images/IMG_7835.mp4",
+    "second-semester reflections.md",
+    "bioart-as-biopolitics/ba_final-log.md",
+    "sound-studio/ss_final-log.md",
+    "artist material drafts.md",
     "z_images/IMG_7940.mp4",
     "nature-of-code/noc_final-log.md",
     "to do.md",
     "sound-studio/index.md",
     "analog synth experiments.md",
-    "sound-studio/ss_final-log.md",
     "show submissions.md",
     "zz_templates/index.md",
     "Untitled.md",
@@ -212,9 +244,7 @@
     "zz_templates/uncategorized.md",
     "zz_templates/course_experiments_week-x.md",
     "people/jua.md",
-    "second-semester reflections.md",
     "people/luke dubois.md",
-    "bioart-as-biopolitics/ba_final-log.md",
     "z_images/the-cost-of-trying-to-hold-on_prints_v1.pdf",
     "z_images/IMG_7921.webp",
     "z_images/IMG_7929.webp",
@@ -237,14 +267,12 @@
     "projects-by-other-people/embracing animal, by kathy high.md",
     "questions instead of ideas.md",
     "unorganized rant.md",
-    "tom's take on novelty & categorization.md",
     "z_images/IMG_7827.heic",
     "z_images/Screen Recording 2026-04-15 at 23.50.06.mp4",
     "z_images/loop-2.mp4",
     "z_images/loop-1.mp4",
     "z_images/IMG_7752.mp4",
     "z_images/IMG_7728.mp4",
-    "z_images/260404.mp4",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
