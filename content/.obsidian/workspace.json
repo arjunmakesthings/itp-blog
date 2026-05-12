@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3982cf84c5e4aa4d",
+            "id": "cb381c432c32f769",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bioart-as-biopolitics/ba_final-log.md",
+                "file": "talking to myself post spring show.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ba_final-log"
-            }
-          },
-          {
-            "id": "bac20038fdbc5e1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nature-of-code/noc_final-log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "noc_final-log"
-            }
-          },
-          {
-            "id": "577a5ea14c96bad8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "second-semester reflections.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "second-semester reflections"
-            }
-          },
-          {
-            "id": "56dfa113a6a82c78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "new and old internet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "new and old internet"
+              "title": "talking to myself post spring show"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,12 +196,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "56dfa113a6a82c78",
+  "active": "cb381c432c32f769",
   "lastOpenFiles": [
-    "dead internet theory.md",
+    "people/amitabh-aarthi.md",
+    "z_images/IMG_7944.webp",
+    "talking to myself post spring show.md",
     "new and old internet.md",
     "second-semester reflections.md",
     "nature-of-code/noc_final-log.md",
+    "bioart-as-biopolitics/ba_final-log.md",
+    "dead internet theory.md",
     "people/kia.md",
     "z_images/IMG_7893.mp4",
     "z_images/IMG_7892.mp4",
@@ -252,7 +213,6 @@
     "z_images/IMG_7682.webp",
     "z_images/IMG_7681.webp",
     "sound-studio/ss_final-log.md",
-    "bioart-as-biopolitics/ba_final-log.md",
     "z_images/IMG_7891.mp4",
     "z_images/IMG_7900.webp",
     "z_images/IMG_7899.mp4",
@@ -279,14 +239,10 @@
     "z_images/IMG_7905.webp",
     "z_images/IMG_7904.webp",
     "z_images/IMG_7906.webp",
-    "z_images/IMG_7903.webp",
     "intro-to-physical-computing/midterm-log.md",
     "shop-staff application letter.md",
     "nature-of-code/index.md",
     "haptics/vibration-motors.md",
-    "projects-by-other-people/electric stimulus to face, by daito manabe.md",
-    "people/gwen.md",
-    "projects-by-other-people/embracing animal, by kathy high.md",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
