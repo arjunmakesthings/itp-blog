@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recurse-center/thinking-through.md",
+                "file": "recurse-center/learning vim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "thinking-through"
+              "title": "learning vim"
             }
           },
           {
@@ -213,9 +213,10 @@
   },
   "active": "cb381c432c32f769",
   "lastOpenFiles": [
+    "recurse-center/thinking-through.md",
+    "recurse-center/learning vim.md",
     "nature-of-code/noc_final-log.md",
     "nature-of-code/noc_midterm-log.md",
-    "recurse-center/thinking-through.md",
     "people/anirudh.md",
     "z_images/IMG_7961.webp",
     "thesis/index.md",
@@ -239,7 +240,6 @@
     "electronics-for-inventors/efi_class-9.md",
     "electronics-for-inventors/efi_class-10-and-11.md",
     "electronics-for-inventors/efi_class-12.md",
-    "sound-studio/ss_class-10.md",
     "thesis",
     "musical-connections",
     "recurse-center",
