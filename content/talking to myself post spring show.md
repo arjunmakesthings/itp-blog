@@ -46,3 +46,5 @@ i need to preserve parts of me that make me human; that make me an artist; that 
 ---
 
 stop chasing this validation. you don't need others to make you feel like your life is worth living; your work is worth producing; and your thoughts are worth sharing. ==people see the goodness — you know it; don't forget it.== 
+
+https://www.recurse.com/calendar/events.ics?token=b16c1755a957ecc9f6198e2c14985265&foo=bar&omit_cancelled_events=1
