@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thesis/index.md",
+                "file": "recurse-center/thinking-through.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "thinking-through"
             }
           },
           {
@@ -213,13 +213,18 @@
   },
   "active": "cb381c432c32f769",
   "lastOpenFiles": [
+    "nature-of-code/noc_final-log.md",
+    "nature-of-code/noc_midterm-log.md",
+    "recurse-center/thinking-through.md",
+    "people/anirudh.md",
+    "z_images/IMG_7961.webp",
+    "thesis/index.md",
     "musical-connections/index.md",
     "people/anna palumbo.md",
     "recurse-center/index.md",
     "people/michael suguitan.md",
     "people/amitabh-aarthi.md",
     "second-semester reflections.md",
-    "thesis/index.md",
     "sortspec.md",
     "electronics-for-inventors/efi_class-1.md",
     "electronics-for-inventors/efi_experiments_week-1.md",
@@ -235,10 +240,6 @@
     "electronics-for-inventors/efi_class-10-and-11.md",
     "electronics-for-inventors/efi_class-12.md",
     "sound-studio/ss_class-10.md",
-    "sound-studio/ss_class-9.md",
-    "sound-studio/ss_midterm-log.md",
-    "sound-studio/ss_experiments_week-4-&-5.md",
-    "sound-studio/ss_experiments_week-3.md",
     "thesis",
     "musical-connections",
     "recurse-center",
@@ -258,7 +259,6 @@
     "z_images/IMG_7929.webp",
     "z_images/IMG_7905.webp",
     "z_images/IMG_7904.webp",
-    "z_images/IMG_7906.webp",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
