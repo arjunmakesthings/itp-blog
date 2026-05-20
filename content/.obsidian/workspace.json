@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recurse-center/learning vim.md",
+                "file": "sortspec.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "learning vim"
+              "title": "sortspec"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "semester",
+                "query": "#idea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -213,8 +213,10 @@
   },
   "active": "cb381c432c32f769",
   "lastOpenFiles": [
-    "recurse-center/thinking-through.md",
+    "terms & concepts/lisp programming languages.md",
+    "recurse-center/clojure workshop.md",
     "recurse-center/learning vim.md",
+    "recurse-center/thinking-through.md",
     "nature-of-code/noc_final-log.md",
     "nature-of-code/noc_midterm-log.md",
     "people/anirudh.md",
@@ -238,8 +240,6 @@
     "electronics-for-inventors/efi_class-8.md",
     "electronics-for-inventors/efi_experiments_week-9.md",
     "electronics-for-inventors/efi_class-9.md",
-    "electronics-for-inventors/efi_class-10-and-11.md",
-    "electronics-for-inventors/efi_class-12.md",
     "thesis",
     "musical-connections",
     "recurse-center",
