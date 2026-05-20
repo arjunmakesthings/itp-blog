@@ -1,19 +1,29 @@
 ---
+sorting-spec: |
+ target-folder: /
+ thesis
+ musical-connections
+ recurse-center
+ projects-by-other-people
+ resources & tools
+ terms & concepts
+ people
+ /:files
+ > created
+ /folders
+ sound-studio
+ nature-of-code
+ electronics-for-inventors
+ bioart-as-biopolitics
+ shader-time
+ haptics
+ applications
+ hypercinema
+ intro-to-computational-media
+ intro-to-fabrication
+ intro-to-physical-computing
+ z_images
+ zz_templates
+
 draft: true
-sorting-spec: |-
-  thesis
-  musical-connections
-  recurse-center
-  ---
-  projects-by-other-people
-  resources & tools
-  terms & concepts
-  people
-  > created
-  sound-studio
-  nature-of-code
-  electronics-for-inventors
-  bioart-as-biopolitics
-  shader-time
-  haptics
 ---
