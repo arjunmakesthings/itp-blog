@@ -5,9 +5,9 @@ tags:
 noteOrder: "325"
 draft: "false"
 ---
-learnt about [[lisp programming languages]]. 
+[[raf]] took this. 
 
-https://en.wikipedia.org/wiki/Lisp_(programming_language)
+learnt about [[lisp programming languages]]. 
 
 javascript was initially meant to be a lisp. 
 
