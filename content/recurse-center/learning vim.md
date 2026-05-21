@@ -44,3 +44,9 @@ undo, redo:
 `r` is replace.
 
 we write things in buffers. an empty or existing file is a buffer unless we write the buffer into the file.
+
+---
+
+took me a bit, but i customized vim to make it decent to look at (else it's horrendously ugly). i installed the nord arctic theme; moved to iterm; and changed the iterm default colours to nord. 
+
+![[Screenshot 2026-05-21 at 00.32.08.webp]]

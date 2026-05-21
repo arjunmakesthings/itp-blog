@@ -7,4 +7,4 @@ draft: "false"
 ---
 https://www.youtube.com/watch?v=SykxWpFwMGs
 
-learnt about prolog. seems very interesting to explore. 
+learnt about prolog, while looking at [[programming paradigms]] & logical-languages. seems very interesting to explore. 
