@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recurse-center/conversation with sarah & zach about bash, framework, etc.md",
+                "file": "recurse-center/conversation with sarah & zack about bash, framework, etc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conversation with sarah & zach about bash, framework, etc"
+              "title": "conversation with sarah & zack about bash, framework, etc"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "terms & concepts/kernel.md",
+                "file": "recurse-center/conversation with sarah & zack about bash, framework, etc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kernel"
+              "title": "conversation with sarah & zack about bash, framework, etc"
             }
           },
           {
@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "terms & concepts/lisp programming languages.md",
+                "file": "recurse-center/where homebrew installs stuff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lisp programming languages"
+              "title": "where homebrew installs stuff"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -253,14 +253,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "523a2f5ca12f8ea6",
+  "active": "cf6938812cef44f1",
   "lastOpenFiles": [
-    "terms & concepts/lisp programming languages.md",
-    "resources & tools/wikipedia structured contents dataset.md",
-    "terms & concepts/kernel.md",
-    "z_images/kernel.webp",
-    "recurse-center/conversation with sarah & zach about bash, framework, etc.md",
+    "z_images/Screenshot 2026-05-21 at 12.34.25.webp",
+    "recurse-center/conversation with sarah & zack about bash, framework, etc.md",
+    "recurse-center/where homebrew installs stuff.md",
     "people/zack dezon.md",
+    "terms & concepts/lisp programming languages.md",
+    "terms & concepts/unix.md",
+    "terms & concepts/kernel.md",
+    "resources & tools/wikipedia structured contents dataset.md",
+    "z_images/kernel.webp",
     "people/sarah schulte.md",
     "recurse-center/learning prolog.md",
     "recurse-center/learning vim.md",
@@ -282,9 +285,6 @@
     "recurse-center/index.md",
     "people/michael suguitan.md",
     "people/amitabh-aarthi.md",
-    "electronics-for-inventors/efi_class-1.md",
-    "electronics-for-inventors/efi_experiments_week-1.md",
-    "electronics-for-inventors/efi_class-2.md",
     "thesis",
     "musical-connections",
     "recurse-center",
