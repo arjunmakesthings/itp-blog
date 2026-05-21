@@ -3,7 +3,7 @@ date: 2026-05-21
 tags:
   - experiments
 noteOrder: "330"
-draft: "true"
+draft: "false"
 ---
 this is a log of my work on painting-algorithms during recurse center; summer-2026. 
 
