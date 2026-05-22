@@ -61,16 +61,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recurse-center/re-thinking-through.md",
+                "file": "recurse-center/intro-to-algorithms course.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "re-thinking-through"
+              "title": "intro-to-algorithms course"
+            }
+          },
+          {
+            "id": "955b60ff5cbabd36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recurse-center/temp note for check-in-check-outs.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "temp note for check-in-check-outs"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -143,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recurse-center/re-thinking-through.md",
+                "file": "recurse-center/temp note for check-in-check-outs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from re-thinking-through"
+              "title": "Outgoing links from temp note for check-in-check-outs"
             }
           },
           {
@@ -172,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recurse-center/re-thinking-through.md",
+                "file": "recurse-center/temp note for check-in-check-outs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +196,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for re-thinking-through"
+              "title": "Backlinks for temp note for check-in-check-outs"
             }
           },
           {
@@ -246,13 +260,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e3a8dd6dc40226ea",
+  "active": "955b60ff5cbabd36",
   "lastOpenFiles": [
-    "recurse-center/index.md",
     "recurse-center/intro-to-algorithms course.md",
     "recurse-center/nand2tetris.md",
-    "recurse-center/painting-algorithms_experiments-log.md",
     "recurse-center/re-thinking-through.md",
+    "recurse-center/painting-algorithms_experiments-log.md",
+    "recurse-center/where homebrew installs stuff.md",
+    "recurse-center/conversation with sarah & zack about bash, framework, etc.md",
+    "recurse-center/learning prolog.md",
+    "recurse-center/clojure workshop.md",
+    "recurse-center/learning vim.md",
+    "recurse-center/thinking-through.md",
+    "recurse-center/temp note for check-in-check-outs.md",
+    "recurse-center/index.md",
     "z_images/IMG_7963.webp",
     "all technology is assistive, by sarah hendren.md",
     "all design (technically) excludes people.md",
@@ -268,13 +289,6 @@
     "people/recurse-center.md",
     "people/index.md",
     "people/emily bernier.md",
-    "recurse-center/conversation with sarah & zack about bash, framework, etc.md",
-    "recurse-center/clojure workshop.md",
-    "terms & concepts/lisp programming languages.md",
-    "recurse center.md",
-    "intro-to-fabrication/fab_class-1.md",
-    "cool places or studios to look at.md",
-    "people/zack dezon.md",
     "z_images/Screen Recording 2026-05-21 at 17.34.48.mp4",
     "z_images/Screen Recording 2026-05-21 at 12.50.04.mp4",
     "z_images/Screenshot 2026-05-21 at 12.34.25.webp",
