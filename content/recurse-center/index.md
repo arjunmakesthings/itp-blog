@@ -15,10 +15,13 @@ i spent a lot of time falling in love with electricity last year; while programm
 so, i decided to fulfil the programmer screaming inside me; and dedicate my summer towards programming-projects (and programming-learning). 
 
 ---
+
+i am doing the following: 
+
+---
 # resources: 
 - [zulip](https://recurse.zulipchat.com/login/)
 - [calendar](https://www.recurse.com/calendar)
 - [rc wiki](https://github.com/recursecenter/wiki/wiki)
 
 ---
-		

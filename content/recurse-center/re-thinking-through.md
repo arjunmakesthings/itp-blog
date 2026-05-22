@@ -16,8 +16,8 @@ then, in a workshop about building volitional muscles (see [[volition]]), she ma
 
 i forced myself to make constraints — something i've learned over the years. my constraints were the following: 
 - ==do 1 long thing==-> painting-algorithms (see [[painting-algorithms_experiments-log]]). 
-- ==practice 1 small thing== -> livecoding music sketches (an hour a day). 
-- ==learn 2 new things (fundamentals)== -> nand2tetris (to understand computers better) & introduction to algorithms course (to sharpen my algorithmic thinking). as part of introduction-to-algorithms, i will also try to solve a few puzzles. 
+- ==practice 1 small thing== -> livecoding music sketches (an hour a day) -> see [repo](https://github.com/arjunmakesthings/programming-sketchbook/tree/main/tidal/sketches).
+- ==learn 2 new things (fundamentals)== -> [[nand2tetris]] (to understand computers better) & [[intro-to-algorithms course]] (to sharpen my algorithmic thinking). as part of introduction-to-algorithms, i will also try to solve a few puzzles. 
 
 i will do all of this while also: 
 - ==being open to serendipity== — go to events; talk; pair; go out of your comfort zone; et-cetera. 
@@ -27,4 +27,4 @@ i will do all of this while also:
 
 ---
 
-while saying so — rather definitively — i am also open to the possibility that my re-thinking-through might need re-re-thinking-through, as i make my way through these 11 weeks. 
+while saying so — rather definitively — i am also ==open to the possibility that my re-thinking-through might need re-re-thinking-through==, as i make my way through these 11 weeks. 

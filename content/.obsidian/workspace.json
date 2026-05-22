@@ -10,6 +10,54 @@
           {
             "id": "133e6eb4264af979",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recurse-center/painting-algorithms_experiments-log.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "painting-algorithms_experiments-log"
+            }
+          },
+          {
+            "id": "a187c40941b0df5b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recurse-center/nand2tetris.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "nand2tetris"
+            }
+          },
+          {
+            "id": "2bc2eba3e1634f36",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recurse-center/intro-to-algorithms course.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "intro-to-algorithms course"
+            }
+          },
+          {
+            "id": "e3a8dd6dc40226ea",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -21,7 +69,8 @@
               "title": "re-thinking-through"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sound-studio/index.md",
+                "file": "recurse-center/re-thinking-through.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from re-thinking-through"
             }
           },
           {
@@ -124,10 +173,10 @@
               "type": "backlink",
               "state": {
                 "file": "recurse-center/re-thinking-through.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -176,7 +225,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -197,8 +246,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "133e6eb4264af979",
+  "active": "e3a8dd6dc40226ea",
   "lastOpenFiles": [
+    "recurse-center/index.md",
+    "recurse-center/intro-to-algorithms course.md",
+    "recurse-center/nand2tetris.md",
+    "recurse-center/painting-algorithms_experiments-log.md",
+    "recurse-center/re-thinking-through.md",
     "z_images/IMG_7963.webp",
     "all technology is assistive, by sarah hendren.md",
     "all design (technically) excludes people.md",
@@ -211,7 +265,6 @@
     "talking to myself post spring show.md",
     "resources & tools/graphviz.md",
     "terms & concepts/volition.md",
-    "recurse-center/re-thinking-through.md",
     "people/recurse-center.md",
     "people/index.md",
     "people/emily bernier.md",
@@ -222,9 +275,6 @@
     "intro-to-fabrication/fab_class-1.md",
     "cool places or studios to look at.md",
     "people/zack dezon.md",
-    "zz_templates/testing-template.md",
-    "recurse-center/thinking-through.md",
-    "recurse-center/learning vim.md",
     "z_images/Screen Recording 2026-05-21 at 17.34.48.mp4",
     "z_images/Screen Recording 2026-05-21 at 12.50.04.mp4",
     "z_images/Screenshot 2026-05-21 at 12.34.25.webp",
@@ -244,7 +294,6 @@
     "z_images/IMG_7900.webp",
     "z_images/IMG_7899.mp4",
     "z_images/01FFECB0-377B-48A5-8328-05D73ABADE3CIMG_2354.mp4",
-    "z_images/IMG_7880.webp",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
