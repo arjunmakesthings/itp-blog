@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "aa9ec3ca6cf87bf3",
+        "id": "e29456f6bdf478c3",
         "type": "tabs",
         "children": [
           {
-            "id": "004bb87713f3ed88",
+            "id": "133e6eb4264af979",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "terms & concepts/lisp programming languages.md",
+                "file": "recurse-center/re-thinking-through.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lisp programming languages"
-            }
-          },
-          {
-            "id": "f0d07d8cfff254a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recurse-center/clojure workshop.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "clojure workshop"
-            }
-          },
-          {
-            "id": "e39d751dbfbb5b2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recurse-center/conversation with sarah & zack about bash, framework, etc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conversation with sarah & zack about bash, framework, etc"
-            }
-          },
-          {
-            "id": "523a2f5ca12f8ea6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recurse-center/conversation with sarah & zack about bash, framework, etc.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conversation with sarah & zack about bash, framework, etc"
-            }
-          },
-          {
-            "id": "cf6938812cef44f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recurse-center/painting-algorithms_experiments-log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "painting-algorithms_experiments-log"
+              "title": "re-thinking-through"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#idea",
+                "query": "recurse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -135,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -181,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "recurse-center/re-thinking-through.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for re-thinking-through"
             }
           },
           {
@@ -233,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -254,40 +197,41 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cf6938812cef44f1",
+  "active": "133e6eb4264af979",
   "lastOpenFiles": [
+    "z_images/IMG_7963.webp",
+    "all technology is assistive, by sarah hendren.md",
+    "all design (technically) excludes people.md",
+    "programmable resistors.md",
+    "dani bacon's talk.md",
+    "digital potentiometers.md",
+    "conversation with dan-o-sullivan.md",
+    "index.md",
+    "sortspec.md",
+    "talking to myself post spring show.md",
+    "resources & tools/graphviz.md",
+    "terms & concepts/volition.md",
+    "recurse-center/re-thinking-through.md",
+    "people/recurse-center.md",
+    "people/index.md",
+    "people/emily bernier.md",
+    "recurse-center/conversation with sarah & zack about bash, framework, etc.md",
+    "recurse-center/clojure workshop.md",
+    "terms & concepts/lisp programming languages.md",
+    "recurse center.md",
+    "intro-to-fabrication/fab_class-1.md",
+    "cool places or studios to look at.md",
+    "people/zack dezon.md",
+    "zz_templates/testing-template.md",
+    "recurse-center/thinking-through.md",
+    "recurse-center/learning vim.md",
     "z_images/Screen Recording 2026-05-21 at 17.34.48.mp4",
     "z_images/Screen Recording 2026-05-21 at 12.50.04.mp4",
-    "from presis.md",
-    "recurse-center/painting-algorithms_experiments-log.md",
-    "graphviz.md",
-    "recurse-center/where homebrew installs stuff.md",
     "z_images/Screenshot 2026-05-21 at 12.34.25.webp",
-    "recurse-center/conversation with sarah & zack about bash, framework, etc.md",
-    "people/zack dezon.md",
-    "terms & concepts/lisp programming languages.md",
-    "terms & concepts/unix.md",
-    "terms & concepts/kernel.md",
-    "resources & tools/wikipedia structured contents dataset.md",
     "z_images/kernel.webp",
-    "people/sarah schulte.md",
-    "recurse-center/learning prolog.md",
-    "recurse-center/learning vim.md",
-    "recurse-center/clojure workshop.md",
     "z_images/Screenshot 2026-05-21 at 00.32.08.webp",
-    "recurse-center/thinking-through.md",
-    "terms & concepts/programming paradigms.md",
-    "people/raf.md",
     "z_images/Screenshot 2026-05-20 at 16.04.56.webp",
-    "second-semester reflections.md",
-    "sortspec.md",
-    "nature-of-code/noc_final-log.md",
-    "nature-of-code/noc_midterm-log.md",
-    "people/anirudh.md",
     "z_images/IMG_7961.webp",
-    "thesis/index.md",
-    "musical-connections/index.md",
-    "people/anna palumbo.md",
     "thesis",
     "musical-connections",
     "recurse-center",
@@ -300,7 +244,6 @@
     "z_images/IMG_7900.webp",
     "z_images/IMG_7899.mp4",
     "z_images/01FFECB0-377B-48A5-8328-05D73ABADE3CIMG_2354.mp4",
-    "z_images/IMG_7888.mp4",
     "z_images/IMG_7880.webp",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",

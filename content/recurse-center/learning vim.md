@@ -24,6 +24,7 @@ commands:
 - `u` in normal mode undoes changes. 
 - `0` is beginning of current line & `$` jumps to end of line.
 - `h j k l` in normal mode moves the cursor.
+- `gg=G` unindents everything. 
 
 motions: 
 - an operator — like a key — followed by a motion: another key.

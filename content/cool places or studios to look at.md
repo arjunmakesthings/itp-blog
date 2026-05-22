@@ -7,4 +7,4 @@ draft: "false"
 ---
 - [culturehub](https://www.culturehub.org/)
 - [volvoxlabs](https://www.volvoxlabs.com/)
-- [[recurse center]]. 
+- [[recurse-center]]. 

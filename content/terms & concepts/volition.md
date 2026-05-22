@@ -1,0 +1,10 @@
+---
+tags:
+  - terms_and_concepts
+draft: "false"
+---
+https://en.wikipedia.org/wiki/Volition_(psychology)
+
+> Volition, also known as will or conation, is the ==cognitive process by which an individual decides on and commits to a particular course of action. It is defined as purposive striving== and is one of the primary human psychological functions. Others include affect (feeling or emotion), motivation (goals and expectations), and cognition (thinking). Volitional processes can be applied consciously or they can be automatized as habits over time.
+
+theoretically different from intuition, but feel similar for my working definition. 
