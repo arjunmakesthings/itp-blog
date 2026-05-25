@@ -13,7 +13,7 @@ presented [this](https://arjunmakesthings.github.io/presentations/slides/260521_
 
 ---
 
-it was heartwarming to find so many people come up, and validate that my work was interesting, original, and technically & poetically meaningful. 
+it was heartwarming to find so many people come up, and validate that my work was interesting, original, and technically & poetically rich. 
 
 [mike wehar](http://www.michaelwehar.com/) came up, and kindly said that i should apply to give a ted talk. 
 
