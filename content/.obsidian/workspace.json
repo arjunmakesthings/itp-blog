@@ -103,12 +103,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "composition talk.md",
+                "file": "composition 1 talk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "composition talk"
+              "title": "composition 1 talk"
             }
           }
         ],
@@ -293,7 +293,7 @@
     "z_images/705350568_17887186266544401_4736454152326840477_n..webp",
     "z_images/706028813_17887185570544401_3310874008418170445_n..webp",
     "recurse-center/temp note for check-in-check-outs.md",
-    "composition talk.md",
+    "composition 1 talk.md",
     "recurse-center/conv with blinry.md",
     "people/blinry.md",
     "recurse-center/intro-to-algorithms course.md",
