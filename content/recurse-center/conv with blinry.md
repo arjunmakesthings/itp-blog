@@ -13,6 +13,8 @@ he told me about fish: https://fishshell.com
 
 a shell with auto-complete and what-not. 
 
+look at lazyvim. perhaps start with nvim because it can run a lsp, and has a bunch of lint things that are useful. 
+
 
 
 
