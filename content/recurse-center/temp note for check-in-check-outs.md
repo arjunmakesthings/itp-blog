@@ -4,11 +4,12 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260522_check-in:
+### 260527_check-in:
 
-feeling a bit tired. hectic weekend; spoke at [composition](https://arjunmakesthings.github.io/itp-blog/composition-1-talk).
+feeling okay. a little sleepy. would like to get some programming done; but also have chores to do in the night.
 
-- pairing jam with tony & khalelel. 
-- maybe: improv jam in the evening.
-
-https://www.recurse.com/calendar/events.ics?token=b16c1755a957ecc9f6198e2c14985265&foo=bar&omit_cancelled_events=1
+* shaders interest group @12.
+* write emails to anna, mike (for algoart), and others from composition.
+* writing circle -> write draft for 'stance on ai'.
+* attend non-programming talks.
+* finish & push ping-pong template as p.o.c. for gpu computing & gpu memory (for drawing over time & retaining previous state).

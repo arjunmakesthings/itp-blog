@@ -8,6 +8,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "c59b80fefbdf698a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recurse-center/temp note for check-in-check-outs.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "temp note for check-in-check-outs"
+            }
+          },
+          {
             "id": "133e6eb4264af979",
             "type": "leaf",
             "pinned": true,
@@ -54,65 +70,8 @@
               "icon": "lucide-file",
               "title": "intro-to-algorithms course"
             }
-          },
-          {
-            "id": "e3a8dd6dc40226ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recurse-center/intro-to-algorithms course.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "intro-to-algorithms course"
-            }
-          },
-          {
-            "id": "955b60ff5cbabd36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recurse-center/conv with blinry.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conv with blinry"
-            }
-          },
-          {
-            "id": "c59b80fefbdf698a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recurse-center/conv with blinry.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conv with blinry"
-            }
-          },
-          {
-            "id": "de01a72127caacf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "composition 1 talk.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "composition 1 talk"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -271,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,15 +251,15 @@
   },
   "active": "c59b80fefbdf698a",
   "lastOpenFiles": [
+    "recurse-center/intro-to-algorithms course.md",
+    "composition 1 talk.md",
+    "recurse-center/conv with blinry.md",
     "recurse-center/temp note for check-in-check-outs.md",
     "recurse-center/260522_check-out.md",
-    "composition 1 talk.md",
     "talking to myself post spring show.md",
     "z_images/705350568_17887186266544401_4736454152326840477_n..webp",
     "z_images/706028813_17887185570544401_3310874008418170445_n..webp",
-    "recurse-center/conv with blinry.md",
     "people/blinry.md",
-    "recurse-center/intro-to-algorithms course.md",
     "recurse-center/nand2tetris.md",
     "recurse-center/re-thinking-through.md",
     "recurse-center/painting-algorithms_experiments-log.md",
