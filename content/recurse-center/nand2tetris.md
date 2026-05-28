@@ -5,7 +5,7 @@ tags:
 noteOrder: "333"
 draft: "false"
 ---
-done with [[zack dezon]] at the [[recurse-center]] in summer'26. 
+doing this with [[zack dezon]] at the [[recurse-center]] in summer'26. 
 
 ---
 # resources: 

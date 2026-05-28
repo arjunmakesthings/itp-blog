@@ -6,9 +6,10 @@ tags:
 noteOrder: "334"
 draft: "false"
 ---
-done at the [[recurse-center]] in summer '26. 
+doing at the [[recurse-center]] in summer '26. 
 
-followed this: https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/
+following this: https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/
 
 ---
 
+documented in this folder: [[intro-to-algorithms/index|intro-to-algorithms]]. 

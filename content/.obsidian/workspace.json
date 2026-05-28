@@ -56,33 +56,17 @@
             }
           },
           {
-            "id": "2bc2eba3e1634f36",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recurse-center/intro-to-algorithms course.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "intro-to-algorithms course"
-            }
-          },
-          {
-            "id": "77206122ecd237a4",
+            "id": "3ba10fd9f1586acf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nature-of-code/index.md",
+                "file": "on sacrifices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "on sacrifices"
             }
           },
           {
@@ -91,12 +75,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/raspreet.md",
+                "file": "intro-to-algorithms/ita_lecture-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "raspreet"
+              "title": "ita_lecture-1"
             }
           },
           {
@@ -112,9 +96,50 @@
               "icon": "lucide-file",
               "title": "noah dorazio"
             }
+          },
+          {
+            "id": "550f2c8c0a7c7598",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro-to-algorithms/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "85ab17de46353092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro-to-algorithms/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "63774b64ec371fe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro-to-algorithms/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -290,20 +315,31 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6fb26bb77de66c55",
+  "active": "c59b80fefbdf698a",
   "lastOpenFiles": [
-    "people/noah dorazio.md",
-    "people/raspreet.md",
-    "recurse-center/re-thinking-through.md",
     "recurse-center/painting-algorithms_experiments-log.md",
+    "on sacrifices.md",
+    "resources & tools/visualize glsl functions.md",
+    "z_images/glsl-functions.webp",
+    "recurse-center/temp note for check-in-check-outs.md",
+    "intro-to-algorithms/ita_lecture-1.md",
+    "terms & concepts/pigeonhole principle.md",
+    "intro-to-algorithms/index.md",
+    "recurse-center/index.md",
+    "recurse-center/intro-to-algorithms course.md",
+    "sortspec.md",
+    "thesis/index.md",
+    "musical-connections/index.md",
+    "intro-to-algorithms",
+    "recurse-center/nand2tetris.md",
+    "people/raspreet.md",
+    "nature-of-code/index.md",
+    "people/noah dorazio.md",
+    "recurse-center/re-thinking-through.md",
     "recurse-center/conv with blinry.md",
     "recurse-center/260522_check-out.md",
     "recurse-center/dumas dutil message.md",
-    "recurse-center/temp note for check-in-check-outs.md",
     "z_images/dutil-dumas.webp",
-    "recurse-center/intro-to-algorithms course.md",
-    "recurse-center/nand2tetris.md",
-    "nature-of-code/index.md",
     "composition 1 talk.md",
     "talking to myself post spring show.md",
     "z_images/705350568_17887186266544401_4736454152326840477_n..webp",
@@ -311,17 +347,7 @@
     "people/blinry.md",
     "recurse-center/where homebrew installs stuff.md",
     "recurse-center/conversation with sarah & zack about bash, framework, etc.md",
-    "recurse-center/learning prolog.md",
-    "recurse-center/clojure workshop.md",
-    "recurse-center/learning vim.md",
-    "recurse-center/thinking-through.md",
-    "recurse-center/index.md",
     "z_images/IMG_7963.webp",
-    "all technology is assistive, by sarah hendren.md",
-    "all design (technically) excludes people.md",
-    "programmable resistors.md",
-    "dani bacon's talk.md",
-    "digital potentiometers.md",
     "z_images/Screen Recording 2026-05-21 at 17.34.48.mp4",
     "z_images/Screen Recording 2026-05-21 at 12.50.04.mp4",
     "z_images/Screenshot 2026-05-21 at 12.34.25.webp",
@@ -332,12 +358,10 @@
     "thesis",
     "musical-connections",
     "recurse-center",
-    "z_images/IMG_7944.webp",
     "z_images/IMG_7893.mp4",
     "z_images/IMG_7892.mp4",
     "z_images/IMG_7891.mp4",
     "z_images/IMG_7899.mp4",
-    "z_images/01FFECB0-377B-48A5-8328-05D73ABADE3CIMG_2354.mp4",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",

@@ -2,8 +2,9 @@
 sorting-spec: |-
   target-folder: /
   thesis
-  musical-connections
+  intro-to-algorithms
   recurse-center
+  musical-connections
   projects-by-other-people
   resources & tools
   terms & concepts

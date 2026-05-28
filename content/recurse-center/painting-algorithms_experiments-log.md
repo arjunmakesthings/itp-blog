@@ -27,3 +27,38 @@ flipped uv coordinates so that 0,0 is top left (to make drawing make more sense 
 
 ---
 
+# 260528: 
+discovered step and smoothstep in glsl, instead of writing if else statements. also discovered how combinatorial logic can also result in gates. 
+
+for example: 
+
+```glsl
+	if (mod(pos.x / size, 2.0)<1.0 && mod(pos.y / size, 2.0)<1.0){
+		color = vec3(1.0);
+	}
+	else{
+		color = vec3(0.0);
+	}
+```
+
+is the same as: 
+
+``` glsl
+	float x = step(1.0, mod(pos.x / size, 2.0));
+	float y = step(1.0, mod(pos.y / size, 2.0));
+
+	float xy = x * y;
+
+	color = vec3(xy);
+
+```
+
+step evaluates to 0.0 or 1.0 depending on the bound set. 
+
+a shorter version would be: 
+
+``` glsl
+          vec2 col = step(1.0, mod(pos / size, 2.0))
+          color = vec3(col.x * col.y);
+```
+
