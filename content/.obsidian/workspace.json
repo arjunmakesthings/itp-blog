@@ -98,45 +98,17 @@
             }
           },
           {
-            "id": "550f2c8c0a7c7598",
+            "id": "c231458fd537f18a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-algorithms/index.md",
+                "file": "projects-by-other-people/7702 vocoder, by harald bode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "85ab17de46353092",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-algorithms/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "63774b64ec371fe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-algorithms/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "7702 vocoder, by harald bode"
             }
           }
         ]
@@ -171,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "recurse",
+                "query": "ryoji",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -317,14 +289,18 @@
   },
   "active": "c59b80fefbdf698a",
   "lastOpenFiles": [
+    "intro-to-algorithms/ita_lecture-1.md",
+    "projects-by-other-people/7702 vocoder, by harald bode.md",
+    "intro-to-algorithms/index.md",
+    "projects-by-other-people/electric stimulus to face, by daito manabe.md",
+    "sound-studio/index.md",
+    "projects-by-other-people/data-verse, by ryoji ikeda.md",
+    "recurse-center/temp note for check-in-check-outs.md",
     "recurse-center/painting-algorithms_experiments-log.md",
     "on sacrifices.md",
     "resources & tools/visualize glsl functions.md",
     "z_images/glsl-functions.webp",
-    "recurse-center/temp note for check-in-check-outs.md",
-    "intro-to-algorithms/ita_lecture-1.md",
     "terms & concepts/pigeonhole principle.md",
-    "intro-to-algorithms/index.md",
     "recurse-center/index.md",
     "recurse-center/intro-to-algorithms course.md",
     "sortspec.md",
@@ -344,9 +320,6 @@
     "talking to myself post spring show.md",
     "z_images/705350568_17887186266544401_4736454152326840477_n..webp",
     "z_images/706028813_17887185570544401_3310874008418170445_n..webp",
-    "people/blinry.md",
-    "recurse-center/where homebrew installs stuff.md",
-    "recurse-center/conversation with sarah & zack about bash, framework, etc.md",
     "z_images/IMG_7963.webp",
     "z_images/Screen Recording 2026-05-21 at 17.34.48.mp4",
     "z_images/Screen Recording 2026-05-21 at 12.50.04.mp4",
