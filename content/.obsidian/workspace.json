@@ -16,7 +16,7 @@
               "state": {
                 "file": "recurse-center/temp note for check-in-check-outs.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
@@ -61,62 +61,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "on sacrifices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "on sacrifices"
-            }
-          },
-          {
-            "id": "6fb26bb77de66c55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-algorithms/ita_lecture-1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ita_lecture-1"
-            }
-          },
-          {
-            "id": "a20b7a8bad58adf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "people/noah dorazio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "noah dorazio"
-            }
-          },
-          {
-            "id": "c231458fd537f18a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects-by-other-people/7702 vocoder, by harald bode.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7702 vocoder, by harald bode"
-            }
-          },
-          {
-            "id": "be22debad1fb8a89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "recurse-center/260522_check-out.md",
                 "mode": "source",
                 "source": false
@@ -126,21 +70,35 @@
             }
           },
           {
-            "id": "b3eaa557e2129050",
+            "id": "748d82f649ca68c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recurse-center/dumas dutil message.md",
+                "file": "recurse-center/vomit-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dumas dutil message"
+              "title": "vomit-1"
+            }
+          },
+          {
+            "id": "79f0e693e6364701",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projects-by-other-people/sonic wire sculptor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sonic wire sculptor"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -172,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ryoji",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -316,19 +274,28 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3ba10fd9f1586acf",
+  "active": "79f0e693e6364701",
   "lastOpenFiles": [
-    "recurse-center/dumas dutil message.md",
+    "projects-by-other-people/evolved virtual creatures, by karl simms.md",
+    "projects-by-other-people/sonic wire sculptor.md",
+    "projects-by-other-people/sonic wire sculptor.md",
     "recurse-center/temp note for check-in-check-outs.md",
+    "recurse-center/vomit-1.md",
+    "people/sakina.md",
+    "people/sonali.md",
+    "people/raspreet.md",
     "recurse-center/260522_check-out.md",
-    "intro-to-algorithms/ita_lecture-1.md",
+    "recurse-center/nand2tetris.md",
+    "on sacrifices.md",
+    "recurse-center/dumas dutil message.md",
     "projects-by-other-people/7702 vocoder, by harald bode.md",
+    "people/noah dorazio.md",
+    "intro-to-algorithms/ita_lecture-1.md",
     "intro-to-algorithms/index.md",
     "projects-by-other-people/electric stimulus to face, by daito manabe.md",
     "sound-studio/index.md",
     "projects-by-other-people/data-verse, by ryoji ikeda.md",
     "recurse-center/painting-algorithms_experiments-log.md",
-    "on sacrifices.md",
     "resources & tools/visualize glsl functions.md",
     "z_images/glsl-functions.webp",
     "terms & concepts/pigeonhole principle.md",
@@ -336,17 +303,8 @@
     "recurse-center/intro-to-algorithms course.md",
     "sortspec.md",
     "thesis/index.md",
-    "musical-connections/index.md",
     "intro-to-algorithms",
-    "recurse-center/nand2tetris.md",
-    "people/raspreet.md",
-    "nature-of-code/index.md",
-    "people/noah dorazio.md",
-    "recurse-center/re-thinking-through.md",
-    "recurse-center/conv with blinry.md",
     "z_images/dutil-dumas.webp",
-    "composition 1 talk.md",
-    "talking to myself post spring show.md",
     "z_images/705350568_17887186266544401_4736454152326840477_n..webp",
     "z_images/706028813_17887185570544401_3310874008418170445_n..webp",
     "z_images/IMG_7963.webp",

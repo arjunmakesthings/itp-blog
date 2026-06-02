@@ -4,11 +4,19 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260601_check-out:
+### 260602_check-out:
 
-feeling: a little sick. 
+feeling: confused. 
 
-* ~~nvim session @1.~~ -> learnt about nvim stuff; decided to stick with vim and keep adding things as i go along. 
-* ~~shaders interest group @2.~~ -> did sdf stuff; made some circles. 
-* programmatic-sketching at @4 -> maybe cartesian drawing; maybe rotational studies; maybe mess around with the shader stuff. 
-* work on the paintbrush shader. 
+* speak with sonali.
+* zip format deep dive @1300.
+* chat with ben @1500. 
+* nand2tetris reading. 
+* resolve shader stuff from yesterday. if it gets too frustrating, go back to the sketch from yesterday's programmatic-sketching club. 
+* claude code career lessons @1830. 
+
+
+w/ sonali: 
+- bruce willis
+- fred kettelhoit ... 
+- amith pitaru
