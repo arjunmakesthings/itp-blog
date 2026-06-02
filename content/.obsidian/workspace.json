@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects-by-other-people/sonic wire sculptor.md",
+                "file": "on sacrifices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sonic wire sculptor"
+              "title": "on sacrifices"
             }
           }
         ],
@@ -276,9 +276,10 @@
   },
   "active": "79f0e693e6364701",
   "lastOpenFiles": [
+    "recurse-center/zip files.md",
+    "on sacrifices.md",
+    "projects-by-other-people/sonic wire sculptor.md",
     "projects-by-other-people/evolved virtual creatures, by karl simms.md",
-    "projects-by-other-people/sonic wire sculptor.md",
-    "projects-by-other-people/sonic wire sculptor.md",
     "recurse-center/temp note for check-in-check-outs.md",
     "recurse-center/vomit-1.md",
     "people/sakina.md",
@@ -286,7 +287,6 @@
     "people/raspreet.md",
     "recurse-center/260522_check-out.md",
     "recurse-center/nand2tetris.md",
-    "on sacrifices.md",
     "recurse-center/dumas dutil message.md",
     "projects-by-other-people/7702 vocoder, by harald bode.md",
     "people/noah dorazio.md",
