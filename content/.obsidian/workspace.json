@@ -24,6 +24,20 @@
             }
           },
           {
+            "id": "9c2d430456d9331b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conversations with mike.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conversations with mike"
+            }
+          },
+          {
             "id": "a0af1ed8cf9b0214",
             "type": "leaf",
             "state": {
@@ -275,6 +289,10 @@
   },
   "active": "c59b80fefbdf698a",
   "lastOpenFiles": [
+    "conversations with mike.md",
+    "z_images/w mike_260604.pdf",
+    "people/michael wehar.md",
+    "recurse-center/temp note for check-in-check-outs.md",
     "notes from the little schemer.md",
     "recurse-center/nand2tetris.md",
     "recurse-center/260522_check-out.md",
@@ -282,7 +300,6 @@
     "recurse-center/painting-algorithms_experiments-log.md",
     "terms & concepts/construct.md",
     "on why learn to code, from the little schemer..md",
-    "recurse-center/temp note for check-in-check-outs.md",
     "multiplexing workshop for stupid hackathon.md",
     "musical-connections/with mariana.md",
     "on sacrifices.md",
@@ -298,9 +315,6 @@
     "intro-to-algorithms/ita_lecture-1.md",
     "intro-to-algorithms/index.md",
     "projects-by-other-people/electric stimulus to face, by daito manabe.md",
-    "sound-studio/index.md",
-    "projects-by-other-people/data-verse, by ryoji ikeda.md",
-    "resources & tools/visualize glsl functions.md",
     "z_images/glsl-functions.webp",
     "intro-to-algorithms",
     "z_images/dutil-dumas.webp",
@@ -320,7 +334,6 @@
     "z_images/IMG_7893.mp4",
     "z_images/IMG_7892.mp4",
     "z_images/IMG_7891.mp4",
-    "z_images/IMG_7899.mp4",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",

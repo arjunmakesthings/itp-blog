@@ -4,18 +4,18 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260603_check-out:
+### 260604_check-out:
 
-feeling: ok.
+feeling: whiny. i think i have a slight cold, and will rest a bit this weekend to get out of it. 
 
-- ~~speak with mariana at @1030. ~~ -> write back to anna about the kind of people i want to observe. 
-- ~~nand2tetris at @1100.~~ -> 'nerd-sniped' people into getting started with electronics; gave a mini intro-to-electronics-lecture (we made an led blink with a button). 
-- ~~do pen plotter stuff from @1230.~~ -> tried; opened things up; failed to make any of the plotters work. 
-- ~~music interest group @1500.~~ -> made hardware beep-bop-beep on toph's synth.
-- ~~writing circle @1600.~~ -> didn't attend.  
-- ~~non-programming talk @1700.~~ 
-- prep for call with mike wehar tomorrow.
-- ~~maybe movie night? maybe pub trivia? idk.~~ -> going for burning man artist previews at eris.
+- ~~make map for talk with mike.~~ 
+- ~~talk with mike.~~ -> [notes]([[conversations with mike]]).
+- ~~go back home to get my stupid phone & come back to rc.~~
+- intro-to-algorithms lecture 2.
+- ~~speak with ty about the programming language.~~ -> he also suggested the crafting interpreters book; so i'll get started on that.
+- ~~reflect and unblock maybe.~~
+- ~~presentations maybe.~~
+- evening @itp-shop: tinker with the led nametag; figure out components; order.
 
 w/ sonali: 
 - bruce willis
