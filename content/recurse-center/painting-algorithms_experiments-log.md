@@ -62,3 +62,107 @@ a shorter version would be:
           color = vec3(col.x * col.y);
 ```
 
+---
+
+# 260604: 
+i realized that trying to compute all of this in the shader was sort of stupid. 
+
+``` glsl
+//auto brush moving; june, 2026.
+
+#ifdef GL_ES
+	precision mediump float; 
+#endif
+
+//uniforms: 
+uniform vec2 u_resolution;
+uniform vec2 u_time; 
+uniform int u_frame; 
+
+uniform sampler2D u_doubleBuffer0; 
+
+//helpers:
+float flip(float n){
+	return 1.0 - n; 
+}
+
+//random:
+float random(float n){
+	float multiplier = 1000.0;
+	return(fract(sin(n)*multiplier));
+}
+
+//noise:
+float rand(vec2 p){
+    return fract(sin(dot(p, vec2(127.1, 311.7))) * 43758.5453);
+}
+
+float noise(vec2 p){
+    vec2 i = floor(p);
+    vec2 f = fract(p);
+
+    f = f * f * (3.0 - 2.0 * f);
+
+    float a = rand(i);
+    float b = rand(i + vec2(1.0, 0.0));
+    float c = rand(i + vec2(0.0, 1.0));
+    float d = rand(i + vec2(1.0, 1.0));
+
+    return mix(mix(a, b, f.x), mix(c, d, f.x), f.y);
+}
+
+//velocity:
+vec2 velocity(vec2 p){
+    float n1 = noise(p * 2.0);
+    float n2 = noise(p * 2.0 + 10.0);
+
+    vec2 v = vec2(n1, n2) * 2.0 - 1.0;
+    return v;
+}
+
+void main(){
+
+	//common across passes:
+	vec2 uv = gl_FragCoord.xy / u_resolution.xy;
+
+	//flip:
+	//flip(uv.y);
+
+	float col = 0.0; 
+	float size = 0.005; 
+
+#ifdef DOUBLE_BUFFER_0
+	//compute:
+	vec4 prev = texture2D(u_doubleBuffer0, uv).rgba; 
+	vec2 brush_pos = prev.gb; 
+	col = prev.r;
+
+	brush_pos = (u_frame==0)
+		? vec2 (0.5) 
+		: brush_pos + velocity(brush_pos + noise(brush_pos + vec2(u_time)))*0.05;
+
+	if (col!=1.0){
+		//check if it's near the brush. 
+		float d = distance(brush_pos, uv);
+		col = step(d,size); 
+	}
+
+
+	gl_FragColor = vec4(col, vec2(brush_pos), 1.0); 
+
+#else
+	//shader two: read the r value from the previous run, and use that to paint.
+	col = texture2D(u_doubleBuffer0, uv).r; 
+	gl_FragColor = vec4(vec3(col), 0.5); 
+
+#endif
+	//output:
+//	gl_FragColor = vec4(r,g,b,a); 
+}
+
+
+```
+
+for starters: 
+
+glsl does not preserve memory. it simply changes the color of each single pixel via a function that runs constantly. therefore, to preserve a state (or to remember), you use uniforms. 
