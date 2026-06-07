@@ -5,11 +5,11 @@ tags:
 noteOrder: "336"
 draft: "false"
 ---
-presented [this](https://arjunmakesthings.github.io/presentations/slides/260521_composition-talk.html#1) at the [composition conference](https://composition.codes/) in philadelphia. 
+presented [this](https://arjunmakesthings.github.io/presentations/slides/260521_composition-talk.html#1) at the [composition conference](https://composition.codes/) in philadelphia (at the [rotunda](https://www.therotunda.org)). 
 
-![[706028813_17887185570544401_3310874008418170445_n..webp|368]]
+![[35cadc09-8d66-4c72-b218-756badebc535.webp]]![[1aa549fc-5638-409b-97f5-2faac2580e2a.webp]]![[2768be4e-19a9-45a5-850e-7a16ef13cf7a.webp]]![[122c5e77-be32-4f37-8cc9-c3896419af4f.webp]]
 
-![[705350568_17887186266544401_4736454152326840477_n..webp|370]]
+![[190175a4-dfa2-477f-8aab-375881534ed2.mp4]]
 
 ---
 

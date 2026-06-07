@@ -9,7 +9,7 @@ draft: "false"
 [[nikolai]] recommended this to me. 
 
 ---
-quotes for [[on why learn to code, from the little schemer.]]
+quotes for [[on why learn to code, from the little schemer]]
 
 ---
 

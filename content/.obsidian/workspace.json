@@ -24,31 +24,45 @@
             }
           },
           {
-            "id": "8baddf844bea8927",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming an attiny84.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "programming an attiny84"
-            }
-          },
-          {
             "id": "9c2d430456d9331b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conversations with mike.md",
+                "file": "on sacrifices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conversations with mike"
+              "title": "on sacrifices"
+            }
+          },
+          {
+            "id": "7366d4ea1c0e20d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "on the benefits of sacrifices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "on the benefits of sacrifices"
+            }
+          },
+          {
+            "id": "93632569f7697996",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "on feeling uncomfortable, and why that's a good thing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "on feeling uncomfortable, and why that's a good thing"
             }
           },
           {
@@ -140,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -197,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -300,7 +313,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,90 +331,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "floating": {
-    "id": "fce80a805caf2aa7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2030ea53819e5053",
-        "type": "window",
-        "children": [
-          {
-            "id": "80f55eeca7923975",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5a68ddf4d8f9bec3",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "z_images/attiny.webp"
-                  },
-                  "icon": "lucide-image",
-                  "title": "attiny"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1,
-        "y": 40,
-        "width": 880,
-        "height": 1129,
-        "maximize": false,
-        "zoom": -1
-      }
-    ]
-  },
-  "active": "8baddf844bea8927",
+  "active": "93632569f7697996",
   "lastOpenFiles": [
-    "z_images/attiny.webp",
+    "on the benefits of sacrifices.md",
+    "on feeling uncomfortable, and why that's a good thing.md",
+    "on sacrifices.md",
+    "composition 1 talk.md",
+    "talking to myself post spring show.md",
+    "terms & concepts/dead internet theory.md",
+    "new and old internet.md",
+    "shop-staff application letter.md",
+    "show submissions.md",
+    "forcing myself into uncomfortable situations, and the nyu global arts salon.md",
+    "on why learn to code, from the little schemer.md",
+    "people/jagi.md",
+    "notes from the little schemer.md",
+    "conversations with mike.md",
     "programming an attiny84.md",
+    "z_images/190175a4-dfa2-477f-8aab-375881534ed2.mp4",
+    "z_images/35cadc09-8d66-4c72-b218-756badebc535.webp",
+    "z_images/1aa549fc-5638-409b-97f5-2faac2580e2a.webp",
+    "z_images/2768be4e-19a9-45a5-850e-7a16ef13cf7a.webp",
+    "z_images/122c5e77-be32-4f37-8cc9-c3896419af4f.webp",
+    "z_images/attiny.webp",
     "z_images/Screenshot 2026-06-06 at 12.54.46.webp",
     "recurse-center/temp note for check-in-check-outs.md",
     "recurse-center/painting-algorithms_experiments-log.md",
-    "conversations with mike.md",
     "z_images/w mike_260604.pdf",
     "people/michael wehar.md",
-    "notes from the little schemer.md",
     "recurse-center/nand2tetris.md",
     "recurse-center/260522_check-out.md",
     "recurse-center/vomit-1.md",
     "terms & concepts/construct.md",
-    "on why learn to code, from the little schemer..md",
     "multiplexing workshop for stupid hackathon.md",
     "musical-connections/with mariana.md",
-    "on sacrifices.md",
     "recurse-center/zip files.md",
     "projects-by-other-people/sonic wire sculptor.md",
-    "projects-by-other-people/evolved virtual creatures, by karl simms.md",
-    "people/sakina.md",
-    "people/sonali.md",
-    "people/raspreet.md",
-    "recurse-center/dumas dutil message.md",
-    "projects-by-other-people/7702 vocoder, by harald bode.md",
-    "people/noah dorazio.md",
-    "intro-to-algorithms/ita_lecture-1.md",
-    "intro-to-algorithms/index.md",
     "z_images/glsl-functions.webp",
     "intro-to-algorithms",
     "z_images/dutil-dumas.webp",
     "z_images/705350568_17887186266544401_4736454152326840477_n..webp",
     "z_images/706028813_17887185570544401_3310874008418170445_n..webp",
-    "z_images/IMG_7963.webp",
     "z_images/Screen Recording 2026-05-21 at 17.34.48.mp4",
     "z_images/Screen Recording 2026-05-21 at 12.50.04.mp4",
-    "z_images/Screenshot 2026-05-21 at 12.34.25.webp",
-    "z_images/kernel.webp",
-    "z_images/Screenshot 2026-05-21 at 00.32.08.webp",
     "thesis",
     "musical-connections",
     "recurse-center",
     "z_images/IMG_7893.mp4",
     "z_images/IMG_7892.mp4",
-    "z_images/IMG_7891.mp4",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
