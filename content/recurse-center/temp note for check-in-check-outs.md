@@ -4,11 +4,6 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260605-check-in:
+### 260608-check-in:
 
-down & out with a cold, and lost my voice. deciding to take a rest today, and read compiling interpreters. 
-
-w/ sonali: 
-- bruce willis
-- fred kettelhoit ... 
-- amith pitaru
+feeling: good. seemed to have found some sort of rhythm, and better able to arrange my week. thought & [wrote]() about discomfort. 

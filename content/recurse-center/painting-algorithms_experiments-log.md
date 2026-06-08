@@ -166,3 +166,10 @@ void main(){
 for starters: 
 
 glsl does not preserve memory. it simply changes the color of each single pixel via a function that runs constantly. therefore, to preserve a state (or to remember), you use uniforms. 
+
+---
+
+# 260608: 
+this past weekend, i fell sick. that was a good thing. 
+
+i rethought what i was doing, and how i was spending my time at r.c. 
