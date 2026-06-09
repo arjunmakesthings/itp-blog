@@ -4,13 +4,11 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260608-check-out:
+### 260609-check-in:
 
-feeling: good. seemed to have found some sort of rhythm, and better able to arrange my week. thought & [wrote]() about discomfort; [reflected](https://arjunmakesthings.github.io/itp-blog/recurse-center/week-3-reflection) on week 3.
+feeling: psyched!!
 
 today: 
-- ~~attend math monday @1300.~~ -> implemented penrose tiling with patrick & sam. patrick later explained some basic math stuff to me.
-- ~~shader interest group @1400; maybe.~~ -> couldn't go. 
-- programmatic sketching club @1600. 
-- cv update.
-- explore the non-memory-painting idea; make a commit.
+- ~~hour of hard things with @jagi to figure out the pen plotter.~~ -> jagi got the script to work; we figured that the error was with some internal pyserial function that the earlier script was using. 
+- day of programming. i want to try and re-explore [drawings on a cartesian plane](https://arjunmakesthings.github.io/projects/2024_drawings-on-a-cartesian-plane/page.html), and see if i can get them to be a series that i can eventually plot with the plotter. have to figure out the language, and the environment to do it in. 
+- nand2tetris study -> look at the logic-gates stuff; see if we have everything for tomorrow. 
