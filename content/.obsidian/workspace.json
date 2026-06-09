@@ -89,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "terms & concepts/vector.md",
+                "file": "terms & concepts/quine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vector"
+              "title": "quine"
             }
           }
         ],
@@ -262,8 +262,8 @@
   },
   "active": "0d3b38752168b4a8",
   "lastOpenFiles": [
-    "terms & concepts/tensors.md",
     "terms & concepts/vector.md",
+    "terms & concepts/tensors.md",
     "terms & concepts/quine.md",
     "recurse-center/painting-algorithms_experiments-log.md",
     "recurse-center/Untitled.md",
