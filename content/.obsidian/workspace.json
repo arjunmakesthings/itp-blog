@@ -97,8 +97,7 @@
               "title": "square subdivision"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,8 +259,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "23c3a0f0c073a9ec",
+  "active": "c59b80fefbdf698a",
   "lastOpenFiles": [
+    "recurse-center/square subdivision.md",
     "z_images/Screen Recording 2026-06-08 at 17.08.38.mp4",
     "recurse-center/plotter_experiments_log.md",
     "terms & concepts/quine.md",
@@ -271,7 +271,6 @@
     "people/sam.md",
     "recurse-center/temp note for check-in-check-outs.md",
     "z_images/IMG_8019.webp",
-    "recurse-center/square subdivision.md",
     "z_images/frame-6.webp",
     "terms & concepts/vector.md",
     "terms & concepts/tensors.md",
@@ -307,7 +306,6 @@
     "musical-connections",
     "recurse-center",
     "z_images/IMG_7893.mp4",
-    "z_images/IMG_7892.mp4",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
