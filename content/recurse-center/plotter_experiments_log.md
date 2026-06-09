@@ -18,3 +18,13 @@ draft: "false"
 
 we have an hp7440a (1980) which uses hpgl code via serial to operate. the buffer is only 60bytes, so [[jagi]] programmed a script that streams longer commands by checking back & forth with the plotter. 
 
+here's a sketch from there that we plotted.
+
+![[IMG_8019.webp|451]]
+
+---
+
+
+
+
+

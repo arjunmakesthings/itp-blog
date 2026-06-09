@@ -118,4 +118,70 @@ function find_p(ax, ay, bx, by) {
 
 ```
 
-[[patrick]] & [[sam]] were kind enough to let me program
+[[patrick]] & [[sam]] were kind enough to let me program.
+
+afterwards, i made a program that does this: 
+
+![[frame-6.webp]]
+
+``` js
+//square subdivision.
+
+//given a set of starting coordinates, draw yourself over & over again with shrinking widths & alternating colours; until you reach an end point.
+
+let sw = false;
+
+function setup() {
+  createCanvas(1000, 1000);
+  rectMode(CENTER, CENTER);
+  background(255);
+}
+
+function draw() {
+  draw_sq2(width / 2, height / 2, 700, 0);
+  noLoop(); 
+}
+
+function draw_sq2(x, y, w, a, c_switch = true) {
+  if (w < 1) return;
+
+  let p1 = createVector(-w / 2, -w / 2);
+  let p2 = createVector(w / 2, -w / 2);
+  let p3 = createVector(w / 2, w / 2);
+  let p4 = createVector(-w / 2, w / 2);
+
+  let mult = 10;
+  p1.add(random() * mult);
+  p2.add(random() * mult);
+  p3.add(random() * mult);
+  p4.add(random() * mult);
+
+  fill(c_switch ? 255 : 0);
+  noStroke(); 
+
+  push();
+  translate(x, y);
+  rotate(a);
+  beginShape();
+  vertex(p1.x, p1.y);
+  vertex(p2.x, p2.y);
+  vertex(p3.x, p3.y);
+  vertex(p4.x, p4.y);
+  endShape(CLOSE);
+  pop();
+
+  a += 0.015; 
+
+  draw_sq2(x, y, w - 5, a, !c_switch);
+}
+
+function mousePressed(){
+  save ("frame.webp"); 
+}
+
+```
+
+same idea as the penrose tiling, recursively draw a square.
+
+![[Screen Recording 2026-06-08 at 17.08.38.mp4]]
+

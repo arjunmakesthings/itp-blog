@@ -1,1 +1,0 @@
-https://googlechromelabs.github.io/serial-terminal/

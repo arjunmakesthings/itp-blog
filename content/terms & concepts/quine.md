@@ -4,3 +4,8 @@ tags:
 draft: "false"
 ---
 > A quine is a computer program that takes no input and produces a copy of its own source code as its only output. The standard terms for these programs in the computability theory and computer science literature are "self-replicating programs", "self-reproducing programs", and "self-copying programs".
+
+in javascript, a quine can be made with: 
+
+`{function_name}.toString();`
+
