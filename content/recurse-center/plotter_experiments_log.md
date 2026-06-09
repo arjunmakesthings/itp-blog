@@ -8,6 +8,7 @@ draft: "false"
 # resources: 
 - plotter tools -> https://github.com/wesleyac/plotter-tools
 - rc (pvt) wiki instructions -> https://github.com/recursecenter/wiki/wiki/Plotter-(HP7440A)
+- jagi's repo -> 
 
 ---
 
