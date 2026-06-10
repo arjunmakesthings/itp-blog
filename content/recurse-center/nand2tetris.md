@@ -13,3 +13,14 @@ doing this with [[zack dezon]] at the [[recurse-center]] in summer'26.
 
 ---
 
+made nand and and gates with [[jamal]]. 
+
+![[nand.mp4]]
+
+we might try to make a video game or something with combinatorial logic. 
+
+==the idea with gates is that you have two paths that electricity can take==. when the transistor is activated, it takes the path of least resistance to ground. else it goes to the load. 
+
+![[gates.webp]]
+
+from [[practical electronics for inventors]]. 
