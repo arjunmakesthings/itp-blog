@@ -24,20 +24,6 @@
             }
           },
           {
-            "id": "1ba687605248e3e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recurse-center/week 3 reflection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "week 3 reflection"
-            }
-          },
-          {
             "id": "133e6eb4264af979",
             "type": "leaf",
             "pinned": true,
@@ -51,6 +37,22 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "painting-algorithms_experiments-log"
+            }
+          },
+          {
+            "id": "d32ae16fc9b9dba6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro-to-algorithms/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "index"
             }
           },
           {
@@ -110,8 +112,23 @@
               "icon": "lucide-file",
               "title": "nand2tetris"
             }
+          },
+          {
+            "id": "bef03f940e619828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "intro-to-algorithms/ita_lecture-2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ita_lecture-2"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -168,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -271,8 +287,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -289,15 +304,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c59b80fefbdf698a",
+  "active": "bef03f940e619828",
   "lastOpenFiles": [
+    "intro-to-algorithms/index.md",
+    "intro-to-algorithms/ita_lecture-2.md",
+    "intro-to-algorithms/ita_lecture-1.md",
+    "recurse-center/painting-algorithms_experiments-log.md",
+    "recurse-center/week 3 reflection.md",
+    "recurse-center/temp note for check-in-check-outs.md",
     "recurse-center/nand2tetris.md",
     "z_images/gates.webp",
     "z_images/nand.mp4",
     "notes from the little schemer.md",
     "people/jamal.md",
-    "recurse-center/painting-algorithms_experiments-log.md",
-    "recurse-center/temp note for check-in-check-outs.md",
     "recurse-center/square subdivision.md",
     "z_images/Screen Recording 2026-06-08 at 17.08.38.mp4",
     "recurse-center/plotter_experiments_log.md",
@@ -311,7 +330,6 @@
     "terms & concepts/vector.md",
     "terms & concepts/tensors.md",
     "recurse-center/Untitled.md",
-    "recurse-center/week 3 reflection.md",
     "people/bill kusters.md",
     "audio circuit repository by yonathan rozin.md",
     "people/yonathan rozin.md",
@@ -319,8 +337,6 @@
     "projects-by-other-people/electric stimulus to face, by daito manabe.md",
     "on the benefits of sacrifices.md",
     "people/recurse-center.md",
-    "on feeling uncomfortable, and why that's a good thing.md",
-    "people/michael wehar.md",
     "z_images/190175a4-dfa2-477f-8aab-375881534ed2.mp4",
     "z_images/35cadc09-8d66-4c72-b218-756badebc535.webp",
     "z_images/1aa549fc-5638-409b-97f5-2faac2580e2a.webp",
