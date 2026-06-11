@@ -25,5 +25,29 @@ but in linked lists, get / set requires you to iterate over the array (using the
 
 ==static arrays great for static operations.==
 
+---
 
+# dynamic arrays:
+dynamic arrays don't care about memory management. each array is: 
+
+$$
+length(n) > a[i]
+$$
+
+where `a[i]` is length of the array and length is greater by some constant factor `k` . you store metadata about the array in another array: 
+
+- head
+- length
+- size
+
+when `length(n) = size`, allocate new array of `k * size` where `k`is some constant factor.
+
+resize time  / cost is linear because you increment double of previous. 
+
+$$
+2^{k+1} - 1
+$$
+
+
+![[Screenshot 2026-06-11 at 13.30.01.webp]]
 
