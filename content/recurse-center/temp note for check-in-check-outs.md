@@ -4,13 +4,15 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260611-check-in:
+### 260612-check-in:
 
-feeling: fan-tastic. 
+feeling: a little restless; jumpy. worked till midnight on the itp floor soldering my 7-segment-led-nametag & making the enclosure for the li-ion battery. realized i soldered the wires wrong. bummed about that; but patient, and, so, i remind  myself of giving it the time it needs. i recall eigenzeit:
 
-- ~~clean up inbox.~~ -> done; whew. 
-- ~~intro to algorithms lecture 2~~ -> learnt about data structures; interfaces; and finally understood pointers. also was able to follow big o notations & some of the elementary math.
-- ~~after pairing with iris, claire & jd yesterday, i want to reconsider my emergent project. i wonder whether the tool matters — do i stick to the languages i am fluent in, and make projects; or do i attempt to learn a language? i've always maintained that a language is simply a tool — and i can pick up whichever one i want at any time. i would like to 'creative-code' with something based on c though, because i feel like it'll make me a better programmer than using javascript. but do i need to? is the project more important or the learning?~~ -> started building in javascript. [repo](https://github.com/arjunmakesthings/daily-movement_emergence-studies). drafted system notes; began setting up the main javascript file. 
-- ~~more study & work on crafting interpreters. perhaps begin code-work on this today?~~ -> didn't do.
-- ~~attend presentations at 1600.~~ 
-- ~~shop shift / led-nametag soldering @1800.~~ -> going. 
+> One of my favourite slow concepts is that of ‘eigenzeit’. It comes from the German ‘eigen’, meaning one’s own, and ‘zeit’, meaning time. The idea that everything, if we are to do it well, requires a certain amount of time. Now, the particular amount of time required clearly depends on the specific task in hand, but if you try to do it any quicker than its ‘eigenzeit’, then you will inevitably do it badly or not at all.
+
+- attempt advent of code @1400. 
+- work on the emergent system. 
+- audio-programming @1630. do sine wave manipulations.
+- go home early; cook; sleep on time.
+
+also signed up to give a non-programming talk next week.

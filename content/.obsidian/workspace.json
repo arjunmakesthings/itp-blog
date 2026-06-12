@@ -77,86 +77,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes from the little schemer.md",
+                "file": "on why learn to code, from the little schemer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes from the little schemer"
-            }
-          },
-          {
-            "id": "23c3a0f0c073a9ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recurse-center/square subdivision.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "square subdivision"
-            }
-          },
-          {
-            "id": "c596dd6b60192725",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recurse-center/nand2tetris.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "nand2tetris"
-            }
-          },
-          {
-            "id": "bef03f940e619828",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-algorithms/ita_lecture-2_data-structures.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ita_lecture-2_data-structures"
-            }
-          },
-          {
-            "id": "f9561cb909b4aa87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming an attiny84.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "programming an attiny84"
-            }
-          },
-          {
-            "id": "31d7b4e437ff0023",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "so much about living that i do not know.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "so much about living that i do not know"
+              "title": "on why learn to code, from the little schemer"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -316,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -333,24 +263,28 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "31d7b4e437ff0023",
+  "active": "c59b80fefbdf698a",
   "lastOpenFiles": [
+    "intro-to-algorithms/index.md",
+    "recurse-center/painting-algorithms_experiments-log.md",
+    "recurse-center/temp note for check-in-check-outs.md",
+    "on why learn to code, from the little schemer.md",
+    "notes from the little schemer.md",
+    "conversations with mike.md",
     "programming an attiny84.md",
     "so much about living that i do not know.md",
-    "z_images/attiny.webp",
-    "recurse-center/temp note for check-in-check-outs.md",
-    "intro-to-algorithms/ita_lecture-2_data-structures.md",
-    "z_images/Screenshot 2026-06-11 at 13.30.01.webp",
-    "intro-to-algorithms/index.md",
-    "intro-to-algorithms/ita_lecture-1.md",
-    "recurse-center/painting-algorithms_experiments-log.md",
-    "recurse-center/week 3 reflection.md",
+    "resources & tools/audio circuit repository by yonathan rozin.md",
+    "on feeling uncomfortable, and why that's a good thing.md",
+    "recurse-center/square subdivision.md",
     "recurse-center/nand2tetris.md",
+    "intro-to-algorithms/ita_lecture-2_data-structures.md",
+    "z_images/attiny.webp",
+    "z_images/Screenshot 2026-06-11 at 13.30.01.webp",
+    "intro-to-algorithms/ita_lecture-1.md",
+    "recurse-center/week 3 reflection.md",
     "z_images/gates.webp",
     "z_images/nand.mp4",
-    "notes from the little schemer.md",
     "people/jamal.md",
-    "recurse-center/square subdivision.md",
     "z_images/Screen Recording 2026-06-08 at 17.08.38.mp4",
     "recurse-center/plotter_experiments_log.md",
     "terms & concepts/quine.md",
@@ -364,10 +298,6 @@
     "terms & concepts/tensors.md",
     "recurse-center/Untitled.md",
     "people/bill kusters.md",
-    "audio circuit repository by yonathan rozin.md",
-    "people/yonathan rozin.md",
-    "people/jagi.md",
-    "projects-by-other-people/electric stimulus to face, by daito manabe.md",
     "z_images/190175a4-dfa2-477f-8aab-375881534ed2.mp4",
     "z_images/35cadc09-8d66-4c72-b218-756badebc535.webp",
     "z_images/1aa549fc-5638-409b-97f5-2faac2580e2a.webp",
