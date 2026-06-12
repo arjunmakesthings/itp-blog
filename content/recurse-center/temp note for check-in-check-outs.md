@@ -4,15 +4,11 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260612-check-in:
+### 260612-check-out:
 
-feeling: a little restless; jumpy. worked till midnight on the itp floor soldering my 7-segment-led-nametag & making the enclosure for the li-ion battery. realized i soldered the wires wrong. bummed about that; but patient, and, so, i remind  myself of giving it the time it needs. i recall eigenzeit:
+feeling: great! did advent of code today, and that was so exciting! i'd like to do more logic puzzles in a lower-level language (or a functional language, as an excuse to learn it).
 
-> One of my favourite slow concepts is that of ‘eigenzeit’. It comes from the German ‘eigen’, meaning one’s own, and ‘zeit’, meaning time. The idea that everything, if we are to do it well, requires a certain amount of time. Now, the particular amount of time required clearly depends on the specific task in hand, but if you try to do it any quicker than its ‘eigenzeit’, then you will inevitably do it badly or not at all.
-
-- attempt advent of code @1400. 
-- work on the emergent system. 
-- audio-programming @1630. do sine wave manipulations.
-- go home early; cook; sleep on time.
-
-also signed up to give a non-programming talk next week.
+- ~~attempt advent of code @1400.~~ -> people in this session were wonderfully welcoming. even though i'm not mathematically adept, i'm interested in solving more of these puzzles (goes well with my intro-to-algorithms course) 
+- ~~work on the emergent system.~~ -> didn't do.  
+- ~~audio-programming @1630. do sine wave manipulations.~~ -> peter & i worked on some tidal cycles, and in the process, figured out some haskell.
+- ~~go home early; cook; sleep on time.~~ -> going!

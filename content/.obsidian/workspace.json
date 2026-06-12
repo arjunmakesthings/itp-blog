@@ -84,6 +84,20 @@
               "icon": "lucide-file",
               "title": "on why learn to code, from the little schemer"
             }
+          },
+          {
+            "id": "016a00fc69c029bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recurse-center/advent-of-code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "advent-of-code"
+            }
           }
         ]
       }
@@ -142,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -245,8 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,9 +277,11 @@
   },
   "active": "c59b80fefbdf698a",
   "lastOpenFiles": [
+    "recurse-center/advent-of-code.md",
+    "kevan.md",
+    "recurse-center/temp note for check-in-check-outs.md",
     "intro-to-algorithms/index.md",
     "recurse-center/painting-algorithms_experiments-log.md",
-    "recurse-center/temp note for check-in-check-outs.md",
     "on why learn to code, from the little schemer.md",
     "notes from the little schemer.md",
     "conversations with mike.md",
@@ -296,8 +310,6 @@
     "z_images/frame-6.webp",
     "terms & concepts/vector.md",
     "terms & concepts/tensors.md",
-    "recurse-center/Untitled.md",
-    "people/bill kusters.md",
     "z_images/190175a4-dfa2-477f-8aab-375881534ed2.mp4",
     "z_images/35cadc09-8d66-4c72-b218-756badebc535.webp",
     "z_images/1aa549fc-5638-409b-97f5-2faac2580e2a.webp",
