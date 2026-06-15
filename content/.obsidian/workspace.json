@@ -72,63 +72,20 @@
             }
           },
           {
-            "id": "9f10b413d032e7d9",
+            "id": "d36b7672eaad9d77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "on why learn to code, from the little schemer.md",
+                "file": "terms & concepts/house plant programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "on why learn to code, from the little schemer"
-            }
-          },
-          {
-            "id": "016a00fc69c029bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recurse-center/advent-of-code.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "advent-of-code"
-            }
-          },
-          {
-            "id": "b1f7ce44564b1bf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recurse-center/advent-of-code.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "advent-of-code"
-            }
-          },
-          {
-            "id": "2dd27c6f72d0e265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "recurse-center/understanding how c (or any compiled language) works.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "understanding how c (or any compiled language) works"
+              "title": "house plant programming"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -305,22 +262,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2dd27c6f72d0e265",
+  "active": "c59b80fefbdf698a",
   "lastOpenFiles": [
-    "z_images/Screenshot 2026-06-15 at 15.25.14.png",
-    "situated software by clay shirky.md",
-    "house plant programming.md",
-    "resources & tools/manim editor from 3blue1brown videos.md",
-    "people/sophia-wood.md",
-    "recurse-center/understanding how c (or any compiled language) works.md",
-    "z_images/Screenshot 2026-06-15 at 12.56.54.png",
+    "terms & concepts/house plant programming.md",
+    "on why learn to code, from the little schemer.md",
     "recurse-center/advent-of-code.md",
     "recurse-center/temp note for check-in-check-outs.md",
+    "intro-to-algorithms/ita_lecture-2_data-structures.md",
+    "recurse-center/understanding how c (or any compiled language) works.md",
+    "z_images/Screenshot 2026-06-15 at 15.25.14.png",
+    "situated software by clay shirky.md",
+    "resources & tools/manim editor from 3blue1brown videos.md",
+    "people/sophia-wood.md",
+    "z_images/Screenshot 2026-06-15 at 12.56.54.png",
     "quote on writing.md",
     "people/kevan.md",
     "intro-to-algorithms/index.md",
     "recurse-center/painting-algorithms_experiments-log.md",
-    "on why learn to code, from the little schemer.md",
     "notes from the little schemer.md",
     "conversations with mike.md",
     "programming an attiny84.md",
@@ -329,7 +287,6 @@
     "on feeling uncomfortable, and why that's a good thing.md",
     "recurse-center/square subdivision.md",
     "recurse-center/nand2tetris.md",
-    "intro-to-algorithms/ita_lecture-2_data-structures.md",
     "z_images/attiny.webp",
     "z_images/Screenshot 2026-06-11 at 13.30.01.webp",
     "intro-to-algorithms/ita_lecture-1.md",
@@ -345,7 +302,6 @@
     "z_images/35cadc09-8d66-4c72-b218-756badebc535.webp",
     "z_images/1aa549fc-5638-409b-97f5-2faac2580e2a.webp",
     "z_images/2768be4e-19a9-45a5-850e-7a16ef13cf7a.webp",
-    "z_images/122c5e77-be32-4f37-8cc9-c3896419af4f.webp",
     "z_images/w mike_260604.pdf",
     "intro-to-algorithms",
     "z_images/Screen Recording 2026-05-21 at 17.34.48.mp4",

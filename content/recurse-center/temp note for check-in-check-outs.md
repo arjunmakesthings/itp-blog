@@ -6,9 +6,11 @@ draft: "true"
 ---
 ### 260615-check-in:
 
-feeling: energized & motivated. i did some basic c stuff over the weekend; understood the pipeline & connected it with the introduction of 'crafting compilers'. i also finished soldering everything on my led-nametag; only need to put the jst-connector-pins that should come today.
+feeling: super sleepy!
 
-- breakfast @11. 
-- math monday @1300. 
-- shaders interest group @1400. 
-- programmatic sketching @1600. 
+- ~~breakfast @11.~~ 
+- ~~math monday @1300.~~ -> fun. sean, kevan & i worked on some (failed) approaches to solving a 3d-geometry problem for advent of code. 
+- ~~shaders interest group @1400.~~ -> nothing happened here; i continued to work with sean on the math thing.  
+- ~~programmatic sketching @1600.~~ -> attended presentations + instead. 
+- deep dived into how c (or any compiled language) works -> [notes](). jagi showed me how to decompile and read binary from an executable. 
+- read wonderful articles about houseplant programming & 'situated software'. 
