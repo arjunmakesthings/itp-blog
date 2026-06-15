@@ -53,8 +53,7 @@
               "title": "history of itp"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -232,10 +230,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1980c0ab5d7c22c3",
+  "active": "c59b80fefbdf698a",
   "lastOpenFiles": [
-    "thesis/brainwrite-1_260615.md",
     "thesis/history of itp.md",
+    "thesis/brainwrite-1_260615.md",
     "zz_templates/course_experiments_week-x.md",
     "thesis/research/test note 1.md",
     "zz_templates/note.md",
