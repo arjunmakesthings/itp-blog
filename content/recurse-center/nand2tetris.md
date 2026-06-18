@@ -24,3 +24,10 @@ we might try to make a video game or something with combinatorial logic.
 ![[gates.webp]]
 
 from [[practical electronics for inventors]]. 
+
+---
+
+made a 2-bit full adder. 
+
+![[IMG_4738.mp4]]
+
