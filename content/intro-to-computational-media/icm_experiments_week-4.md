@@ -284,7 +284,7 @@ class Ball {
 
 ```
 
-also, this week. [[people/aditya|aditya]] said that i always use objects (which he qualified as 'cheating'). so, i wanted to make a sketch that didn't use any objects. 
+also, this week. someone said that i always use objects (which they qualified as 'cheating'). so, i wanted to make a sketch that didn't use any objects. 
 
 ---
 i thought about the things that happened during the week, and remembered that it was joyful for me to see [[people/gabriel|gabriel]] work with bezier curves. he thought they're annoying, but i've always thought that they're pretty. 

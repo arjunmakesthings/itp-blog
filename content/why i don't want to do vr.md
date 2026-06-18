@@ -6,7 +6,7 @@ tags:
 noteOrder: "76"
 draft: "false"
 ---
-walked around with aditya, to help him with his vr assignment. 
+walked around with ad, to help him with his vr assignment. 
 
 ![[z_images/IMG_6277.mov]]
 

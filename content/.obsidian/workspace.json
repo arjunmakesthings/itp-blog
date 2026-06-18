@@ -52,8 +52,23 @@
               "icon": "lucide-file",
               "title": "history of itp"
             }
+          },
+          {
+            "id": "16a98405bf7288de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recurse-center/intro-to-prolog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "intro-to-prolog"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "attiny",
+                "query": "why i don't want to do vr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,7 +121,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,8 +246,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c59b80fefbdf698a",
+  "active": "16a98405bf7288de",
   "lastOpenFiles": [
+    "why i don't want to do vr.md",
+    "programming an attiny84.md",
+    "people/aditya.md",
+    "shader-time/st_class-1.md",
+    "conversation with shawn.md",
+    "intro-to-computational-media/icm_experiments_week-4.md",
+    "on the benefits of sacrifices.md",
+    "on feeling uncomfortable, and why that's a good thing.md",
+    "so much about living that i do not know.md",
+    "quote on writing.md",
+    "situated software by clay shirky.md",
+    "musical-connections/with mariana.md",
+    "recurse-center/temp note for check-in-check-outs.md",
+    "recurse-center/intro-to-prolog.md",
+    "z_images/IMG_8033.jpg",
     "thesis/history of itp.md",
     "thesis/brainwrite-1_260615.md",
     "zz_templates/course_experiments_week-x.md",
@@ -241,26 +272,12 @@
     "zz_templates/index.md",
     "zz_templates/testing-template.md",
     "thesis/research",
-    "quote on writing.md",
     "thesis/index.md",
-    "recurse-center/temp note for check-in-check-outs.md",
     "recurse-center/nand2tetris.md",
     "terms & concepts/house plant programming.md",
     "intro-to-algorithms/index.md",
-    "recurse-center/painting-algorithms_experiments-log.md",
-    "so much about living that i do not know.md",
-    "situated software by clay shirky.md",
-    "on why learn to code, from the little schemer.md",
-    "recurse-center/advent-of-code.md",
-    "intro-to-algorithms/ita_lecture-2_data-structures.md",
-    "recurse-center/understanding how c (or any compiled language) works.md",
     "z_images/Screenshot 2026-06-15 at 15.25.14.png",
-    "resources & tools/manim editor from 3blue1brown videos.md",
-    "people/sophia-wood.md",
     "z_images/Screenshot 2026-06-15 at 12.56.54.png",
-    "people/kevan.md",
-    "notes from the little schemer.md",
-    "conversations with mike.md",
     "z_images/attiny.webp",
     "z_images/Screenshot 2026-06-11 at 13.30.01.webp",
     "z_images/gates.webp",
@@ -271,7 +288,6 @@
     "z_images/190175a4-dfa2-477f-8aab-375881534ed2.mp4",
     "z_images/35cadc09-8d66-4c72-b218-756badebc535.webp",
     "z_images/1aa549fc-5638-409b-97f5-2faac2580e2a.webp",
-    "z_images/2768be4e-19a9-45a5-850e-7a16ef13cf7a.webp",
     "z_images/w mike_260604.pdf",
     "intro-to-algorithms",
     "z_images/Screen Recording 2026-05-21 at 17.34.48.mp4",

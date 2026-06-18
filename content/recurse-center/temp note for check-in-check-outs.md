@@ -4,16 +4,11 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260615-check-out:
+### 260617-check-out:
 
-feeling: super sleepy. 
+feeling: good; proud. i was a bit nervous before the non-programming-talk — which is strange for me because i didn't usually get nervous before presenting, back in india. ever since i moved here, it's been creeping up on me — maybe i'm just not used to the differences in stimuli.
 
-- ~~breakfast @11.~~ 
-- ~~math monday @1300.~~ -> fun. sean, kevan & i worked on some (failed) approaches to solving a 3d-geometry problem for advent of code. 
-- ~~shaders interest group @1400.~~ -> nothing happened here; i continued to work with sean on the math thing.  
-- ~~programmatic sketching @1600.~~ -> attended presentations + instead. 
-- deep dived into how c (or any compiled language) works -> [notes](https://arjunmakesthings.github.io/itp-blog/recurse-center/understanding-how-c-(or-any-compiled-language)-works). jagi showed me how to decompile and read binary from an executable. 
-- read wonderful articles about houseplant programming & 'situated software' ([notes](https://arjunmakesthings.github.io/itp-blog/situated-software-by-clay-shirky)). starting point was aditya athalye's website (https://www.evalapply.org). 
-- wrote a [braindump](https://arjunmakesthings.github.io/itp-blog/thesis/brainwrite-1_260615) for thesis.
-- played board games for an hour. 
-- have to go do laundry.
+- spent most of the day with the nand2tetris group (jamal, zack, jacob) building a full-2-bit-adder with logic-gates. finally used the logic-probe today to debug a badly-connected-button.
+- attended the intro-to-prolog workshop. later parts of it were too advanced for me; but i really like the construct of the language.
+- gave non-programming-talk on making typographic choices.
+- heading to itp to screw in my led-nametag, and attach the magnet. 

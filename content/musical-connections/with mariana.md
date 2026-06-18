@@ -12,7 +12,7 @@ draft: "false"
 - in wardoff schools they make a lot of music. 
 
 - music is the core of the practice
-- melody; harmony; rhythm. d
+- melody; harmony; rhythm. 
 
 - schema theory.
 

@@ -5,7 +5,7 @@ tags:
 noteOrder: "81"
 draft: "false"
 ---
-spoke about my general discontent with the first semester, and [[my approach to itp]]. he explained how the first semester is to open the diamond for everyone (something that [[aditya]] also said). 
+spoke about my general discontent with the first semester, and [[my approach to itp]]. he explained how the first semester is to open the diamond for everyone. 
 
 he also said how magical it is that [[people practice telepathy through sounds from their mouth]]. 
 

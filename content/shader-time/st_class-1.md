@@ -14,7 +14,7 @@ dense class.
 > OpenGL ES is a variant specifically for embedded systems (e.g. mobile phones). The library is a subset of OpenGL Core. 
 > WebGL is a variant specifically for web browsers, and is based on OpenGL ES.
 
-- understood that ==transformation values are increments, not coordinates==. [[aditya]] mentioned this. 
+- understood that ==transformation values are increments, not coordinates==. 
 - you can do ==multiple push-pops==. this is called ==stacking==. each 'layer' is additive without it. for example: 
 
 ``` js
