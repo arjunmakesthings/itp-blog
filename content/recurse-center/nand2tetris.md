@@ -31,3 +31,4 @@ made a 2-bit full adder.
 
 ![[IMG_4738.mp4]]
 
+[]()

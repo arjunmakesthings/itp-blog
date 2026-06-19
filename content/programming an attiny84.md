@@ -37,6 +37,8 @@ the wiring looks like so (l == uno; r == attiny (physical pin numbers (1-4))):
 - pin 13 -> pin 9. 
 - reset -> + 10uf capacitor -> - to gnd. this prevents the firmware from installing onto the arduino itself. 
 
+![[260618_wiring.png]]
+
 the attiny84 as an internal 8mhz timing crystal on it; so no need for an external clock. 
 
 ---
