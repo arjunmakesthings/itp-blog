@@ -4,11 +4,11 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260618-check-in:
+### 260619-check-out:
 
-feeling: great. be birchal kindly donated her old bike to me, and i spent most of the morning getting it fixed. i now have a bike (which i hope will help me commute faster till winter hits)! 
+feeling: tired.
 
-- lecture 3 of intro-to-algorithms.
-- freecad group @1500. 
-- presentations @1600. 
-- shop-shift @1800 — i'll study crafting interpreters during this time.
+- ~~just work on the emergent system thing.~~ -> worked on mass increasing while aging. initially tried logarithmic functions; jagi introduced me to an asymptotic exponential function; worked on understanding & implementing that.
+- ~~advent of code @1400.~~ -> followed initial bits of the discussion; psyched to try & solve the next problem that is to be discussed. 
+- ~~livecode audio @1630.~~ -> cancelled this event. i'm spread across too many things; i'd like to spend the rest of my batch-time to focus on a select few things.
+- attempted to repair brake-tension on my bike; got a mechanic's perspective; and will try to 'true' my wheel by tightening spokes now.
