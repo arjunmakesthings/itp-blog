@@ -15,6 +15,6 @@ instigated by [[people/sharon de la cruz|sharon de la cruz]], in [[applications/
 	- application of conceptual knowledge to achieve practical goals, especially in a reproducible way.
 - merriam webster: 
 	- the practical application of knowledge especially in a particular area : 
-	- a capability given by the practical application of knowledge
-	- a manner of accomplishing a task especially using technical processes, methods, or knowledge
-	- the specialized aspects of a particular field of endeavor
+	- a capability given by the practical application of knowledge.
+	- a manner of accomplishing a task especially using technical processes, methods, or knowledge.
+	- the specialized aspects of a particular field of endeavor.

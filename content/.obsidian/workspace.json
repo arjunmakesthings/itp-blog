@@ -40,20 +40,6 @@
             }
           },
           {
-            "id": "1980c0ab5d7c22c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thesis/history of itp.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "history of itp"
-            }
-          },
-          {
             "id": "16a98405bf7288de",
             "type": "leaf",
             "state": {
@@ -101,30 +87,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recurse-center/emergence work.md",
+                "file": "what is technology?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "emergence work"
+              "title": "what is technology?"
             }
-          },
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "0bf0f34b6c3568e6",
+        "type": "tabs",
+        "children": [
           {
             "id": "46e3936194682d7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thesis/brainwrite-2_260619.md",
+                "file": "thesis/technical breakthroughs in history.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "brainwrite-2_260619"
+              "title": "technical breakthroughs in history"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -284,8 +275,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -304,9 +294,13 @@
   },
   "active": "46e3936194682d7c",
   "lastOpenFiles": [
-    "recurse-center/temp note for check-in-check-outs.md",
-    "thesis/brainwrite-2_260619.md",
+    "what is technology?.md",
+    "thesis/technical breakthroughs in history.md",
+    "z_images/Screenshot 2026-06-19 at 23.04.18.webp",
+    "thesis/definitions of technology.md",
     "recurse-center/emergence work.md",
+    "thesis/brainwrite-2_260619.md",
+    "recurse-center/temp note for check-in-check-outs.md",
     "z_images/Screenshot 2026-06-19 at 17.40.14.webp",
     "z_images/asymp_graph.webp",
     "resources & tools/javascript data structures & algorithms.md",
@@ -329,11 +323,7 @@
     "shop nametag.md",
     "people/sakina.md",
     "z_images/260618_wiring.png",
-    "terms & concepts/programming paradigms.md",
     "z_images/vid1_260618.mp4",
-    "nature-of-code/noc_midterm-log.md",
-    "recurse-center/dumas dutil message.md",
-    "recurse-center/nand2tetris.md",
     "z_images/IMG_4738.mp4",
     "z_images/IMG_8033.jpg",
     "thesis/research",
@@ -344,7 +334,6 @@
     "z_images/gates.webp",
     "z_images/nand.mp4",
     "z_images/Screen Recording 2026-06-08 at 17.08.38.mp4",
-    "z_images/IMG_8019.webp",
     "z_images/190175a4-dfa2-477f-8aab-375881534ed2.mp4",
     "z_images/w mike_260604.pdf",
     "intro-to-algorithms",

@@ -29,15 +29,24 @@ what are we running away from?
 
 ==at the slightest clue of discomfort, we pick up a gadget.== a book calls us 'the anxious generation'. 
 
-[[prachi]] once said i like the computer because it can't talk back. how strange — the feeling of speaking into the void (the internet) 
-
+[[prachi]] once said that i like the computer because it can't talk back. how strange — the feeling of speaking into the void (the internet) makes me feel heard; yet ever so lonely (it is a void after-all). 
 
 ---
 
-i asked myself: what did itp give me in a year?
+i keep wondering about the validity of my enquiries; even at the [[recurse-center]]. if something is interesting to me, and i'm pulling a thread there from where i am, why is that not enough? 
 
-==if i really wanted to learn ai or ml, i could.==
+==if it's interesting to you, it's interesting. that's all that matters.== 
 
-what does it look like to spend a year making tools for yourself? 
+---
 
-or what does it feel like to make something for yourself? any piece of art is, inherently, for someone else — unless it is made 
+i wonder: 
+
+==in a technology program, must my thesis be about technology?==
+
+i paraphrase from the [[history of itp]]:
+
+> we ask students: how can technologies enrich the lives of people? how can we make lives beautiful; efficient; safer; easier; more meaningful?
+
+and i ask myself: 
+
+> how can i use 
