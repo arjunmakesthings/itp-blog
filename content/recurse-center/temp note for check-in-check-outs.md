@@ -4,9 +4,11 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260619-check-out:
+### 260622-check-in:
 
-feeling: tired.
+feeling: i'm okay. i just saw the 2026 winners of the ars electronica announcement, and felt existentially overwhelmed. wrote about it here: 
+
+it was nice to remind myself of something i wrote about a while back: 
 
 - ~~just work on the emergent system thing.~~ -> worked on mass increasing while aging. initially tried logarithmic functions; jagi introduced me to an asymptotic exponential function; worked on understanding & implementing that.
 - ~~advent of code @1400.~~ -> followed initial bits of the discussion; psyched to try & solve the next problem that is to be discussed. 

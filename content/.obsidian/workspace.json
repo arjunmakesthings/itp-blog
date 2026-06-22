@@ -181,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -283,7 +284,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -302,8 +304,9 @@
   },
   "active": "ab95523f534be4b0",
   "lastOpenFiles": [
-    "projects-by-other-people/micro-nano landscape, by suxuan jiang.md",
+    "recurse-center/temp note for check-in-check-outs.md",
     "after prix ars electronica 2026.md",
+    "projects-by-other-people/micro-nano landscape, by suxuan jiang.md",
     "projects-by-other-people/my mistake, by mia and emilia at ars electronica.md",
     "shop nametag.md",
     "projects-by-other-people/forever meetings, by sarah rothberg.md",
@@ -315,7 +318,6 @@
     "thesis/definitions of technology.md",
     "recurse-center/emergence work.md",
     "thesis/brainwrite-2_260619.md",
-    "recurse-center/temp note for check-in-check-outs.md",
     "z_images/Screenshot 2026-06-19 at 17.40.14.webp",
     "z_images/asymp_graph.webp",
     "resources & tools/javascript data structures & algorithms.md",
