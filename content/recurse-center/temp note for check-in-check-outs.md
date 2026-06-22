@@ -4,13 +4,12 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260622-check-in:
+### 260622-check-out:
 
-feeling: i'm okay. i just saw the 2026 winners of the ars electronica announcement, and felt existentially overwhelmed. wrote about it here: 
+feeling: i'm okay. saw 2026 winners of ars electronica; saw good, good work; felt existentially overwhelmed; [wrote](https://arjunmakesthings.github.io/itp-blog/after-prix-ars-electronica-2026).
 
-it was nice to remind myself of something i wrote about a while back: 
-
-- ~~just work on the emergent system thing.~~ -> worked on mass increasing while aging. initially tried logarithmic functions; jagi introduced me to an asymptotic exponential function; worked on understanding & implementing that.
-- ~~advent of code @1400.~~ -> followed initial bits of the discussion; psyched to try & solve the next problem that is to be discussed. 
-- ~~livecode audio @1630.~~ -> cancelled this event. i'm spread across too many things; i'd like to spend the rest of my batch-time to focus on a select few things.
-- attempted to repair brake-tension on my bike; got a mechanic's perspective; and will try to 'true' my wheel by tightening spokes now.
+- ~~math monday @1300.~~
+- ~~shader interest group @1400.~~ -> didn't go. 
+- ~~spend some time on the advent of code problem.~~ -> spent more time than i thought i would; still stuck. interesting problem though.
+- ~~make progress on the emergent system.~~ -> got stuck doing some vector stuff, and didn't quite manage that; but that's okay. will get there :)
+- ~~consider playing soccer if it doesn't rain at maria-hernandez-park @2000.~~ -> eh; raining; so.

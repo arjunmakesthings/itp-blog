@@ -13,6 +13,15 @@ an always evolving list of things to do and read; hidden from the public website
 
 - [ ] 
 ---
+
+# to document: 
+
+- [ ] hypercinema midterm
+- [ ] genetic engineering project
+- [ ] wordle bot
+- [ ] synth wall
+
+---
 # writing: 
 
 - [ ] behaviour design writing
@@ -45,16 +54,6 @@ from claire:
 - https://lean-lang.org
 - proofs in music: https://arxiv.org/abs/0711.1873
 - https://icfp26.sigplan.org/home/farm-2026
-
----
-# all others: 
-
-- [x] organise zotero library
-- [x] write back to allison
-- [ ] finish there are no electrons and publish writing
-- [ ] me, my father & our neurons at itp show — video
-- [ ] write america, freedom post
-- [x] read this: where the action is: the foundations of embodied interaction: https://archive.ph/JMA90; found in [[intro-to-physical-computing/no to noui, by timo arnall (against invisible design)|no to noui, by timo arnall (against invisible design)]]
 
 ---
 
