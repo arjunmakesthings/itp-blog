@@ -94,29 +94,37 @@
               "icon": "lucide-file",
               "title": "what is technology?"
             }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "0bf0f34b6c3568e6",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "46e3936194682d7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thesis/technical breakthroughs in history.md",
+                "file": "projects-by-other-people/micro-nano landscape, by suxuan jiang.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "technical breakthroughs in history"
+              "title": "micro-nano landscape, by suxuan jiang"
+            }
+          },
+          {
+            "id": "ab95523f534be4b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "after prix ars electronica 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "after prix ars electronica 2026"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -292,10 +300,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "46e3936194682d7c",
+  "active": "ab95523f534be4b0",
   "lastOpenFiles": [
-    "what is technology?.md",
+    "projects-by-other-people/micro-nano landscape, by suxuan jiang.md",
+    "after prix ars electronica 2026.md",
+    "projects-by-other-people/my mistake, by mia and emilia at ars electronica.md",
+    "shop nametag.md",
+    "projects-by-other-people/forever meetings, by sarah rothberg.md",
+    "z_images/forever-meetings_sarah.webp",
+    "z_images/image-19.png",
     "thesis/technical breakthroughs in history.md",
+    "what is technology?.md",
     "z_images/Screenshot 2026-06-19 at 23.04.18.webp",
     "thesis/definitions of technology.md",
     "recurse-center/emergence work.md",
@@ -318,10 +333,6 @@
     "programming an attiny84.md",
     "on the benefits of sacrifices.md",
     "on feeling uncomfortable, and why that's a good thing.md",
-    "so much about living that i do not know.md",
-    "situated software by clay shirky.md",
-    "shop nametag.md",
-    "people/sakina.md",
     "z_images/260618_wiring.png",
     "z_images/vid1_260618.mp4",
     "z_images/IMG_4738.mp4",
@@ -330,8 +341,6 @@
     "z_images/Screenshot 2026-06-15 at 15.25.14.png",
     "z_images/Screenshot 2026-06-15 at 12.56.54.png",
     "z_images/attiny.webp",
-    "z_images/Screenshot 2026-06-11 at 13.30.01.webp",
-    "z_images/gates.webp",
     "z_images/nand.mp4",
     "z_images/Screen Recording 2026-06-08 at 17.08.38.mp4",
     "z_images/190175a4-dfa2-477f-8aab-375881534ed2.mp4",
