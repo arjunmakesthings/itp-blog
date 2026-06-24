@@ -12,6 +12,8 @@ draft: "false"
 
 ![[invite_260301.webp|328]]
 
+cody uploaded the final video on youtube: https://www.youtube.com/watch?v=zj8c-V7EfOE
+
 ---
 
 some media that [[sai]] took. 
