@@ -31,4 +31,10 @@ made a 2-bit full adder.
 
 ![[IMG_4738.mp4]]
 
-[]()
+---
+
+we made a shift register & connected it to an alu:
+
+![[IMG_8106.mp4]]
+
+

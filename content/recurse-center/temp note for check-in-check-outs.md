@@ -4,11 +4,13 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260623-check-out:
+### 260625-check-in:
 
-feeling: good. 
+feeling: good. i've cut down on things that i'd committed to, so that i can focus more on things i want to do in batch. 
 
-- ~~pairing with kevan for most of the day, to put something up on the red led display.~~ -> paired with kevan and got blinry's dumas dutil message on the rapid-riter. 
-- kevan also helped me solve the advent of code problem; i might write up an algorithm for it too.
-- saw demos.
-- going home to work, since the hub is very busy.
+- played tennis with emma; got whooped; was wonderful; want to play more. 
+- lunch with kevan.
+- algorithms lecture-3.
+- more emergent system work.
+- presentations @1600.
+- end of batch from 5-7:30pm.
