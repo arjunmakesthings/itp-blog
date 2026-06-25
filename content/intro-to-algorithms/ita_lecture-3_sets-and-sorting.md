@@ -7,7 +7,7 @@ draft: "false"
 ---
 think of a set as an unordered list of unique items. 
 
-if you don't sort the set, oeprations take linear time => o(n). 
+if you don't sort the set, operations take linear time => o(n). 
 
 however, if you sort the set, finding an object can take log^n time. 
 
@@ -74,5 +74,7 @@ Maximum stack size is 10408 in your current browser
 a@as 260625_merge-sort % 
 ```
 
+---
 
+also found the 'try, catch, finally' statements of javascript: https://www.youtube.com/watch?v=cFTFtuEQ-10
 
