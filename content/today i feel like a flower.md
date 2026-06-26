@@ -7,17 +7,17 @@ draft: "false"
 ---
 ~~today~~ everyday, i feel like a flower.
 
-
+/
 
 each day culminates in a petal:
 
 
-a slowly forming [kuznets curve](https://en.wikipedia.org/wiki/Kuznets_curve),
+slowly shifting [sinusoids](https://en.wikipedia.org/wiki/Sine_wave),
 
 
 beginning & ending at my core. 
 
-
+/
 
 i am weighed down by my petals, 
 

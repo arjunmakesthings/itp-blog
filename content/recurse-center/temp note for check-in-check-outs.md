@@ -4,13 +4,11 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260625-check-out:
+### 260626-check-in:
 
-feeling: what a lovely day. got so much done.
+feeling: great. ready to write some code!
 
-- played tennis with emma; got whooped; was wonderful; want to play more.
-- had lunch with kevan.
-- watched algorithms lecture-3 on sets & sorting. implemented my own version of merge-sort; understood call-stacks in the process. [notes](https://arjunmakesthings.github.io/itp-blog/intro-to-algorithms/ita_lecture-3_sets-and-sorting).
-- more emergent system work. got my getters right for mass & energy, and implemented some basic movement too.
-- ~~presentations @1600.~~
-- ~~end of batch from 5-7:30pm.~~ 
+- [wrote](https://arjunmakesthings.github.io/itp-blog/today-i-feel-like-a-flower).
+- looked at the avantos challenge. seems fun; so, going to try to come up with an answer. 
+- try to refactor the emergent sytem code; end with a fully working simulation. then, maybe. work on the schedule and movement. 
+- advent of code @1400. 
