@@ -40,49 +40,35 @@
             }
           },
           {
-            "id": "0f4d4a83a8760449",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zz_templates/course_experiments_week-x.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "course_experiments_week-x"
-            }
-          },
-          {
-            "id": "fa7f675d85d357f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "today i feel like a flower.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "today i feel like a flower"
-            }
-          },
-          {
             "id": "debba7dff349d3b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recurse-center/emergence work.md",
+                "file": "recurse-center/understanding how c (or any compiled language) works.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "emergence work"
+              "title": "understanding how c (or any compiled language) works"
+            }
+          },
+          {
+            "id": "aaa35ad3f284c3a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recurse-center/advent-of-code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "advent-of-code"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -242,8 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,16 +244,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fa7f675d85d357f4",
+  "active": "debba7dff349d3b7",
   "lastOpenFiles": [
-    "recurse-center/temp note for check-in-check-outs.md",
-    "today i feel like a flower.md",
-    "z_images/IMG_8114.webp",
+    "recurse-center/intro-to-prolog.md",
+    "recurse-center/emergence work.md",
+    "recurse-center/pairing with kevan.md",
+    "recurse-center/avantos fast track puzzle.md",
     "zz_templates/course_experiments_week-x.md",
+    "today i feel like a flower.md",
+    "recurse-center/advent-of-code.md",
+    "recurse-center/temp note for check-in-check-outs.md",
+    "z_images/IMG_8114.webp",
     "zz_templates/uncategorized.md",
     "zz_templates/note.md",
     "intro-to-algorithms/ita_lecture-3_sets-and-sorting.md",
-    "recurse-center/emergence work.md",
     "z_images/Screenshot 2026-06-25 at 18.26.55.webp",
     "thesis/technical breakthroughs in history.md",
     "quote on writing.md",
@@ -279,13 +267,11 @@
     "z_images/Screenshot 2026-06-25 at 12.17.38.webp",
     "z_images/IMG_8112.webp",
     "recurse-center/nand2tetris.md",
-    "recurse-center/intro-to-prolog.md",
     "nature-of-code/noc_midterm-log.md",
     "what is technology?.md",
     "projects-by-other-people/micro-nano landscape, by suxuan jiang.md",
     "to do.md",
     "performance piece with cody.md",
-    "recurse-center/pairing with kevan.md",
     "z_images/IMG_8103.mp4",
     "intro-to-algorithms/index.md",
     "intro-to-algorithms/ita_lecture-2_data-structures.md",
@@ -295,7 +281,6 @@
     "z_images/forever-meetings_sarah.webp",
     "z_images/image-19.png",
     "z_images/Screenshot 2026-06-19 at 23.04.18.webp",
-    "thesis/definitions of technology.md",
     "z_images/Screenshot 2026-06-19 at 17.40.14.webp",
     "z_images/asymp_graph.webp",
     "z_images/260618_wiring.png",

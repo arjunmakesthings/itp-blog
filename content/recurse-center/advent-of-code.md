@@ -71,3 +71,5 @@ function manhattan_distance(p1, p2) {
 ---
 
 it made me want to do these puzzles more, and use this as a way to get deeper into the nooks of programming.
+
+solutions to puzzles done during my batch are on this repo: https://github.com/arjunmakesthings/advent-of-code
