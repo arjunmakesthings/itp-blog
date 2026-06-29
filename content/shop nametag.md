@@ -10,3 +10,8 @@ everyone at the itp-shop has a nametag. wanted to make mine that shows off my ar
 ![[vid1_260618.mp4]]
 
 repo: 
+
+---
+
+# 260628:
+for the second iteration, i wanted to make this even more minimalistic. i bought a modulino led-matrix. the idea would be to stick this onto the protoboard, and have a microcontroller beneath it. 
