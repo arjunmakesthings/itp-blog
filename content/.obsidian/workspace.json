@@ -152,9 +152,23 @@
               "icon": "lucide-file",
               "title": "daily-programmatic-sketching"
             }
+          },
+          {
+            "id": "58f58d9aa11a8846",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recurse-center/programming in assembly.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "programming in assembly"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -211,8 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -314,8 +327,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -332,12 +344,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7871d74d4b82c35d",
+  "active": "58f58d9aa11a8846",
   "lastOpenFiles": [
-    "z_images/1-2.webp",
-    "z_images/2-1.webp",
+    "people/ben kallus.md",
+    "recurse-center/programming in assembly.md",
     "recurse-center/temp note for check-in-check-outs.md",
     "recurse-center/daily-programmatic-sketching.md",
+    "z_images/1-2.webp",
+    "z_images/2-1.webp",
     "intro-to-algorithms/ita_lecture-4_hashing.md",
     "recurse-center/understanding how c (or any compiled language) works.md",
     "recurse-center/nand2tetris.md",
@@ -365,13 +379,11 @@
     "terms & concepts/handmade websites.md",
     "z_images/Screenshot 2026-06-25 at 12.17.38.webp",
     "z_images/IMG_8112.webp",
-    "nature-of-code/noc_midterm-log.md",
     "z_images/IMG_8103.mp4",
     "z_images/IMG_8106.mp4",
     "z_images/forever-meetings_sarah.webp",
     "z_images/image-19.png",
     "z_images/Screenshot 2026-06-19 at 23.04.18.webp",
-    "z_images/Screenshot 2026-06-19 at 17.40.14.webp",
     "z_images/vid1_260618.mp4",
     "z_images/IMG_4738.mp4",
     "thesis/research",
