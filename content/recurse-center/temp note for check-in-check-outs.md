@@ -4,10 +4,10 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260630-check-in:
+### 260630-check-out:
 
-feeling: a little anxious. the itp residents for next year were announced today, and i can't help but worry if i'll make it myself next year. we'll see :)
+feeling: good! a little sleepy. 
 
-- intro to algorithms lec 4. 
-- emergent system: figure out the schedule problem; see if a basic simulation is possible.
-- sketch for an hour.
+- ~~intro to algorithms lec 4.~~ 
+- ~~emergent system: figure out the schedule problem.~~ -> got the scheduling to work. 
+- sketch for an hour -> will do at home.

@@ -139,8 +139,7 @@
               "title": "ita_lecture-4_hashing"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -318,11 +317,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0d978ab50277d486",
+  "active": "c59b80fefbdf698a",
   "lastOpenFiles": [
+    "intro-to-algorithms/ita_lecture-4_hashing.md",
     "recurse-center/understanding how c (or any compiled language) works.md",
     "recurse-center/nand2tetris.md",
-    "intro-to-algorithms/ita_lecture-4_hashing.md",
     "intro-to-algorithms/index.md",
     "recurse-center/temp note for check-in-check-outs.md",
     "format specifiers in c.md",
