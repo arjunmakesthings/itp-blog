@@ -167,8 +167,7 @@
               "title": "programming in assembly"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -344,10 +343,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "58f58d9aa11a8846",
+  "active": "c59b80fefbdf698a",
   "lastOpenFiles": [
-    "people/ben kallus.md",
     "recurse-center/programming in assembly.md",
+    "people/ben kallus.md",
     "recurse-center/temp note for check-in-check-outs.md",
     "recurse-center/daily-programmatic-sketching.md",
     "z_images/1-2.webp",

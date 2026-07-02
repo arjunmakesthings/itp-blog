@@ -4,11 +4,12 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260701-check-in:
+### 260702-check-in:
 
-feeling: a little tired. emma & i played tennis in the morning, and i finally feel the creeping tiredness catching up. i have a packed week ahead of me; so i've decided to take it slow & be home today. 
+feeling: good. 
 
-- attend the assembly meeting @1200. 
-- attend non-programming talks @1700. 
-- do a little bit of writing. either: ai; documentation for 'the cost of holding on'; or principles.
-- small sketch.
+- ~~attend presentations @1600.~~  
+- ~~attempt advent of code 2023, day 24.~~ -> wrote inefficient code that hung. still puzzle on how i may get this.
+- ~~small sketch.~~ 
+- ~~lunch with tp @1300.~~ 
+- ~~shop-shift @1800.~~ -> heading. 
