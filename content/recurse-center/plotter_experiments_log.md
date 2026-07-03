@@ -24,7 +24,8 @@ here's a sketch from there that we plotted.
 
 ---
 
+# 260703: 
+made some stuff with [[jagi]], pairing on his odin creative coding framework. 
 
-
-
+![[IMG_8127.webp|477]]
 

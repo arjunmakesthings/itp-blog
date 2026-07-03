@@ -4,12 +4,10 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260702-check-out:
+### 260703-check-in:
 
-feeling: good. 
+feeling: decent. things felt a bit grim at the start, but had fun. 
 
-- ~~attend presentations @1600.~~  
-- ~~attempt advent of code 2023, day 24.~~ -> wrote inefficient code that hung. still puzzled on how i may get this.
-- ~~small sketch.~~ 
-- ~~lunch with tp @1300.~~ 
-- ~~shop-shift @1800.~~ -> heading. 
+- put up a [small library](https://github.com/arjunmakesthings/modulino_led-matrix_alt-library) for communicating with an led-matrix i bought off amazon, where the default library was not working. 
+- worked on the emergent system thing, got a simulation working. 
+- paired with jagi; gave him a tour of my website; spoke about documenting work; and pen-plotted something we made on his odin creative-coding framework.
