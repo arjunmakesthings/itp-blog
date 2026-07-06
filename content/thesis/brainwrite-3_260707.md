@@ -46,5 +46,5 @@ gosh, this feels awfully similar to future sketches: ==what do the creative tool
 
 ---
 
-i remember ling dong had made a device where you could program on the train, but i can't find documentation for it anywhere. 
+i remember ling dong had made a device where you could program on the train, but i can't find documentation for it anywhere. that's kind of similar to cartese. 
 

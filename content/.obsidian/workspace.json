@@ -29,26 +29,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thesis/brainwrite-3_260707.md",
+                "file": "people/sakina.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "brainwrite-3_260707"
+              "title": "sakina"
             }
           },
           {
-            "id": "eb45e2f17a69bf66",
+            "id": "747248a00a7819c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "watching broadway.md",
+                "file": "0112.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "watching broadway"
+              "title": "0112"
             }
           },
           {
@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nameta",
+                "query": "sakina",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -165,7 +165,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recurse-center/temp note for check-in-check-outs.md",
+                "file": "0112.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +212,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for temp note for check-in-check-outs"
+              "title": "Backlinks for 0112"
             }
           },
           {
@@ -266,9 +267,21 @@
               "icon": "links-going-out",
               "title": "Outgoing links from temp note for check-in-check-outs"
             }
+          },
+          {
+            "id": "551e0e33a9b88824",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "0112.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -290,10 +303,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2773eaf6d79727f3",
+  "active": "747248a00a7819c4",
   "lastOpenFiles": [
-    "dear itp.md",
+    "people/sakina.md",
+    "0112.md",
     "thesis/brainwrite-3_260707.md",
+    "dear itp.md",
     "grim.md",
     "thesis/index.md",
     "thesis/definitions of technology.md",
@@ -319,8 +334,6 @@
     "z_images/1-2.webp",
     "z_images/2-1.webp",
     "recurse-center/nand2tetris.md",
-    "intro-to-algorithms/index.md",
-    "qwicc connectors.md",
     "z_images/qwicc.webp",
     "z_images/IMG_8114.webp",
     "z_images/Screenshot 2026-06-25 at 18.26.55.webp",
