@@ -15,3 +15,18 @@ base system inspired by [[emergence work]]. movers moving on a surface, constrai
 ![[1-2.webp]]
 
 ![[2-1.webp]]
+
+---
+
+some recursive squares: 
+
+![[frame (16).webp]]![[frame (13).webp]]![[frame (1).webp]]![[frame (4).webp]]
+
+---
+
+plot with [[jagi]]. 
+
+![[IMG_8127-1.webp]]
+
+---
+
