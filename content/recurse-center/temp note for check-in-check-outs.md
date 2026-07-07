@@ -4,10 +4,10 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260703-check-in:
+### 260707-check-in:
 
-feeling: decent. things felt a bit grim at the start, but had fun. 
+feeling: realised i was too tense about housing in the fall, and that it will take up all of my headspace if i let it. deciding to pursue housing for an hour at night; go for the occasional visit; and focus on the time i have at r.c. i can ramp up my search slowly. 
 
-- put up a [small library](https://github.com/arjunmakesthings/modulino_led-matrix_alt-library) for communicating with an led-matrix i bought off amazon, where the default library was not working. 
-- worked on the emergent system thing, got a simulation working. 
-- paired with jagi; gave him a tour of my website; spoke about documenting work; and pen-plotted something we made on his odin creative-coding framework.
+- intro-to-algo lec 5 -> didn't get to this yesterday; so.
+- pair with teresa @1400. 
+- emergent system work.
