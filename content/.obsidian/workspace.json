@@ -36,8 +36,23 @@
               "icon": "lucide-file",
               "title": "plotter_experiments_log"
             }
+          },
+          {
+            "id": "1410dbbeb14be60f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thesis/thesis brainstorming with gwen & ryan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "thesis brainstorming with gwen & ryan"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -208,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,8 +242,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c59b80fefbdf698a",
+  "active": "1410dbbeb14be60f",
   "lastOpenFiles": [
+    "thesis/brainwrite-3_260707.md",
+    "thesis/thesis brainstorming with gwen & ryan.md",
+    "recurse-center/temp note for check-in-check-outs.md",
     "recurse-center/plotter_experiments_log.md",
     "recurse-center/daily-programmatic-sketching.md",
     "z_images/IMG_8127-1.webp",
@@ -235,7 +255,6 @@
     "z_images/frame (13).webp",
     "z_images/frame (1).webp",
     "z_images/frame (4).webp",
-    "recurse-center/temp note for check-in-check-outs.md",
     "recurse-center/emergence work.md",
     "intro-to-algorithms/ita_lecture-5_linear-sort.md",
     "z_images/Screenshot 2026-07-07 at 11.32.08.webp",
@@ -246,7 +265,6 @@
     "people/sakina.md",
     "thesis/technical breakthroughs in history.md",
     "0112.md",
-    "thesis/brainwrite-3_260707.md",
     "dear itp.md",
     "grim.md",
     "thesis/index.md",
