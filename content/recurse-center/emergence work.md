@@ -244,3 +244,4 @@ in case (b)*
 * in case b, it is not possible (with this approach) to have n points w units apart. so, we do the best we can.
 ```
 
+i considered returning vectors and not tuples, so that you could access, say, `spots[n].x && spots[n].y`, but decided against it (more operation required). in this case, an array works better.
