@@ -10,6 +10,8 @@ dear itp,
 
 i love you. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XhxQE4s7SRk?si=XS5U7JI2TLhVZZLX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 it is the fourth-of-july. i sit in red-square — alone on a floor that felt unimaginably out-of-reach about a year ago. i am now here; i now crack jokes with people i once admired; i made projects that other people on the internet thought were 'wow'. 

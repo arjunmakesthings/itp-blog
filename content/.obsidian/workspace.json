@@ -24,31 +24,31 @@
             }
           },
           {
-            "id": "59218a016b8cee5b",
+            "id": "579039a5617d6124",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recurse-center/plotter_experiments_log.md",
+                "file": "recurse-center/emergence work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plotter_experiments_log"
+              "title": "emergence work"
             }
           },
           {
-            "id": "1410dbbeb14be60f",
+            "id": "74457310b43face0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thesis/thesis brainstorming with gwen & ryan.md",
+                "file": "dear itp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "thesis brainstorming with gwen & ryan"
+              "title": "dear itp"
             }
           }
         ],
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sakina",
+                "query": "dear itp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -105,12 +105,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -242,12 +242,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1410dbbeb14be60f",
+  "active": "74457310b43face0",
   "lastOpenFiles": [
-    "thesis/brainwrite-3_260707.md",
+    "bioart-as-biopolitics/ba_final-log.md",
     "thesis/thesis brainstorming with gwen & ryan.md",
+    "z_images/IMG_8143.webp",
     "recurse-center/temp note for check-in-check-outs.md",
+    "recurse-center/emergence work.md",
     "recurse-center/plotter_experiments_log.md",
+    "thesis/brainwrite-3_260707.md",
     "recurse-center/daily-programmatic-sketching.md",
     "z_images/IMG_8127-1.webp",
     "z_images/IMG_8127.jpg",
@@ -255,7 +258,6 @@
     "z_images/frame (13).webp",
     "z_images/frame (1).webp",
     "z_images/frame (4).webp",
-    "recurse-center/emergence work.md",
     "intro-to-algorithms/ita_lecture-5_linear-sort.md",
     "z_images/Screenshot 2026-07-07 at 11.32.08.webp",
     "z_images/Screenshot 2026-07-07 at 11.20.09.webp",
@@ -278,8 +280,6 @@
     "recurse-center/programming in assembly.md",
     "intro-to-algorithms/ita_lecture-4_hashing.md",
     "format specifiers in c.md",
-    "recurse-center/midbatch reflection.md",
-    "z_images/1-2.webp",
     "z_images/IMG_8103.mp4",
     "z_images/IMG_8106.mp4",
     "z_images/vid1_260618.mp4",

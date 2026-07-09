@@ -22,3 +22,7 @@ i tried to use zsh to delete raw photos and only preserve the jpegs, but in doin
 - [[gwen]] & [[ryan]] pushed me to think of ==why my (self-centered) thesis would be important to someone in the audience==. 
 - i realized that my original backstory (visa, anxiety, one-offs) is important for people to know where this is coming from. otherwise they confuse with just another 'diy' experiment. 
 - the point of it 'testing' my education is somehow not coming through. i think it would be nice for me to talk to someone about this; i can't figure out whom. 
+
+^ when i wrote that, my immediate instinct was to try & run to a professor, and reach out for office hours. i decided against it — i think i need to take more decisions myself, and become more independent in being able to defend my line of thought. 
+
+![[IMG_8143.webp]]

@@ -4,12 +4,12 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260707-check-out:
+### 260708-check-in:
 
-feeling: realised i was too tense about housing in the fall, and that it will take up all of my headspace if i let it. deciding to pursue housing for an hour at night; go for the occasional visit; and focus on the time i have at r.c. i can ramp up my search slowly. 
+feeling: productive. i was up till late last night, [silently-conversing](https://www.youtube.com/watch?v=QQc5opd40JM) with a couple of friends about what our theses could be. came in, edited the video, wrote a bit. 
 
-- ~~intro-to-algo lec 5 -> didn't get to this yesterday; so.~~ -> [notes](https://arjunmakesthings.github.io/itp-blog/intro-to-algorithms/ita_lecture-5_linear-sort).
-- paired with teresa @1400 to make a contact-sheet for animation text. i don't think we got something print-worthy, but let's see!
-- worked on a reflection-typography sketch. i'll make some more progress and try to print it with the plotter tomorrow.
-- going to meet shikha.
-- thesis collective-brain-dump-session at itp @1830.
+- work on the emergent system. gosh, i need the base system to finish so that i can begin working on the interpretations quickly. in doing this, i realize the beauty of [reas's system](https://github.com/REAS/studio/blob/master/ProcessCompendium.md). the idea was to make a simple system, and see how far he could take it. i wonder if i should rephrase this enquiry, and just start with bouncing-balls. my base system itself is very complicated. 
+- i think from that point ^ i should also attempt to revive painting algorithms, and make (over)simplified systems that produce complexity. 
+- leetcode at 1530. 
+- maybe writing circle @1600 -> work on the principles bit. 
+- non-programming talks @1700; maybe.
