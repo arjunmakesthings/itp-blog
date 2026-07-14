@@ -57,5 +57,11 @@ from claire:
 
 ---
 
+- multiplexing workshop
+- cost of trying to hold on
+- typo generator
+- good physical computing workshop
+- and ux teaching
+- 
 
 
