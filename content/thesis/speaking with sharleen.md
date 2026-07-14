@@ -18,3 +18,7 @@ i need to define:
 the filter could be: why those problems, why are they the most essential? why now? why with tech?
 
 i think in all cases, i will revisit [[what is technology?]]. 
+
+---
+
+[[sharleen]] immediately saw the poetic potential of the project, but also mentioned that she was concerned with how 
