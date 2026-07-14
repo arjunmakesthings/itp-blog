@@ -46,3 +46,40 @@ would produce this:
 ![[Screenshot 2026-07-14 at 18.35.22.webp|428]]
 
 we can color correct firstly (because right now it's interpolating). 
+
+``` glsl
+vec3 col = (d < 0.0) ? vec3(0.0) : vec3(1.0); 
+
+```
+
+makes: 
+
+![[Screenshot 2026-07-14 at 18.37.58.webp|429]]
+
+next, the problem seems similar to that of p5.js, where the origin of the circle seems to be different. 
+
+doing this: 
+
+``` glsl
+    pos.x -=0.5; 
+    pos.y -=0.5;
+
+```
+
+would fix that: 
+
+![[Screenshot 2026-07-14 at 18.40.11.webp|428]]
+
+but that's not efficient, because the shape won't resize well. 
+
+``` glsl
+vec2 pos = (2.0 * gl_FragCoord.xy - u_resolution.xy) / u_resolution.y;
+
+```
+
+doing this would fix it because it doubles the coordinates / divides by resolution height — thereby keeping aspect ratio.
+
+with hermite interpolation:
+
+![[Screenshot 2026-07-14 at 18.44.11.webp|435]]
+
