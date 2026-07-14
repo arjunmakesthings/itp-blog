@@ -14,3 +14,13 @@ we designed the schematic on ki-cad, exported it as a `.gbr` file, and then set 
 ![[IMG_8154.mp4]]
 
 we couldn't get the depth right, and we also broke a bit. 
+
+---
+
+watched a few videos. 
+
+bantam software treats: 
+
+- strokes as cutout
+- fills as engraving
+
