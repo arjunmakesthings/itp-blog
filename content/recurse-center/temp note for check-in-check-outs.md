@@ -4,11 +4,10 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260714-check-out:
+### 260715-check-in: 
 
-feeling: good. hope i sleep well today. 
+feeling: okay.
 
-- ~~intro to algorithms lec 6.~~ -> didn't get to this. 
-- ~~i'm going to try to mess around with some sdf-s today, because i want to debunk the math for myself.~~ did a lot of this. [notes](https://arjunmakesthings.github.io/itp-blog/recurse-center/understanding-signed-distance-functions). i understood how to draw a single instance of any shape, but i can't figure out repetition yet. 
-- ~~thesis advisement with sharlene @1400.~~ 
-- ~~coffee chat with william @1700.~~ 
+- intro to alg lec 6. 
+- attempt emergent interpretations. 
+- work with aram to document wordle bot @1900. 
