@@ -1248,3 +1248,9 @@ from class:
 ---
 
 [[aram]] & i then worked on it quite a bit more to get it ready for the show. 
+
+---
+
+we spent a day in the summer to document it: 
+
+![[IMG_8159.webp]]

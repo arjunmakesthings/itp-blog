@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intro-to-algorithms/ita_lecture-6_binary-tree-1.md",
+                "file": "nature-of-code/noc_final-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ita_lecture-6_binary-tree-1"
+              "title": "noc_final-log"
             }
           },
           {
@@ -64,9 +64,37 @@
               "icon": "lucide-file",
               "title": "plotter_experiments_log"
             }
+          },
+          {
+            "id": "6171ddecdee99600",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recurse-center/ai assistant explorations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ai assistant explorations"
+            }
+          },
+          {
+            "id": "0c0f5abe33545821",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "to do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "to do"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -98,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "diagram",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,12 +147,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -256,16 +284,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0f873375985f4761",
+  "active": "ecea3b7a9005dbb8",
   "lastOpenFiles": [
+    "recurse-center/temp note for check-in-check-outs.md",
+    "recurse-center/ai assistant explorations.md",
+    "nature-of-code/noc_final-log.md",
+    "z_images/IMG_8159.webp",
+    "resources & tools/scala.md",
+    "intro-to-algorithms/ita_lecture-6_binary-tree-1.md",
     "z_images/Screenshot 2026-07-15 at 13.39.29.webp",
     "z_images/Screenshot 2026-07-15 at 13.13.59.webp",
     "z_images/Screenshot 2026-07-15 at 13.03.21.webp",
     "z_images/binary-tree.webp",
     "intro-to-algorithms/ita_lecture-5_linear-sort.md",
-    "intro-to-algorithms/ita_lecture-6_binary-tree-1.md",
     "intro-to-algorithms/index.md",
-    "recurse-center/temp note for check-in-check-outs.md",
     "recurse-center/understanding signed distance functions.md",
     "z_images/Screenshot 2026-07-14 at 18.44.11.webp",
     "z_images/Screenshot 2026-07-14 at 18.40.11.webp",
@@ -291,11 +323,7 @@
     "intro-to-algorithms/ita_lecture-3_sets-and-sorting.md",
     "intro-to-algorithms/ita_lecture-4_hashing.md",
     "recurse-center/pairing with kevan.md",
-    "recurse-center/advent-of-code.md",
-    "recurse-center/avantos fast track puzzle.md",
     "z_images/Screen Recording 2026-07-09 at 13.28.15.mp4",
-    "z_images/IMG_8143.webp",
-    "z_images/IMG_8127-1.webp",
     "z_images/IMG_8103.mp4",
     "z_images/IMG_8106.mp4",
     "z_images/vid1_260618.mp4",

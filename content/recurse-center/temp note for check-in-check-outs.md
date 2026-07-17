@@ -4,10 +4,10 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260715-check-in: 
+### 260716-check-in: 
 
-feeling: okay.
+feeling: good. had house hunting to do today morning, and yesterday night was up till midnight documenting a project that my friend & i had done last semester. 
 
-- intro to alg lec 6. 
-- attempt emergent interpretations. 
-- work with aram to document wordle bot @1900. 
+- want to look at ai-models. i think i know now what sort of things i'd like 'assistance' with, so i'm going to look at setting up some workflow / model / agent. 
+- attend presentations.
+- shop shift @1800.

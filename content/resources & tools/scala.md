@@ -3,7 +3,7 @@ tags:
   - resources
 draft: "false"
 ---
-collection of all possible scales in the world. 
+collection of all possible music scales in the world. 
 
 https://huygens-fokker.org/scala/
 
