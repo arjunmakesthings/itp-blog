@@ -4,10 +4,14 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260716-check-in: 
+### 260720-check-out: 
 
-feeling: good. had house hunting to do today morning, and yesterday night was up till midnight documenting a project that my friend & i had done last semester. 
+feeling: fried. 
 
-- want to look at ai-models. i think i know now what sort of things i'd like 'assistance' with, so i'm going to look at setting up some workflow / model / agent. 
-- attend presentations.
-- shop shift @1800.
+- ~~going to do a little bit of studying on gerber files, gcode & bluetooth — things i got from other people, last week, in conversations.~~ -> didn't get to this.  
+- ~~advent of code beginner group @1100.~~ -> did some fun advent of code stuff in mob-programming style.  
+- ~~reach out to people who responded to my small question so that i can pair with someone.~~ -> tomorrow. 
+- attended programmatic cad @1400. 
+- ~~update blog from everything.~~ 
+- ~~work on the light type thing.~~
+- paired with jagi to pen plot an idea for recursive arrows. 

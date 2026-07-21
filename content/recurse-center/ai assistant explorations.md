@@ -37,3 +37,13 @@ then run with:
 
 `ollama run {name}`
 
+---
+
+ollama serves a local server: https://blog.postman.com/how-to-connect-to-local-ollama/
+
+---
+
+the next thing [[george mandis]] suggested was to use an agent. an agent can control your computer, and make changes on your behalf. i was skeptical; downloaded opencode; and set all permissions to explicitly ask. 
+
+the good thing is that everything only runs if i serve ollama with `ollama serve`. i can always stop the local server if i'm hesitant. 
+

@@ -27,3 +27,24 @@ bantam software treats:
 ---
 
 [[ian cox]] told me to use the bigger bantam cnc instead of the other mill because the new bantam is the newer machine.
+
+---
+
+finally got it with [[kezia]] & [[jagi]]. 
+
+![[IMG_8180 (1).mp4]]
+
+stuff to remember: 
+
+gerber file 
+
+fcu is top layer — put all cuts there
+
+bcu we don't need in single side copper. 
+
+edge cut will cut the board. 
+
+trace width should just be more than bit width. 
+
+you can edit hole size too so that you can basically mill the whole pcb with one bit (1/32"). 
+

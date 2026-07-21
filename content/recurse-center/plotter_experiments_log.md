@@ -29,3 +29,19 @@ made some stuff with [[jagi]], pairing on his odin creative coding framework.
 
 ![[IMG_8127.webp|477]]
 
+---
+
+had an idea for reflective typography. tried to plot with [[jagi]]; didn't turn out well. 
+
+![[IMG_8146 (1).webp|488]]
+
+---
+
+### 260720: 
+
+![[IMG_8182.webp|362]]
+
+programmed a recursively drawing arrow thing with [[jagi]]. 
+
+![[IMG_8181.mp4]]
+
