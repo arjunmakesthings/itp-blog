@@ -65,8 +65,7 @@
               "title": "emergence work"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recurse-center/emergence work.md",
+                "file": "recurse-center/temp note for check-in-check-outs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for emergence work"
+              "title": "Backlinks for temp note for check-in-check-outs"
             }
           },
           {
@@ -255,13 +254,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a9a651010e1b8972",
+  "active": "c59b80fefbdf698a",
   "lastOpenFiles": [
+    "recurse-center/emergence work.md",
+    "recurse-center/daily-programmatic-sketching.md",
+    "terms & concepts/expected value.md",
+    "terms & concepts/handmade websites.md",
+    "recurse-center/on probability.md",
+    "terms & concepts/Untitled",
+    "recurse-center/temp note for check-in-check-outs.md",
     "z_images/frame (8).webp",
     "z_images/frame (19).webp",
     "z_images/frame (13).jpeg",
     "z_images/frame (17).jpeg",
-    "recurse-center/temp note for check-in-check-outs.md",
     "composition 1 talk.md",
     "conversation with shawn.md",
     "maybe my work is meant to be consumed by a tiny audience.md",
@@ -286,15 +291,10 @@
     "z_images/IMG_8181.mp4",
     "z_images/IMG_8182.webp",
     "z_images/IMG_8146 (1).webp",
-    "shader-time/st_experiments_week-2.md",
-    "recurse-center/espruino and programming microcontrollers in javascript.md",
-    "people/george mandis.md",
-    "to do.md",
     "z_images/IMG_8159.webp",
     "z_images/Screenshot 2026-07-15 at 13.39.29.webp",
     "z_images/Screenshot 2026-07-15 at 13.13.59.webp",
     "z_images/Screenshot 2026-07-15 at 13.03.21.webp",
-    "z_images/binary-tree.webp",
     "z_images/IMG_8154.mp4",
     "z_images/Screen Recording 2026-07-09 at 13.28.15.mp4",
     "z_images/IMG_8103.mp4",
@@ -302,7 +302,6 @@
     "z_images/vid1_260618.mp4",
     "z_images/IMG_4738.mp4",
     "thesis/research",
-    "z_images/nand.mp4",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",

@@ -5,6 +5,13 @@ tags:
 noteOrder: "361"
 draft: "false"
 ---
+read more here: https://github.com/arjunmakesthings/daily-movement_emergence-studies
+
+
+---
+
+# process: 
+
 # 260619: 
 mass had to grow with age, but then slow down. tried logarithmic growth, but that wasn't proper (as growth needs to have a ceiling). could have used constrain, but that's unnecessary computation. 
 
