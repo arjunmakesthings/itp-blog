@@ -7,6 +7,11 @@ draft: "false"
 ---
 presented [this](https://arjunmakesthings.github.io/presentations/slides/260521_composition-talk.html#1) at the [composition conference](https://composition.codes/) in philadelphia (at the [rotunda](https://www.therotunda.org)). 
 
+watch the whole talk here: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vJG8lcJc1Ec?si=zwbM20ydgRE9n6jE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ![[35cadc09-8d66-4c72-b218-756badebc535.webp]]![[1aa549fc-5638-409b-97f5-2faac2580e2a.webp]]![[2768be4e-19a9-45a5-850e-7a16ef13cf7a.webp]]![[122c5e77-be32-4f37-8cc9-c3896419af4f.webp]]
 
 ![[190175a4-dfa2-477f-8aab-375881534ed2.mp4]]

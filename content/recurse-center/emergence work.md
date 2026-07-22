@@ -245,3 +245,14 @@ in case (b)*
 ```
 
 i considered returning vectors and not tuples, so that you could access, say, `spots[n].x && spots[n].y`, but decided against it (more operation required). in this case, an array works better.
+
+---
+
+### 260721: 
+
+wip pictures from interpretation 1: 
+
+![[frame (8).webp|431]]
+![[frame (19).webp|431]]
+![[frame (13).jpeg|424]]
+![[frame (17).jpeg|427]]
