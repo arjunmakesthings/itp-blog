@@ -7,10 +7,9 @@ draft: "false"
 ---
 read more here: https://github.com/arjunmakesthings/daily-movement_emergence-studies
 
-
 ---
 
-# process: 
+# log: 
 
 # 260619: 
 mass had to grow with age, but then slow down. tried logarithmic growth, but that wasn't proper (as growth needs to have a ceiling). could have used constrain, but that's unnecessary computation. 
@@ -255,7 +254,7 @@ i considered returning vectors and not tuples, so that you could access, say, `s
 
 ---
 
-### 260721: 
+# 260721: 
 
 wip pictures from interpretation 1: 
 
@@ -263,3 +262,55 @@ wip pictures from interpretation 1:
 ![[frame (19).webp|431]]
 ![[frame (13).jpeg|424]]
 ![[frame (17).jpeg|427]]
+
+---
+
+# 260722: 
+was walking & thought of all the 'missed connections' we have.
+
+```
+/*
+interpretation #2.0: missed connections.
+
+thought: 
+we walk by so many people. when they are within a certain distance, we have a short window of time to connect with each other in physical-space, until we are distant again. 
+
+expression: 
+draw a line from each being to other beings around them within a specific radius, with the distance between them signifying the intensity of a possible connection.
+
+parameters: 
+population: 1000,
+day_length: 10,
+
+22nd july, 2026.
+*/
+```
+
+
+![[Screen Recording 2026-07-22 at 18.55.14.mp4]]
+
+```
+/*
+interpretation #2.1: missed connections.
+
+thought: 
+we walk by so many people. when they are within a certain distance, we have a short window of time to connect with each other in physical-space, until we are distant again. 
+
+expression: 
+draw a line from each being to other beings around them within a specific radius, with the distance between them signifying the intensity of a possible connection, over time. connections are wiped out, however, by the movement of beings.
+
+parameters: 
+population: 1000,
+day_length: 10,
+
+22nd july, 2026.
+*/
+```
+
+![[Screen Recording 2026-07-22 at 18.59.09.mp4]]
+
+
+![[260722_1.webp|499]]
+
+
+
