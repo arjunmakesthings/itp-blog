@@ -24,77 +24,49 @@
             }
           },
           {
-            "id": "58b7045ceb242e3f",
+            "id": "2abd2d853e6cbad4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "composition 1 talk.md",
+                "file": "recurse-center/learning openscad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "composition 1 talk"
+              "title": "learning openscad"
             }
           },
           {
-            "id": "7075f556cc34a06f",
+            "id": "0550152b63417c1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conversation with shawn.md",
+                "file": "recurse-center/learning openscad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conversation with shawn"
+              "title": "learning openscad"
             }
           },
           {
-            "id": "a9a651010e1b8972",
+            "id": "97b947c51b851d80",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recurse-center/emergence work.md",
+                "file": "people/william west.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "emergence work"
-            }
-          },
-          {
-            "id": "7d23ffb4e300e827",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "curiosity is a luxury.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "curiosity is a luxury"
-            }
-          },
-          {
-            "id": "873686eb4c1f1888",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "delta in 4 years.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "delta in 4 years"
+              "title": "william west"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -183,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "delta in 4 years.md",
+                "file": "recurse-center/learning openscad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for delta in 4 years"
+              "title": "Backlinks for learning openscad"
             }
           },
           {
@@ -266,8 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,17 +254,24 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "873686eb4c1f1888",
+  "active": "0550152b63417c1a",
   "lastOpenFiles": [
-    "curiosity is a luxury.md",
+    "people/jenny xing.md",
+    "recurse-center/learning openscad.md",
+    "recurse-center/understanding a .stl file.md",
+    "people/william west.md",
+    "terms & concepts/bit masking.md",
+    "recurse-center/temp note for check-in-check-outs.md",
+    "terms & concepts/bitwise operations.md",
+    "recurse-center/advent-of-code.md",
     "delta in 4 years.md",
+    "curiosity is a luxury.md",
     "recurse-center/we ask the wrong question.md",
     "people/anh.md",
     "recurse-center/emergence work.md",
     "z_images/Screen Recording 2026-07-22 at 18.59.09.mp4",
     "z_images/260722_1.webp",
     "z_images/Screen Recording 2026-07-22 at 18.55.14.mp4",
-    "recurse-center/temp note for check-in-check-outs.md",
     "recurse-center/daily-programmatic-sketching.md",
     "terms & concepts/expected value.md",
     "terms & concepts/handmade websites.md",
@@ -313,13 +290,6 @@
     "is it a human need to want to communicate or express?.md",
     "terms & concepts/tool vs medium vs material.md",
     "intro-to-physical-computing/a brief rant on the future of interaction design, by bret victor.md",
-    "thesis/brainwrite-5_260714.md",
-    "case against ai.md",
-    "thesis/definitions of technology.md",
-    "intro-to-physical-computing/research.md",
-    "recurse-center/understanding signed distance functions.md",
-    "recurse-center/plotter_experiments_log.md",
-    "recurse-center/ai assistant explorations.md",
     "z_images/IMG_8180 (1).mp4",
     "z_images/IMG_8181.mp4",
     "z_images/IMG_8182.webp",
