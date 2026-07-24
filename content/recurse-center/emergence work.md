@@ -312,5 +312,34 @@ day_length: 10,
 
 ![[260722_1.webp|499]]
 
+---
 
+# 260724: 
+achieved delaunay triangulation: 
 
+![[Screenshot 2026-07-24 at 16.04.24.webp]]
+
+interpretation 3: 
+
+``` txt
+/*
+interpretation #3: all the world's a mesh.
+
+thought: 
+all beings are connected to each other via an invisible mesh. 
+
+expression: 
+treat the position of each being as a vertex. generate a triangular-mesh by finding tuples close to each other, so that no point is inside a face. keep generating the mesh over time, as beings move.
+
+parameters: 
+population: 1000
+day-length: 5
+
+24th july, 2026.
+*/
+
+```
+
+![[260724_1.jpeg]]
+
+![[260724_2.jpeg]]

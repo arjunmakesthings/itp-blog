@@ -13,6 +13,8 @@ looked at [[understanding a .stl file]].
 
 [[jenny xing]] & i programmed this in openscad: 
 
+![[IMG_8192.webp|245]]
+
 ``` 
 /*
 programmable cad test; 260723. following autodesk inventor practice part drawing p. 2.
