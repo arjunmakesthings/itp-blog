@@ -211,7 +211,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,11 +229,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "db1408e536bc2a14",
+  "active": "32f876c5ef6f4df6",
   "lastOpenFiles": [
+    "recurse-center/plotter_experiments_log.md",
+    "thesis/right to internet proposals.md",
+    "recurse-center/emergence work.md",
     "people/william west.md",
     "recurse-center/learning openscad.md",
-    "recurse-center/emergence work.md",
     "z_images/frame (15).jpeg",
     "z_images/260724_1.jpeg",
     "z_images/260724_2.jpeg",
@@ -267,7 +270,6 @@
     "people/shawn.md",
     "thesis/brainwrite-6_260720.md",
     "intro-to-physical-computing/you can conduct electricity through so many materials.md",
-    "is it a human need to want to communicate or express?.md",
     "z_images/IMG_8180 (1).mp4",
     "z_images/IMG_8181.mp4",
     "z_images/IMG_8154.mp4",
