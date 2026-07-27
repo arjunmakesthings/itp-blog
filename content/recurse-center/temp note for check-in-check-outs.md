@@ -4,11 +4,11 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260724-check-out: 
+### 260727-check-in: 
 
-feeling: pretty good. i'm at a decent point with the system i was building. if anyone is interested in building out some interpretations, let me know! i'd love to pair :) 
+feeling: a little stressed. our housing application didn't go through, and it's too last-minute to find a decent place now. i don't know — a little tense. cancelled my presentation-slot too because i know that this week will be a little bit chaotic for me. 
 
-- spent the first half doing the advent of code day-5 problem. 
-- achieved delaunay triangulation for interpretation #3. 
-- 
- 
+- speak with avi @1230. 
+- programmable cad @1400. 
+- work on interpretation 4. 
+- figure out what to do about housing.

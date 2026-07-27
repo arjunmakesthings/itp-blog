@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -229,18 +230,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "32f876c5ef6f4df6",
+  "active": "db1408e536bc2a14",
   "lastOpenFiles": [
+    "to analyze or not to analyze.md",
+    "recurse-center/emergence work.md",
+    "recurse-center/temp note for check-in-check-outs.md",
     "recurse-center/plotter_experiments_log.md",
     "thesis/right to internet proposals.md",
-    "recurse-center/emergence work.md",
     "people/william west.md",
     "recurse-center/learning openscad.md",
     "z_images/frame (15).jpeg",
     "z_images/260724_1.jpeg",
     "z_images/260724_2.jpeg",
     "what can you do that others can't.md",
-    "recurse-center/temp note for check-in-check-outs.md",
     "z_images/Screenshot 2026-07-24 at 16.04.24.webp",
     "z_images/IMG_8192.webp",
     "people/jenny xing.md",
@@ -269,7 +271,6 @@
     "maybe my work is meant to be consumed by a tiny audience.md",
     "people/shawn.md",
     "thesis/brainwrite-6_260720.md",
-    "intro-to-physical-computing/you can conduct electricity through so many materials.md",
     "z_images/IMG_8180 (1).mp4",
     "z_images/IMG_8181.mp4",
     "z_images/IMG_8154.mp4",
