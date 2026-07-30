@@ -4,11 +4,10 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260727-check-in: 
+### 260728-check-in: 
 
-feeling: a little stressed. our housing application didn't go through, and it's too last-minute to find a decent place now. i don't know — a little tense. cancelled my presentation-slot too because i know that this week will be a little bit chaotic for me. 
+feeling: a little sleepy. i've been having an insane medley of dreams lately; it's like a cinema-house every night. and i keep waking up too. i'll arrive at the hub a little later than usual. 
 
-- speak with avi @1230. 
-- programmable cad @1400. 
-- work on interpretation 4. 
-- figure out what to do about housing.
+- house viewing from 1000-1200. 
+- intro to alg lec-7. 
+- more interpretations stuff / look at advent of code for tomorrow. i need to start thinking about how i want to present the emergent system work; because i also want to submit it for the processing community day thing.

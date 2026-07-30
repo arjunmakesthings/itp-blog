@@ -344,3 +344,55 @@ day-length: 5
 
 ![[260724_2.jpeg]]
 
+---
+
+# 260727:
+``` txt
+/*
+interpretation #4.1: meetings are ripples.
+
+thought: 
+meeting people can be resounding. when two beings meet, a ripple is sent through in space & time; that may affect other beings. 
+
+expression: 
+connect beings close to each other with a black line. when two beings collide, send out a circular ripple expanding from the point of collision. the closer the beings are, the further the ripple goes. lay this out over time.
+
+parameters: 
+population: 500
+day-length: 10
+
+27th july, 2026.
+*/
+
+```
+
+![[interp_4.1_still.webp]]
+
+![[interp_4.1.mp4]]
+
+---
+
+# 260730: 
+
+```
+/*
+interpretation #1.3: born in pairs. 
+
+thought: 
+beings are destined to be with someone that they were born close (in proximity & age) to. however, as they live out their lives, they may be close or separated in the world. ideology borrowed from: red thread of fate -> https://en.wikipedia.org/wiki/Red_thread_of_fate. 
+
+expression:
+draw a line between a being & their partner over time. the closer they are, the darker the line; the further they are, the lighter the line.
+
+parameters: 
+population = 40; 
+day length = 10;
+
+30th july, 2026.
+*/
+```
+
+
+![[Screenshot 2026-07-30 at 06.11.39.webp]]
+
+
