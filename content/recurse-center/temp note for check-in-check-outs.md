@@ -4,10 +4,12 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260728-check-in: 
+### 260731-check-in: 
 
-feeling: a little sleepy. i've been having an insane medley of dreams lately; it's like a cinema-house every night. and i keep waking up too. i'll arrive at the hub a little later than usual. 
+been super-stressful since yesterday. house-hunting; applying; documents; phone-calls; blah-blah-blah. excited to come back to life at rc with some work. 
 
-- house viewing from 1000-1200. 
-- intro to alg lec-7. 
-- more interpretations stuff / look at advent of code for tomorrow. i need to start thinking about how i want to present the emergent system work; because i also want to submit it for the processing community day thing.
+- make progress on the jlox interpreter. 
+- work on the pairs interpretation. 
+- think through presentation on thursday. 
+- maybe advent of code @1400. 
+- maybe pair with jing on the flipper.

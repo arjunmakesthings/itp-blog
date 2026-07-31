@@ -1,0 +1,1 @@
+met at the [[recurse-center]], in 2026. data scientist at new york times.
