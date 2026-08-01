@@ -45,16 +45,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recurse-center/badusb devices.md",
+                "file": "resources & tools/converting integer to different bases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "badusb devices"
+              "title": "converting integer to different bases"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -246,15 +244,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d73ca40dceb818c5",
+  "active": "c59b80fefbdf698a",
   "lastOpenFiles": [
+    "resources & tools/converting integer to different bases.md",
+    "recurse-center/making an interpreter.md",
+    "recurse-center/badusb devices.md",
     "recurse-center/emergence work.md",
     "recurse-center/learning openscad.md",
-    "recurse-center/badusb devices.md",
     "z_images/flipper_rubber-duck.mp4",
     "people/jing cao.md",
     "people/william west.md",
-    "recurse-center/making an interpreter.md",
     "recurse-center/temp note for check-in-check-outs.md",
     "z_images/Screenshot 2026-07-30 at 06.11.39.webp",
     "resources & tools/<base> in html.md",
