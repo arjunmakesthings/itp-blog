@@ -24,20 +24,6 @@
             }
           },
           {
-            "id": "6e31bf0d50a55bef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "writing modulino led-matrix library.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "writing modulino led-matrix library"
-            }
-          },
-          {
             "id": "db1408e536bc2a14",
             "type": "leaf",
             "pinned": true,
@@ -54,35 +40,63 @@
             }
           },
           {
-            "id": "d73ca40dceb818c5",
+            "id": "d824e0e58edc1a5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources & tools/converting integer to different bases.md",
+                "file": "thesis/the thesis just needs to be honest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "converting integer to different bases"
+              "title": "the thesis just needs to be honest"
             }
           },
           {
-            "id": "384a58d287714583",
+            "id": "2f5d0647fecd0a3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recurse-center/learning openscad.md",
+                "file": "what can you do that others can't.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "learning openscad"
+              "title": "what can you do that others can't"
+            }
+          },
+          {
+            "id": "edf746443c5c0232",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "breathe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "breathe"
+            }
+          },
+          {
+            "id": "d657c33785f7250f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "to do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "to do"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -255,7 +269,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,54 +287,54 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6e31bf0d50a55bef",
+  "active": "d657c33785f7250f",
   "lastOpenFiles": [
-    "z_images/IMG_8227.mp4",
     "recurse-center/temp note for check-in-check-outs.md",
-    "writing modulino led-matrix library.md",
+    "thesis/the thesis just needs to be honest.md",
+    "what can you do that others can't.md",
+    "projects-by-other-people/undo, by zongze chen.md",
+    "recurse-center/emergence work.md",
+    "z_images/boats.webp",
+    "z_images/alien-ufo-art.webp",
+    "z_images/image-20.png",
+    "thesis/brainwrite-6_260720.md",
+    "thesis/brainwrite-3_260707.md",
+    "thesis/brainwrite-2_260619.md",
+    "thesis/history of itp.md",
+    "thesis/brainwrite-1_260615.md",
+    "thesis/technical breakthroughs in history.md",
+    "thesis/thesis brainstorming with gwen & ryan.md",
+    "breathe.md",
     "recurse-center/learning openscad.md",
+    "resources & tools/converting integer to different bases.md",
+    "multiplexing workshop for stupid hackathon.md",
+    "programming an attiny84.md",
+    "z_images/IMG_7560.webp",
+    "writing modulino led-matrix library.md",
+    "z_images/IMG_8227.mp4",
     "recurse-center/understanding a .stl file.md",
     "recurse-center/making an interpreter.md",
     "recurse-center/badusb devices.md",
     "to do.md",
-    "resources & tools/converting integer to different bases.md",
-    "recurse-center/emergence work.md",
     "z_images/flipper_rubber-duck.mp4",
     "people/jing cao.md",
     "people/william west.md",
     "z_images/Screenshot 2026-07-30 at 06.11.39.webp",
     "resources & tools/<base> in html.md",
     "resources & tools/guide to mastodon.md",
-    "bioart-as-biopolitics/ba_final-log.md",
     "z_images/interp_4.1.mp4",
     "z_images/interp_4.1_still.webp",
-    "to analyze or not to analyze.md",
-    "recurse-center/plotter_experiments_log.md",
-    "thesis/right to internet proposals.md",
     "z_images/frame (15).jpeg",
     "z_images/260724_1.jpeg",
     "z_images/260724_2.jpeg",
-    "what can you do that others can't.md",
     "z_images/Screenshot 2026-07-24 at 16.04.24.webp",
-    "z_images/IMG_8192.webp",
-    "people/jenny xing.md",
-    "terms & concepts/bit masking.md",
-    "terms & concepts/bitwise operations.md",
-    "recurse-center/advent-of-code.md",
-    "delta in 4 years.md",
-    "curiosity is a luxury.md",
-    "recurse-center/we ask the wrong question.md",
     "z_images/Screen Recording 2026-07-22 at 18.59.09.mp4",
-    "z_images/260722_1.webp",
     "z_images/Screen Recording 2026-07-22 at 18.55.14.mp4",
     "terms & concepts/Untitled",
-    "z_images/frame (8).webp",
-    "z_images/frame (19).webp",
     "z_images/IMG_8180 (1).mp4",
     "z_images/IMG_8181.mp4",
     "z_images/IMG_8154.mp4",
     "z_images/Screen Recording 2026-07-09 at 13.28.15.mp4",
-    "z_images/IMG_8103.mp4",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",

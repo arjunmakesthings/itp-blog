@@ -4,7 +4,11 @@ tags:
 noteOrder: "9999"
 draft: "true"
 ---
-### 260731-check-out: 
+### 260731-check-in: 
+
+- wrote a bit. 
+- wrote a batch of niceties. 
+- cooked!
 
 feeling: so good! finally had a long-awaited good day just programming. 
 

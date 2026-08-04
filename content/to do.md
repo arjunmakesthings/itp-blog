@@ -63,6 +63,8 @@ from claire:
 - typo generator
 - good physical computing workshop
 - and ux teaching
+
+https://github.com/scottbez1/splitflap/tree/master
 - 
 
 
