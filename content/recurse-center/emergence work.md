@@ -396,3 +396,7 @@ day length = 10;
 ![[Screenshot 2026-07-30 at 06.11.39.webp]]
 
 
+---
+
+# presentation; 2608 @recurse: 
+i am interested in the idea of emergence/ 
