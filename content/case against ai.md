@@ -35,6 +35,10 @@ running note.
 - during [[noc_midterm-log]], i realized that there is a certain philosophical way to write code — i.e: a way where code itself can be the artifact accompanying the work. when i write code with ai, it fucks it up. ==it may be great for helper functions,== but not for the score itself.  
 - attending studio jadu's talk, and witnessing ==the absence of craftsmanship==. ==every platform looks the same?== people are so hungry to ~~make things~~ generate outputs, as quickly as possible. 
 
+blog: 
+
+![[chatgpt_fucking-blog.webp|540]]
+
 ---
 
 # readings (and quotes): 

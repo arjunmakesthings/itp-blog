@@ -65,6 +65,14 @@ from claire:
 - and ux teaching
 
 https://github.com/scottbez1/splitflap/tree/master
+
+
+
+michael shared this: 
+
+https://www.norvig.com/lispy.html
+
+https://receipt-math.recurse.com
 - 
 
 
