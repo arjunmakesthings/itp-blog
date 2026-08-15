@@ -6,38 +6,32 @@ draft: "true"
 ---
 an always evolving list of things to do and read; hidden from the public website. 
 
-- [ ] glsl canvas and https://www.youtube.com/watch?v=7UvpTTEE1Hs&t=85s
-
 ---
 # urgent / time-bound: 
 
 - [ ] 
 ---
 
-# to document: 
+# writing / documentation: 
 
+## projects:
 - [ ] hypercinema midterm
-- [ ] genetic engineering project
 - [ ] wordle bot
-- [ ] synth wall
+- [ ] ~~synth wall~~
+
+## teaching: 
+- [ ] and ux work
+- [ ] multiplexing workshop
+- [ ] good physical computing
+
+## notes: 
+- [ ] a case for lowercase
+- [ ] electricity for dummies
+- [ ] paper for emergent system
+- [ ] behaviour design / dialectic thinking
 
 ---
-# writing: 
 
-- [ ] behaviour design writing
-- [ ] write draft of both projects (synth + neurons)
-- [x] end of semester writing
-- [ ] teaching work for website
----
-# creative: 
-
-- [ ] drafts for barns room no moss
----
-# personal social: 
-
-
-
----
 # to see:
 
 - [ ] sebastian lague's — [how computers work](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq); found in  https://abc.decontextualize.com/more-than-you-wanted-to-know/
@@ -50,19 +44,12 @@ an always evolving list of things to do and read; hidden from the public website
 - [ ] https://laboriacuboniks.net/manifesto/xenofeminism-a-politics-for-alienation/
 - [ ] george hotz
 
-from claire: 
+from claire at composition: 
 
 - https://lean-lang.org
 - proofs in music: https://arxiv.org/abs/0711.1873
 - https://icfp26.sigplan.org/home/farm-2026
 
----
-
-- multiplexing workshop
-- cost of trying to hold on
-- typo generator
-- good physical computing workshop
-- and ux teaching
 
 https://github.com/scottbez1/splitflap/tree/master
 
@@ -73,6 +60,9 @@ michael shared this:
 https://www.norvig.com/lispy.html
 
 https://receipt-math.recurse.com
-- 
+
+
+micke wehar
+https://www.bridgesmathart.org/b2027/
 
 
