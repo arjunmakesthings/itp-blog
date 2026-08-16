@@ -11,7 +11,6 @@ an always evolving list of things to do and read; hidden from the public website
 
 - [ ] 
 ---
-
 # writing / documentation: 
 
 ## projects:
@@ -30,8 +29,14 @@ an always evolving list of things to do and read; hidden from the public website
 - [ ] paper for emergent system
 - [ ] behaviour design / dialectic thinking
 
----
+## artist drafts: 
+- [ ] practice statement
+- [ ] biography
 
+## itp-blog: 
+- [ ] itp bairui writing paper using gpt / cody / etc. 
+
+---
 # to see:
 
 - [ ] sebastian lague's — [how computers work](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq); found in  https://abc.decontextualize.com/more-than-you-wanted-to-know/
