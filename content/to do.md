@@ -28,13 +28,14 @@ an always evolving list of things to do and read; hidden from the public website
 - [ ] electricity for dummies
 - [ ] paper for emergent system
 - [ ] behaviour design / dialectic thinking
+- [ ] the masses are yours.
 
 ## artist drafts: 
 - [ ] practice statement
 - [ ] biography
 
 ## itp-blog: 
-- [ ] itp bairui writing paper using gpt / cody / etc. 
+- [x] itp bairui writing paper using gpt / cody / etc. 
 
 ---
 # to see:

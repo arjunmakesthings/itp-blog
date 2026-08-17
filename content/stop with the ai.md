@@ -2,9 +2,14 @@
 date: 2026-08-15
 tags:
   - rants
+  - writings
 noteOrder: "418"
 draft: "false"
 ---
+formalized this as: https://arjunmakesthings.github.io/notes/2026_the-masses-are-yours/page.html
+
+---
+
 i just found out that someone wrote two papers, got them accepted into a premier hci conference, using a large-language-model. they didn't write the paper themselves. the boundaries of human-knowledge, now, pushed forward by the communication of a large-language-model. 
 
 well, no wonder that other students are going to use more l.l.m.s to read l.l.m-written papers. this insane race to publish more; attend more conferences; speak to people dulled out; appeal to brains with less than half a second of attention span — where is the world headed? 

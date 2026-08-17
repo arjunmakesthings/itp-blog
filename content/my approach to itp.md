@@ -7,6 +7,9 @@ draft: "false"
 ---
 my approach will keep evolving, as i make my way through the program. this list is sorted by newest addition first. 
 
+# 260817: 
+spend large portions of your time being immersed, as opposed to trying to be 'productive'. 
+
 # 260203: 
 ==move more consistently, in smaller chunks==. do 1.5h windows for each course to try things out, and block longer (4h) for sustained projects; when you know what you have to do.
 
