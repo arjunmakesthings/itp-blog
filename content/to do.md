@@ -9,7 +9,9 @@ an always evolving list of things to do and read; hidden from the public website
 ---
 # urgent / time-bound: 
 
-- [ ] 
+- [ ] 4x4 matrix math
+- [ ] matrix multiplication
+- [ ] using matrices to transform vectors
 ---
 # writing / documentation: 
 
@@ -70,5 +72,9 @@ https://receipt-math.recurse.com
 
 micke wehar
 https://www.bridgesmathart.org/b2027/
+
+siddharth's: 
+
+ai 'scientists' accelerate research: https://www.youtube.com/watch?v=yrcztoCOYL8&t=935s
 
 
