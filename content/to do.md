@@ -40,6 +40,11 @@ an always evolving list of things to do and read; hidden from the public website
 - [x] itp bairui writing paper using gpt / cody / etc. 
 
 ---
+
+# experiments: 
+- [ ] electrowetting on ribbon cable: https://www.youtube.com/watch?v=eD0h2jBZXCI
+
+---
 # to see:
 
 - [ ] sebastian lague's — [how computers work](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq); found in  https://abc.decontextualize.com/more-than-you-wanted-to-know/
