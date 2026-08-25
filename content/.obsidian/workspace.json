@@ -38,8 +38,37 @@
               "icon": "lucide-file",
               "title": "thesis_to-do"
             }
+          },
+          {
+            "id": "a17b1f89cbed43a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "resources & tools/sandbox password.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sandbox password"
+            }
+          },
+          {
+            "id": "5d8e7ac9f84ed2be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thesis/alternative display research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "alternative display research"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -242,11 +272,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d69898fd4bd2f8ca",
+  "active": "5d8e7ac9f84ed2be",
   "lastOpenFiles": [
+    "to do.md",
+    "thesis/alternative display research.md",
+    "raspberry pi, strace, alpine linux.md",
+    "z_images/IMG_8305.webp",
+    "z_images/IMG_8304.webp",
+    "resources & tools/sandbox password.md",
     "thesis/thesis_to-do.md",
     "thesis/mathematical wonderings of automata-possibilities.md",
-    "to do.md",
     "ai & programming-abstraction.md",
     "projects-by-other-people/codedoc exhibition.md",
     "it is about immersion, not productivity.md",
@@ -269,9 +304,6 @@
     "projects-by-other-people/over the rainbow, kenny-g.md",
     "projects-by-other-people/new interfaces for textual expression, by allison parrish.md",
     "projects-by-other-people/musicboards, by elena rykova & martina schlusnus.md",
-    "projects-by-other-people/my mistake, by mia and emilia at ars electronica.md",
-    "projects-by-other-people/lenia artificial life, by bert-wang-chak-chan.md",
-    "projects-by-other-people/kevin esvelt's gene drive proposition.md",
     "z_images/IMG_8181.mp4",
     "z_images/IMG_7829.webp",
     "z_images/chatgpt_fucking-blog.webp",
@@ -283,8 +315,6 @@
     "z_images/flipper_rubber-duck.mp4",
     "z_images/Screenshot 2026-07-30 at 06.11.39.webp",
     "z_images/interp_4.1.mp4",
-    "z_images/interp_4.1_still.webp",
-    "z_images/frame (15).jpeg",
     "z_images/Screen Recording 2026-07-22 at 18.59.09.mp4",
     "z_images/Screen Recording 2026-07-22 at 18.55.14.mp4",
     "terms & concepts/Untitled",
