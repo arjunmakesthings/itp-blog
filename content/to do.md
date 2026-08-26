@@ -27,10 +27,10 @@ an always evolving list of things to do and read; hidden from the public website
 
 ## notes: 
 - [ ] a case for lowercase
-- [ ] electricity for dummies
+- [ ] ==electricity for dummies==
 - [ ] paper for emergent system
 - [ ] behaviour design / dialectic thinking
-- [ ] the masses are yours.
+- [x] the masses are yours.
 
 ## artist drafts: 
 - [ ] practice statement

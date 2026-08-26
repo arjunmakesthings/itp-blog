@@ -19,3 +19,4 @@ for example, these are all the header files for c:
 
 ![[IMG_8305.webp]]
 
+i like the transparency, as opposed to all the abstraction mac already does for you. 

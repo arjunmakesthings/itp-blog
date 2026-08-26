@@ -22,7 +22,6 @@ draft: "false"
 - kelly heaton physical pixel thesis: https://alumni.media.mit.edu/~kelly/physPix/heatonThesis.pdf
 - 
 
-
 ---
 
 related: 
