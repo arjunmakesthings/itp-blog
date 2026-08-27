@@ -27,14 +27,10 @@
             "id": "bb26f2ba5babc17b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "resources & tools/find & delete specific format files in a folder.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "find & delete specific format files in a folder"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -52,9 +48,51 @@
               "icon": "lucide-file",
               "title": "thesis_to-do"
             }
+          },
+          {
+            "id": "938a5cea83c4c0a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recurse-center/emergence work.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "emergence work"
+            }
+          },
+          {
+            "id": "97f89650f1b1a0c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thesis/2608-mapping.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2608-mapping"
+            }
+          },
+          {
+            "id": "feb1759231154580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thesis/thesis_to-do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "thesis_to-do"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -257,48 +295,47 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bb26f2ba5babc17b",
+  "active": "feb1759231154580",
   "lastOpenFiles": [
+    "thesis/2608-mapping.md",
+    "z_images/23_pixel-explorations.webp",
+    "z_images/19_emergence-vs-ai.webp",
+    "z_images/22_a-reimagining.webp",
+    "z_images/29_artistic-potential.webp",
+    "z_images/28_the-thesis-is-not-art.webp",
+    "z_images/27_life-is-not-binary.webp",
+    "z_images/25_role-of-interactive.webp",
+    "z_images/21_what-do-you-want.webp",
+    "z_images/20_ideal-future.webp",
+    "z_images/12_emergence.webp",
+    "thesis/thesis_to-do.md",
+    "recurse-center/emergence work.md",
+    "recurse-center/daily-programmatic-sketching.md",
+    "recurse-center/avantos fast track puzzle.md",
+    "recurse-center/understanding a .stl file.md",
+    "recurse-center/learning openscad.md",
+    "recurse-center/making an interpreter.md",
+    "recurse-center/learning to debug pcbs.md",
+    "recurse-center/badusb devices.md",
+    "recurse-center/we ask the wrong question.md",
+    "recurse-center/programmatic tools for cad.md",
+    "recurse-center/understanding signed distance functions.md",
+    "recurse-center/programming in assembly.md",
+    "recurse-center/pairing with kevan.md",
+    "recurse-center/advent-of-code.md",
+    "recurse-center/dumas dutil message.md",
+    "recurse-center/vomit-1.md",
+    "recurse-center/260522_check-out.md",
+    "recurse-center/intro-to-algorithms course.md",
+    "recurse-center/nand2tetris.md",
+    "thesis/alternative display research.md",
     "to do.md",
     "resources & tools/find & delete specific format files in a folder.md",
-    "thesis/thesis_to-do.md",
     "geoffrey litt's talk on dynamic documents.md",
-    "stop with the ai.md",
-    "it is about immersion, not productivity.md",
-    "saturday afternoon brainwrite.md",
-    "ai & programming-abstraction.md",
-    "raspberry pi, strace, alpine linux.md",
-    "people/geoffrey-litt.md",
-    "resources & tools/sandbox password.md",
-    "reaching people different from you when teaching.md",
-    "thesis/alternative display research.md",
-    "z_images/IMG_8305.webp",
-    "z_images/IMG_8304.webp",
-    "thesis/mathematical wonderings of automata-possibilities.md",
-    "projects-by-other-people/codedoc exhibition.md",
-    "thesis/after a new kind of science.md",
-    "why i don't want to do vr.md",
     "z_images/IMG_6277.mov",
-    "programming an attiny84.md",
-    "people/taksh.md",
-    "z_images/IMG_8298.webp",
-    "projects-by-other-people/work, by zimoun.md",
-    "projects-by-other-people/voltage, by david rios.md",
-    "tongue-assisted wheelchair moving mechanism, by georgia tech.md",
-    "projects-by-other-people/timepaint, by john maeda.md",
-    "projects-by-other-people/sonic wire sculptor.md",
-    "projects-by-other-people/process compendium, by casey reas.md",
-    "projects-by-other-people/simple harmonic motion, by memo akten.md",
     "z_images/IMG_8181.mp4",
-    "z_images/IMG_7829.webp",
-    "z_images/chatgpt_fucking-blog.webp",
-    "z_images/boats.webp",
-    "z_images/alien-ufo-art.webp",
-    "z_images/image-20.png",
-    "z_images/IMG_7560.webp",
     "z_images/IMG_8227.mp4",
     "z_images/flipper_rubber-duck.mp4",
-    "z_images/Screenshot 2026-07-30 at 06.11.39.webp",
     "z_images/interp_4.1.mp4",
     "z_images/Screen Recording 2026-07-22 at 18.59.09.mp4",
     "z_images/Screen Recording 2026-07-22 at 18.55.14.mp4",
