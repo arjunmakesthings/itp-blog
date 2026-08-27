@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "making 1-d automata.md",
+                "file": "thesis/making 1-d automata.md",
                 "mode": "source",
                 "source": false
               },
@@ -308,10 +308,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d894db6c92ee80dd",
+  "active": "32f876c5ef6f4df6",
   "lastOpenFiles": [
+    "musical-connections/index.md",
+    "thesis/making 1-d automata.md",
     "thesis/finite automaton.md",
-    "making 1-d automata.md",
     "thesis/related projects.md",
     "thesis/alternative display research.md",
     "thesis/thesis_to-do.md",
@@ -345,7 +346,6 @@
     "recurse-center/260522_check-out.md",
     "recurse-center/intro-to-algorithms course.md",
     "recurse-center/nand2tetris.md",
-    "to do.md",
     "z_images/IMG_6277.mov",
     "z_images/IMG_8181.mp4",
     "z_images/IMG_8227.mp4",
