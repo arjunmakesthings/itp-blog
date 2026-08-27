@@ -92,17 +92,17 @@
             }
           },
           {
-            "id": "d894db6c92ee80dd",
+            "id": "bf2c27446fd96492",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thesis/making 1-d automata.md",
+                "file": "thesis/brainwrite-7_260827.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "making 1-d automata"
+              "title": "brainwrite-7_260827"
             }
           }
         ],
@@ -165,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -291,7 +292,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -308,25 +310,29 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "32f876c5ef6f4df6",
+  "active": "bf2c27446fd96492",
   "lastOpenFiles": [
-    "musical-connections/index.md",
+    "thesis/alternative display research.md",
+    "thesis/brainwrite-7_260827.md",
+    "thesis/2608-mapping.md",
+    "z_images/Screenshot 2026-08-27 at 16.52.09.webp",
+    "z_images/automaton-research-color.webp",
+    "z_images/game-of-life.gif",
+    "z_images/image-21.png",
+    "thesis/other automaton stuff.md",
+    "z_images/wolfram-study.webp",
+    "thesis/history of automatons.md",
+    "z_images/alt-computing_wiki.webp",
+    "thesis/brainwrite-6_260720.md",
     "thesis/making 1-d automata.md",
+    "musical-connections/index.md",
     "thesis/finite automaton.md",
     "thesis/related projects.md",
-    "thesis/alternative display research.md",
     "thesis/thesis_to-do.md",
-    "thesis/2608-mapping.md",
     "z_images/23_pixel-explorations.webp",
     "z_images/19_emergence-vs-ai.webp",
     "z_images/22_a-reimagining.webp",
     "z_images/29_artistic-potential.webp",
-    "z_images/28_the-thesis-is-not-art.webp",
-    "z_images/27_life-is-not-binary.webp",
-    "z_images/25_role-of-interactive.webp",
-    "z_images/21_what-do-you-want.webp",
-    "z_images/20_ideal-future.webp",
-    "z_images/12_emergence.webp",
     "recurse-center/emergence work.md",
     "recurse-center/daily-programmatic-sketching.md",
     "recurse-center/avantos fast track puzzle.md",
@@ -341,11 +347,6 @@
     "recurse-center/programming in assembly.md",
     "recurse-center/pairing with kevan.md",
     "recurse-center/advent-of-code.md",
-    "recurse-center/dumas dutil message.md",
-    "recurse-center/vomit-1.md",
-    "recurse-center/260522_check-out.md",
-    "recurse-center/intro-to-algorithms course.md",
-    "recurse-center/nand2tetris.md",
     "z_images/IMG_6277.mov",
     "z_images/IMG_8181.mp4",
     "z_images/IMG_8227.mp4",
