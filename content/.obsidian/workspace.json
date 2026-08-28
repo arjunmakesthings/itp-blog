@@ -123,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -269,11 +270,12 @@
   },
   "active": "42c04008a3ed1b0a",
   "lastOpenFiles": [
+    "thesis/bairui & sai's point of music expressing rule-based-systems.md",
+    "thesis/brainwrite-7_260827.md",
     "thesis/index.md",
     "thesis/thesis_to-do.md",
     "thesis/2608-mapping.md",
     "recurse-center/emergence work.md",
-    "thesis/brainwrite-7_260827.md",
     "thesis/finite automaton.md",
     "thesis/alternative display research.md",
     "z_images/Screenshot 2026-08-27 at 16.52.09.webp",
@@ -304,7 +306,6 @@
     "recurse-center/understanding signed distance functions.md",
     "recurse-center/programming in assembly.md",
     "recurse-center/pairing with kevan.md",
-    "recurse-center/advent-of-code.md",
     "z_images/IMG_6277.mov",
     "z_images/IMG_8181.mp4",
     "z_images/IMG_8227.mp4",

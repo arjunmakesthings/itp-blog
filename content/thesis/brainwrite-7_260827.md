@@ -5,15 +5,55 @@ tags:
 noteOrder: "432"
 draft: "false"
 ---
-the phenomena of emergent complexity [^2], for a long time, has been artistically interesting to me. [^1]
+### edited: aug 28. 
 
-one of the most basic representations of such phenomena is cellular-automata. for example, if i take a row of alternating 1s & 0s: 
+---
 
-`[0, 1, 0, 1, 0]`
+in the [dynamics of complex systems](https://www.taylorfrancis.com/books/mono/10.1201/9780429034961/dynamics-complex-systems-yaneer-bar-yam), yaneer-bar-yam introduces the phenomenon of emergent-complexity: a system composed of simple parts, where the collective behavior is unpredictable, and cannot be predicted simply by studying the parts.  this, to me, has always been artistically interesting[^1] , and feels akin to my lived human-experience . 
 
-<figcaption>^ (consider each item in this row a 'cell'). </figcaption>
+one of the most basic representations of said phenomenon is cellular-automata:
 
-and decide to generate these `i` times, such that each subsequent generation is dependent on a set of 'rules' that consider a character's immediate neighbor (left & right), you can get behavior like so: 
+for example, imagine a row `[n]` of cells containing 0s & 1s like so: 
+
+``` txt
+[0, 1, 0, 1, 0]
+```
+
+<figcaption>row [n] with 5 cells.</figcaption>
+
+generate the next row by deciding the state (or value) of each cell based on its direct neighbors (left & right), according to a set of 'rules'. for example: 
+
+``` txt
+if the previous two neighbours were 0 or 1 or boundary, produce a 1. else produce a 0. 
+
+these can be expressed like so ([l][c][r]: value of new cell); where l is left neighbour, c is the cell, and r is the right neighbour.
+
+{
+	"000": 1,
+	"100": 0,
+	"110": 0,
+	"101": 1,
+	"010": 1,
+	"011": 0,
+	"111": 1,
+	"001": 0,
+
+	//left boundary: 
+	"b00": 1,
+	"b10": 1,
+	"b11": 0, 
+	"b01": 0,
+
+	//right boundary: 
+	"00b": 1, 
+	"10b": 0, 
+	"11b": 0, 
+	"01b": 1, 
+};
+
+```
+
+multiple generations of these (with the same ruleset) can lead to interesting patterns. 
 
 ``` js
 0,1,0,1,0
@@ -30,56 +70,60 @@ and decide to generate these `i` times, such that each subsequent generation is 
 
 <figcaption>10 iterations.</figcaption>
 
-these (along with other automatons) have been extensively studied, visualized, and documented in [a new kind of science](https://www.wolfram-media.com/products/nks/), by stephen wolfram (released in 2002). 
+these — called 1-d cellular automatons (along with other automatons) have been extensively studied, visualized, and documented in [a new kind of science](https://www.wolfram-media.com/products/nks/), by stephen wolfram (released in 2002). 
 
 ![[wolfram-study.webp|475]]
 
 <figcaption>explorations of 1-d automata (rulesets & starting conditions) by stephen wolfram.</figcaption>
 
-wolfram' claim was that the world may be better understood as a complex emergent system, as opposed to models that relied on continuous mathematics, which had always been the norm till then. contrary to his belief, however, his stance made little scientific impact & was greatly opposed.  
+wolfram's claim was that the world may be better understood as a complex emergent system, as opposed to an elegantly defined model of continuous mathematics — which had been the norm till then. contrary to his belief, however, his stance made little scientific impact & was greatly opposed.  
 
-what strikes me, however, about cellular-automata is its limited representation. currently, the way people study the behavior of these automatons is by watching pixels on a screen change color: 
+what strikes me though about the study of cellular-automata is its limited representative scope. currently, more often than not, the behavior of automatons is studied by watching pixels on a screen change color. 
 
 ![[game-of-life.gif]]
 
 <figcaption>a configuration of 'game of life' —  a popular 2-dimensional cellular-automata.</figcaption>
 
-while often limited to binary (0 & 1 -> black & white), there have been some studies of exploring color & degrees (not 0,1; but 0-255 or more). 
+while often limited to binary (0 & 1 -> black & white), there have been some studies of exploring color & degrees (not 0,1; but 0-255 (or other higher-bounds)). 
 
 ![[automaton-research-color.webp|465]]
 
-even then, the expression of these rulesets have been restricted to static 2-dimensional grid of luminescent, little squares; and most similarities to the 'real' world, therefore, have been visual.
+even then, the expression of work that involves rulesets like these have usually been restricted to a static 2-dimensional grid of luminescent, little squares; and, therefore, most similarities to the 'real' world have been thought of as 'visual'.
 
 ![[Screenshot 2026-08-27 at 16.52.09.webp|392]]
 
 
 i argue that there is more. 
 
-for example, the expression of an automaton in sound might reveal something else about the world (as opposed to seeing the image it produces). in fact, the very ability to foresee that an automaton *could* be expressed in sound opens up new ways of thinking about cells & rulesets. 
+---
 
-therefore, the thesis is an exploration of alternative paradigms for rule-based emergent systems to exist in, in the hope that they pave way for future explorations (and reveal new connections to the world). explorations may include:
+for example, the expression of an automaton in sound might reveal something else about the world (as opposed to seeing the image it produces). or expressing the same automaton in movement could reveal something else. in fact, the very ability to foresee that an automaton *could* be expressed in another paradigm that does not involve shifting-bits or coloring pixels opens up new ways of thinking about creating rule-based systems for the study of emergence.
+
+therefore, the thesis is an exploration of alternative paradigms for these systems to exist in the hope that they pave way for future explorations (and reveal new connections to the world). explorations may include:
 - redefining what a pixel may be (for cellular automata)
 - breaking away from the structure of a 2-dimensional grid
 - removing assumptions such as positions of a 'pixel' being static or that a 'pixel' may only change its light (and color)
 - that cellular automata must always be 'seen' (as opposed to 'felt'). 
 - ... and so on.
 
-i envision a collection of small prototypes (perhaps no bigger than handling 5x5 automata); each of which would be capable of 'running' any rule-based system in such a way that a person can compare the experience of the same automata on system-a versus system-b. 
+i envision a collection of small prototypes (perhaps no bigger than handling 5x5 automata); each of which would be capable of 'running' any rule-based system in such a way that a person can compare the experience of the same automata on `system-a` versus `system-b`. 
+
+---
+
+while i do so, it is important to note distinctions between this body of work and others done previously. studies such as: 
+- physical pixels, by kelly heaton at mit. 
+- electrostatic manipulation for voxels, by people at university of sussex, university of electrocommunications, japan & university of bristol.
+- tangible bits at mit (to some extent). 
+
+are considered alternative 'display' research. the objective there is to obtain the most accurate representation of an 'image' by means other than what we consider pixels today. in my case however, the object-of-interest is **not** an image — it is merely the expression of a ruleset in any way that a human may be able to perceive them (not necessarily sight). 
 
 ---
 
 # other notes: 
 
-while arriving at this premise, i had a few preliminary thoughts on things i could explore. 
+while arriving at the premise, i had a few preliminary thoughts on things i could explore. storing them here:
 
 ![[23_pixel-explorations.webp]]
-
-there have been studies on alternative displays, such as: 
-- physical pixels, by kelly heaton at mit. 
-- electrostatic manipulation for voxels, by people at university of sussex, university of electrocommunications, japan & university of bristol.
-- tangible bits at mit (to some extent). 
-
-however, it is important to note a distinction between my area-of-study and theirs: for any 'display' research, the objective is to obtain a perceivable representation of an 'image'; with the gold-standard being accuracy of said representation. in my case, the object-of-interest is **not** an image — it is merely the expression of a ruleset (that can be defined in a structured way, regardless of the 'display' i am addressing). 
 
 ---
 
