@@ -5,6 +5,10 @@ tags:
 noteOrder: "436"
 draft: "false"
 ---
+wip draft. last edited: august 29th, 0057.
+
+---
+
 in a new-media program such as [itp](https://itp.nyu.edu/itp/), students will often come to the program with little to no knowledge about how electricity works. however, many of their projects (in the program and afterwards) will require being able to comfortably work with the medium.
 
 i, too, was a similar student, but took a certain interest in electricity. in conversations over the past year, i've found it easier to explain concepts via anthropomorphized analogies, as opposed to other ones like water; perhaps because it is easier to visualize environments that are similar to our life. 
