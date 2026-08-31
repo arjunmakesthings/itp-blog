@@ -12,7 +12,7 @@ an always evolving list of things to do and read; hidden from the public website
 - [ ] 4x4 matrix math
 - [ ] matrix multiplication
 - [ ] using matrices to transform vectors
-- [ ] set up blogs for classes
+- [x] set up blogs for classes
 ---
 # writing / documentation: 
 

@@ -5,26 +5,27 @@ tags:
 noteOrder: "436"
 draft: "false"
 ---
-wip draft. last edited: august 29th, 0057.
+wip draft. last edited: august 31st, 1220.
+
+---
+in a new-media program such as [itp](https://itp.nyu.edu/itp/), students will often come to the program with little to no knowledge about how electricity works. however, many of their projects (in the program & afterwards) will require them being able to work comfortably with electricity.
+
+i, too, was in a similar boat; but took a certain interest in electricity. in conversations over the past year, i've found that it is easier to explain concepts via anthropomorphized analogies, as opposed to other ones like water; perhaps because it is easier to visualize environments similar to our life.
+
+there are better, more elaborate explanations out there [^4], but not everyone has the time or motivation to go through them.
+
+so, this is a small collection of working-principles that new students may use to work with electricity (or refer to after lectures), and, hopefully, be able to work more comfortably with the medium.
 
 ---
 
-in a new-media program such as [itp](https://itp.nyu.edu/itp/), students will often come to the program with little to no knowledge about how electricity works. however, many of their projects (in the program and afterwards) will require being able to comfortably work with the medium.
-
-i, too, was a similar student, but took a certain interest in electricity. in conversations over the past year, i've found it easier to explain concepts via anthropomorphized analogies, as opposed to other ones like water; perhaps because it is easier to visualize environments that are similar to our life. 
-
-so, this is a small collection of working-principles that new students may use to work with electricity (or refer to after lectures), and, hopefully, be more comfortable with the medium. 
-
----
-
-# the general premise of electricity: 
-there are little-beings (hereafter referred to as beings) that move inside wires and work to make things happen in our world. they're extremely energetic on the '+' side of any power-source, and their only objective is to go to the '-' side [^1]. they cannot make this journey by themselves, since traveling inside a power-source is prohibited. so, we make circuits to enable them to go on their journey.
+# the general premise: 
+there are little-beings (hereafter referred to as beings) that move inside wires, and work to make things happen in our world. they're extremely energetic on the '+' side of any power-source, and their only objective is to go to the '-' side [^1]. they cannot make this journey themselves, since traveling inside a power-source is prohibited. so, we make circuits with wires & components to enable them to go on this journey.
 
 # conduction: 
 beings can only travel on paths made of certain materials. for example: they will typically travel on copper (an example of a conductive material), and not on cardboard (an example of an insulating material). [^2]
 
 # ground / grounding: 
-beings have very good long-distance eyesight. if your circuit starts from '+', but doesn't provide a conductive-path to '-', however long the circuit might be, beings will just not move. providing this path means grounding your circuit, and ground refers to the '-' side of your power-source.
+beings have very good long-distance eyesight. if your circuit starts from '+', but doesn't provide a conductive-path to '-', the beings will refuse to move. providing this path means grounding your circuit, and ground refers to the '-' side of your power-source.
 
 (tip: if your circuit uses more than one power source, then the grounds of all power sources need to be connected).
 
@@ -32,22 +33,18 @@ beings have very good long-distance eyesight. if your circuit starts from '+', b
 if you simply provide a conductive-path for beings to travel from '+' to '-', say with a wire, without them doing any work (or sufficient work), they will cause chaos (this is why batteries explode, and electronic-devices malfunction). 
 
 # load: 
-any object that makes beings work (such as leds, motors, displays, etc) is called a load. for a load to work correctly, the right number of beings (see current below) must arrive with the right amount of energy (see voltage below). 
+any object that makes beings work (such as leds, motors, displays, etc) is called a load. for a load to work correctly, the right number of beings (see *current* below) must arrive with the right amount of energy (see *voltage* below). 
 
-# resistance (r): 
-all paths that beings can take have resistance [^3]. these are tiny bumps that reduce the energy and, therefore, number of beings passing through it. if you haven't made the connection between resistance & load yet, resistance is what you can use to control the energy & number of beings arriving at a load. 
+# resistance: 
+all paths that beings can take have resistance [^3]. these are tiny bumps that reduce the energy and, therefore, number of beings that are able to pass through it. if you haven't made the connection between resistance & load yet, resistance is what you can use to control the energy & number of beings arriving at a load to make it work correctly.
 
-# voltage (v):
+# voltage (denoted by v):
 the desire for beings to go from '+' to '-' corresponds to their energy. the higher the voltage, the higher the desire, and the higher the energy.
 
-# current (i for intensité): 
-the number of beings that can travel on a path in one unit of time. the wider the path, the more beings that can travel (hence thicker wires allow more current to pass through).
-
-# ohm's law:
-a smart human identified that voltage, current & resistance have a fixed relationship between each other. if you change any one, it'll have an effect on atleast one of the others.
+# current: 
+the number of beings that can travel on a path in one unit of time. the wider the path, the more beings can travel through it (hence thicker wires allow more current to pass through).
 
 ---
-
 # mysterious components:
 
 # capacitor:
@@ -60,3 +57,5 @@ a capacitor also has two legs (a '+' and a '-') like a battery. however, it does
 [^2]: keep in mind that a high enough electric-charge *can* travel through material that is considered insular. for example, thunder travels from the sky to the ground via air, often considered as an insular material.
 
 [^3]: correction: all **materials** have resistance, not just conductive-ones. insular materials simply have so much resistance that beings simple cannot pass through them (for example: air is thought to have very high resistance). however, with sufficient voltage (sufficient desire for beings to travel), they will overcome any amount of resistance.
+
+[^4]: read [there are no electrons](https://books.google.com/books/about/There_are_No_Electrons.html?id=8e01Q3QSrS4C), by kenn amadahl..
