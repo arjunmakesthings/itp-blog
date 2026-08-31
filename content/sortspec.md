@@ -12,7 +12,7 @@ sorting-spec: |-
   terms & concepts
   people
   /:files
-  > created
+  > a-z by-metadata: date
   /folders
   sound-studio
   nature-of-code

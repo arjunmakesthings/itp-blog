@@ -40,31 +40,17 @@
             }
           },
           {
-            "id": "7b73e287a188f96a",
+            "id": "9c67bcb8b1990ab1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy, system & navigation.md",
+                "file": "sortspec.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "philosophy, system & navigation"
-            }
-          },
-          {
-            "id": "b6d31f9a9bee8917",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "sortspec"
             }
           }
         ],
@@ -123,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -272,11 +257,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7b73e287a188f96a",
+  "active": "9c67bcb8b1990ab1",
   "lastOpenFiles": [
+    "working principles to deal with electricity.md",
+    "white hair.md",
+    "what is technology?.md",
+    "writing modulino led-matrix library.md",
+    "thesis/thesis_to-do.md",
     "index.md",
     "philosophy, system & navigation.md",
-    "thesis/thesis_to-do.md",
     "to do.md",
     "recurse-center/index.md",
     "intro-to-algorithms/index.md",
@@ -300,10 +289,7 @@
     "z_images/mtdna-plasmid_annotated-seq.pdf",
     "z_images/midi.webp",
     "z_images/loop-2.mp4",
-    "writing modulino led-matrix library.md",
-    "working principles to deal with electricity.md",
     "work & subsequent media.md",
-    "white hair.md",
     "what can you do that others can't.md",
     "vera molnar on regrets.md",
     "unorganized rant.md",
@@ -319,7 +305,6 @@
     "thesis/right to internet proposals.md",
     "thesis/related projects.md",
     "thesis/other automaton stuff.md",
-    "thesis/mathematical wonderings of automata-possibilities.md",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
