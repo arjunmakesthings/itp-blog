@@ -11,7 +11,7 @@ itp academically mandates each student to maintain a blog.
 
 in the three years that i worked before itp, i maintained a closed  *[zettlekasten](https://en.wikipedia.org/wiki/Zettelkasten)* or 'digital-brain'. the idea was to not let information blow by, and to process what i absorb via writing. 
 
-![[z_images/250901 • obsidian-map.webp|487]]
+![[z_images/250901 • obsidian-map.webp|700]]
 
 <figcaption>a screenshot of my older <em>zettlekasten</em>.</figcaption>
 
