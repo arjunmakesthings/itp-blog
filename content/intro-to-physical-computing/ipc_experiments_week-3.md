@@ -371,7 +371,7 @@ also read [[intro-to-physical-computing/the design of implicit interactions, wen
 
 ---
 ### 250922_2244: 
-this class feels like a symphony rising up to a grand crescendo. there are so many ideas that [[people/tom|tom]] has been sharing in class, pulling us to think of interaction in different ways. 
+this class feels like a symphony rising up to a grand crescendo. there are so many ideas that [[tom-igoe|tom-igoe]] has been sharing in class, pulling us to think of interaction in different ways. 
 
 we first looked at interaction; gathered collective vocabulary; touched the surface(s) of 'good' tool-making, 'invisible' design, and implicit machine interaction. 
 

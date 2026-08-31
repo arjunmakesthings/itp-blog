@@ -12,7 +12,7 @@ i know that [[people/james|james]] is. [[people/william|william]] a little bit. 
 i'm curious — but that's not the only way.
 
 ---
-[[people/tom|tom]] told me to draw a diagram for each circuit i make that doesn't work. he also explained the motor-driver: 
+[[tom-igoe|tom-igoe]] told me to draw a diagram for each circuit i make that doesn't work. he also explained the motor-driver: 
 
 ![[z_images/IMG_6612.webp]]
 

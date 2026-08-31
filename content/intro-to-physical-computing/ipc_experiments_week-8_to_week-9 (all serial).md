@@ -36,7 +36,7 @@ this was interesting:
 i wonder how. 
 
 ---
-[[people/tom|tom]] connects a 'logic-analyser' in one of the videos. we don't have it in the shop. 
+[[tom-igoe|tom-igoe]] connects a 'logic-analyser' in one of the videos. we don't have it in the shop. 
 
 ![[z_images/Screenshot 2025-11-01 at 17.19.59.webp]]
 

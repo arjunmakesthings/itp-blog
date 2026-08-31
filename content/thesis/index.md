@@ -8,6 +8,9 @@ each student at itp must make a masters-thesis. these are publicly-streamed & ar
 
 the gist of what i want to do is articulated in [[brainwrite-7_260827]]. 
 
+---
+
+mentored by [[sharleen]]. 
 
 ---
 # resources: 

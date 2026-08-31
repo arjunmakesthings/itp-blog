@@ -1,1 +1,1 @@
-professor at itp. [[people/tom|tom]] said he teaches a class called electricity (or energy — i forgot), that i might enjoy. 
+professor at itp. [[tom-igoe|tom-igoe]] said he teaches a class called electricity (or energy — i forgot), that i might enjoy. 

@@ -27,7 +27,7 @@ soon, i may not be a student anymore.
 
 soon, i may have students flocking around me. will i be considered a good teacher? 
 
-will i look like [[tom]]? or [[shaunaq]]? 
+will i look like [[tom-igoe]]? or [[shaunaq]]? 
 
 or will i lose my hair like [[shobhan]]? 
 

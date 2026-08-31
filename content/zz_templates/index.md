@@ -1,6 +1,6 @@
 ---
 title:
-date:
+date: {{date}}
 folderOrder:
 draft: "true"
 ---

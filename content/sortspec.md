@@ -2,9 +2,11 @@
 sorting-spec: |-
   target-folder: /
   thesis
-  intro-to-algorithms
-  recurse-center
   musical-connections
+  prototyping-electronic-devices
+  computer-graphics
+  shared-minds
+  understanding-networks
   projects-by-other-people
   resources & tools
   terms & concepts

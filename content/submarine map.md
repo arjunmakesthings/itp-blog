@@ -9,7 +9,7 @@ submarine wires map:
 
 https://www.submarinecablemap.com
 
-shows how the world is connected through underground wires. shared by [[people/tom|tom]]. 
+shows how the world is connected through underground wires. shared by [[tom-igoe|tom-igoe]]. 
 
 ---
 

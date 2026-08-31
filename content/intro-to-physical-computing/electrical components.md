@@ -41,7 +41,7 @@ r = (v(source) - v(load)) / i (current)
 
 ---
 # microcontrollers: 
-simple computers designed to take input and give output; essentially a fancy voltage-manipulator. arduino is a type of microcontroller, and [[people/tom]] co-founded it. 
+simple computers designed to take input and give output; essentially a fancy voltage-manipulator. arduino is a type of microcontroller, and [[tom-igoe]] co-founded it. 
 
 here is a diagram for the nano-33, which we use in class: 
 

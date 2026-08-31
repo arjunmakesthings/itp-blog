@@ -193,7 +193,7 @@ i then spent time trying to create a emf to manipulate with my hand.
 
 it didn't work.
 
-stripped the entire circuit, understood what every single thing was doing. took [[people/tom|tom]] & [[people/david rios|david rios]]'s advice, and put decoupling capacitors on the power rail for cleaner sound. 
+stripped the entire circuit, understood what every single thing was doing. took [[tom-igoe|tom-igoe]] & [[people/david rios|david rios]]'s advice, and put decoupling capacitors on the power rail for cleaner sound. 
 
 achieved voluntary emf manipulation: 
 
@@ -208,7 +208,7 @@ spent too much time playing, had to remind myself to go home.
 ---
 i know that i could keep playing around with this for a long, long time. i can add more things — such as a delay circuit, an op-amp, and more 555-ics. 
 
-but, i will remind myself what [[people/tom|tom]] told me: <mark>what's the bare minimum you need to do in this class, to be able to explore this further in the other classes? </mark>
+but, i will remind myself what [[tom-igoe|tom-igoe]] told me: <mark>what's the bare minimum you need to do in this class, to be able to explore this further in the other classes? </mark>
 
 i will play a teeny bit more, and then move to other parts of this: i.e, the physical interaction. 
 
@@ -232,7 +232,7 @@ presented this:
 
 he also suggested that there is a <mark>sequential element</mark> in my project. the signal first gets processed via the metronome, and then can be distorted. he said why not make an invisible breadboard — show the components but hide the wiring. 
 
-[[people/tom|tom]] also recommended 'little-bits', and suggested <mark>modular units that could be plugged & played together</mark>. that is also an interesting approach — but i don't think that i have the time to realise that vision now. 
+[[tom-igoe|tom-igoe]] also recommended 'little-bits', and suggested <mark>modular units that could be plugged & played together</mark>. that is also an interesting approach — but i don't think that i have the time to realise that vision now. 
 
 ![[z_images/littlebits-electronics-premium-kit.webp]]
 
@@ -290,7 +290,7 @@ tried more 3-d prints:
 
 ![[z_images/IMG_6994.webp|450x600]]
 
-realised that making a spherical breadboard was too complicated. spoke to [[people/tom|tom]], [[people/aram|aram]]. decided to make something flatter — but i really want to play with some sort of dimensionality too. 
+realised that making a spherical breadboard was too complicated. spoke to [[tom-igoe|tom-igoe]], [[people/aram|aram]]. decided to make something flatter — but i really want to play with some sort of dimensionality too. 
 
 my brain is too consumed by the problems i'm facing in hypercinema ([[hypercinema/final-project-log|final-project-log]]). 
 

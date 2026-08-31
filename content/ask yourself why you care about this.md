@@ -7,7 +7,7 @@ tags:
 noteOrder: "294"
 draft: "false"
 ---
-stumbled upon a small video by [[tom]]: https://www.youtube.com/watch?v=ix4SHGWtWZg
+stumbled upon a small video by [[tom-igoe]]: https://www.youtube.com/watch?v=ix4SHGWtWZg
 
 good reminder: 
 

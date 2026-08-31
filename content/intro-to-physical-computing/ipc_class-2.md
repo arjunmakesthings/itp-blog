@@ -5,7 +5,7 @@ tags:
 noteOrder: "45"
 draft: "false"
 ---
-discussed work from the past week ([[intro-to-physical-computing/ipc_experiments_week-1|ipc_experiments_week-1]], and [[people/tom|tom]] addressed questions. 
+discussed work from the past week ([[intro-to-physical-computing/ipc_experiments_week-1|ipc_experiments_week-1]], and [[tom-igoe|tom-igoe]] addressed questions. 
 
 learnt how to program a microcontroller. 
 
@@ -26,7 +26,7 @@ learnt how to program a microcontroller.
 
 ---
 
-[[people/tom|tom]] also showed physical components from a big computing system: 
+[[tom-igoe|tom-igoe]] also showed physical components from a big computing system: 
 
 ![[z_images/IMG_6175.webp]]
 

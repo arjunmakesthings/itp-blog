@@ -6,7 +6,7 @@ tags:
 noteOrder: "101"
 draft: "false"
 ---
-[[tom]] suggested this, and i found it to be a fantastic in-depth explanation of concepts. the full book is linked below. 
+[[tom-igoe]] suggested this, and i found it to be a fantastic in-depth explanation of concepts. the full book is linked below. 
 
 ---
 understood that <mark>electric circuits are made up of certain 'types' of circuits</mark>: discrete passive (simple circuits), discrete active (made from semiconductor materials, capable of changing states), i/o devices, analog (varying degrees of voltage) & digital (0s, 1s) ics (many discrete circuits on a chip of silicon), and microcontrollers: a collection of many of the previously stated components. 

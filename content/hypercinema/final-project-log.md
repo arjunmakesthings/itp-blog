@@ -5,6 +5,9 @@ tags:
 noteOrder: "175"
 draft: "false"
 ---
+documented formally here: https://arjunmakesthings.github.io/projects/2025_me-my-father-and-our-neurons/page.html
+
+---
 # ask: 
 > Create a Digital Cornell Box. Think about the objects you place in your Cornell Box, what do these objects represent poetically, personally or metaphorically? How will you use animation, interactivity and real time environments to bring these objects to life? Will this be a screen based work? A mobile piece? A projected work? What sort of style or theme do you want your box to have? This piece is due in our final class week 14.
 > 
@@ -1696,7 +1699,7 @@ when i presented in class, people cried. i hadn't anticipated that. turns out th
 
 [[people/aidan nelson|aidan nelson]] said that i might want to reconsider my 'data' point. everyone deals with loss & grief at some point, and that immediately forms the connection with this project. i hadn't anticipated that, and thought i needed more incentive to make people want to try it. but naturally they wanted to. 
 
-it also became an exploratory interface; perhaps tied to what [[people/tom|tom]] spoke about with regards to sustained interaction: something new (and unexpected happens) when you add a neuron, and move it around in space. there are many combinatorial possibilities. 
+it also became an exploratory interface; perhaps tied to what [[tom-igoe|tom-igoe]] spoke about with regards to sustained interaction: something new (and unexpected happens) when you add a neuron, and move it around in space. there are many combinatorial possibilities. 
 
 ---
 # programming resources: 

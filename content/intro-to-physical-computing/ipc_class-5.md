@@ -5,7 +5,7 @@ tags:
 noteOrder: "99"
 draft: "false"
 ---
-essentially just debugged circuits. [[people/tom|tom]] told me to always put test programs (which does the bare minimum of what it's supposed to). 
+essentially just debugged circuits. [[tom-igoe|tom-igoe]] told me to always put test programs (which does the bare minimum of what it's supposed to). 
 
 we also spoke about electricity, and i feel like i have a decent grasp on it., 
 

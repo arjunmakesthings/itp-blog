@@ -11,5 +11,5 @@ we spoke about possibilities for a ph.d., and what i can do during my time here 
 
 ==recommendations & published-papers matter, and immediately boost your selection chances. ==
 
-perhaps this is what [[tanika]] was also suggesting, when she asked me to paint a picture about where i want to go. also what [[tom]] tried to get me to do. 
+perhaps this is what [[tanika]] was also suggesting, when she asked me to paint a picture about where i want to go. also what [[tom-igoe]] tried to get me to do. 
 

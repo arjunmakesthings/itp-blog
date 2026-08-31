@@ -48,7 +48,7 @@ emergence -> life connection:
 
 ![[12_emergence.webp]]
 
-ideal future (as sparked by [[tanika]] & [[tom]]):
+ideal future (as sparked by [[tanika]] & [[tom-igoe]]):
 
 ![[20_ideal-future.webp]]
 

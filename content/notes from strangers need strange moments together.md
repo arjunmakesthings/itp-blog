@@ -5,7 +5,7 @@ tags:
 noteOrder: "218"
 draft: "false"
 ---
-[[tom]] had introduced this book to me. i keep this collection of quotes from the physical copy that i borrowed from him. 
+[[tom-igoe]] had introduced this book to me. i keep this collection of quotes from the physical copy that i borrowed from him. 
 
 the book is about work done by two people in this studio: https://www.dailytouslesjours.com/en
 

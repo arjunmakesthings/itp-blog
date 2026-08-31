@@ -6,7 +6,7 @@ tags:
 noteOrder: "64"
 draft: "false"
 ---
-~~instigated by [[people/tom|tom]], [[people/shobhan|shobhan]], and [[inventing on principle, by bret victor]]. also by [[people/bairui|bairui]] when he asked me what my principles are, and i struggled to come up with an answer.~~
+~~instigated by [[tom-igoe|tom-igoe]], [[people/shobhan|shobhan]], and [[inventing on principle, by bret victor]]. also by [[people/bairui|bairui]] when he asked me what my principles are, and i struggled to come up with an answer.~~
 
 # 260203: 
 i finally feel like i have my principles in place. 
@@ -19,7 +19,7 @@ all my work aspires to:
 - stay ~~across times, trends, and waves.~~
 - be authentic & vulnerable.
 
-thanks to: [[tom]], [[shobhan]], [[inventing on principle, by bret victor]], [[bairui]], and [[mimi's talk at movement-lab, barnard]] where she mentions the pursuit of 'legacy'. and [[10 bullets. by tom sachs]]. 
+thanks to: [[tom-igoe]], [[shobhan]], [[inventing on principle, by bret victor]], [[bairui]], and [[mimi's talk at movement-lab, barnard]] where she mentions the pursuit of 'legacy'. and [[10 bullets. by tom sachs]]. 
 
 ---
 # draft: 

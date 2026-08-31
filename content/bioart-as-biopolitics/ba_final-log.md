@@ -5,6 +5,10 @@ tags:
 noteOrder: "312"
 draft: "false"
 ---
+documented formally here: https://arjunmakesthings.github.io/projects/2026_the-cost-of-trying-to-hold-on/page.html
+
+---
+
 the idea was to use my mtdna -> put it in another organism -> see how it affects the organism / how it mutates over time. 
 
 ---

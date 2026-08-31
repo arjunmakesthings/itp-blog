@@ -5,7 +5,7 @@ tags:
 noteOrder: "90"
 draft: "false"
 ---
- began with a bunch of unconnected thoughts, and a conversation with [[tom]]. 
+ began with a bunch of unconnected thoughts, and a conversation with [[tom-igoe]]. 
 
 ![[z_images/IMG_6445.webp]
 
@@ -173,7 +173,7 @@ but, i understood transistors a lot more in this week. i might come in tomorrow 
 # quiz: 
 i looked at the quiz, but i don't yet understand the point of it. last time when we filled it, it wasn't discussed — so we might have gotten away with answers that weren't right. at the moment, making things shows me more things than the quiz, and i understand concepts more clearly than assuming that my answer was right on a quiz. 
 
-[[people/tom|tom]] had said that the quiz is meant to help us understand if we know what's happening. but, via a quiz, i can't visualise what's happening (or supposed to happen). i'll just make a list of things that i didn't understand, and ask tom later. 
+[[tom-igoe|tom-igoe]] had said that the quiz is meant to help us understand if we know what's happening. but, via a quiz, i can't visualise what's happening (or supposed to happen). i'll just make a list of things that i didn't understand, and ask tom later. 
 
 i understood everything, <mark>except this</mark>: 
 
@@ -233,7 +233,7 @@ i do, however, think it is about investment. maybe some people are doing physica
 and both sides are okay; no one's wrong. 
 
 ---
-i then thought more about the midterm. [[people/tom|tom]]'s reply stuck (and stung): 
+i then thought more about the midterm. [[tom-igoe|tom-igoe]]'s reply stuck (and stung): 
 
 > Making an electromagnet is out of the scope of the assignment. The assignment is to make a physically interactive device using the techniques we've covered thus far. Electromagnetism isn't one of those techniques.
 

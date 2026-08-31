@@ -5,6 +5,10 @@ tags:
 noteOrder: "267"
 draft: "false"
 ---
+documented formally here: https://arjunmakesthings.github.io/projects/2026_bric-a-brac/page.html
+
+---
+
 # ask: 
 think of additions for the midterm: 
 

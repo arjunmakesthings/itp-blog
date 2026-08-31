@@ -15,7 +15,7 @@ corrected my circuit:
 
 in doing so, i realised that the arduino <mark>output pins are not meant to serve power</mark>. they are meant to <mark>give little voltage spikes</mark> to register changes (and then to do something based on those switches (such as recognising a switch turning on & off)). 
 
-we discussed my strange case of the servo motor, and [[people/tom|tom]] explained that this was perhaps because the motor did not have enough electricity to <mark>overcome inertia</mark>. we explored the use of a capacitor (to make sure that the <mark>current through the circuit is consistent</mark>), and giving the servo more voltage to begin with (5v instead of 3v). 
+we discussed my strange case of the servo motor, and [[tom-igoe|tom-igoe]] explained that this was perhaps because the motor did not have enough electricity to <mark>overcome inertia</mark>. we explored the use of a capacitor (to make sure that the <mark>current through the circuit is consistent</mark>), and giving the servo more voltage to begin with (5v instead of 3v). 
 
 ![[z_images/IMG_6349.webp]]
 
@@ -25,7 +25,7 @@ it worked.
 we also discussed that the output pins give as little as 1.5amps. 
 
 ---
-[[people/tom|tom]] asked me to look at [[programmable resistors]] and [[digital potentiometers]]. 
+[[tom-igoe|tom-igoe]] asked me to look at [[programmable resistors]] and [[digital potentiometers]]. 
 
 ---
 we also had a base-level discussion about <mark>making 'right' assumptions as a designer</mark>, <mark>where people need autonomy and where it's beneficial for machines to have it</mark>. 

@@ -6,6 +6,9 @@ tags:
 noteOrder: "105"
 draft: "false"
 ---
+documented formally here: https://arjunmakesthings.github.io/projects/2025_little-green-things/page.html
+
+---
 # ask: 
 > show that you can make a simple <mark>interactive system with physical controls</mark>, and that you can <mark>keep a <strike>user</strike> person engaged</mark> with your system. 
 > 
@@ -505,7 +508,7 @@ this is why i don't like chatgpt.
 i'll start from scratch, and instead of making the code reusable, i'll hard code it — to make it work for my use-case first. then abstract it.
 
 ---
-[[people/tom|tom]] told me **not** to send analog signals, and just use the arduino to turn the leds on / off. i know that this won't produce the effect that i want, and i wanted to get this concept down properly. 
+[[tom-igoe|tom-igoe]] told me **not** to send analog signals, and just use the arduino to turn the leds on / off. i know that this won't produce the effect that i want, and i wanted to get this concept down properly. 
 
 so, i built a small circuit and took it home with me; to spend a couple of hours in the night programming it. 
 
@@ -709,7 +712,7 @@ and that's what i solved with the other function that i wrote. i think i'm going
 ---
 [[people/christina tang|christina tang]] also gave me programmable leds. but i don't know — i think <mark>i want to go into the weeds of this one</mark>(manual leds), and <mark>fail if i do</mark>. i'm learning far too much and getting more comfortable with the medium. 
 
-i'll resort back to the leds if i cannot get it to work. i have a bunch of ideas right now — what if i pass pwms to a digital multiplexor? [[people/tom|tom]] also shared a [pwm-driver](https://www.adafruit.com/product/815). 
+i'll resort back to the leds if i cannot get it to work. i have a bunch of ideas right now — what if i pass pwms to a digital multiplexor? [[tom-igoe|tom-igoe]] also shared a [pwm-driver](https://www.adafruit.com/product/815). 
 
 ---
 while reading [[intro-to-physical-computing/there are no electrons|there are no electrons]], the narrative came to me:

@@ -5,7 +5,7 @@ tags:
 noteOrder: "173"
 draft: "false"
 ---
-written by [[people/tom|tom]]. 
+written by [[tom-igoe|tom-igoe]]. 
 
 # thoughts: 
 felt very similar to [[kishore]] telling me to never include concept notes in a piece of visual work.

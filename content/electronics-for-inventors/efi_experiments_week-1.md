@@ -13,7 +13,7 @@ built this circuit to visualise charge & discharge of a capacitor.
 
 but, somehow, this always ended up burning the capacitor. i asked [[pedro]], but he told me to wait till the next class. 
 
-i then proceeded to ask [[david rios]], [[jesse simpson]], [[octavio]], [[ryan]] & [[ivan]], but none of us could figure out why. [[tom]] came and said it was a 'current' problem, but i didn't understand how. 
+i then proceeded to ask [[david rios]], [[jesse simpson]], [[octavio]], [[ryan]] & [[ivan]], but none of us could figure out why. [[tom-igoe]] came and said it was a 'current' problem, but i didn't understand how. 
 
 i will then attempt to be patient, and wait for [[pedro]]'s class next week. 
 

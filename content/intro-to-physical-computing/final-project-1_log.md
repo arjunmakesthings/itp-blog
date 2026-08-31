@@ -82,7 +82,7 @@ the interesting bit is that the human plays god. they can choose to have a faire
 
 i knew the two of them had very specific interests, and worked well together. [[people/aram|aram]] & i desperately wanted to work together, but i decided that it's best if we do our finals separately. 
 
-then, [[people/tom|tom]] & i spoke, and he helped narrow down the other ideas i had. he asked me where the learning would be richest for me, and i knew the answer. we decided against trying to make something for the show, and strived to make a project that does justice to the course (and my curiosity within the course). 
+then, [[tom-igoe|tom-igoe]] & i spoke, and he helped narrow down the other ideas i had. he asked me where the learning would be richest for me, and i knew the answer. we decided against trying to make something for the show, and strived to make a project that does justice to the course (and my curiosity within the course). 
 
 so, i focused on making an analog synthesiser instead (see: [[intro-to-physical-computing/final-project-2_log|final-project-2_log]]). 
 

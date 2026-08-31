@@ -5,7 +5,7 @@ tags:
 noteOrder: "309"
 draft: "false"
 ---
-[[tom]] & i were chatting about categories & novelty. i expressed my discontent — just as i'd expressed a few nights ago to [[pranjali]] (and others over the years) — about the lack of novelty. 
+[[tom-igoe]] & i were chatting about categories & novelty. i expressed my discontent — just as i'd expressed a few nights ago to [[pranjali]] (and others over the years) — about the lack of novelty. 
 
 his take made me look at it in another way.  
 
