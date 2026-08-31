@@ -4,9 +4,7 @@ date: 2026-05-28
 folderOrder: "14"
 draft: "false"
 ---
-doing at the [[recurse-center]] in summer '26. 
-
-following this: https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/
+done at the [[recurse-center]] in summer '26. followed [this](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/). 
 
 ---
 # why: 

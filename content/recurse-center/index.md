@@ -4,9 +4,13 @@ date: 2026-05-18
 folderOrder: "13"
 draft: "false"
 ---
-i first heard about the [recurse-center](https://www.recurse.com/?ref=darklang) via [[phil]]'s sharing of their [social rules](https://www.recurse.com/manual#sub-sec-social-rules), during [[intro-to-fabrication/index|intro-to-fabrication]]. later, i heard more about it from [[christina tran]], [[michael suguitan]] & [[nikolai]]. 
+done in summer-2026. 
 
-it is meant to be a place where a bunch of talented programmers come together (under the social premise of a 'retreat'), work at the edge of their abilities & produce self-directed work. i was accepted into the summer cohort of 2026.
+---
+
+first heard about the [recurse-center](https://www.recurse.com/?ref=darklang) via [[phil]]'s sharing of their [social rules](https://www.recurse.com/manual#sub-sec-social-rules), during [[intro-to-fabrication/index|intro-to-fabrication]]. later, heard more about it from [[christina tran]], [[michael suguitan]] & [[nikolai]]. 
+
+it is meant to be a place where a bunch of talented programmers come together (under the social premise of a 'programming-retreat'), work at the edge of their abilities & produce self-directed work. i was accepted into the summer cohort of 2026.
 
 ---
 # why: 
@@ -16,7 +20,7 @@ so, i decided to fulfil the programmer screaming inside me; and dedicate my summ
 
 ---
 
-i am doing the following: 
+i studied programming-language-design, algorithms & math; produced a body of work around emergence; pair-programmed; pen-plotted; transitioned to vim; and had fun cracking my head on advent-of-code problems.
 
 ---
 # resources: 
