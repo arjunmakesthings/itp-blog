@@ -12,8 +12,14 @@ sorting-spec: |-
   terms & concepts
   people
   /:files
-  > a-z by-metadata: date
+    > a-z by-metadata: date
+
+  target-folder: /*
+    /:files
+      > a-z by-metadata: date
+
   /folders
+  > a-z by-metadata: date
   sound-studio
   nature-of-code
   electronics-for-inventors

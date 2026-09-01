@@ -58,4 +58,4 @@ a capacitor also has two legs (a '+' and a '-') like a battery. however, it does
 
 [^3]: correction: all **materials** have resistance, not just conductive-ones. insular materials simply have so much resistance that beings simple cannot pass through them (for example: air is thought to have very high resistance). however, with sufficient voltage (sufficient desire for beings to travel), they will overcome any amount of resistance.
 
-[^4]: read [there are no electrons](https://books.google.com/books/about/There_are_No_Electrons.html?id=8e01Q3QSrS4C), by kenn amadahl..
+[^4]: read [there are no electrons](https://books.google.com/books/about/There_are_No_Electrons.html?id=8e01Q3QSrS4C), by kenn amadahl. recommended to me by [[tom-igoe]]. 
