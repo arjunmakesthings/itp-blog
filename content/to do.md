@@ -9,11 +9,13 @@ an always evolving list of things to do and read; hidden from the public website
 ---
 # urgent / time-bound: 
 
-- [ ] 4x4 matrix math
-- [ ] matrix multiplication
-- [ ] using matrices to transform vectors
-- [x] set up blogs for classes
+- [ ] 4x4 matrix math.
+- [ ] matrix multiplication.
+- [ ] using matrices to transform vectors. 
+- [ ] summer reflection -> fall.
 ---
+
+# parked:
 # writing / documentation: 
 
 ## projects:
@@ -39,11 +41,6 @@ an always evolving list of things to do and read; hidden from the public website
 
 ## itp-blog: 
 - [x] itp bairui writing paper using gpt / cody / etc. 
-
----
-
-# experiments: 
-- [ ] electrowetting on ribbon cable: https://www.youtube.com/watch?v=eD0h2jBZXCI
 
 ---
 # to see:
