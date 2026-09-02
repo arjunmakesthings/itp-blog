@@ -12,7 +12,7 @@ an always evolving list of things to do and read; hidden from the public website
 - [ ] 4x4 matrix math.
 - [ ] matrix multiplication.
 - [ ] using matrices to transform vectors. 
-- [ ] summer reflection -> fall.
+- [x] summer reflection -> fall.
 ---
 
 # parked:
