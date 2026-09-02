@@ -119,5 +119,19 @@ $$
 
 you can essentially use these to transform vectors. i mean this is what p5 `translate()` does. 
 
-used organic chemistry tutor [videos](https://www.youtube.com/watch?v=vzt9c7iWPxs). 
+for example, rotation matrices can move a point in space. general formula: 
+
+$$
+r(a) = 
+\begin{bmatrix}
+cos(a) & -sin(a)\\
+sin(a) & cos(a)
+\end{bmatrix}
+$$
+
+reflection: move a point the same distance & same angle across a plane. this is simpler to do, just multiple by 1,0 for whatever needs to stay; and 0,-1 to flip. 
+
+used organic chemistry tutor [videos](https://www.youtube.com/watch?v=vzt9c7iWPxs), and [this](https://www.youtube.com/watch?v=-pQtkHEoueE) for rotation & reflection. 
+
+---
 
