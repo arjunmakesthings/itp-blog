@@ -14,6 +14,6 @@ like [[sonali]] said — this thing isn't going anywhere & i need to find ways 
 
 ---
 # resources: 
+- [class website](https://itpima.web.app/smf26)
 - 
-
 ---
