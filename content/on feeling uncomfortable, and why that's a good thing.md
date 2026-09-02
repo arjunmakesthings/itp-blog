@@ -5,7 +5,7 @@ tags:
 noteOrder: "346"
 draft: "false"
 ---
-i have never felt as uncomfortable as i have been feeling at the [[recurse-center]] (hereafter referred to as 'rc'). and that's a good thing (while being incredibly difficult to deal with). 
+i have never felt as uncomfortable as i have been feeling at the [[recurse center]] (hereafter referred to as 'rc'). and that's a good thing (while being incredibly difficult to deal with). 
 
 ---
 

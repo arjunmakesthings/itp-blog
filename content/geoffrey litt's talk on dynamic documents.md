@@ -5,7 +5,7 @@ tags:
 noteOrder: "427"
 draft: "false"
 ---
-[[geoffrey-litt]] gave a talk on dynamic documents at [[recurse-center]]. 
+[[geoffrey-litt]] gave a talk on dynamic documents at [[recurse center]]. 
 
 ---
 

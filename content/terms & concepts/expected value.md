@@ -3,7 +3,7 @@ tags:
   - terms_and_concepts
 draft: "false"
 ---
-got from [[raf]] at [[recurse-center]]. 
+got from [[raf]] at [[recurse center]]. 
 
 generalization of weighted average. 
 

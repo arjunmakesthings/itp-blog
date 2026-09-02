@@ -3,7 +3,7 @@ tags:
   - terms_and_concepts
 draft: "false"
 ---
-learnt during [[advent-of-code]] at the [[recurse-center]]. 
+learnt during [[advent-of-code]] at the [[recurse center]]. 
 
 you use [[bitwise operations]] to look at a specific section of a binary sequence (i.e: like chop off the ends). 
 

@@ -16,7 +16,7 @@ The operation may be used to determine whether a particular bit is set (1) or cl
 AND 0010 (decimal 2)
   = 0010 (decimal 2)
 
-learnt about while doing [[advent-of-code]] at the [[recurse-center]]. 
+learnt about while doing [[advent-of-code]] at the [[recurse center]]. 
 
 ---
 

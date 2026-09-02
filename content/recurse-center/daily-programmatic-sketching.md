@@ -5,7 +5,7 @@ tags:
 noteOrder: "374"
 draft: "false"
 ---
-the idea is to find my love for programmatic sketching again, over my last 6 weeks at [[recurse-center]]. i make small sketches — ideally programs that take me less than an hour to write.
+the idea is to find my love for programmatic sketching again, over my last 6 weeks at [[recurse center]]. i make small sketches — ideally programs that take me less than an hour to write.
 
 ---
 

@@ -1,2 +1,2 @@
-co-founder; [[recurse-center]]. graduated itp a long time ago.
+co-founder; [[recurse center]]. graduated itp a long time ago.
 

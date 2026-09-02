@@ -1,1 +1,1 @@
-met at [[recurse-center]] in 2026. cad expert; architect. 
+met at [[recurse center]] in 2026. cad expert; architect. 

@@ -33,7 +33,7 @@ what are we running away from?
 
 ---
 
-i keep wondering about the validity of my enquiries; even at the [[recurse-center]]. if something is interesting to me, and i'm pulling a thread there from where i am, why is that not enough? 
+i keep wondering about the validity of my enquiries; even at the [[recurse center]]. if something is interesting to me, and i'm pulling a thread there from where i am, why is that not enough? 
 
 ==if it's interesting to you, it's interesting. that's all that matters.== 
 

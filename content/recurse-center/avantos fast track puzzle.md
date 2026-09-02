@@ -6,7 +6,7 @@ tags:
 noteOrder: "369"
 draft: "false"
 ---
-avantos was hosting a 'hiring' day at [[recurse-center]]. i wasn't interested, but their puzzle was interesting to me: 
+avantos was hosting a 'hiring' day at [[recurse center]]. i wasn't interested, but their puzzle was interesting to me: 
 
 Write a `computePolkadotScore` function that counts the number of polkadots on the dress within the following ascii art of Angelica. 
 

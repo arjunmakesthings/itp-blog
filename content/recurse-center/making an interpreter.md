@@ -5,7 +5,7 @@ tags:
 noteOrder: "411"
 draft: "false"
 ---
-following [crafting interpreters](https://craftinginterpreters.com), by robert nystrom. recommended by [[nikolai]] & [[ty overby]] at [[recurse-center]]. work done is in this repo: https://github.com/arjunmakesthings/crafting-interpreters
+following [crafting interpreters](https://craftinginterpreters.com), by robert nystrom. recommended by [[nikolai]] & [[ty overby]] at [[recurse center]]. work done is in this repo: https://github.com/arjunmakesthings/crafting-interpreters
 
 ---
 

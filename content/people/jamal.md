@@ -1,1 +1,1 @@
-met at the [[recurse-center]]; summer, 2026. 
+met at the [[recurse center]]; summer, 2026. 

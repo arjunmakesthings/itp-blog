@@ -1,0 +1,1 @@
+leads the e.r.; graduated from itp too. has strong opinions on art vs design. kind. 

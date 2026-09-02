@@ -19,7 +19,7 @@ i like the idea of writing to resolve your thinking (although talking does that 
 
 the thesis is inspired by things that i have observed over the last 9 years. 
 
-- in making programs — design, [[recurse-center]] or itp, ==we make one-offs==. things that do not have a life beyond one (or a few) exhibitions and / or a project-presentation. 
+- in making programs — design, [[recurse center]] or itp, ==we make one-offs==. things that do not have a life beyond one (or a few) exhibitions and / or a project-presentation. 
 - ==the objective of the things we make is to look pretty on portfolios==, thereby getting you *into* better places. so, the things do not have any permanent value — they're demoted to mere steps you climb onto to reach ==the next big thing.==
 - ==the environments that i am in are largely techno-utopian, but i find myself in a less desirable world.== connections are harder to make; there is always the option of another option, yet somehow no option at all; people walk by projects because their attention span is so small. things rarely stay; they are overwritten by newer things. 
 

@@ -24,34 +24,6 @@
             }
           },
           {
-            "id": "a61a1b0e1a9395b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pre-fall reflection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "pre-fall reflection"
-            }
-          },
-          {
-            "id": "7123154fe867ae14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sortspec.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "sortspec"
-            }
-          },
-          {
             "id": "af88a442ea9d4e7a",
             "type": "leaf",
             "pinned": true,
@@ -66,9 +38,23 @@
               "icon": "lucide-file",
               "title": "thesis_to-do"
             }
+          },
+          {
+            "id": "acb130cd8b70f518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pre second-year reflection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pre second-year reflection"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,7 +239,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,27 +257,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a61a1b0e1a9395b0",
+  "active": "acb130cd8b70f518",
   "lastOpenFiles": [
-    "sortspec.md",
-    "pre-fall reflection.md",
+    "people/marlon.md",
+    "pre second-year reflection.md",
+    "people/sophia.md",
+    "people/recurse center.md",
+    "it's about more than making money.md",
     "induction-heating stuff.md",
-    "to do.md",
-    "thesis/thesis_to-do.md",
-    "thesis/alternative display research.md",
-    "thesis/ultrasonic voxel suspension.md",
-    "thesis/brainwrite-7_260827.md",
-    "z_images/induction.mp4",
-    "thesis/bairui & sai's point of music expressing rule-based-systems.md",
-    "thesis/2608-mapping.md",
-    "working principles to deal with electricity.md",
-    "philosophy, system & navigation.md",
-    "white hair.md",
-    "what is technology?.md",
-    "writing modulino led-matrix library.md",
-    "index.md",
+    "z_images/IMG_7554-1.webp",
+    "z_images/IMG_7554.jpg",
+    "people/nataly.md",
     "recurse-center/index.md",
-    "intro-to-algorithms/index.md",
+    "thesis/thesis_to-do.md",
+    "to do.md",
+    "shared-minds/index.md",
+    "sortspec.md",
+    "ga_ima_physical-computing_class_log.md",
+    "shopping list.md",
+    "projects-by-other-people/time studies, by patricio gonzalez vivo.md",
+    "projects-by-other-people/stranger visions.md",
+    "terms & concepts/bios or basic input-output system.md",
+    "terms & concepts/artificial life.md",
+    "terms & concepts/unit generator theory.md",
+    "terms & concepts/exformation.md",
+    "terms & concepts/programming paradigms.md",
+    "resources & tools/graphviz.md",
+    "resources & tools/spear.md",
+    "resources & tools/circuit lab.md",
+    "resources & tools/library of congress.md",
+    "resources & tools/index.md",
+    "z_images/induction.mp4",
     "z_images/zoosemiotics_suzanne.webp",
     "z_images/wolfram-study.webp",
     "z_images/w mike_260604.pdf",
@@ -306,18 +303,8 @@
     "z_images/posse.webp",
     "z_images/piccinini-2.webp",
     "z_images/piccinini-1.webp",
-    "z_images/pet28a_diagram.webp",
     "z_images/nand.mp4",
     "z_images/mtdna-plasmid_annotated-seq.pdf",
-    "z_images/midi.webp",
-    "work & subsequent media.md",
-    "what can you do that others can't.md",
-    "vera molnar on regrets.md",
-    "unorganized rant.md",
-    "understanding-networks/index.md",
-    "tom's take on novelty & categorization.md",
-    "today i feel like a flower.md",
-    "to social media or not to social media.md",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",

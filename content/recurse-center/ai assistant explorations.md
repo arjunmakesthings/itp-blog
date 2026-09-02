@@ -5,7 +5,7 @@ tags:
 noteOrder: "400"
 draft: "false"
 ---
-at [[recurse-center]], i've seen many people use a.i. efficiently. it doesn't harm their learning; they're careful about how they use it; and they're perfect examples for learning how to leverage it. 
+at [[recurse center]], i've seen many people use a.i. efficiently. it doesn't harm their learning; they're careful about how they use it; and they're perfect examples for learning how to leverage it. 
 
 ---
 
