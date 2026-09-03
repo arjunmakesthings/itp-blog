@@ -9,10 +9,11 @@ an always evolving list of things to do and read; hidden from the public website
 ---
 # urgent / time-bound: 
 
-- [ ] 4x4 matrix math.
-- [ ] matrix multiplication.
+- [x] 4x4 matrix math.
+- [x] matrix multiplication.
 - [ ] using matrices to transform vectors. 
 - [x] summer reflection -> fall.
+- [ ] speak with niko about shared minds :/ 
 ---
 
 # parked:
