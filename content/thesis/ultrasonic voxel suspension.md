@@ -3,7 +3,7 @@ date: 2026-09-01
 tags:
   - experiments
 noteOrder: "438"
-draft: "true"
+draft: "false"
 ---
 followed this: https://www.youtube.com/watch?v=HTgBzRgAFNs
 
