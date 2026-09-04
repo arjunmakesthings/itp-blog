@@ -15,4 +15,9 @@ want to move to the 'next level' of making electronic-devices; learn how to mana
 - [syllabus](https://itp.nyu.edu/classes/prototypingelectronicdevices/)
 - [class-repo](https://github.com/DeqingSun/Prototyping-Electronic-Devices)
 
+pcb services: 
+- digikey-red: https://www.digikey.com/en/resources/dkred
+- oshpark: https://oshpark.com
+- barebones pcb: https://bayareacircuits.com/prototype-printed-circuit-boards-pcbs/
+
 ---

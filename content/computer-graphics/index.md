@@ -12,6 +12,6 @@ to get familiar with the paradigm of writing computer-shaders.
 
 ---
 # resources: 
-- 
+- https://cs.nyu.edu/~perlin/courses/fall2025/setting_up_your_web_site.html
 
 ---
