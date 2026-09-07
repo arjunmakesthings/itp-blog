@@ -146,9 +146,11 @@ li + li{
   margin-top: 0.3em;
 }
 sup{
-  vertical-align: super;
+  vertical-align: baseline;
+  position: relative;
+  top: -0.5em;
   font-size: 0.6em;
-  line-height: 1;
+  line-height: 0;
 }
  .page-listing{
   margin-top: 1em;

@@ -233,7 +233,7 @@ a {
       color: var(--gray);
     }
 
-    & li > * {
+    & li > :not(ul, ol, blockquote) {
       margin-top: 0;
       margin-bottom: 0;
     }
