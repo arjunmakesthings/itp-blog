@@ -50,6 +50,7 @@ type LinkRenderData = GraphicsInfo & {
 type NodeRenderData = GraphicsInfo & {
   simulationData: NodeData
   label: Text
+  labelGroup: Container
 }
 
 const localStorageKey = "graph-visited"
@@ -87,6 +88,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     showTags,
     focusOnHover,
     enableRadial,
+    labelVisibilityThreshold = 0,
+    showLabelBackground = true,
   } = JSON.parse(graph.dataset["cfg"]!) as D3Config
 
   const data: Map<SimpleSlug, ContentDetails> = new Map(
@@ -161,6 +164,14 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       })),
   }
 
+  // how many links touch each node — used to prioritize labels & node size
+  const degreeMap = new Map<SimpleSlug, number>()
+  for (const n of graphData.nodes) {
+    degreeMap.set(
+      n.id,
+      graphData.links.filter((l) => l.source.id === n.id || l.target.id === n.id).length,
+    )
+  }
   const width = graph.offsetWidth
   const height = Math.max(graph.offsetHeight, 250)
 
@@ -206,9 +217,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   }
 
   function nodeRadius(d: NodeData) {
-    const numLinks = graphData.links.filter(
-      (l) => l.source.id === d.id || l.target.id === d.id,
-    ).length
+    const numLinks = degreeMap.get(d.id) ?? 0
     return 2 + Math.sqrt(numLinks)
   }
 
@@ -262,7 +271,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         alpha = l.active ? 1 : 0.2
       }
 
-      l.color = l.active ? computedStyleMap["--gray"] : computedStyleMap["--lightgray"]
+      l.color = computedStyleMap["--lightgray"]
       tweenGroup.add(new Tweened<LinkRenderData>(l).to({ alpha }, 200))
     }
 
@@ -275,6 +284,14 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     })
   }
 
+  // n.alpha holds each label's "base" visibility (0 or 1) as decided by
+  // zoom/rank in updateLabelVisibility; this layers hover dimming on top of
+  // that, the same way renderLinks dims non-neighbour links.
+  function labelDimFactor(n: NodeRenderData) {
+    if (!hoveredNodeId) return 1
+    return n.active || n.simulationData.id === hoveredNodeId ? 1 : 0.2
+  }
+
   function renderLabels() {
     tweens.get("label")?.stop()
     const tweenGroup = new TweenGroup()
@@ -283,28 +300,17 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const activeScale = defaultScale * 1.1
     for (const n of nodeRenderData) {
       const nodeId = n.simulationData.id
+      const isHoveredSelf = hoveredNodeId === nodeId
+      const targetAlpha = isHoveredSelf ? 1 : n.alpha * labelDimFactor(n)
+      const targetScale = isHoveredSelf ? activeScale : defaultScale
 
-      if (hoveredNodeId === nodeId) {
-        tweenGroup.add(
-          new Tweened<Text>(n.label).to(
-            {
-              alpha: 1,
-              scale: { x: activeScale, y: activeScale },
-            },
-            100,
-          ),
-        )
-      } else {
-        tweenGroup.add(
-          new Tweened<Text>(n.label).to(
-            {
-              alpha: n.label.alpha,
-              scale: { x: defaultScale, y: defaultScale },
-            },
-            100,
-          ),
-        )
-      }
+      tweenGroup.add(new Tweened<Text>(n.label).to({ alpha: targetAlpha }, 100))
+      tweenGroup.add(
+        new Tweened<Container>(n.labelGroup).to(
+          { scale: { x: targetScale, y: targetScale } },
+          100,
+        ),
+      )
     }
 
     tweenGroup.getAll().forEach((tw) => tw.start())
@@ -366,10 +372,15 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const stage = app.stage
   stage.interactive = false
 
-  const labelsContainer = new Container<Text>({ zIndex: 3, isRenderGroup: true })
-  const nodesContainer = new Container<Graphics>({ zIndex: 2, isRenderGroup: true })
+  const labelsContainer = new Container({ zIndex: 2, isRenderGroup: true, sortableChildren: true })
+  const nodesContainer = new Container<Graphics>({
+    zIndex: 3,
+    isRenderGroup: true,
+    sortableChildren: true,
+  })
   const linkContainer = new Container<Graphics>({ zIndex: 1, isRenderGroup: true })
-  stage.addChild(nodesContainer, labelsContainer, linkContainer)
+  stage.addChild(linkContainer, nodesContainer, labelsContainer)
+  stage.sortableChildren = true
 
   for (const n of graphData.nodes) {
     const nodeId = n.id
@@ -379,7 +390,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       eventMode: "none",
       text: n.text,
       alpha: 0,
-      anchor: { x: 0.5, y: 1.2 },
+      anchor: { x: 0.5, y: 0 },
       style: {
         fontSize: fontSize * 15,
         fill: computedStyleMap["--dark"],
@@ -387,9 +398,26 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       },
       resolution: window.devicePixelRatio * 4,
     })
-    label.scale.set(1 / scale)
 
-    let oldLabelOpacity = 0
+    const labelGroup = new Container({ zIndex: 0 })
+    if (showLabelBackground) {
+      // a backing chip behind each label so overlapping labels/links/nodes
+      // stay legible instead of text blending into whatever's behind it
+      const labelBounds = label.getLocalBounds()
+      const labelBg = new Graphics()
+        .roundRect(
+          labelBounds.x - 4,
+          labelBounds.y - 2,
+          labelBounds.width + 8,
+          labelBounds.height + 4,
+          4,
+        )
+        .fill({ color: computedStyleMap["--light"], alpha: 0.75 })
+      labelGroup.addChild(labelBg)
+    }
+    labelGroup.addChild(label)
+    labelGroup.scale.set(1 / scale) // zoom compensation + hover "pop" tween live here
+
     const isTagNode = nodeId.startsWith("tags/")
     const gfx = new Graphics({
       interactive: true,
@@ -397,19 +425,24 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       eventMode: "static",
       hitArea: new Circle(0, 0, nodeRadius(n)),
       cursor: "pointer",
+      zIndex: 0,
     })
       .circle(0, 0, nodeRadius(n))
       .fill({ color: isTagNode ? computedStyleMap["--light"] : color(n) })
       .on("pointerover", (e) => {
         updateHoverInfo(e.target.label)
-        oldLabelOpacity = label.alpha
+        // bring the hovered node's circle + label above everything else,
+        // so it's reachable even when the graph is dense/overlapping
+        gfx.zIndex = 1000
+        labelGroup.zIndex = 1000
         if (!dragging) {
           renderPixiFromD3()
         }
       })
       .on("pointerleave", () => {
         updateHoverInfo(null)
-        label.alpha = oldLabelOpacity
+        gfx.zIndex = 0
+        labelGroup.zIndex = 0
         if (!dragging) {
           renderPixiFromD3()
         }
@@ -420,12 +453,13 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     }
 
     nodesContainer.addChild(gfx)
-    labelsContainer.addChild(label)
+    labelsContainer.addChild(labelGroup)
 
     const nodeRenderDatum: NodeRenderData = {
       simulationData: n,
       gfx,
       label,
+      labelGroup,
       color: color(n),
       alpha: 1,
       active: false,
@@ -448,6 +482,38 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
     linkRenderData.push(linkRenderDatum)
   }
+
+  // rank nodes by connection count so label reveal is evenly paced by
+  // popularity, not raw degree (which is heavily skewed by a few hub/tag
+  // nodes). rank 0 = most connected.
+  const nodesByDegreeDesc = [...graphData.nodes].sort(
+    (a, b) => (degreeMap.get(b.id) ?? 0) - (degreeMap.get(a.id) ?? 0),
+  )
+  const rankOf = new Map(nodesByDegreeDesc.map((n, i) => [n.id, i]))
+  const nodeCount = graphData.nodes.length
+
+  // at minimum zoom, only the top `labelVisibilityThreshold` fraction of
+  // most-connected nodes show labels; at maximum zoom, every label shows;
+  // in between, the visible set grows linearly by connection rank.
+  // labelVisibilityThreshold = 1 means "always show every label" (local graph).
+  const zoomScaleExtent: [number, number] = [0.25, 4]
+  function updateLabelVisibility(k: number) {
+    const scaledK = k * opacityScale
+    const t = Math.min(
+      1,
+      Math.max(0, (scaledK - zoomScaleExtent[0]) / (zoomScaleExtent[1] - zoomScaleExtent[0])),
+    )
+    const visibleFraction = labelVisibilityThreshold + (1 - labelVisibilityThreshold) * t
+    const visibleCount = Math.max(1, Math.round(visibleFraction * nodeCount))
+    for (const n of nodeRenderData) {
+      const rank = rankOf.get(n.simulationData.id) ?? nodeCount
+      const baseVisible = rank < visibleCount ? 1 : 0
+      n.alpha = baseVisible
+      if (n.simulationData.id === hoveredNodeId) continue
+      n.label.alpha = baseVisible * labelDimFactor(n)
+    }
+  }
+  updateLabelVisibility(zoomScaleExtent[0])
 
   let currentTransform = zoomIdentity
   if (enableDrag) {
@@ -503,22 +569,14 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
           [0, 0],
           [width, height],
         ])
-        .scaleExtent([0.25, 4])
+        .scaleExtent(zoomScaleExtent)
         .on("zoom", ({ transform }) => {
           currentTransform = transform
           stage.scale.set(transform.k, transform.k)
           stage.position.set(transform.x, transform.y)
 
-          // zoom adjusts opacity of labels too
-          const scale = transform.k * opacityScale
-          let scaleOpacity = Math.max((scale - 1) / 3.75, 0)
-          const activeNodes = nodeRenderData.filter((n) => n.active).flatMap((n) => n.label)
-
-          for (const label of labelsContainer.children) {
-            if (!activeNodes.includes(label)) {
-              label.alpha = scaleOpacity
-            }
-          }
+          // zooming in reveals labels for progressively lower-degree nodes
+          updateLabelVisibility(transform.k)
         }),
     )
   }
@@ -530,8 +588,13 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       const { x, y } = n.simulationData
       if (!x || !y) continue
       n.gfx.position.set(x + width / 2, y + height / 2)
-      if (n.label) {
-        n.label.position.set(x + width / 2, y + height / 2)
+      if (n.labelGroup) {
+        // offset by this node's own radius (which scales with its number of
+        // connections) plus a small fixed gap, so the label always clears
+        // the circle instead of a one-size-fits-all offset
+        const labelGap = nodeRadius(n.simulationData) + 4
+        n.labelGroup.position.set(x + width / 2, y + height / 2 + labelGap)
+        n.labelGroup.alpha = n.label.alpha
       }
     }
 

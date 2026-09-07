@@ -19,6 +19,13 @@ export interface D3Config {
   showTags: boolean
   focusOnHover?: boolean
   enableRadial?: boolean
+  // fraction (0-1) of the most-connected nodes whose labels are shown at
+  // minimum zoom; grows to 1 (all labels) at maximum zoom. 1 = always show
+  // every label regardless of zoom.
+  labelVisibilityThreshold?: number
+  // draw a background chip behind each label; useful when many labels
+  // overlap (global graph), unnecessary in a small local graph
+  showLabelBackground?: boolean
 }
 
 interface GraphOptions {
@@ -32,30 +39,38 @@ const defaultOptions: GraphOptions = {
     zoom: true,
     depth: 1,
     scale: 1.1,
-    repelForce: 0.5,
+    repelForce: 0.8,
     centerForce: 0.3,
-    linkDistance: 20,
-    fontSize: 0.6,
+    linkDistance: 30,
+    fontSize: 0.7,
     opacityScale: 1,
     showTags: true,
     removeTags: [],
     focusOnHover: false,
     enableRadial: false,
+    showLabelBackground: false,
+    // local graph is a small, curated neighborhood — always show all labels
+    labelVisibilityThreshold: 1,
   },
   globalGraph: {
     drag: true,
     zoom: true,
     depth: -1,
     scale: 1,
-    repelForce: 0.5,
-    centerForce: 0.2,
-    linkDistance: 20,
+    repelForce: 1.2,
+    centerForce: 0.1,
+    linkDistance: 40,
     fontSize: 0.6,
     opacityScale: 1,
     showTags: true,
     removeTags: [],
     focusOnHover: true,
     enableRadial: true,
+    showLabelBackground: true,
+    // only the most-connected ~12% of nodes (tags, hub notes) get labels
+    // when fully zoomed out; zooming in linearly reveals the rest by rank,
+    // reaching 100% at max zoom
+    labelVisibilityThreshold: 0.12,
   },
 }
 
