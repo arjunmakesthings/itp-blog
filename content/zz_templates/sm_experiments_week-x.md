@@ -4,17 +4,15 @@ tags:
 noteOrder:
 draft: "true"
 ---
-# ask: 
-# ask: 
+# reading: 
+read 
 
 ---
-# thought: 
+
+# writing: 
+> ask:
 
 ---
-# outputs: 
 
-
-
-
-
-
+# making:
+> ask: 

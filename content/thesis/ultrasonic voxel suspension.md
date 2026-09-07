@@ -2,6 +2,7 @@
 date: 2026-09-01
 tags:
   - experiments
+  - research
 noteOrder: "438"
 draft: "false"
 ---
@@ -21,7 +22,6 @@ video 1:
 
 ![[20260904_173406.mp4]]
 
-
-
+schematic: https://edisonsciencecorner.blogspot.com/2020/06/blog-post_18.html
 
 

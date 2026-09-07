@@ -8,12 +8,7 @@ an always evolving list of things to do and read; hidden from the public website
 
 ---
 # urgent / time-bound: 
-
-- [x] 4x4 matrix math.
-- [x] matrix multiplication.
-- [ ] using matrices to transform vectors. 
-- [x] summer reflection -> fall.
-- [ ] speak with niko about shared minds :/ 
+- [ ] 
 ---
 
 # parked:
@@ -31,7 +26,7 @@ an always evolving list of things to do and read; hidden from the public website
 
 ## notes: 
 - [ ] a case for lowercase
-- [ ] ==electricity for dummies==
+- [x] ==electricity for dummies==
 - [ ] paper for emergent system
 - [ ] behaviour design / dialectic thinking
 - [x] the masses are yours.

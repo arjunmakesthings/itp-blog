@@ -1,0 +1,18 @@
+---
+date: 2026-09-05
+tags:
+  - assignments
+noteOrder: "447"
+draft: "false"
+---
+[[ken-perlin]] asked us to write what we'd like from this semester's class. 
+
+---
+
+my [work](https://arjunmakesthings.github.io/projects.html) is rooted in the study of emergent-complexity produced by computational-systems. enquiries often have to be realized, and programming graphics on a computer is accessible. however, i have only managed to do so via the c.p.u, and often find myself hitting limits of cpu-based-computing for certain projects (such as simulating ink blotting on paper). 
+
+in another [project](https://github.com/arjunmakesthings/daily-movement_emergence-studies), i attempted to use shaders, but wasn't able to wrap my head around the idea of writing programs for all pixels at once, as opposed to for an object or an array of pixels (say, a particle system). 
+
+i want to get extremely comfortable with this paradigm (and all the math that is required). i don't expect to create any fancy work — simply because it will take me more time to understand things than the average computer-graphics student. but, when the semester ends, i hope that my understanding is solid & that i can employ it whenever i need to in future-projects.
+
+so, i want to program small; understand deep; and walk away comfortable. i largely care about techniques for 2-d graphics, and am less inclined towards 3-d & virtual-reality; but still curious to learn.

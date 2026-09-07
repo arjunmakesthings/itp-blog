@@ -24,20 +24,6 @@
             }
           },
           {
-            "id": "1040df632af8e2b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "brand, opinionated stances.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "brand, opinionated stances"
-            }
-          },
-          {
             "id": "af88a442ea9d4e7a",
             "type": "leaf",
             "pinned": true,
@@ -54,40 +40,26 @@
             }
           },
           {
-            "id": "64ff8659901074e4",
+            "id": "f3ecf7b21376bec3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thesis/ultrasonic voxel suspension.md",
+                "file": "shared-minds/sm_experiments_week-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ultrasonic voxel suspension"
+              "title": "sm_experiments_week-1"
             }
           },
           {
-            "id": "eae6106608675c20",
+            "id": "73cc2d5c3f0e4911",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thesis/ultrasonic voxel suspension.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ultrasonic voxel suspension"
-            }
-          },
-          {
-            "id": "357ba839df686562",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shared-minds/index.md",
+                "file": "musical-connections/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -96,49 +68,35 @@
             }
           },
           {
-            "id": "ccac4752578c8b57",
+            "id": "6ca06468f713ca8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "working principles to deal with electricity.md",
+                "file": "recurse-center/ai assistant explorations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "working principles to deal with electricity"
+              "title": "ai assistant explorations"
             }
           },
           {
-            "id": "4936b5284753841b",
+            "id": "ed68787135d063fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thesis/ultrasonic voxel suspension.md",
+                "file": "thesis/presentation-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ultrasonic voxel suspension"
-            }
-          },
-          {
-            "id": "c23d4558cb09fb3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "resources & tools/find & delete specific format files in a folder.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "find & delete specific format files in a folder"
+              "title": "presentation-1"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -341,35 +299,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "eae6106608675c20",
+  "active": "ed68787135d063fc",
   "lastOpenFiles": [
+    "thesis/ultrasonic voxel suspension.md",
+    "thesis/defining a strong itp-thesis.md",
+    "thesis/presentation-1.md",
+    "to do.md",
+    "musical-connections/index.md",
+    "index.md",
+    "shared-minds/index.md",
+    "shared-minds/sm_experiments_week-1.md",
+    "z_images/Screenshot 2026-09-06 at 20.23.43.webp",
+    "thesis/thesis_to-do.md",
+    "recurse-center/ai assistant explorations.md",
+    "zz_templates/sm_experiments_week-x.md",
+    "zz_templates/course_experiments_week-x.md",
+    "computer-graphics/what i want from this computer-graphics.md",
+    "computer-graphics/cg_class-1.md",
+    "computer-graphics/index.md",
+    "thesis/index.md",
+    "thesis/2608-mapping.md",
+    "brand, opinionated stances.md",
+    "resources & tools/find & delete specific format files in a folder.md",
+    "working principles to deal with electricity.md",
     "z_images/20260904_173406.mp4",
     "z_images/IMG_8395.mp4",
     "artist material drafts.md",
     "thesis/brainwrite-7_260827.md",
-    "thesis/2608-mapping.md",
     "thesis/alternative display research.md",
-    "thesis/ultrasonic voxel suspension.md",
     "prototyping-electronic-devices/index.md",
-    "resources & tools/find & delete specific format files in a folder.md",
-    "thesis/thesis_to-do.md",
     "computer-graphics/basic matrix math.md",
-    "computer-graphics/cg_class-1.md",
-    "computer-graphics/index.md",
     "shared-minds/sm_class-1.md",
-    "shared-minds/index.md",
-    "brand, opinionated stances.md",
-    "agar vaapis jaana pade.md",
-    "working principles to deal with electricity.md",
-    "induction-heating stuff.md",
-    "pre second-year reflection.md",
-    "people/aidan nelson.md",
-    "people/alanna.md",
-    "people/allison parrish.md",
-    "people/cathy.md",
-    "to do.md",
-    "people/marlon.md",
-    "people/sophia.md",
     "z_images/IMG_7554-1.webp",
     "z_images/IMG_7554.jpg",
     "z_images/induction.mp4",
@@ -387,8 +347,6 @@
     "z_images/qwicc.webp",
     "z_images/posse.webp",
     "z_images/piccinini-2.webp",
-    "z_images/piccinini-1.webp",
-    "z_images/nand.mp4",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",

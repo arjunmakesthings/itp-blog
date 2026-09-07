@@ -13,6 +13,15 @@ course about thinking about thinking, which is a part of what i taught (and was 
 like [[sonali]] said — this thing isn't going anywhere & i need to find ways to navigate it in a manner that feels right to me. 
 
 ---
+
+the structure of this class is to: 
+- read
+- write
+- make.
+
+hence, experiments in each week follow the same structure.
+
+---
 # resources: 
 - [class website](https://itpima.web.app/smf26)
 - 
