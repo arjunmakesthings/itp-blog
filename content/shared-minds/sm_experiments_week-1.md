@@ -49,3 +49,6 @@ the first thing i noticed was that claude-code ran `caffeinate` by itself, and t
 
 ![[Screenshot 2026-09-06 at 20.23.43.webp|512]]
 
+after a couple of hours of fiddling around, i got it right where i want it — changed all privacy settings, set up the `CLAUDE.md` file, and configured it to view diffs in nvim. 
+
+i then messed around with a few old repos to see how good it was, and if i was confident of reverting back changes. i disallowed it to add itself to my github-contributors for any repo, and basically disallowed it to do any git commands. this way, version control is in my hand, and i can revert to a previous version if it messes up. 
