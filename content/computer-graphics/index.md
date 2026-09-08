@@ -13,6 +13,7 @@ to get familiar with the paradigm of writing computer-shaders.
 ---
 # resources: 
 - [brightspace](https://brightspace.nyu.edu/d2l/home/627987)
-- https://cs.nyu.edu/~perlin/courses/fall2025/setting_up_your_web_site.html
+- assignments are served via a courant webpage; accessible here: https://cs.nyu.edu/~ay3020/graphics/
+- ssh: `netID@access.cims.nyu.edu`. 
 
 ---
