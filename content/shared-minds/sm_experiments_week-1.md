@@ -128,3 +128,7 @@ before we move further, i need you to thoroughly clean up the codebase. format i
 
 output here: 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qyX-xIFRQQ4?si=FUZlx2OiCUxkrpqJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+interactive prototype: https://arjunmakesthings.github.io/shared-minds_f26/week-1/
+
