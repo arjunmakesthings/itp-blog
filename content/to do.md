@@ -8,6 +8,12 @@ an always evolving list of things to do and read; hidden from the public website
 
 ---
 # urgent / time-bound: 
+- [ ] put luisa thesis section photo
+- [ ] und net notes
+- [ ] comp graphics notes
+- [ ] shared minds notes
+- [ ] cell & senses mind map
+- [ ] challenging assumptions for pixels
 - [ ] 
 ---
 

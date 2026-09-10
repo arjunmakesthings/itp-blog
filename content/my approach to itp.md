@@ -7,6 +7,15 @@ draft: "false"
 ---
 my approach will keep evolving, as i make my way through the program. this list is sorted by newest addition first. 
 
+---
+# second year: 
+
+# 260909: 
+thesis is big for some (like [[nasif]] says), and isn't for others. a lot of it is striking balance between what gets more priority than others (and therefore the quality of work in a class must suffer). 
+
+---
+# first year:
+
 # 260817: 
 spend large portions of your time being immersed, as opposed to trying to be 'productive'. 
 
