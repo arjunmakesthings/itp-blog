@@ -12,6 +12,7 @@ i understand how to work with code & electricity by now, but networks is still a
 
 ---
 # resources: 
-- 
+- [understanding networks](https://itp.nyu.edu/classes/undnet/)
+- [itp-networks-site](https://itp.nyu.edu/networks/)
 
 ---

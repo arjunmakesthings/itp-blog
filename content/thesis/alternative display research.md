@@ -8,6 +8,7 @@ draft: "false"
 # stuff i want to try out: 
 - **electrowetting** on ribbon cable: https://www.youtube.com/watch?v=eD0h2jBZXCI
 	- build using conductive pla: https://www.youtube.com/watch?v=Mpo1P5eEUU8
+	- https://www.youtube.com/watch?v=ySaRjGJBIX0
 - **servos & mirrors**: https://www.youtube.com/watch?v=m0xb58mso78&t=42s
 - **actuators & pins** (inform by mit-media-lab): https://tangible.media.mit.edu/project/inform/
 	- actuator & mesh: https://mischertraxler.com/projects/plural-and-spannungsfeld/
