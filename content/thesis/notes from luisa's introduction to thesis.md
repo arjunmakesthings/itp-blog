@@ -11,3 +11,5 @@ some things that stuck from [[luisa pereira]]'s intro to thesis for the cohort:
 
 > enquiry being in conversation with making, and moving back & forth as 'research'. 
 
+![[IMG_8413.webp|408]]
+

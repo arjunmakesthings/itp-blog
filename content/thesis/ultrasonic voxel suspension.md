@@ -14,6 +14,10 @@ the logic is that when you send a 40khz. wave, and invert another one right oppo
 
 i fiddled around a lot with different ways to make this happen, but ended up following the youtube tutorial for the base build. 
 
+first figured out tracking waves by using a function generator sending a signal to the oscilloscope. 
+
+![[IMG_8393.webp|496]]
+
 video 1:
 
 ![[IMG_8395.mp4]]
