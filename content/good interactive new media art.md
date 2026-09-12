@@ -18,3 +18,4 @@ something so simple, but people spent a lot of time playing with it. that was th
 also saw this that was beautiful: 
 
 ![[IMG_8420.webp|510]]
+
