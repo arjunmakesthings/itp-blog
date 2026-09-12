@@ -23,6 +23,7 @@ draft: "false"
 # past alternative display research: 
 - repo of alternative-displays: https://blair-neal.gitbook.io/survey-of-alternative-displays/alternative-displays/overview
 - kelly heaton physical pixel thesis: https://alumni.media.mit.edu/~kelly/physPix/heatonThesis.pdf
+- microsoft's autonomous-pixels research: https://www.microsoft.com/en-us/research/project/autonomous-pixels/
 
 ---
 
