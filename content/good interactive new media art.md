@@ -12,3 +12,9 @@ draft: "false"
 the effect was gorgeous. 
 
 something so simple, but people spent a lot of time playing with it. that was the novelty of this piece — it wasn't complicated or anything; the artist just discovered something extremely interesting. 
+
+---
+
+also saw this that was beautiful: 
+
+![[IMG_8420.webp|510]]

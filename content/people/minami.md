@@ -1,0 +1,1 @@
+part of itp-'27. visual artist before; now wants to get into ux. from japan; but spent most of her life in singapore.

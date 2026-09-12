@@ -108,9 +108,23 @@
               "icon": "lucide-file",
               "title": "good interactive new media art"
             }
+          },
+          {
+            "id": "3228ac5d012dbfef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "good interactive new media art.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "good interactive new media art"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -312,11 +326,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f8e324342b9df7b5",
+  "active": "3228ac5d012dbfef",
   "lastOpenFiles": [
+    "z_images/IMG_8420.webp",
+    "fractal leaves.md",
+    "thesis/other automaton stuff.md",
+    "z_images/IMG_8398.webp",
+    "people/minami.md",
+    "good interactive new media art.md",
     "z_images/IMG_8419.mp4",
     "thesis/electrowetting.md",
-    "good interactive new media art.md",
     "thesis/ultrasonic voxel suspension.md",
     "z_images/IMG_8393.webp",
     "computer-graphics/translation & rotation matrices.md",
@@ -343,15 +362,11 @@
     "z_images/IMG_8416.webp",
     "my approach to itp.md",
     "thesis/conversation with danny-rozin.md",
-    "feeling inferior is relative.md",
-    "people/b.md",
-    "people/danny-rozin.md",
     "z_images/Screenshot 2026-09-08 at 17.04.08.webp",
     "z_images/image-22.png",
     "z_images/Screenshot 2026-09-06 at 20.23.43.webp",
     "z_images/20260904_173406.mp4",
     "z_images/IMG_8395.mp4",
-    "z_images/IMG_7554-1.webp",
     "z_images/induction.mp4",
     "z_images/w mike_260604.pdf",
     "z_images/vidloop_ba_bact.mp4",
@@ -359,7 +374,6 @@
     "z_images/vid1_260618.mp4",
     "z_images/the-cost-of-trying-to-hold-on_prints_v1.pdf",
     "z_images/shift register normal.mp4",
-    "z_images/same clocks.mp4",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
