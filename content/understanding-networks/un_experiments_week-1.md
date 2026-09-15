@@ -387,7 +387,7 @@ here, the returned ip is:
 
 now this cannot be opened on the web-browser. because, when i send tigoe.net over the web, certain headers get attached to it which are handled by that ip-address:
 
-![[Screenshot 2026-09-15 at 09.56.58.png]]
+![[Screenshot 2026-09-15 at 09.56.58.webp]]
 
 so if i was to send my query with these headers to that ip, i would get tigoe.net. i don't know how to do that right now.
 
