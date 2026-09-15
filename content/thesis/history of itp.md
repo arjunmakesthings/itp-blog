@@ -27,3 +27,5 @@ also, let's examine the claims:
 - how can technology 'improve society'
 - how can technology 'make life more just, more beautiful, more meaningful and more fun'
 
+to check: https://www.imillsie.com/nyu-itp (got from [[daniel shiffman]]). 
+

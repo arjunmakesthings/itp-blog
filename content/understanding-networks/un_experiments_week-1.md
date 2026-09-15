@@ -326,9 +326,6 @@ all of them are actually from this mac address:
 
 no assignment was found for this mac address. 
 
----
-# outputs: 
-
 
 
 

@@ -12,9 +12,19 @@ log of things for [course](https://github.com/shiffman/Creative-Computing-F26) t
 
 basics of electricity workshop. follow [[working principles to deal with electricity]]. 
 
-- for any kind of electricity, we need power. we will only talk about things we can hold in our hands. 
+- for any kind of electricity, we need power. 
+	- for this class, we will only talk about sources that we can hold in our hands. no wall outlets. 
 	- ask about signs on a battery. 
 	- ==show battery and signs.==
+
+- the best way to understand about electricity is that beings want to move from one side to the other.
+
+conductive vs insular. 
+
+- voltage & current. 
+
+ 
+
 - talk about beings wanting to move to the other side. 
 - 
 
