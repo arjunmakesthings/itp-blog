@@ -326,8 +326,67 @@ all of them are actually from this mac address:
 
 no assignment was found for this mac address. 
 
+from unix intro: 
 
+file tells the type of encoding for a file;
 
+``` zsh
+a@Mac class-2 % file scene1.html
+scene1.html: HTML document text, ASCII text
+a@Mac class-2 % file webgl.js
+webgl.js: ASCII text
+a@Mac class-2 %
 
+```
 
+three ways to chain programs: 
 
+``` txt
+
+pipes (|): take output of one feed it to the other — read l-> r. 
+
+read (<): feed something with something else -> someprogram < input.txt
+
+overwrite (>): change something in something else -> $ echo hello > output.txt
+$ cat output.txt
+hello
+
+append with (>>): not overwrite; but add to the end. 
+```
+
+[[ryan]] showed me about headers that get sent. so, when i do dig for tigoe.net: 
+
+``` bash
+; <<>> DiG 9.10.6 <<>> @8.8.8.8 tigoe.net
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 3071
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;tigoe.net.			IN	A
+
+;; ANSWER SECTION:
+tigoe.net.		3600	IN	A	104.236.102.241
+
+;; Query time: 135 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8)
+;; WHEN: Tue Sep 15 09:56:04 EDT 2026
+;; MSG SIZE  rcvd: 54
+```
+
+here, the returned ip is: 
+
+``` zsh
+104.236.102.241
+
+```
+
+now this cannot be opened on the web-browser. because, when i send tigoe.net over the web, certain headers get attached to it which are handled by that ip-address:
+
+![[Screenshot 2026-09-15 at 09.56.58.png]]
+
+so if i was to send my query with these headers to that ip, i would get tigoe.net. i don't know how to do that right now.
