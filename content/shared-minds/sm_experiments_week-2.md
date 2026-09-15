@@ -63,6 +63,6 @@ demo:
 
 working link: https://arjunmakesthings.github.io/shared-minds_f26/week-2/
 
-i've kept the tokens hidden; so you can't interact with it otherwise my key will become publicly available on the web.
+[[bairui]] & [[cody]] showed me that i didn't need to log in and use my token. 
 
 
