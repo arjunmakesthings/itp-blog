@@ -390,3 +390,83 @@ now this cannot be opened on the web-browser. because, when i send tigoe.net ove
 ![[Screenshot 2026-09-15 at 09.56.58.png]]
 
 so if i was to send my query with these headers to that ip, i would get tigoe.net. i don't know how to do that right now.
+
+i was doing some stuff for shared-minds ([[sm_experiments_week-2]]), and i saw that an a.i. agent used `curl` to get a webpage. tried that: 
+
+``` bash
+a@Mac week-2 % curl https://itp-ima-replicate-proxy.web.app
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://www.gstatic.com/firebasejs/9.6.8/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.8/firebase-database-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.8/firebase-auth-compat.js"></script>
+    <!-- Markdown rendering libs -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js"></script>
+    <title>Proxy For Replicate API</title>
+</head>
+
+<body>
+    <link rel="stylesheet" href="style.css">
+    <header id="siteHeader" class="site-header">
+        <div class="header-left">
+            <a href="/" class="header-title">Replicate Proxy</a>
+            <nav class="header-nav">
+                <a href="examples.html">Examples</a>
+                <a href="examples_all.html">All Examples</a>
+            </nav>
+        </div>
+        <div class="header-right">
+            <a href="#settings" id="headerSettings" class="header-link">Settings</a>
+        </div>
+    </header>
+    <main id="mainContent" class="main-content">
+        <div id="docs" style="max-width:900px; padding:16px"></div>
+    </main>
+    <footer id="authFooter">
+        <hr>
+        <h3>Authentication</h3>
+        <div id="headerAuth"></div>
+    </footer>
+    <script src="main.js"></script>
+    <script>
+        // Load docs.md and render as HTML below the header
+        fetch('docs.md').then(r => r.text()).then(md => {
+            const raw = marked.parse(md, { mangle: false, headerIds: false });
+            const clean = DOMPurify.sanitize(raw);
+            document.getElementById('docs').innerHTML = clean;
+        }).catch(() => {
+            document.getElementById('docs').innerHTML = '<em>Docs not found (docs.md)</em>';
+        });
+    </script>
+</body>
+
+</html>%
+
+```
+
+just specifying host is not enough: 
+
+``` bash
+a@Mac week-2 % curl -H "Host: tigoe.net" http://104.236.102.241/
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.24.0 (Ubuntu)</center>
+</body>
+</html>
+```
+
+ahhhh, if you do https:// on the ip, you go to the ip. 
+
+https://104.236.102.241/ -> tigoe.net. 
+
+not sure why — maybe the server needs https in the query? 
+
+
+
