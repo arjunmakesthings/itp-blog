@@ -51,4 +51,18 @@ whatever. i'm supposed to just make for myself? i don't know.
 
 had an idea for a while about a dialectic thinking partner — you enter a thought; two sides speak to you: one that reaffirms your thought, one that actively opposes it. in theory, that should help you to evolve your stance; by introducing you to opposing perspectives (and allowing you to choose what you think is right). 
 
+had a discussion with claude about general build plan; got it to pick a model with highest argumentative strength. it, of-course, picked anthropic's model (capitalism can't escape!). 
+
+too funny:
+
+![[Screenshot 2026-09-15 at 11.50.27.webp]]
+
+demo: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N9YVt9VmzX8?si=_A8LkcjKs2xfbxRX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+working link: https://arjunmakesthings.github.io/shared-minds_f26/week-2/
+
+i've kept the tokens hidden; so you can't interact with it otherwise my key will become publicly available on the web.
+
 
