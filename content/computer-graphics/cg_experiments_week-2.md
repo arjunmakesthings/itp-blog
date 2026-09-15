@@ -169,3 +169,66 @@ translation:
 ```
 
 i played around a lot with the code files. it's just that this math is so damn new for me. it's so hard to visualize anything really. 
+
+p5 is so much simpler — because you know how to express shapes with words (i imagine i want to draw a circle, and not x = cos(a) & y = sin (a) where a is the fidelity of points across a circle (or something like that)). 
+
+[[ken-perlin]]'s ask was to make cool shaders, but i was far from doing that. so, i decided just to figure out how to make basic shapes, and then try some color manipulations on that.
+
+![[lissajous-cruve_260914.mp4]]
+
+``` js
+      this.fragment_shader = `#version 300 es
+         precision highp float;
+         in  vec3 v_pos;
+         out vec4 frag_col;
+
+         uniform float u_time; 
+         void main() {
+           vec3 pos = v_pos;
+           float t = u_time * 0.75;
+
+           //lissajous: 
+
+           float d = 0.2; 
+
+           vec3 rl_pos = vec3(cos(t - 1.) * d, sin(t + 1.) * d, 0.0); 
+
+           float r = max(0.05, dot(pos, rl_pos)); 
+
+           frag_col = vec4(vec3(r), 1.0); 
+         }`;
+
+```
+
+i realized that there is no map function in glsl, which is very useful in p5. i tried to understand how that would work. 
+
+``` txt
+say i have a value v in range |min1, max1|. 
+
+you would first calculate what fraction away it is: 
+
+fraction = (value - min1) / (max1 - min1)
+
+then, remap: 
+
+min2 + fraction * (max2 - min2)
+
+for example: 
+
+fraction = (value - min1) / (max1 - min1)
+         = (75 - 0) / (100 - 0)
+         = 75 / 100
+         = 0.75
+ 
+ mapped_v = min2 + fraction * (max2 - min2)
+         = 0 + 0.75 * (1 - 0)
+         = 0 + 0.75
+         = 0.75
+```
+
+-1, 1 -> 0,1; this is the shorthand: 
+
+``` txt
+mapped_v = 0.5 * v + 0.5
+```
+
