@@ -11,3 +11,17 @@ spoke with [[deqing-sun]] about it. he recommended i get a boost-converter, and 
 
 milled a small set of electrodes; checked that they weren't shorting. ordered the converter & teflon-plumbers-tape to act as a hydrophobic surface. 
 
+got boost converter to work: 
+
+![[IMG_8425.webp|258]]
+
+with teflon tape, the water sparked because of micro-holes. 
+
+![[260916_electrowetting.mp4]]
+
+![[260916_2.mp4]]
+
+
+
+
+
