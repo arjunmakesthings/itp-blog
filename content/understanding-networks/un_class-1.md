@@ -18,3 +18,8 @@ these are ethernet pipes that then run into the building.
 google has a bunch of ips. 
 
 ![[Screenshot 2026-09-08 at 17.04.08.webp|419]]
+
+osi model: 
+
+![[osi-model_260917.webp]]
+
