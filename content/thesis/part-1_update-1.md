@@ -12,7 +12,7 @@ draft: "false"
 
 ---
 # actual updates: 
-- brainstormed further: [[260910_mapping]]; built on initial enquiry. 
+- brainstormed further: [[260910_mapping]]; built on initial enquiry. realized things i don't want to do; things i *do* want to do. built on conversation with [[danny-rozin]] too. 
 - tried & failed at [[electrowetting]]. currently reading literature, and talking to microfluidics experts soon. plus [[matt-griffin]]. 
 - spoke to nasif ([[conversation with nasif]])  — which was a brilliant chat & a much needed reminder.
 
