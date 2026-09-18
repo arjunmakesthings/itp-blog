@@ -21,6 +21,9 @@ with teflon tape, the water sparked because of micro-holes.
 
 ![[260916_2.mp4]]
 
+got it to work! more voltage, cling wrap & olive oil as dielectric layers. 
+
+![[electrowet_260917.mp4]]
 
 
 
