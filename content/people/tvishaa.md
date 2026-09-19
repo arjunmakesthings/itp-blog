@@ -1,0 +1,1 @@
+illustrator from india; currently at tu delft. taught behavior-design, via tinkerlabs, with her at iim-indore. 
