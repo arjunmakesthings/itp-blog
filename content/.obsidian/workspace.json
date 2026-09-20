@@ -38,65 +38,9 @@
               "icon": "lucide-file",
               "title": "thesis_to-do"
             }
-          },
-          {
-            "id": "1030d24d2e20459d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "people/greg-shakar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "greg-shakar"
-            }
-          },
-          {
-            "id": "82dd8828035de6de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-graphics/cg_class-3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "cg_class-3"
-            }
-          },
-          {
-            "id": "006b5a6209537308",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-graphics/cg_experiments_week-3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "cg_experiments_week-3"
-            }
-          },
-          {
-            "id": "cabc2ba28e7a6a3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "more than code, pixels & electrons.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "more than code, pixels & electrons"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,8 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,39 +242,39 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cabc2ba28e7a6a3c",
+  "active": "32f876c5ef6f4df6",
   "lastOpenFiles": [
-    "people/sofi.md",
+    "shared-minds/sm_experiments_week-3.md",
+    "computer-graphics/cg_experiments_week-3.md",
+    "musical-connections/index.md",
+    "prototyping-electronic-devices/index.md",
+    "shared-minds/index.md",
+    "zz_templates/course_experiments_week-x.md",
+    "zz_templates/note.md",
+    "zz_templates/sm_experiments_week-x.md",
+    "understanding-networks/un_experiments_week-2.md",
+    "understanding-networks/index.md",
+    "thesis/thesis_to-do.md",
     "more than code, pixels & electrons.md",
+    "people/greg-shakar.md",
+    "computer-graphics/cg_class-3.md",
+    "index.md",
+    "thesis/electrowetting.md",
+    "nature-of-code/index.md",
+    "people/sofi.md",
     "people/tvishaa.md",
     "people/rob.md",
-    "computer-graphics/cg_experiments_week-3.md",
-    "zz_templates/course_experiments_week-x.md",
-    "computer-graphics/cg_class-3.md",
-    "zz_templates/note.md",
     "computer-graphics/index.md",
-    "thesis/electrowetting.md",
     "z_images/IMG_8450.webp",
-    "people/greg-shakar.md",
     "thesis/part-1_update-1.md",
-    "thesis/thesis_to-do.md",
     "musical-connections/mc_meeting-2.md",
     "z_images/Screenshot 2026-09-18 at 15.11.44.webp",
     "prototyping-electronic-devices/ped_class-3.md",
     "z_images/Screenshot 2026-09-18 at 13.17.19.webp",
     "prototyping-electronic-devices/ped_class-4.md",
     "z_images/Screenshot 2026-09-18 at 11.48.29.webp",
-    "prototyping-electronic-devices/index.md",
     "z_images/electrowet_260917.mp4",
     "thesis/index.md",
-    "to do.md",
-    "shared-minds/sm_class-3.md",
-    "thesis/2608-mapping.md",
-    "thesis/brainwrite-7_260827.md",
-    "thesis/260910_mapping.md",
-    "people/matt-griffin.md",
-    "shared-minds/sm_class-.md",
-    "thesis/conversation with nasif.md",
     "z_images/IMG_8444.webp",
     "z_images/IMG_8443.jpg",
     "z_images/osi-model_260917.webp",

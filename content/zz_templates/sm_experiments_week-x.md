@@ -1,6 +1,5 @@
 ---
-date:
-  "{ date }":
+date: {{date}}
 tags:
   - experiments
 noteOrder:

@@ -42,7 +42,7 @@ my notes (i think i understood enough to not have to write it down again):
 
 limitations: 
 - if you break the dielectric layer, and current passes, then the ewod is gone (i wonder if that'll destroy my circuit too). ==might have to add a fuse==. 
-- i
+- 
 
 ---
 

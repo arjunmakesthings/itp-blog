@@ -15,13 +15,4 @@ draft: "false"
 > Maybe you can even make organic looking animated creatures, if you are feeling ambitious.
 
 ---
-# thought: 
-
----
-# outputs: 
-
-
-
-
-
 
