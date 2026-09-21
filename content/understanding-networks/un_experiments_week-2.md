@@ -48,11 +48,34 @@ curl icanhazip.com — quick lookup of the public address of your network
 GeoIP: iplocation.io and others.
 ```
 
----
-# reading: 
+what's annoying for me about traceroute is that it just doesn't work for most domains & network paths: 
 
----
-# doing: 
+![[Screenshot 2026-09-20 at 22.28.36.webp]]
+
+although `-I`atleast gets a response back: 
+
+``` zsh
+a@Mac ~ % traceroute -a -I tigoe.net
+traceroute to tigoe.net (104.236.102.241), 64 hops max, 48 byte packets
+ 1  [AS0] docsis-gateway (192.168.1.1)  4.476 ms  2.934 ms  2.452 ms
+ 2  [AS0] 10.240.166.57 (10.240.166.57)  9.542 ms  13.096 ms  8.915 ms
+ 3  [AS0] 67.59.225.14 (67.59.225.14)  11.259 ms  14.999 ms  9.896 ms
+ 4  [AS6128] ool-4353dea0.dyn.optonline.net (67.83.222.160)  12.729 ms  11.402 ms  11.870 ms
+ 5  [AS6128] 63.142.20.12 (63.142.20.12)  13.564 ms  19.478 ms  27.724 ms
+ 6  [AS0] 64.15.1.161 (64.15.1.161)  55.790 ms  32.580 ms  49.315 ms
+ 7  [AS13538] nyiix-2.as14061.net (198.32.160.167)  20.392 ms  15.523 ms  13.524 ms
+ 8  * * *
+ 9  * * *
+10  * * *
+11  [AS0] 104.236.102.241 (104.236.102.241)  19.162 ms  13.465 ms  20.782 ms
+
+```
+
+what's weird is how my traffic goes from as-0 -> as6128 -> as-0 -> as13538 -> as0. i wonder why the routing even goes outside as0 since we're both a part of the same system. 
+
+ping transmit and receive demo: 
+
+![[Screen Recording 2026-09-20 at 23.02.06.mp4]]
 
 
 
