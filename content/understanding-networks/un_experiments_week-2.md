@@ -77,6 +77,182 @@ ping transmit and receive demo:
 
 ![[Screen Recording 2026-09-20 at 23.02.06.mp4]]
 
+path from computer -> droplet: 
+![[Screenshot 2026-09-20 at 23.09.41.webp]]
+
+path from droplet -> computer: 
+
+![[Screenshot 2026-09-20 at 23.11.57.webp]]
+
+i exported both traceroutes into a txt, and then got an llm to write me a program that runs a check with `http://ip-api.com/json/<ip> `to get geolocation of the ip. this is the query with the parameters: 
+
+``` python
+url = f"http://ip-api.com/json/{ip}?fields=status,message,city,regionName,country,isp,lat,lon"
+```
+
+![[Screenshot 2026-09-20 at 23.55.22.webp]]netflix.com blocks all traceroute things. 
+
+this is my high-school in india: 
+
+![[Screenshot 2026-09-21 at 00.24.15.webp]]
+
+since they bought their domain from hostinger, i believe hostinger stores a copy of their site on their servers here in the us (even though the domain is .in). i want to find a webserver that is in india. 
+
+i then pinged the national investigation agency in india, and got to know that ==there is a whole separate internet service provider for them== called national knowledge network. and i also got their longitude & latitude. 
+
+![[Screenshot 2026-09-21 at 00.43.39.webp]]
+
+which is right inside the presidential compond:
+
+![[Screenshot 2026-09-21 at 00.47.06.webp]]
+
+so i did the same with the fbi (to see if they too were in the whitehouse somewhere?): 
+
+fbi's traceroute was the fastest. 
+
+turns out fbi is more chill ... their public site is served from canada:
+
+![[Screenshot 2026-09-21 at 00.51.20.webp]]
+
+maybe this doesn't have sensitive data. so i found vault.fbi.gov (public database). that's got to be somewhere safe? nope; served from the same.
+
+then i looked for the crime data explorer. finally found their isp. they have a whole separate one for criminal justice, and it's in west virginia.
+
+![[Screenshot 2026-09-21 at 00.56.58.webp]]
+all finds are here on this spreadsheet: 
+
+i also discovered something else, and flagged it to a friend. when i looked up their domain registration, ==their address, name & phone number were all visible!== they're very careful with their privacy; so discovering this was a shocker. i wonder how this happened. 
+
+and, there's very little to discover about the fbi destination server: 
+
+``` txt
+non-root@arjunnon-ronon-root@arjun-und-net:~$ whois 153.31.113.6
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '153.0.0.0 - 153.255.255.255'
+
+% Abuse contact for '153.0.0.0 - 153.255.255.255' is 'helpdesk@apnic.net'
+
+inetnum:        153.0.0.0 - 153.255.255.255
+netname:        ERX-NETBLOCK
+descr:          Early registration addresses
+country:        AU
+admin-c:        IANA1-AP
+tech-c:         IANA1-AP
+abuse-c:        AA1452-AP
+status:         ALLOCATED PORTABLE
+remarks:        ------------------------------------------------------
+remarks:        Important:
+remarks:
+remarks:        Networks in this range were allocated by InterNIC
+remarks:        prior to the formation of Regional Internet
+remarks:        Registries (RIRs): AfriNIC, APNIC, ARIN, LACNIC and RIPE NCC.
+remarks:
+remarks:        Address ranges from this historical space have now
+remarks:        been transferred to the appropriate RIR database.remarks:
+remarks:        If your search has returned this record, it means the
+remarks:        address range is not administered by APNIC.
+remarks:
+remarks:        Instead, please search one of the following databases:
+remarks:
+remarks:        - AfriNIC (Africa)
+remarks:        website: http://www.afrinic.net/
+remarks:        command line: whois.afrinic.net
+remarks:
+remarks:        - ARIN (Northern America)
+remarks:        website: http://www.arin.net/
+remarks:        command line: whois.arin.net
+remarks:
+remarks:        - LACNIC (Latin America and the Carribean)
+remarks:        website: http://www.lacnic.net/
+remarks:        command line: whois.lacnic.net
+remarks:
+remarks:        - RIPE NCC (Europe)
+remarks:        website: http://www.ripe.net/
+remarks:        command line: whois.ripe.net
+remarks:
+remarks:        For information on the Early Registration Transfer
+remarks:        (ERX) project, see:
+remarks:
+remarks:        http://www.apnic.net/db/erx
+remarks:
+remarks:        ------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-lower:      APNIC-HM
+mnt-irt:        IRT-APNIC-AP
+last-modified:  2026-07-09T08:00:22Z
+source:         APNIC
+
+irt:            IRT-APNIC-AP
+address:        Brisbane, Australia
+e-mail:         helpdesk@apnic.net
+abuse-mailbox:  helpdesk@apnic.net
+admin-c:        HM20-AP
+tech-c:         NO4-AP
+remarks:        APNIC is a Regional Internet Registry.
+remarks:        We do not operate the referring network and
+remarks:        are unable to investigate complaints of network abuse.
+remarks:        For information about IRT, see www.apnic.net/irt
+remarks:        helpdesk@apnic.net was validated on 2020-02-03
+auth:           # Filtered
+mnt-by:         APNIC-HM
+last-modified:  2025-11-18T00:26:21Z
+source:         APNIC
+
+role:           ABUSE APNICAP
+country:        ZZ
+address:        Brisbane, Australia
+phone:          +000000000
+e-mail:         helpdesk@apnic.net
+admin-c:        HM20-AP
+tech-c:         NO4-AP
+nic-hdl:        AA1452-AP
+remarks:        Generated from irt object IRT-APNIC-AP
+remarks:        helpdesk@apnic.net was validated on 2020-02-03
+abuse-mailbox:  helpdesk@apnic.net
+mnt-by:         APNIC-ABUSE
+last-modified:  2025-11-28T01:00:58Z
+source:         APNIC
+
+role:           Internet Assigned Numbers Authority
+address:        see http://www.iana.org.
+admin-c:        IANA1-AP
+tech-c:         IANA1-AP
+nic-hdl:        IANA1-AP
+remarks:        For more information on IANA services
+remarks:        go to IANA web site at http://www.iana.org.
+mnt-by:         MAINT-APNIC-AP
+last-modified:  2018-06-22T22:34:30Z
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.88.48 (WHOIS-US2)
+non-root@arjun-und-net:~$ dig @8.8.8.8 153.31.113.6
+
+; <<>> DiG 9.18.39-0ubuntu0.24.04.7-Ubuntu <<>> @8.8.8.8 153.31.113.6
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 50943
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;153.31.113.6.			IN	A
+
+;; AUTHORITY SECTION:
+.			86398	IN	SOA	a.root-servers.net. nstld.verisign-grs.com. 2026092001 1800 900 604800 86400
+
+;; Query time: 10 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon Sep 21 01:08:34 EDT 2026
+;; MSG SIZE  rcvd: 116
+
+```
+
+i wonder why that is (although it reflects the power dynamic). ==how can someone be allowed to own a domain, while the rest of us have to rent it?==
+
 
 
 
