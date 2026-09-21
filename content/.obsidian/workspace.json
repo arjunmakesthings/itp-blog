@@ -87,12 +87,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "understanding-networks/un_experiments_week-2.md",
+                "file": "understanding-networks/un_experiments_week-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "un_experiments_week-2"
+              "title": "un_experiments_week-1"
             }
           }
         ],
@@ -301,13 +301,14 @@
   },
   "active": "7d3bad3589636a6c",
   "lastOpenFiles": [
+    "understanding-networks/un_class-1.md",
+    "understanding-networks/un_experiments_week-2.md",
     "z_images/Screenshot 2026-09-21 at 00.56.58.webp",
     "z_images/Screenshot 2026-09-21 at 00.51.20.webp",
     "z_images/Screenshot 2026-09-21 at 00.47.06.webp",
     "z_images/Screenshot 2026-09-21 at 00.43.39.webp",
     "z_images/Screenshot 2026-09-21 at 00.24.15.webp",
     "understanding-networks/index.md",
-    "understanding-networks/un_experiments_week-2.md",
     "z_images/Screenshot 2026-09-20 at 23.55.22.webp",
     "z_images/Screenshot 2026-09-20 at 23.11.57.webp",
     "z_images/Screenshot 2026-09-20 at 23.09.41.webp",
@@ -338,7 +339,6 @@
     "z_images/IMG_8450.webp",
     "thesis/part-1_update-1.md",
     "musical-connections/mc_meeting-2.md",
-    "z_images/Screenshot 2026-09-18 at 15.11.44.webp",
     "z_images/electrowet_260917.mp4",
     "z_images/IMG_8441.mp4",
     "z_images/260916_2.mp4",

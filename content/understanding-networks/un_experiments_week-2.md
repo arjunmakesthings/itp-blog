@@ -253,6 +253,17 @@ non-root@arjun-und-net:~$ dig @8.8.8.8 153.31.113.6
 
 i wonder why that is (although it reflects the power dynamic). ==how can someone be allowed to own a domain, while the rest of us have to rent it?==
 
+nyu's domain expires in 2027: 
+
+``` txt
+Domain record activated:    08-Oct-1986
+Domain record last updated: 24-Jun-2026
+Domain expires:             31-Jul-2027
+
+```
+
+what happens if someone else buys it on 31st ... 
+
 
 
 
