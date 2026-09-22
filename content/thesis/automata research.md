@@ -5,6 +5,10 @@ tags:
 noteOrder: "454"
 draft: "false"
 ---
+strict theoretical research for cellular automata. does not include representations; simply theory. 
+
+---
+
 from cellular automata, 1968. 
 
 neumann's rules: 

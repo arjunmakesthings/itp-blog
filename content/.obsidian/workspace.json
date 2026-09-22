@@ -40,62 +40,6 @@
             }
           },
           {
-            "id": "07dfc4f28d6430a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "understanding-networks/un_experiments_week-2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "un_experiments_week-2"
-            }
-          },
-          {
-            "id": "4c857a19d7a07a31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "understanding-networks/un_experiments_week-2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "un_experiments_week-2"
-            }
-          },
-          {
-            "id": "befba2ffffb79119",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "understanding-networks/un_experiments_week-2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "un_experiments_week-2"
-            }
-          },
-          {
-            "id": "7d3bad3589636a6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "understanding-networks/un_experiments_week-1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "un_experiments_week-1"
-            }
-          },
-          {
             "id": "e3a0ca374a50024d",
             "type": "leaf",
             "state": {
@@ -108,9 +52,65 @@
               "icon": "lucide-file",
               "title": "ga_ima_creative-computing_log"
             }
+          },
+          {
+            "id": "ff05f7cfd3201bb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thesis/part-1_update-1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "part-1_update-1"
+            }
+          },
+          {
+            "id": "233bdd09bc82fa7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thesis/automata research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "automata research"
+            }
+          },
+          {
+            "id": "be1dd66b2b9edddc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thesis/alternative display research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "alternative display research"
+            }
+          },
+          {
+            "id": "00e60058472f178a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thesis/perception of emergence research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "perception of emergence research"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -313,27 +313,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e3a0ca374a50024d",
+  "active": "be1dd66b2b9edddc",
   "lastOpenFiles": [
-    "on creative research at itp.md",
+    "thesis/perception of emergence research.md",
+    "thesis/automata research.md",
+    "thesis/alternative display research.md",
+    "z_images/Screenshot 2026-09-21 at 19.07.19.webp",
+    "z_images/Screenshot 2026-09-21 at 19.06.18.webp",
+    "z_images/Screenshot 2026-09-21 at 19.05.42.webp",
+    "projects-by-other-people/work, by zimoun.md",
+    "z_images/Screenshot 2026-09-21 at 18.56.44.webp",
+    "z_images/Screenshot 2026-09-21 at 18.55.56.webp",
+    "thesis/part-1_update-1.md",
+    "people/margaret.md",
+    "thesis/itp theses traps.md",
+    "the secret of good metaphors, by louis charron.md",
+    "z_images/human-experience.webp",
+    "ga_ima_creative-computing_log.md",
     "understanding-networks/un_experiments_week-1.md",
-    "understanding-networks/un_class-1.md",
     "understanding-networks/un_experiments_week-2.md",
+    "on creative research at itp.md",
+    "understanding-networks/un_class-1.md",
     "z_images/Screenshot 2026-09-21 at 00.56.58.webp",
     "z_images/Screenshot 2026-09-21 at 00.51.20.webp",
     "z_images/Screenshot 2026-09-21 at 00.47.06.webp",
     "z_images/Screenshot 2026-09-21 at 00.43.39.webp",
-    "z_images/Screenshot 2026-09-21 at 00.24.15.webp",
     "understanding-networks/index.md",
-    "z_images/Screenshot 2026-09-20 at 23.55.22.webp",
-    "z_images/Screenshot 2026-09-20 at 23.11.57.webp",
-    "z_images/Screenshot 2026-09-20 at 23.09.41.webp",
     "z_images/Screen Recording 2026-09-20 at 23.02.06.mp4",
-    "z_images/Screenshot 2026-09-20 at 22.28.36.webp",
     "computer-graphics/index.md",
     "computer-graphics/cg_experiments_week-3.md",
     "z_images/Screen Recording 2026-09-20 at 20.26.01.mp4",
-    "thesis/itp theses traps.md",
     "thesis/thesis_to-do.md",
     "ga_ima_physical-computing_class_log.md",
     "shared-minds/sm_experiments_week-3.md",
@@ -343,16 +352,6 @@
     "zz_templates/course_experiments_week-x.md",
     "zz_templates/note.md",
     "zz_templates/sm_experiments_week-x.md",
-    "more than code, pixels & electrons.md",
-    "people/greg-shakar.md",
-    "computer-graphics/cg_class-3.md",
-    "index.md",
-    "thesis/electrowetting.md",
-    "nature-of-code/index.md",
-    "people/sofi.md",
-    "people/tvishaa.md",
-    "people/rob.md",
-    "z_images/IMG_8450.webp",
     "z_images/electrowet_260917.mp4",
     "z_images/IMG_8441.mp4",
     "z_images/260916_2.mp4",

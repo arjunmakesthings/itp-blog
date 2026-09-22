@@ -17,3 +17,24 @@ draft: "false"
 - spoke to nasif ([[conversation with nasif]])  — which was a brilliant chat & a much needed reminder.
 
 in general, i'm finding it hard to find sustained time to pursue my enquiry. my time is split between classes & jobs (especially [[understanding-networks/index|understanding-networks]] & [[computer-graphics/index|computer-graphics]]). i think i'm going to spend 2 dedicated days — 1 is thesis & understanding-networks, and the other is computer-graphics. i can spend the least amount of time on [[shared-minds/index|shared-minds]], and just combine [[prototyping-electronic-devices/index|prototyping-electronic-devices]] with a thesis experiment (one that i want to make 1-d or 2-d if i'm feeling adventurous). 
+
+---
+# 260921: 
+the following is a brainwrite, but it needed to be that way for me to make sense of my brain. you can just skim through the highlighted stuff. 
+
+i then proceeded to write an email to [[margaret]], after [[nasif]] sent me [[itp theses traps]] (and i realized that i'm a victim of trap #1). while writing the email, i realized that: 
+
+==my enquiry is not about cellular automata== (although i do think that alternative perceptual representations for that is a potent area of research). i just ==don't have the time to pull it off.==
+
+so, my research could be around ==alternative display paradigms for rule-based-systems==. i say that — most importantly to ==remove the criteria of success for a 'display' to be the accurate representation of an image.== 
+
+the hope is that if these systems exist, they force the maker to let go of an image in their head — keeping them more in line with using code as a medium, as opposed to a tool (and, thereby, vibe-coding to get the idea of the image in their head). 
+
+i know i need to talk to [[mimi]]. but i can foresee that it would help to have that conversation with some sort of prototype (even if it's not technologically ready, and i speak with my hands in the air). 
+
+i also ==need to clean up my research== which is scattered across pages. these are my three collections of research (each page has the question that the page is answering): 
+
+- [[alternative display research]]
+- [[automata research]]
+- [[perception of emergence research]]
+
