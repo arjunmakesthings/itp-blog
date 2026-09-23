@@ -78,6 +78,7 @@ ping transmit and receive demo:
 ![[Screen Recording 2026-09-20 at 23.02.06.mp4]]
 
 path from computer -> droplet: 
+
 ![[Screenshot 2026-09-20 at 23.09.41.webp]]
 
 path from droplet -> computer: 

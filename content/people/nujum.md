@@ -1,0 +1,1 @@
+part of itp-27. works at the shop now. did mechanical engineering from mit. 
