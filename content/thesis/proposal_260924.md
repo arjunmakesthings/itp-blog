@@ -129,7 +129,7 @@ by allowing a cell the ability to change its physical state in the physical worl
 
 finally, simply introducing a new paradigm — the fact that you don't have program thinking in x, y, z — may result in new ideas of rule-based systems; for computational art or natural-science. 
 
-if many of these are built — which i propose as my itp-thesis — a person could take the same ruleset and perceive it 
+if many of these are built — which i propose as my itp-thesis — a person could take the same ruleset and perceive it in different ways in an instant, which makes it an incredibly powerful prototyping tool. 
 
 ---
 
