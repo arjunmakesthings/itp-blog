@@ -22,3 +22,10 @@ grid of rotating washers (?):
 
 ![[Screenshot 2026-09-21 at 18.56.44.webp]]
 
+---
+
+cellular automata in music (connection made by [[jagi]]): 
+
+- ca and music: https://www.youtube.com/watch?v=iMvsA8fkVvA
+- wolfram tones explainer: https://www.youtube.com/watch?v=LrAftDGDimE
+- Cellular automata in generative electronic music and sonic art: a historical and technical review Dave Burraston1 and Ernest Edmonds

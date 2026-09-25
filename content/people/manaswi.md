@@ -1,0 +1,1 @@
+at the future of the opera group at mit-media lab. we met in india once, and then at the mit hackathon (where he also showed me his research). very kind. 

@@ -5,10 +5,6 @@ tags:
 noteOrder: "432"
 draft: "false"
 ---
-### edited: aug 28. 
-
----
-
 in the [dynamics of complex systems](https://www.taylorfrancis.com/books/mono/10.1201/9780429034961/dynamics-complex-systems-yaneer-bar-yam), yaneer-bar-yam introduces the phenomenon of emergent-complexity: a system composed of simple parts, where the collective behavior is unpredictable, and cannot be predicted simply by studying the parts.  this, to me, has always been artistically interesting[^1] , and feels akin to my lived human-experience . 
 
 one of the most basic representations of said phenomenon is cellular-automata:

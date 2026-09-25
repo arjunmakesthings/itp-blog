@@ -21,3 +21,7 @@ neumann's rules:
 6. At each time step all but a finite number of cells are in the quiescent state.
 7. The number of distinct states for the finite automaton associated with each cell is 29.
 8. A particular transition function / is specified and shown to yield certain computation and construction properties discussed below.
+
+---
+
+from [[shloka]]: https://www.cianlm.dev/blog/Fireflies_Magnets_and_Emergence
