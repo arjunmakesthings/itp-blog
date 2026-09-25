@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thesis/approach-1.md",
+                "file": "thesis/proposal_260924.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "approach-1"
+              "title": "proposal_260924"
             }
           }
         ],
@@ -262,6 +262,7 @@
   },
   "active": "dbfc0dce1befb1f8",
   "lastOpenFiles": [
+    "thesis/approach-1.md",
     "thesis/attempts are still progress.md",
     "thesis/Untitled.md",
     "thesis/thesis_to-do.md",
@@ -270,7 +271,6 @@
     "z_images/IMG_8481.webp",
     "thesis/part-1_update-1.md",
     "thesis/perception of emergence research.md",
-    "thesis/approach-1.md",
     "thesis/alternative display research.md",
     "thesis/automata research.md",
     "understanding-networks/un_experiments_week-3.md",

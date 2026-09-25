@@ -109,9 +109,9 @@ previous research on computer-generated music is a good example. the same rule b
 
 can also be heard: 
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mg4c5bKj9jc?si=RcaC9waLf6-wUHcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+/
 perhaps can also be felt; sensed; et-cetera. 
 
 on the other hand, pixels do not need to merely represent images, but can be used to encode & express a ruleset: 
