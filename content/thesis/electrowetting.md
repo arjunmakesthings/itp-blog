@@ -57,4 +57,8 @@ spoke about using the roller or laminator in the design lab.
 
 ---
 
+# 260923: 
+failed with all of these settings:
+
+![[IMG_8481.webp|535]]
 

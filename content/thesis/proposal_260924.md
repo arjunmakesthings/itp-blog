@@ -133,6 +133,14 @@ if many of these are built — which i propose as my itp-thesis — a person c
 
 ---
 
+related research is here: 
+
+- [[alternative display research]]
+- [[automata research]]
+- [[perception of emergence research]]
+
+---
+
 [^1]: this was, however, opposed by the general scientific community.
 
 [^2]:  see [survey of alternative displays](https://blair-neal.gitbook.io/survey-of-alternative-displays/alternative-displays/overview); [physical pixels](https://alumni.media.mit.edu/~kelly/physPix/heatonThesis.pdf) by kelly heaton at mit; and physical pixel explorations by danny rozin at nyu-itp.
