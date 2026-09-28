@@ -65,4 +65,11 @@ failed with all of these settings:
 ---
 
 # 260925: 
-found 
+found [this](https://cmosedu.com/jbaker/papers/2014/A_Fast_Fabricating_Electro_Wetting_Platform_to_Implement_Large_Droplet_Manipulation.pdf) paper, which shows actuation with saran wrap, peanut oil & a 20-30ul droplet. tried finding peanut oil near 370 jay; no luck. i assume i can do the same with olive (that we have in the kitchen). 
+
+burnt my 253v boost converter because i was trying to rush through the experiment. 
+
+![[IMG_8486.webp|367]]
+
+---
+

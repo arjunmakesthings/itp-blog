@@ -419,3 +419,18 @@ using pcap online viewer:
 
 ![[Screenshot 2026-09-26 at 14.20.42.webp]]
 
+`arp-a` shows your arp cache. for example: 
+
+``` zsh
+a@Mac ~ % arp -a
+? (169.254.169.xxx) at (incomplete) on en0 [ethernet]
+docsis-gateway (192.xxx.1.1) at xx:ed:xx:27:b1:cf on en0 ifscope [ethernet]
+iphone (192.xxx.1.76) at xx:xx:e5:9:xx:6e on en0 ifscope [ethernet]
+? (192.xxx.1.167) at (incomplete) on en0 ifscope [ethernet]
+ipad (192.xxx.1.188) at xx:xx:64:67:d8:9d on en0 ifscope [ethernet]
+? (192.xxx.1.255) at ff:ff:xx:ff:xx:ff on en0 ifscope [ethernet]
+mdns.mcast.net (xx.0.0.xx) at 1:0:xx:0:0:xx on en0 ifscope permanent [ethernet]
+
+```
+
+so on my home network, i already have cached the ipad & iphone's mac address (i presume this is for airdrop). i don't see any other reason why my mac and iphone / ipad would have communicated. 
