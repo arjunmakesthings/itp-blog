@@ -40,49 +40,21 @@
             }
           },
           {
-            "id": "24df4cdb7a257cbd",
+            "id": "4cc8c03caade0fc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conversation-with-tanika_260922.md",
+                "file": "from subways.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conversation-with-tanika_260922"
-            }
-          },
-          {
-            "id": "bb5e71128932b8dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-graphics/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "2a0b3fa967c59bdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "understanding-networks/un_experiments_week-3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "un_experiments_week-3"
+              "title": "from subways"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -289,18 +261,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2a0b3fa967c59bdd",
+  "active": "4cc8c03caade0fc5",
   "lastOpenFiles": [
-    "shared-minds/index.md",
+    "thesis/thesis_to-do.md",
+    "from subways.md",
+    "understanding-networks/un_experiments_week-3.md",
     "computer-graphics/index.md",
     "conversation-with-tanika_260922.md",
-    "thesis/thesis_to-do.md",
+    "shared-minds/index.md",
     "thesis/conversation with kari.md",
     "z_images/limb-ca.webp",
     "people/kari love.md",
     "thesis/electrowetting.md",
     "z_images/IMG_8486.webp",
-    "understanding-networks/un_experiments_week-3.md",
     "projects-by-other-people/liquid router, by sukanya aneja, nick gregg & emma rae norton.md",
     "z_images/Screenshot 2026-09-26 at 14.20.42.webp",
     "z_images/IMG_8485.webp",
@@ -324,7 +297,6 @@
     "z_images/IMG_8483.webp",
     "projects-by-other-people/inverse, by sukanya aneja.md",
     "musical-connections/with mariana.md",
-    "musical-connections/index.md",
     "z_images/IMG_8481.webp",
     "z_images/IMG_8477.webp",
     "z_images/IMG_8479.webp",
