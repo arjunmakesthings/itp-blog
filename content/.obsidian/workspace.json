@@ -40,17 +40,17 @@
             }
           },
           {
-            "id": "4cc8c03caade0fc5",
+            "id": "a7323f1110e0f62b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "from subways.md",
+                "file": "perhaps some things will always be difficult.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "from subways"
+              "title": "perhaps some things will always be difficult"
             }
           }
         ],
@@ -261,9 +261,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4cc8c03caade0fc5",
+  "active": "a7323f1110e0f62b",
   "lastOpenFiles": [
     "thesis/thesis_to-do.md",
+    "perhaps some things will always be difficult.md",
     "from subways.md",
     "understanding-networks/un_experiments_week-3.md",
     "computer-graphics/index.md",
@@ -296,7 +297,6 @@
     "z_images/image-23.webp",
     "z_images/IMG_8483.webp",
     "projects-by-other-people/inverse, by sukanya aneja.md",
-    "musical-connections/with mariana.md",
     "z_images/IMG_8481.webp",
     "z_images/IMG_8477.webp",
     "z_images/IMG_8479.webp",
