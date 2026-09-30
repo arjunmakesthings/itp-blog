@@ -40,35 +40,21 @@
             }
           },
           {
-            "id": "220d32d3e2ef72cd",
+            "id": "9aa2866745168e27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "understanding-networks/un_experiments_week-3.md",
+                "file": "shared-minds/sm_experiments_week-4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "un_experiments_week-3"
-            }
-          },
-          {
-            "id": "3e8a08fd9dc554c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-graphics/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "sm_experiments_week-4"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -256,7 +243,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,8 +261,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3e8a08fd9dc554c1",
+  "active": "9aa2866745168e27",
   "lastOpenFiles": [
+    "z_images/Screenshot 2026-09-30 at 00.36.35.png",
+    "shared-minds/sm_experiments_week-3.md",
+    "shared-minds/sm_experiments_week-4.md",
+    "shared-minds/index.md",
+    "computer-graphics/index.md",
+    "understanding-networks/un_experiments_week-3.md",
     "computer-graphics/cg_experiments_week-4.md",
     "z_images/Screen Recording 2026-09-29 at 23.55.10 1.mp4",
     "z_images/Screen Recording 2026-09-29 at 23.56.05.mp4",
@@ -284,16 +278,13 @@
     "computer-graphics/cg_experiments_week-3.md",
     "computer-graphics/Untitled 1.md",
     "understanding-networks/index.md",
-    "understanding-networks/un_experiments_week-3.md",
     "thesis/thesis_to-do.md",
     "thesis/conversation with mimi.md",
     "z_images/IMG_8494.webp",
     "z_images/IMG_8493.webp",
     "perhaps some things will always be difficult.md",
     "from subways.md",
-    "computer-graphics/index.md",
     "conversation-with-tanika_260922.md",
-    "shared-minds/index.md",
     "thesis/conversation with kari.md",
     "z_images/limb-ca.webp",
     "people/kari love.md",
@@ -310,8 +301,6 @@
     "projects-by-other-people/embracing animal, by kathy high.md",
     "projects-by-other-people/codedoc exhibition.md",
     "projects-by-other-people/how mechanical watches work.md",
-    "projects-by-other-people/7702 vocoder, by harald bode.md",
-    "projects-by-other-people/bicycle built for two, by max mathews.md",
     "z_images/Screenshot 2026-09-26 at 11.45.55.webp",
     "z_images/image-23.webp",
     "z_images/performance-20260923-010437.txt",
