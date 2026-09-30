@@ -5,11 +5,13 @@ tags:
 noteOrder: "500"
 draft: "false"
 ---
+i didn't work on shared-minds this week. 
+
+---
 # reading: 
 watched video on [kuleshov effect](https://www.youtube.com/watch?v=OVwKItbgd3s). 
 
 ---
-
 # writing: 
 > ask: We talked about how you don't really decide your next thought, it just happens to you. But can other people determine your next thought? Is that what any storyteller does? Why do we love it so much in story where someone is providing the subsequent thought for for us? Is that what the algorithms of social media and tiktok are doing? One sequence through a space of possible thought is always a thin slice of that reality, does that make story a little bit evil because it seduces people into one sequence hiding the bigger more complicated picture? Giving your media persistence allows you to enshrine thought, what are the pros and cons of that, would impermanence be better for studpid and annoying thoughts? Is a sequence different from a flow time?
 > 
