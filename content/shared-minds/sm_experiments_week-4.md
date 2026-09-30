@@ -5,7 +5,7 @@ tags:
 noteOrder: "500"
 draft: "false"
 ---
-i didn't work on shared-minds this week. 
+i didn't really produce anything meaningful this week for shared minds. didn't make the time. what follows is mere submission-slop; so please ignore. 
 
 ---
 # reading: 
