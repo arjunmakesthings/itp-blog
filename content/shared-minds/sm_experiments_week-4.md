@@ -38,4 +38,6 @@ spent more time than i had for [[cg_experiments_week-4]]. so didn't make anythin
 
 did want to check out databases; made a simple webpage & supabase project connect. 
 
+https://arjunmakesthings.github.io/shared-minds_f26/week-4/
+
 ![[Screenshot 2026-09-30 at 00.36.35.png]]
