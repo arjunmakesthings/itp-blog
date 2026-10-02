@@ -8,13 +8,7 @@ an always evolving list of things to do and read; hidden from the public website
 
 ---
 # urgent / time-bound: 
-- [ ] put luisa thesis section photo
-- [ ] und net notes
-- [ ] comp graphics notes
-- [ ] shared minds notes
-- [ ] cell & senses mind map
-- [ ] challenging assumptions for pixels
-- [ ] 
+- [ ] can open call: https://www.acc.go.kr/en/board/board.do?PID=1001&boardID=NOTICE&action=Read&idx=2866
 ---
 
 # parked:
@@ -32,10 +26,8 @@ an always evolving list of things to do and read; hidden from the public website
 
 ## notes: 
 - [ ] a case for lowercase
-- [x] ==electricity for dummies==
 - [ ] paper for emergent system
 - [ ] behaviour design / dialectic thinking
-- [x] the masses are yours.
 
 ## artist drafts: 
 - [ ] practice statement
@@ -44,9 +36,13 @@ an always evolving list of things to do and read; hidden from the public website
 ## itp-blog: 
 - [x] itp bairui writing paper using gpt / cody / etc. 
 
+
+
 ---
 # to see:
 
+- [ ] science behind inspiration: https://medium.com/pinterest-studio/the-science-behind-inspiration-and-how-to-design-more-of-it-into-your-life-8ecbda1cbed2
+- [ ] where do good ideas come from: https://www.ted.com/talks/steven_johnson_where_good_ideas_come_from
 - [ ] sebastian lague's — [how computers work](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq); found in  https://abc.decontextualize.com/more-than-you-wanted-to-know/
 - [ ] Reading on the Brain by stanislas dehaene suggested by dan-o.
 - [ ] Natalie Jeremijenko's work (suggested by [[people/mimi|mimi]]). 
