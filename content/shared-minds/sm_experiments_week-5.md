@@ -37,10 +37,16 @@ conferences are interesting — you collect in big numbers, to hear abstract id
 
 harari's lecture correlates our evolved dominance over the world to our ability to flexibly cooperate in large numbers, and to do so via imaginary stories. when you look at the world today, it is both: tightly cooperated & intensely separated, because of the stories that our imagination chooses to agree with.
 
-![[6.1.webp]]
+![[6.1.webp|604]]
 <figcaption>some corroborative work to the sentiment, from my talk at pcd this weekend.</figcaption>
 
+we live in a time when the most stories are being told between human-beings. the internet, personal-networked-devices, and social-media has made it so. a large-language-model is the biggest collection of stories we have ever told in all of humanity.
 
+yet, [[dan-o]]'s ask is for us to do more. 
+
+*why don't itp students make more social software for their thesis?* why can't we make another facebook? a 'better' one. 
+
+my first problem is with the word better. 
 
 
 
