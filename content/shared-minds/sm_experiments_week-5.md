@@ -37,7 +37,7 @@ conferences are interesting — you collect in big numbers, to hear abstract id
 
 harari's lecture correlates our evolved dominance over the world to our ability to flexibly cooperate in large numbers, and to do so via imaginary stories. when you look at the world today, it is both: tightly cooperated & intensely separated, because of the stories that our imagination chooses to agree with.
 
-![[6.1.webp|604]]
+![[6.1.webp|689]]
 <figcaption>some corroborative work to the sentiment, from my talk at pcd this weekend.</figcaption>
 
 we live in a time when the most stories are being told between human-beings. the internet, personal-networked-devices, and social-media has made it so. a large-language-model is the biggest collection of stories we have ever told in all of humanity.
@@ -46,9 +46,25 @@ yet, [[dan-o]]'s ask is for us to do more.
 
 *why don't itp students make more social software for their thesis?* why can't we make another facebook? a 'better' one. 
 
-my first problem is with the word better. 
+my first problem is with our collective aspiration to do 'better'. all of us are taught to aspire for that word, but receive little education about learning how to construct it (see [[notes from daisy ginberg's better thesis]]). in fact, if you give us this prompt, i ask you: what does a better social-media look like to you? 
 
+because to me: it feels like we've got the aspiration wrong right off the start. perhaps a world where more stories can be told is not a better world. perhaps a world with more devices is not better. more polarization is not better. but, sadly, my better is very different from your better. as a 'media creator', your better dreams of longer consumption times. as a performer, my better strives for short pockets of concentrated attention. my better means lesser; your better means more (see [the masses are yours](https://arjunmakesthings.github.io/notes/2026_the-masses-are-yours/page.html)). 
 
+everything is social. everything is a story. whatever has had more than two eyes on it, has been social; and has connected people over an imaginary story. 
+
+i have no aspirations to make social media. i have no aspirations to make social-software either. 
+
+i have an artistic; intellectual responsibility — i simply pursue it. to feel less lonely in the pursuit — to communicate, to connect — i share it with the world. a small subset of people take interest, and we're connected for small moments in time. that's enough to keep me going. i am okay with my primitively small social-network, my niche interests, my tiny audience, my non-famous work, my small crowd that gathers to share stories that drives our curiosity. 
+
+maybe the goal isn't to have a beautiful web of interconnected nodes — all of us living in grand harmony. 
+
+![[3.1.webp]]
+
+maybe apes had it smarter: maybe it's better to have fragmented distributed communities — each with their own definitions of 'good' & pursuits of 'better', but in the optimistic view that many such views are allowed to coexist. 
+
+also, if you look at it historically, we all seem to think more corroborates to better. that's just not true. we perhaps didn't need this big web unison; i value the intimate, deeper connections far more. yes, i have the opportunity to reach out to someone living off the west coast of japan doing interesting work, but is that ability necessarily better?
+
+i'd argue not. 
 
 ---
 
@@ -66,7 +82,11 @@ my first problem is with the word better.
 > Now you hopefully feel the pain of how to hilite a some among a sprawl of users. This motives the interface challenge of this class. For now you can make a pulldown menu or an array of photos (fake people) for finding other people and their creations but can you think of something more innovative to navigate through all the other possible worlds.
 
 
+the ask is vaguely to do something social, and to do so with user-authentication. 
 
+i'm going to decide against authentication — i think it adds a barrier that prevents people from being authentic. the flip-side of that is that people can also be evil — but if giving people the agency to be more authentic brings out this evil side, that says something about innate human nature that i don't want to hide. 
+
+i was more interested in 
 
 
 
