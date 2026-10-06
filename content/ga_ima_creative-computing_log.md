@@ -29,4 +29,48 @@ conductive vs insular.
 - 
 
 - tiny little beings that are on the '+' side of a power source. 
-- 
+
+---
+
+# 26105: 
+
+manual lerp: 
+
+``` txt
+
+a * amt + b (1-amt); 
+
+```
+
+using double as a data type for long floats. 
+
+changing data-type here gives us a different map function: 
+
+``` txt
+
+long map(long x, long in_min, long in_max, long out_min, long out_max) {
+  return (x - in_min) * (out_max - out_min) / (in_max - in_min) + out_min;
+}
+
+double d_map(double x, double in_min, double in_max, double out_min, double out_max) {
+  return (x - in_min) * (out_max - out_min) / (in_max - in_min) + out_min;
+}
+
+
+
+```
+
+running average: 
+
+``` txt
+
+take previous & new, and take a running average: 
+
+how far along am i from previous & new value.
+
+using lerp (val, val, amt). 
+
+```
+
+
+

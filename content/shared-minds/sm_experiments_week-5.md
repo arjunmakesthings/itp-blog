@@ -6,7 +6,15 @@ noteOrder: "512"
 draft: "false"
 ---
 # reading: 
-read  
+watched [how sapiens conquered the world](https://www.youtube.com/watch?v=b5_W2ecr0r4&pp=ygUfd2h5IHNhcGllbnMgY29ucXVlcmVkIHRoZSB3b3JsZA%3D%3D).
+
+spoke about our ability to cooperate flexibly in large numbers, and, thereby, taking over the world (in terms of collective weight). 
+
+smaller animals like ants can cooperate in large numbers, but not flexibly. bigger animals, like apes, can cooperate somewhat flexibly, but not in large numbers (need to intimately know who they're cooperating with). 
+
+how we're able to cooperate with strangers, simply based on stories told to other people (not physical facts); like money — which is the greatest story ever told. 
+
+conferences are interesting — you collect in big numbers, to hear abstract ideas, that a stranger has.
 
 ---
 
@@ -26,6 +34,13 @@ read
 >   - Describe in words or pictures your design for a social media feature or product that makes people kinder and happier (or whatever goals you think are important).
 >     
 > - Oh by the way you have to make money too.
+
+harari's lecture correlates our evolved dominance over the world to our ability to flexibly cooperate in large numbers, and to do so via imaginary stories. when you look at the world today, it is both: tightly cooperated & intensely separated, because of the stories that our imagination chooses to agree with.
+
+![[6.1.webp]]
+<figcaption>some corroborative work to the sentiment, from my talk at pcd this weekend.</figcaption>
+
+
 
 
 
