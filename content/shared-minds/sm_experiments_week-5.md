@@ -86,7 +86,13 @@ the ask is vaguely to do something social, and to do so with user-authentication
 
 i'm going to decide against authentication — i think it adds a barrier that prevents people from being authentic. the flip-side of that is that people can also be evil — but if giving people the agency to be more authentic brings out this evil side, that says something about innate human nature that i don't want to hide. 
 
-i was more interested in 
+i was more interested in trying to get machines to talk to each other, and to try and build something collaboratively. this is what i made: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WnDCD_vxZhM?si=FWFh6gwr709a3cB1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+and this is the url: https://arjunmakesthings.github.io/shared-minds_f26/week-5/
+
+if it's offline currently, it's probably because i've shut down my digital ocean droplet. i can turn it back on to demo in class.
 
 
 
