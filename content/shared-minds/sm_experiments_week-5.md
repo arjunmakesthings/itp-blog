@@ -81,7 +81,6 @@ i'd argue not.
 > 
 > Now you hopefully feel the pain of how to hilite a some among a sprawl of users. This motives the interface challenge of this class. For now you can make a pulldown menu or an array of photos (fake people) for finding other people and their creations but can you think of something more innovative to navigate through all the other possible worlds.
 
-
 the ask is vaguely to do something social, and to do so with user-authentication. 
 
 i'm going to decide against authentication — i think it adds a barrier that prevents people from being authentic. the flip-side of that is that people can also be evil — but if giving people the agency to be more authentic brings out this evil side, that says something about innate human nature that i don't want to hide. 
@@ -93,6 +92,10 @@ i was more interested in trying to get machines to talk to each other, and to tr
 and this is the url: https://arjunmakesthings.github.io/shared-minds_f26/week-5/
 
 if it's offline currently, it's probably because i've shut down my digital ocean droplet. i can turn it back on to demo in class.
+
+hit my daily limit.
+
+![[Screenshot 2026-10-07 at 12.15.14.webp]]
 
 
 

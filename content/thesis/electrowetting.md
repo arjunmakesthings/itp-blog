@@ -73,3 +73,16 @@ burnt my 253v boost converter because i was trying to rush through the experimen
 
 ---
 
+# 261007: 
+got actuation; 253v; 20ul. used copper sheet, salt-water, olive-oil, cling-film wrap. 
+
+rough setup (except that gaps were the thickness of a utility knife): 
+
+![[Screenshot 2026-10-07 at 23.43.11.png]]
+
+
+![[IMG_8531 2.mp4]]
+
+
+![[IMG_8531.mp4]]
+
