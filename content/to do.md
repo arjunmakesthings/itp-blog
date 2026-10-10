@@ -9,6 +9,16 @@ an always evolving list of things to do and read; hidden from the public website
 ---
 # urgent / time-bound: 
 - [ ] can open call: https://www.acc.go.kr/en/board/board.do?PID=1001&boardID=NOTICE&action=Read&idx=2866
+- [ ] blog post updates — margaret, shared minds, comp-graphics, etc. 
+- [ ] thesis — electrowetting 2d grid test. 
+- [ ] thesis — 2d automata implementations. 
+- [ ] thesis — resolve diagrams. 
+- [ ] thesis — open brainstorm. 
+- [ ] networks — org research, coordinate
+- [ ] musical connections — phrase questions; reply to emails
+- [ ] comp graphics — program
+- [ ] shared-minds — assignments
+- [ ] look at sewing machine
 ---
 
 # parked:

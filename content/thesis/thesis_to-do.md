@@ -14,3 +14,6 @@ thesis specific to-do list, hidden from the public-website.
 # academic formalities:
 
 - [x] 4-min presentation to introduce you & interests. 
+
+with margaret: 
+

@@ -20,3 +20,6 @@ spoke about higher-dimensional spaces; representing entities in those spaces; an
 spoke about dimension reduction, using libraries such as umap. 
 
 the fact that my brain can make so many connections to the word 'dog' — each in its own unique space.
+
+==time as a fourth dimension is only going linearly; we don't move backwards in time.==
+

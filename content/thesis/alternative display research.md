@@ -38,6 +38,12 @@ inform (tangible bits; mit):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ouP9xNujkNo?si=WVQJcFW89eDini84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+aquascript: 
+
+words to water: 
+
+https://www.engadget.com/2008-02-03-aquascript-paints-words-onto-water.html
+
 
 
 ---
