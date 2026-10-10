@@ -11,6 +11,9 @@ seed nourished during [[conversation with kari]]. decided to tape the floor, and
 ![[Screenshot 2026-10-10 at 16.08.27.webp]]
 
 a few things become apparent to me: 
+
+beings in the digital world can occupy the same space at the same time. the laws of our universe disallows that. 
+
 - a person doesn't have 8 possibilities to walk to, but 4 at any given point in time (my vision blocks what is behind me). 
 - people don't move arbitrarily. they move towards a direction (literal / metaphorical). 
 - even if people have a direction, they can only look one step ahead. 

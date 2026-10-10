@@ -73,12 +73,54 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "thesis/an important distinction between computational systems & the real world.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "an important distinction between computational systems & the real world"
+            }
+          },
+          {
+            "id": "40b8768a66dd9094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "thesis/real life and automata.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "real life and automata"
+            }
+          },
+          {
+            "id": "983dffc080db87e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thesis/diagrams as metaphors to understand & explain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "diagrams as metaphors to understand & explain"
+            }
+          },
+          {
+            "id": "a6b906bb65baea16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thesis/part-1_update-3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "part-1_update-3"
             }
           },
           {
@@ -96,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -117,7 +159,7 @@
               "state": {
                 "sortOrder": "byCreatedTime",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -158,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -303,11 +344,26 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7004b7ffb43304db",
+  "active": "a6b906bb65baea16",
   "lastOpenFiles": [
+    "thesis/mathematical wonderings of automata-possibilities.md",
+    "thesis/right to internet proposals.md",
+    "thesis/jumping robot.md",
+    "thesis/sunday clarity.md",
+    "thesis/part-1_update-3.md",
+    "thesis/index.md",
+    "thesis/diagrams as metaphors to understand & explain.md",
+    "z_images/on-metaphors_2610.webp",
+    "z_images/on-artifacts_2610.webp",
+    "z_images/logic-systems-1_261010.webp",
+    "z_images/all-work-is-translation_2.webp",
+    "z_images/all-work-is-translation_1.webp",
+    "z_images/all-work-is-translation.webp",
+    "z_images/on-dimensionality.webp",
+    "thesis/real life and automata.md",
+    "thesis/an important distinction between computational systems & the real world.md",
     "z_images/Screenshot 2026-10-10 at 16.08.27.webp",
     "thesis/perception of emergence research.md",
-    "thesis/real life and automata.md",
     "projects-by-other-people/play, by urs fischer.md",
     "thesis/automata research.md",
     "shared-minds/sm_class-6.md",
@@ -318,32 +374,17 @@
     "to do.md",
     "shared-minds/index.md",
     "computer-graphics/cg_experiments_week-5.md",
-    "thesis/index.md",
     "prototyping-electronic-devices/ped_class-7.md",
     "computer-graphics/index.md",
-    "thesis/diagrams as metaphors to understand & explain.md",
     "existential admiration.md",
     "thesis/electrowetting.md",
     "z_images/word2vec.png",
     "z_images/IMG_8531.mp4",
     "z_images/IMG_8531 2.mp4",
     "z_images/Screenshot 2026-10-07 at 23.43.11.png",
-    "z_images/word2vec.webp",
     "image-23.png.md",
-    "z_images/word2vec.webp",
     "projects-by-other-people/total pixel space, by jacob adler.md",
-    "shared-minds/sm_class-5.md",
-    "shared-minds/sm_experiments_week-5.md",
-    "terms & concepts/tensors.md",
-    "z_images/Screenshot 2026-10-07 at 12.15.14.webp",
-    "understanding-networks/un_class-5.md",
-    "understanding-networks/un_experiments_week-4.md",
     "z_images/Screen Recording 2026-10-07 at 00.02.03.mp4",
-    "z_images/IMG_8529.webp",
-    "z_images/IMG_8528.webp",
-    "z_images/3.1.webp",
-    "z_images/6.1.webp",
-    "z_images/Screenshot 2026-10-05 at 19.27.01.webp",
     "z_images/IMG_8633.heic",
     "z_images/Screen Recording 2026-09-29 at 23.55.10 1.mp4",
     "z_images/Screen Recording 2026-09-29 at 23.56.05.mp4",
