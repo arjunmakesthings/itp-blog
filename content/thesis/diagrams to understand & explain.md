@@ -36,7 +36,9 @@ the above presents general premise.
 
 ---
 
-at this point, we must assume that everything that i ever want to say artistically can be encoded. 
+at this point, we can assume that — in my future — everything that i ever want to say artistically can be encoded by me into a rule-based-system.
+
+the thesis explores what it means to express rule-based systems outside of the screen. 
 
 
 
