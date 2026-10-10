@@ -101,12 +101,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thesis/diagrams as metaphors to understand & explain.md",
+                "file": "thesis/diagrams to understand & explain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "diagrams as metaphors to understand & explain"
+              "title": "diagrams to understand & explain"
             }
           },
           {
@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -344,15 +344,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a6b906bb65baea16",
+  "active": "983dffc080db87e6",
   "lastOpenFiles": [
+    "thesis/part-1_update-3.md",
     "thesis/mathematical wonderings of automata-possibilities.md",
     "thesis/right to internet proposals.md",
     "thesis/jumping robot.md",
     "thesis/sunday clarity.md",
-    "thesis/part-1_update-3.md",
     "thesis/index.md",
-    "thesis/diagrams as metaphors to understand & explain.md",
+    "thesis/diagrams to understand & explain.md",
     "z_images/on-metaphors_2610.webp",
     "z_images/on-artifacts_2610.webp",
     "z_images/logic-systems-1_261010.webp",

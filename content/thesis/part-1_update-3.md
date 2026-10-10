@@ -12,7 +12,7 @@ everything, since the start, have been creative experiments. but anyway.
 ---
 
 # (hand-drawn) diagrams to communicate premise: 
-see [[diagrams as metaphors to understand & explain]]. 
+see [[diagrams to understand & explain]]. 
 
 # alternative display experiments: 
 see [[electrowetting]], [[ultrasonic voxel suspension]]. 

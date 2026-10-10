@@ -36,6 +36,7 @@ the above presents general premise.
 
 ---
 
+at this point, we must assume that everything that i ever want to say artistically can be encoded. 
 
 
 
