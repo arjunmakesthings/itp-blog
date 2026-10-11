@@ -5,6 +5,28 @@ tags:
 noteOrder: "513"
 draft: "false"
 ---
+pull up resistor: 
+
+![[Screenshot 2026-10-10 at 23.50.09.webp]]
+
+since current is 0, voltage will be exactly what is at vcc. 
+
+---
+
+pin outputs: 
+
+![[Screenshot 2026-10-10 at 23.51.00.webp]]
+
+basic logic is to do matrix scanning: 
+
+![[Screenshot 2026-10-10 at 23.51.39.webp]]
+
+since 11 is output, those leds are grounded by default. 
+
+since 12 is input, no current is flowing through it (therefore leds) are off. 
+
+code: 
+
 ``` c
 void setup() {
   pinMode(12, OUTPUT);
@@ -30,6 +52,14 @@ void loop() {
 
 ```
 
+therefore, enabling a cathode allows you access to that layer's leds: 
+
+![[Screenshot 2026-10-10 at 23.52.46.webp]]
+
+
+
+
+---
 
 more complex: 
 
@@ -174,4 +204,38 @@ void reset() {
 }
 
 ```
+
+---
+
+abstraction: 
+
+send data for whole matrix (2x2x2) in a byte (8 bits): 
+
+![[Screenshot 2026-10-10 at 23.53.29.webp]]
+
+define binary as: 
+
+`0b01000111`
+
+with prefix `0b`. 
+
+![[Screenshot 2026-10-10 at 23.54.43.webp]]
+
+for larger arrays, use transistors. 
+
+keyboard inputs work like so: 
+
+> try holding down y, u, and then h at the same time. h won't work because of the way the matrix is designed. wasd will work. 
+
+![[Screenshot 2026-10-10 at 23.55.48.webp]]
+
+solution is to add a diode: 
+
+![[Screenshot 2026-10-10 at 23.56.05.webp]]
+
+charlieplexing:
+
+![[Screenshot 2026-10-10 at 23.56.26.png]]
+
+using shift registers and multiplexors, you can pass data for a matrix. 
 

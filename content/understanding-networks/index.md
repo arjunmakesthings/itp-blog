@@ -13,6 +13,7 @@ i understand how to work with code & electricity by now, but networks is still a
 ---
 # resources: 
 - [understanding networks](https://itp.nyu.edu/classes/undnet/)
+- [syllabus sheet](https://docs.google.com/spreadsheets/d/1Ql521gd1Ng-0Zc03kpzMXyp6dK7Bj5ruwCcNrd4O0ho/edit?gid=1123123749#gid=1123123749)
 - [itp-networks-site](https://itp.nyu.edu/networks/)
 - public ip:  167.99.147.44
 ---
