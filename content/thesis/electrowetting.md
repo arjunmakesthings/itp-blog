@@ -78,11 +78,36 @@ got actuation; 253v; 20ul. used copper sheet, salt-water, olive-oil, cling-film 
 
 rough setup (except that gaps were the thickness of a utility knife): 
 
-![[Screenshot 2026-10-07 at 23.43.11.png]]
+![[Screenshot 2026-10-07 at 23.43.11.webp]]
 
 
 ![[IMG_8531 2.mp4]]
 
 
 ![[IMG_8531.mp4]]
+
+---
+
+# 261011: 
+tried various, various actuation experiments. 
+
+received some actuation at 253v, but not reliable since i have to manually move the ground wire from the droplet. 
+
+![[actuation-2_261014 2.mp4]]
+
+also broke the cling film and achieved a zap.
+
+![[zap.mp4]]
+
+spoke with [[nikolai]] about a possible build. 
+
+![[IMG_8566.webp]]
+
+he gave me a conductive ito sheet. 
+
+![[IMG_8564.webp|342]]
+
+![[IMG_8565.webp|340]]
+
+
 

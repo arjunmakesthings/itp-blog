@@ -40,17 +40,17 @@
             }
           },
           {
-            "id": "382c7df6c642151a",
+            "id": "60b3212599a81905",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26.md",
+                "file": "understanding-networks/field-trip.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26"
+              "title": "field-trip"
             }
           }
         ],
@@ -261,9 +261,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "382c7df6c642151a",
+  "active": "60b3212599a81905",
   "lastOpenFiles": [
     "thesis/thesis_to-do.md",
+    "understanding-networks/field-trip.md",
+    "thesis/electrowetting.md",
+    "z_images/IMG_8566.webp",
+    "z_images/IMG_8564.webp",
+    "z_images/IMG_8565.webp",
+    "z_images/zap.mp4",
+    "z_images/actuation-2_261014 2.mp4",
+    "z_images/actuation-2_261014 1.mp4",
+    "z_images/actuation-2_261014.mp4",
     "26.md",
     "thesis/perception of emergence research.md",
     "musical-connections/primary research stuff.md",
@@ -288,27 +297,18 @@
     "computer-graphics/cg_experiments_week-6.md",
     "computer-graphics/cg_class-6.md",
     "thesis/part-1_update-3.md",
-    "computer-graphics/cg_experiments_week-5.md",
-    "shared-minds/sm_class-6.md",
     "z_images/Screenshot 2026-10-10 at 23.56.26.png",
     "z_images/Screenshot 2026-10-10 at 23.56.05.webp",
     "z_images/Screenshot 2026-10-10 at 23.55.48.webp",
     "z_images/Screenshot 2026-10-10 at 23.54.43.webp",
     "z_images/Screenshot 2026-10-10 at 23.53.29.webp",
     "z_images/Screenshot 2026-10-10 at 23.52.46.webp",
-    "z_images/Screenshot 2026-10-10 at 23.51.39.webp",
-    "z_images/Screenshot 2026-10-10 at 23.51.00.webp",
-    "z_images/Screenshot 2026-10-10 at 23.50.09.webp",
     "z_images/IMG_8531.mp4",
     "z_images/IMG_8531 2.mp4",
     "z_images/Screen Recording 2026-10-07 at 00.02.03.mp4",
     "z_images/IMG_8633.heic",
     "z_images/Screen Recording 2026-09-29 at 23.55.10 1.mp4",
     "z_images/Screen Recording 2026-09-29 at 23.56.05.mp4",
-    "z_images/Screen Recording 2026-09-29 at 23.55.10.mp4",
-    "z_images/IMG_8484.mp4",
-    "z_images/performance-20260923-010437.txt",
-    "z_images/Screen Recording 2026-09-20 at 23.02.06.mp4",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",
