@@ -13,5 +13,6 @@ met [[anna palumbo]]; found an overlap in designing musical-interfaces (after re
 ---
 # resources: 
 - [brightspace](https://brightspace.nyu.edu/d2l/home/630666)
+- [drive](https://drive.google.com/drive/folders/1_kY4QbtMDfQHHxTYSQWeoPfZvsKUtGiO)
 
 ---
