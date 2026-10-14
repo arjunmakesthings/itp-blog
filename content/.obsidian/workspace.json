@@ -45,30 +45,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thesis/automata research.md",
+                "file": "resources & tools/python-tutor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "automata research"
+              "title": "python-tutor"
             }
           },
           {
-            "id": "71e1a1c5fbc8f94f",
+            "id": "fa5b5ba9b95b7849",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "brainwrite_261011.md",
+                "file": "thesis/alternative display research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "brainwrite_261011"
+              "title": "alternative display research"
+            }
+          },
+          {
+            "id": "2ea1a80ce0eb0b39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thesis/perception of emergence research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "perception of emergence research"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -275,19 +289,28 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "71e1a1c5fbc8f94f",
+  "active": "5d11e7f5a912754c",
   "lastOpenFiles": [
+    "thesis/automata research.md",
+    "resources & tools/python-tutor.md",
+    "thesis/alternative display research.md",
     "thesis/perception of emergence research.md",
+    "projects-by-other-people/play, by urs fischer.md",
+    "analog synth build.md",
+    "thesis/thesis_to-do.md",
+    "people/index.md",
+    "Untitled.md",
+    "z_images/Screenshot 2026-10-13 at 12.29.15.webp",
+    "to do.md",
+    "thesis/an important distinction between computational systems & the real world.md",
+    "brainwrite_261011.md",
     "people/hans.md",
     "people/madeline.md",
-    "brainwrite_261011.md",
-    "thesis/an important distinction between computational systems & the real world.md",
     "thesis/real life and automata.md",
     "processing community day 2026 talk.md",
     "thesis/diagrams to understand & explain.md",
     "computer-graphics/cg_experiments_week-6.md",
     "computer-graphics/cg_class-6.md",
-    "projects-by-other-people/play, by urs fischer.md",
     "thesis/part-1_update-3.md",
     "computer-graphics/cg_experiments_week-5.md",
     "shared-minds/sm_class-6.md",
@@ -304,15 +327,6 @@
     "prototyping-electronic-devices/index.md",
     "thesis/conversation with mimi.md",
     "thesis/conversation with yeseul.md",
-    "existential admiration.md",
-    "understanding-networks/index.md",
-    "thesis/mathematical wonderings of automata-possibilities.md",
-    "thesis/right to internet proposals.md",
-    "thesis/jumping robot.md",
-    "thesis/sunday clarity.md",
-    "thesis/index.md",
-    "z_images/on-metaphors_2610.webp",
-    "thesis/automata research.md",
     "z_images/IMG_8531.mp4",
     "z_images/IMG_8531 2.mp4",
     "z_images/Screen Recording 2026-10-07 at 00.02.03.mp4",
