@@ -17,3 +17,7 @@ the natural response is resistance  — all kinds of dissuading thoughts in shee
 to deny it, however — to deny the wave that is carrying you — would be to deny life itself. you are not in control; you never were. you are but a vessel, and life is merely happening through you. 
 
 for people smitten — myself included — by an idea; a person; or a possibility; let it carry you. think less; feel more. crawl out of capitalistic constructions to experience the myriad of human-experience.
+
+---
+
+afterthought: how romantic everything is if looked at with love. my [[thesis/index|thesis]] began from a place of love, but lost out to intellectual resistance. 
