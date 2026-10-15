@@ -40,17 +40,17 @@
             }
           },
           {
-            "id": "55dec6ef64797ab2",
+            "id": "6c65f26551d27697",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "on being smitten.md",
+                "file": "thesis/taking stock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "on being smitten"
+              "title": "taking stock"
             }
           }
         ],
@@ -261,22 +261,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "55dec6ef64797ab2",
+  "active": "6c65f26551d27697",
   "lastOpenFiles": [
-    "thesis/thesis_to-do.md",
     "on being smitten.md",
+    "thesis/taking stock.md",
+    "notes from light exhibition by zach lieberman.md",
+    "projects-by-other-people/process compendium, by casey reas.md",
+    "z_images/IMG_8605.webp",
+    "z_images/IMG_8603.webp",
+    "z_images/IMG_8607.webp",
+    "z_images/IMG_8604.webp",
+    "z_images/IMG_8599.webp",
+    "z_images/IMG_8600.webp",
+    "z_images/IMG_8601.webp",
+    "notes from the secret history of lee krasner & jackson pollock.md",
+    "people/savannah.md",
+    "thesis/thesis_to-do.md",
     "understanding-networks/field-trip.md",
     "to do.md",
     "z_images/IMG_8583.webp",
     "z_images/IMG_8597.webp",
     "z_images/IMG_8574.webp",
-    "z_images/IMG_8577.webp",
-    "z_images/IMG_8580.webp",
-    "z_images/IMG_8576.webp",
-    "z_images/IMG_8573.webp",
-    "z_images/IMG_8571.webp",
-    "z_images/IMG_8594.webp",
-    "z_images/IMG_8589.webp",
     "thesis/electrowetting.md",
     "z_images/zap.mp4",
     "z_images/actuation-2_261014 2.mp4",
@@ -298,11 +303,6 @@
     "brainwrite_261011.md",
     "people/hans.md",
     "people/madeline.md",
-    "thesis/real life and automata.md",
-    "processing community day 2026 talk.md",
-    "thesis/diagrams to understand & explain.md",
-    "computer-graphics/cg_experiments_week-6.md",
-    "computer-graphics/cg_class-6.md",
     "z_images/IMG_8531.mp4",
     "z_images/IMG_8531 2.mp4",
     "z_images/Screen Recording 2026-10-07 at 00.02.03.mp4",
