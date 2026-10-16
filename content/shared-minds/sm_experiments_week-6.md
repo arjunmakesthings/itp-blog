@@ -22,6 +22,11 @@ draft: "false"
 > 
 > [curvature of spacetime](https://medium.com/data-science-collective/the-spacetime-of-large-language-models-6677c74a0fc3)
 
+from case against reality: 
+> “I think that tastes, odors, colors, and so on . . . reside in consciousness. Hence if the living creature were removed, all these qualities would be wiped away and annihilated.”
+
+
+
 ---
 
 # writing: 
