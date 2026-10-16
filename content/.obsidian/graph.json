@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:thesis  ",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -32,6 +32,6 @@
   "repelStrength": 10.599114352696,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9277436745611242,
+  "scale": 0.3596761284110688,
   "close": false
 }
