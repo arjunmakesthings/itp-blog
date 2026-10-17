@@ -36,3 +36,8 @@ cellular automata in music (connection made by [[jagi]]):
 
 ---
 
+turing machine: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3keLeMwfHY?si=1Ga9C5PLXmcWFFPG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+

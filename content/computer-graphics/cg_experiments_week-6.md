@@ -18,7 +18,7 @@ ken's noise function:
    }
 ```
 
-ken's derivation of noise (received via email): 
+[[ken-perlin]]'s derivation of noise (received via email): 
 
 ``` txt
 It's pretty simple:
@@ -38,6 +38,8 @@ Your drop-off function can be very simple. It can be a product of three drop-off
 ```
 
 first found a good explanation: https://www.youtube.com/watch?v=DxUY42r_6Cg
+
+[[ken-perlin]]'s paper: https://mrl.cs.nyu.edu/~perlin/paper445.pdf
 
 ---
 
@@ -79,7 +81,7 @@ float noise(vec3 p) {
 
 if you don't use the drop off function, and simply return the dot product between point p & the 8 corners of the cube, you get sharp edges like these: 
 
-![[Screenshot 2026-10-16 at 23.16.32.png]]
+![[Screenshot 2026-10-16 at 23.16.32.webp|490]]
 
 but an eased drop off with `3t^2 - 2t^3`, implemented like so: 
 
@@ -93,5 +95,5 @@ float drop(float t) {
 
 will give you smoother interpolation between edges: 
 
-![[Screenshot 2026-10-16 at 23.17.23.png]]
+![[Screenshot 2026-10-16 at 23.17.23.webp|480]]
 

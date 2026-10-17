@@ -11,6 +11,10 @@ everything, since the start, have been creative experiments. but anyway.
 
 ---
 
+master sheet of 'making' experiments are here: [[making experiments]]. 
+
+---
+
 # (hand-drawn) diagrams to communicate premise: 
 see [[diagrams to understand & explain]]. 
 
