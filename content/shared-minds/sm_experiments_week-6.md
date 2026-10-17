@@ -25,6 +25,9 @@ draft: "false"
 from case against reality: 
 > “I think that tastes, odors, colors, and so on . . . reside in consciousness. Hence if the living creature were removed, all these qualities would be wiped away and annihilated.”
 
+> vision is 1/3rd of the brain.
+
+speaks about gestalt showing how the brain 'constructs' reality. was an interesting premise; but i wasn't particularly convinced. 
 
 
 ---
