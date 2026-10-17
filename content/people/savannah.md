@@ -1,1 +1,4 @@
+---
+date: 2026-10-14
+---
 part of itp-'28. terrific climber; climbed all over the world; ran a climbing company; taught herself how to program; works at adobe; elixir-pro.

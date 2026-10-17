@@ -1,4 +1,5 @@
 ---
+date: 2026-06-09
 tags:
   - tools
 draft: "false"

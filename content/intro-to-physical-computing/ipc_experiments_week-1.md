@@ -74,7 +74,7 @@ i tried conducting electricity through water, but did not succeed. i do not know
 
 the water also made bubbles, which i thought were very cool. this is perhaps because salt & electricity are reacting in some way. 
 
-![[z_images/IMG_6127.mov]]
+![[z_images/IMG_6127.mp4]]
 
 ---
 # making "bad-mapping": 
@@ -108,13 +108,13 @@ next, i'm going to add a switch.
 
 for some reason, i got a reverse-switch. the circuit closes when i press it, and remains on by default. 
 
-![[z_images/IMG_6145.mov]]
+![[z_images/IMG_6145.mp4]]
 
 got the potentiometer to work, but burned an led. 
 
 ![[z_images/IMG_6146.webp]]
 
-![[z_images/IMG_6147.mov]]
+![[z_images/IMG_6147.mp4]]
 
 made leds light up in parallel. 
 
@@ -122,7 +122,7 @@ made leds light up in parallel.
 
 moved on to making switches. i destroyed so many leds, that i felt bad, and reused the leds as my switch: 
 
-![[z_images/IMG_6151.mov]]
+![[z_images/IMG_6151.mp4]]
 <figcaption>"the fallen led-s"</figcaption>
 
 ---

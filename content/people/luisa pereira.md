@@ -1,1 +1,4 @@
+---
+date: 2025-11-12
+---
 faculty at itp in 2025. teaches the code of music, and is currently writing a book by the same name.

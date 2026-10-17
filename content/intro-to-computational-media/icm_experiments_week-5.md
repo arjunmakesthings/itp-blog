@@ -14,11 +14,11 @@ my [[conversation with mimi]] stayed with me. i decided to spend time exploring 
 # output: 
 i made a sketch, that allows people to run a function via the browser. however, the function does not behave as expected. play with the sketch [here](https://arjunmakesthings.github.io/icm-2025/week-5_labour/index.html). firefox doesn't load .ttf files for some reason, so please (sadly) use google-chrome. i could've put the text as html text, but i don't have time at the moment.
 
-![[z_images/Screen Recording 2025-10-04 at 21.49.46.mov]]
+![[z_images/Screen Recording 2025-10-04 at 21.49.46.mp4]]
 
 if a person types a for() loop, it produces pretty things.
 
-![[z_images/Screen Recording 2025-10-04 at 21.56.33.mov]]
+![[z_images/Screen Recording 2025-10-04 at 21.56.33.mp4]]
 
 if a person tries to make a grid, their browser will crash. 
 
@@ -145,7 +145,7 @@ function send(...args) {
 
 i wanted to call a function, but make it run only once. i realised that i can call functions from the browser-console to do so. 
 
-![[z_images/251004_vid.mov]]
+![[z_images/251004_vid.mp4]]
 
 watched a video on arrow functions. 
 

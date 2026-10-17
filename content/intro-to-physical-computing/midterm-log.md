@@ -97,7 +97,7 @@ while this started off as a single interaction, prototyping showed me the opport
 
 i also tested material for light-diffusion. realised that [[3d printed material does interesting light diffusion]].  
 
-![[z_images/IMG_6582.mov]]
+![[z_images/IMG_6582.mp4]]
 
 [[people/phil|phil]] suggested the following materials: 
 - polystyrene sheet: 1mm
@@ -131,7 +131,7 @@ looked at something called a mux or multiplexor. think of it like a motor-driver
 
 then, with [[people/octavio|octavio]], we figured out how to make it work (because my circuit didn't work — i thought the inhibit-pin could do with no signal, but it needed a low-signal). 
 
-![[z_images/IMG_6638.mov]]
+![[z_images/IMG_6638.mp4]]
 
 once i knew that this configuration worked, i sketched out the schematic too; to save it. 
 
@@ -281,7 +281,7 @@ void turn_on(int a_val, int b_val, int c_val) {
 
 achieved multiple blinks.
 
-![[z_images/IMG_6643.mov]]
+![[z_images/IMG_6643.mp4]]
 
 ``` cpp
 //multiple leds test.
@@ -520,7 +520,7 @@ i found some stuff on the arduino's [reference page](https://docs.arduino.cc/mic
 
 i did do that. i think — i think — i can make it dim too. i just need to pass a different frequency over time.
 
-![[z_images/IMG_6668.mov]]
+![[z_images/IMG_6668.mp4]]
 
 it didn't work. i tried this: 
 
@@ -626,7 +626,7 @@ for (int brightness = 0; brightness <= 255; brightness++) {
 
 here's my version of the code, with comments and a video of it working. 
 
-![[z_images/IMG_6669.mov]]
+![[z_images/IMG_6669.mp4]]
 
 ``` cpp
 //send pwm signal to led via a digital output pin.
@@ -728,11 +728,11 @@ the next thing i tried was to test the mux. can i send a pwm to the multiplexor'
 
 so, first i sent a HIGH signal to the multiplexor's communication input from the arduino digital-output-pin, instead of taking 3.3 from the bus. however, the led was dim. 
 
-![[z_images/IMG_6687.mov]]
+![[z_images/IMG_6687.mp4]]
 
 i also checked voltage-differences between what was being sent and what was being outputted. there isn't a lot; so, i assume it's current.
 
-![[z_images/volt_checker.mov]]
+![[z_images/volt_checker.mp4]]
 
 i assume that the current being passed is too little; via the multiplexor. this means that the multiplexor shouldn't be used to power the led, but just control the pulse (i.e, i can pin this to ground). realised i'd have to use transistors for this. that'll be 37 transistors. argh.
 
@@ -743,7 +743,7 @@ it works!!!
 
 i sent a pseudo-pwm via a digitalWrite pin to fade in an led. this means that i have infinite ports to fade in leds. this is amazing.
 
-![[z_images/IMG_6688.mov]]
+![[z_images/IMG_6688.mp4]]
 
 ``` cpp
 //multiple leds test.
@@ -862,7 +862,7 @@ there is one tiny problem: if i reset all the input pins to low, it powers up th
 
 i could use the inh pin, but that might complicate everything a little bit. i'll take a call later — my brain is blanking out.
 
-![[z_images/IMG_6691.mov]]
+![[z_images/IMG_6691.mp4]]
 
 ---
 now, i'm going to start building my circuit, complete with the fsr; and work on the interactions.
@@ -881,7 +881,7 @@ then, i detailed out all the possible states; of both my program & the fsr.
 
 made the leds light up in succession.
 
-![[z_images/IMG_6769.mov]]
+![[z_images/IMG_6769.mp4]]
 
 ``` cpp
 //interaction test.
@@ -1108,7 +1108,7 @@ also read [[all technology is assistive, by sarah hendren]].
 ---
 put all stages as enums, and cleaned up the program. 
 
-![[z_images/251021_vid.mov]]
+![[z_images/251021_vid.mp4]]
 
 ``` cpp
 //interaction test.
@@ -1619,7 +1619,7 @@ learnt about `switch` from the arduino library.
 
 i kind of hit a wall. i became desperate, and tried to use chatgpt. it gave me an unexpected result: 
 
-![[z_images/IMG_6787.mov]]
+![[z_images/IMG_6787.mp4]]
 
 it sent a pulse really quickly through the circuit. actually, this movement felt closer to electrons — i realised that the pace of electrons moving (and colliding) is what generates the heat (while talking to [[people/gabriel|gabriel]]). this shows that better than my slow led thing. 
 

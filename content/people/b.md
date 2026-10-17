@@ -1,1 +1,4 @@
+---
+date: 2025-09-19
+---
 part of itp-'26. works at the shop. likes to be called 'b'; actually bethany-wu. 

@@ -1,3 +1,6 @@
+---
+date: 2025-09-13
+---
 spoke with [[dan-o]] during his office hours. 
 
 ---

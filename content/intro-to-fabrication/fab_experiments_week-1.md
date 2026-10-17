@@ -79,7 +79,7 @@ dremelled the inside, with more caution & with more time.
 
 attached the hinges wrong, but liked it. kept it. it's <mark>playful</mark>. 
 
-![[z_images/IMG_6212.mov]]
+![[z_images/IMG_6212.mp4]]
 
 ---
 realised that the course will make me make 7 projects. in line with my [[intro-to-fabrication/theme for intro-to-fabrication|theme for intro-to-fabrication]], i stuck a small map in my room which shall help me derive words for and from each object, to better understand myself. 

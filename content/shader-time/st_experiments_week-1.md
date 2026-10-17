@@ -177,7 +177,7 @@ learnt about ==using abs for comparison. ==
 
 made this: 
 
-![[Screen Recording 2026-01-26 at 14.40.18.mov]]
+![[Screen Recording 2026-01-26 at 14.40.18.mp4]]
 
 ``` js
 //untitled; arjun; month, 2026.

@@ -12,7 +12,7 @@ i (joyfully) watched [[people/gabriel|gabriel]] get annoyed with bezier-curves. 
 
 i made a sketch that picks two random points on a grid, and draws a bezier curve between them (with a randomly allocated control point). in the process, i understood the math behind bezier curves too.
 
-![[z_images/Screen Recording 2025-09-27 at 22.36.09.mov]]
+![[z_images/Screen Recording 2025-09-27 at 22.36.09.mp4]]
 
 code: 
 
@@ -297,7 +297,7 @@ so, i looked at the math behind bezier curves; via this: https://www.youtube.com
 
 made a program that finds two points at random on a grid, and draws a set of linearly interpolated points between them. 
 
-![[z_images/Screen Recording 2025-09-27 at 21.17.44.mov]]
+![[z_images/Screen Recording 2025-09-27 at 21.17.44.mp4]]
 
 ``` js
 //for the beauty of bezier curves; for gabriel; 27th september 2025.
@@ -367,7 +367,7 @@ function draw() {
 
 then, made a program that draws curves with a randomly chosen control point.
 
-![[z_images/Screen Recording 2025-09-27 at 21.43.57.mov]]
+![[z_images/Screen Recording 2025-09-27 at 21.43.57.mp4]]
 
 ``` js
 //for the beauty of bezier curves; for gabriel; 27th september 2025.
@@ -464,7 +464,7 @@ function draw() {
 
 while programming, i made a cool discovery. <mark>instead of drawing one shape per run (60 times a second), if i draw 10 shapes (in the same position), the motion feels more fluid</mark> (and faster for some reason, i don't get this yet). 
 
-![[z_images/Screen Recording 2025-09-27 at 22.30.32.mov]]
+![[z_images/Screen Recording 2025-09-27 at 22.30.32.mp4]]
 
 ``` js
 //for the beauty of bezier curves; for gabriel; 27th september 2025.

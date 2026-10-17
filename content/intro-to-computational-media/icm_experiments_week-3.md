@@ -12,7 +12,7 @@ i had to make a sketch with [[may]] for this. the ask by [[people/mimi|mimi]] wa
 ---
 may wanted to do something about choosing college versus staying in corporate america. we brainstormed for a few minutes together, and then i programmed a scaffold for her to mess around with: 
 
-![[z_images/vid 2.mov]]
+![[z_images/vid 2.mp4]]
 
 code: 
 

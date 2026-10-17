@@ -1,4 +1,5 @@
 ---
+date: 2025-10-30
 tags:
   - projects-by-others
 draft: "false"

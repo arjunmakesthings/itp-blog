@@ -38,9 +38,9 @@ i then made and tested many more self-made-electromagnets.
 
 someone then suggest.webpt i talk to [[people/nikolai|nikolai]]. he gave me a magnetically-operated switch (which was very cool), to test whether the electromagnets were generating even the slightest bit of magnetism. 
 
-![[z_images/IMG_6441.mov]]
+![[z_images/IMG_6441.mp4]]
 
-![[z_images/IMG_6443.mov]]
+![[z_images/IMG_6443.mp4]]
 
 none of them did. i also studied a bunch of electromagnet-math: 
 
@@ -121,21 +121,21 @@ i then started to look at the oscilloscope.
 
 this is the pulse my arduino sends via the digital output pin. 
 
-![[z_images/IMG_6462.mov]]
+![[z_images/IMG_6462.mp4]]
 
 voltage through the circuit, without & with a capacitor. 
 
-![[z_images/IMG_6465.mov]]
+![[z_images/IMG_6465.mp4]]
 
-![[z_images/IMG_6470.mov]]
+![[z_images/IMG_6470.mp4]]
 
 another without: 
 
-![[z_images/IMG_6466.mov]]
+![[z_images/IMG_6466.mp4]]
 
 <mark>even if nothing was plugged in, the voltage was still fluctuating</mark> exactly like when i last measured it, even if i clicked the 'auto' button. that was weird. 
 
-![[z_images/IMG_6471.mov]]
+![[z_images/IMG_6471.mp4]]
 
 at this point, i only know how to see the pulse width modulation via an oscilloscope. i realised that the pulse width was too little. maybe that is what needs to be amplified via the transistor.
 
@@ -165,7 +165,7 @@ and, as expected, the voltage out from the transistor is much higher. why, then,
 
 why, then, does this not work? 
 
-![[z_images/IMG_6481.mov]]
+![[z_images/IMG_6481.mp4]]
 
 but, i understood transistors a lot more in this week. i might come in tomorrow and work a bit on trying to make a beat-maker of sorts, with fsr-s as the interface. 
 

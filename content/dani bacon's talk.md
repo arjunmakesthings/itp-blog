@@ -1,3 +1,6 @@
+---
+date: 2025-09-24
+---
 [[jasmine]] organised this. 
 
 [[people/dani bacon|dani bacon]] spoke about his projects, and how constraints (and respecting ideas coming out of previous constraints as research) helps inform his work better. 

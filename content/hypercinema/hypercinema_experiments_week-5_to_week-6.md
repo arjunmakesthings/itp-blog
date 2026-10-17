@@ -20,7 +20,7 @@ it couldn't generate it, even if i tried multiple times.
 ---
 i thought it'd generate a sound effect. 
 
-![[z_images/Screen Recording 2025-10-09 at 08.57.54.mov]]
+![[z_images/Screen Recording 2025-10-09 at 08.57.54.mp4]]
 
 so, generate 'audio' is really just generate text-to-speech. 
 
@@ -143,7 +143,7 @@ prompt:
 
 output:
 
-![[z_images/Screen Recording 2025-10-11 at 23.50.57.mov]]
+![[z_images/Screen Recording 2025-10-11 at 23.50.57.mp4]]
 
 prompt 2:
 
@@ -373,7 +373,7 @@ as i began to program, i realised that the story i wanted to tell was that of nu
 
 this is also programmatically nicer to achieve. 
 
-![[z_images/Screen Recording 2025-10-15 at 20.58.51.mov]]
+![[z_images/Screen Recording 2025-10-15 at 20.58.51.mp4]]
 
 i need to now write a scaffold, and then use that to generate 'scenes'. i know i can do better — in terms of storytelling, and visual-design, but it's an interesting line of enquiry — and i *just* want to explore that for now.
 
@@ -540,12 +540,12 @@ this was my first prompt:
 
 after some modifications and re-prompting, i have this: 
 
-![[z_images/Screen Recording 2025-10-15 at 23.39.23.mov]]
+![[z_images/Screen Recording 2025-10-15 at 23.39.23.mp4]]
 
 i think my outcome is going to be a <mark>clean webpage</mark>, with these <mark>sketches that look different every time</mark> you load the webpage, and <mark>each communicating a single message about the future between u & i</mark>.
 
 
-![[z_images/Screen Recording 2025-10-15 at 23.47.58.mov]]
+![[z_images/Screen Recording 2025-10-15 at 23.47.58.mp4]]
 
 ---
 next prompt: 
@@ -567,7 +567,7 @@ it broke then.
 
 eeeeeeek, i'm so happy with this one!
 
-![[z_images/vid 3.mov]]
+![[z_images/vid 3.mp4]]
 
 i think the <mark>project can be called future meanderings</mark> — a series of speculations about a data-driven (?) world. 
 
@@ -614,7 +614,7 @@ i'll do that now.
 
 i have all the frames. now i'm going to mess around with the thought i had earlier. 
 
-![[z_images/Screen Recording 2025-10-20 at 21.56.38.mov]]
+![[z_images/Screen Recording 2025-10-20 at 21.56.38.mp4]]
 
 ---
 i'm going to give the first frame of each sketch to runway, and describe the idea that i want elaborately. i'm going to follow the same structure for my commands to runway for each frame. by runway, i mean aleph. 

@@ -1,3 +1,6 @@
+---
+date: 2026-07-20
+---
 [[george mandis]] showed me espruino: 
 
 https://www.espruino.com

@@ -31,7 +31,7 @@ https://vimeo.com/380174619
 
 worked with a linear actuator. realised that i need to <mark>reverse the polarity</mark> to make it go backwards. that was interesting to me. 
 
-![[z_images/IMG_6504.mov]]
+![[z_images/IMG_6504.mp4]]
 
 i'm going to try and build a circuit that performs sort of drawing. 
 
@@ -64,7 +64,7 @@ i made a circuit, and realised that 'low' does not mean off.
 
 i made a linear actuator move with a manual h-bridge. 
 
-![[z_images/IMG_6511.mov]]
+![[z_images/IMG_6511.mp4]]
 
 ![[z_images/IMG_6512.webp]]
 
@@ -75,7 +75,7 @@ decided to use a stepper instead, so that i understand that more.
 ---
 got curious about electrons while having lunch. watched this: https://www.youtube.com/watch?v=bHIhgxav9LY
 
-![[z_images/Screenshot 2025-10-05 at 1300.43.webp]]
+![[z_images/Screenshot 2025-10-05 at 13.00.43.webp]]
 
 learnt about drift velocity, also mentioned in [[intro-to-physical-computing/practical electronics for inventors|practical electronics for inventors]]. 
 

@@ -72,7 +72,7 @@ chatgpt says this:
 
 so, from what i can gather: the serial monitor on the arduino-ide is designed to display only a specific format (i don't know what to call it, but human-readable format (apparently)). i then found `Serial.print()`, and used it to [print values in different formats](https://docs.arduino.cc/language-reference/en/functions/communication/serial/print/).
 
-![[z_images/Screen Recording 2025-11-01 at 19.01.12.mov]]
+![[z_images/Screen Recording 2025-11-01 at 19.01.12.mp4]]
 
 i then realised that <mark>i2c is just another protocol</mark>. i remember helping [[people/duan|duan]] & her partner with their motion sensor which used i2c (via the arduino's scl & sda pins). i now understood how that actually worked. 
 

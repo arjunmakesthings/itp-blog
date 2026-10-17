@@ -69,7 +69,7 @@ he said to keep the iron on one side, and the solder on the other (forming a 90-
 
 used a switch, and `Serial.println()` to read whether the switch gives any input or not. 
 
-![[z_images/IMG_6193.mov]]
+![[z_images/IMG_6193.mp4]]
 
 [[people/octavio|octavio]] helped me understand that a `delay()` is always necessary in electronic-circuit-code, because electricity moves really fast, and can overwhelm the computer. 
 
@@ -170,7 +170,7 @@ i then spent time figuring out the circuit, and cutting wires to make it look ne
 
 then i spent time testing different components of the circuit: 
 
-![[z_images/IMG_6214.mov]]
+![[z_images/IMG_6214.mp4]]
 
 ran into problems with the algorithm [[people/christina tang|christina tang]] suggested. 
 
@@ -972,7 +972,7 @@ no, something's not right,. the programmatic flow is very simple: when it turns 
 
 after rounds of back & forth, it produced this: 
 
-![[z_images/IMG_6247.mov]]
+![[z_images/IMG_6247.mp4]]
 
 this example is handy for my [[case against ai]]. it just doesn't get the intricacy right — maybe it gets 75% right, but why is that good enough? 
 

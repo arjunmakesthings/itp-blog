@@ -1,3 +1,6 @@
+---
+date: 2026-05-28
+---
 one of my best-friends currently. we met at vunet in 2025 (when i worked there with [[shobhan]]). connected instantly. 
 
 he used to work in backend-development, but is now on a quest to rediscover himself.

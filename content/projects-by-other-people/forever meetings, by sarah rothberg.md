@@ -1,4 +1,5 @@
 ---
+date: 2026-06-22
 tags:
   - projects-by-others
 draft: "false"

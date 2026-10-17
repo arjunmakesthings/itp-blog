@@ -1,1 +1,4 @@
+---
+date: 2025-09-24
+---
 resident at itp in 2027. designer; programmer; says she 'lives on the floor'; her thesis was the only one from the archive that caught my attention. 

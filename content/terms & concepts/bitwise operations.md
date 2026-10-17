@@ -1,4 +1,5 @@
 ---
+date: 2026-07-23
 tags:
   - terms_and_concepts
 draft: "false"

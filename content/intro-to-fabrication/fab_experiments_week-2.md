@@ -15,9 +15,9 @@ realised that physical-making is best thought about *while* making, and not in m
 
 i wanted objects (cubes) in a grid to move, and a connection between them to change. the connection would be the image, and the cubes would be supporting-materials. 
 
-![[z_images/IMG_6270.mov]]
+![[z_images/IMG_6270.mp4]]
 
-![[z_images/IMG_6281.mov]]
+![[z_images/IMG_6281.mp4]]
 
 messed around with half-cuts, some ikea-inspired mechanisms, et-cetera for the center piece. 
 
@@ -25,7 +25,7 @@ messed around with half-cuts, some ikea-inspired mechanisms, et-cetera for the c
 
 ![[z_images/IMG_6268.webp]]
 
-![[z_images/IMG_6269.mov]]
+![[z_images/IMG_6269.mp4]]
 
 [[people/ian cox|ian cox]] helped me understand that i was obsessing over the wrong thing (mechanism over replication), and that wood probably wasn't the best material for something that moves. <mark>wood is best for something solid</mark>.
 
@@ -36,7 +36,7 @@ grappled with that for a few days, came in and made a few sketches.
 
 [[people/ian cox|ian cox]] had recommended [tinkercad](https://www.tinkercad.com) to help see things in 3-d. worked more, to visualise a simple thing made of 5 smaller things that move. 
 
-![[z_images/Screenshot 2025-09-19 at 102.32.webp]]
+![[z_images/Screenshot 2025-09-19 at 10.42.32.webp]]
 
 i wanted each frame to pivot, but someone at the shop helped me see that it isn't possible (without more complex mechanisms). so, i reduced my expectations, and focused on something that rotates from the pivot point connecting the frames. 
 

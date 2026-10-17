@@ -1,3 +1,6 @@
+---
+date: 2026-01-26
+---
 log to keep track of things during the [ima physical-computing class](https://itp.nyu.edu/ima/topics-in-physical-computing-and-experimental-interfaces-physical-computing/) that i'm a g.a. for in spring 2026. 
 
 ---

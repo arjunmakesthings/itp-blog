@@ -28,6 +28,6 @@ people are breaking models (like [so](https://github.com/elder-plinius/Google-Ge
 ---
 learnt about camera and motion tracking on after-effects. use the tracker dialogue.
 
-![[z_images/Screen Recording 2025-10-16 at 14.22.12.mov]]
+![[z_images/Screen Recording 2025-10-16 at 14.22.12.mp4]]
 
 

@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=YJB1QnEmlTs
 
 made this for one of the assignments:
 
-![[z_images/Screen Recording 2025-09-15 at 20.56.10.mov]]
+![[z_images/Screen Recording 2025-09-15 at 20.56.10.mp4]]
 
 ---
 thought about the creative assignment.
@@ -27,7 +27,7 @@ i could go philosophically with this line of thought. i had an idea too. but, i 
 
 i made a sketch that makes it difficult to understand whether the computer is drawing white rectangles or black. 
 
-![[z_images/Screen Recording 2025-09-15 at 21.58.31.mov]]
+![[z_images/Screen Recording 2025-09-15 at 21.58.31.mp4]]
 
 i messed around for a bit, with a bunch of mathematical variations. but settled on the simplest one i'd explored. 
 

@@ -31,7 +31,7 @@ i borrwed fsr-s for a bunch of ideas that i have. i needed them flat on a counte
 
 i then tested my fsr. realised that since it senses force, i can make <mark>playful switches</mark>. 
 
-![[z_images/IMG_6293.mov]]
+![[z_images/IMG_6293.mp4]]
 
 ``` cpp
 /*
@@ -106,7 +106,7 @@ helped [[people/summer|summer]] with [analog output](https://itp.nyu.edu/physcom
 
 i ran into a weird bug. every time i plug the arduino into a breadboard that has a servo, it fails to connect. but if i unplug it, it works fine. 
 
-![[z_images/Screenshot 2025-09-19 at 2150.47.webp]]
+![[z_images/Screenshot 2025-09-19 at 21.50.47.webp]]
 
 every time i upload code with a servo motor on the circuit, it just doesn't work. it keep showing uploading, and then crashes. 
 
@@ -116,7 +116,7 @@ every time i upload code with a servo motor on the circuit, it just doesn't work
 
 my servo doesn't get enough power. it brr-s (like a machine when you listen to it closely), but does not have enough power to perform actions. 
 
-![[z_images/IMG_6316.mov]]
+![[z_images/IMG_6316.mp4]]
 
 
 ![[z_images/IMG_6318.webp]]
@@ -173,7 +173,7 @@ i then went to [[people/fabri|fabri]] at the shop. my hunch was either a damaged
 
 and here's the thing: my wire is not bad. here's proof: 
 
-![[z_images/IMG_6331.mov]]
+![[z_images/IMG_6331.mp4]]
 
 but whenever i connect a servo, it fails to communicate with it. i am so confused (and irritated, because i wanted to do things with the servo). i checked out a wire from the shop too, but it did not work. 
 
@@ -247,7 +247,7 @@ okay, i resolved this.
 
 without sending power out, my led still lights up. i assume this is through 5v. 
 
-![[z_images/IMG_6331 1.mov]]
+![[z_images/IMG_6331 1.mp4]]
 
 ---
 
@@ -302,13 +302,13 @@ void test() {
 
 output: 
 
-![[z_images/IMG_6335.mov]]
+![[z_images/IMG_6335.mp4]]
 
 realised that a ball bounces on & off pressure too fast for the led to pass signal. so, i'm going to change this to digital output. 
 
 i also fixed the bug of the potentio-meter having values due to electric noise with a state-change check. to avoid more, we might have to add three conditions checks, instead of the current two. 
 
-![[z_images/IMG_6337 2.mov]]
+![[z_images/IMG_6337 2.mp4]]
 
 ``` cpp
 //bouncing ball led; september, 2025.

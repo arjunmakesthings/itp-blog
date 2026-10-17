@@ -1,1 +1,4 @@
+---
+date: 2025-10-02
+---
 part of itp-'27. worked at goldman-sachs before this; studied computer-science; worked with people ex-nsa. 

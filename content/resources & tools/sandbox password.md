@@ -1,4 +1,5 @@
 ---
+date: 2026-08-11
 tags:
   - resources
 draft: "true"

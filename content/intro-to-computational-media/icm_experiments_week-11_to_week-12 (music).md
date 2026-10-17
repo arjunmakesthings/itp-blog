@@ -134,7 +134,7 @@ made this to experiment with echoed oscillators: https://editor.p5js.org/arjunco
 ---
 made a sequencer, inspired by [[people/luisa pereira|luisa pereira]]'s work somewhere (on the code of music): 
 
-![[z_images/Screen Recording 2025-11-11 at 22.11.30.mov]]
+![[z_images/Screen Recording 2025-11-11 at 22.11.30.mp4]]
 
 ``` js
 //attempt to make a sequencer; november, 2025.

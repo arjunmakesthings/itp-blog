@@ -8,7 +8,7 @@ draft: "false"
 ---
 walked around with ad, to help him with his vr assignment. 
 
-![[z_images/IMG_6277.mov]]
+![[z_images/IMG_6277.mp4]]
 
 this is not a world i want to contribute towards. look at the people, look at the dogs, and then at the man with the strange glasses; deluded with reality (but, technologically 'extending' it). 
 

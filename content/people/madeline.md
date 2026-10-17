@@ -1,1 +1,4 @@
+---
+date: 2026-10-11
+---
 part of itp-'28. i liked her show-one-thing project — she generated a voronoi pattern, and made it out of blown glass. 

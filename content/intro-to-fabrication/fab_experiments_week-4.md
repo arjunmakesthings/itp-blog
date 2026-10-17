@@ -68,7 +68,7 @@ next, i tried to figure out the joints.
 
 then, i carefully sketched the components out. 
 
-![[z_images/Screenshot 2025-10-04 at 1515.26.webp]]
+![[z_images/Screenshot 2025-10-04 at 15.15.26.webp]]
 
 realised i did the math wrong for each panel. 
 

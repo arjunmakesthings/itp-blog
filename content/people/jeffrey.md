@@ -1,1 +1,4 @@
+---
+date: 2025-10-03
+---
 professor at itp. [[tom-igoe|tom-igoe]] said he teaches a class called electricity (or energy — i forgot), that i might enjoy. 

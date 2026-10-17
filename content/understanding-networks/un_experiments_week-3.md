@@ -312,7 +312,7 @@ the application videos for tlds were amusing.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/usZAjW40QeA?si=Mp0d_npfORbDS2Jl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-damn google bought .app & .eat ... ugh. funnily they bought .mov which is apple's standard file format. 
+damn google bought .app & .eat ... ugh. funnily they bought .mp4 which is apple's standard file format. 
 
 verisign handle .com root-servers: 
 

@@ -21,7 +21,7 @@ i spent an hour thinking through things.
 
 testing lights: 
 
-![[z_images/IMG_6604.mov]]
+![[z_images/IMG_6604.mp4]]
 
 ![[z_images/IMG_6607.webp]]
 

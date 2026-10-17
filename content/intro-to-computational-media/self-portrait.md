@@ -52,7 +52,7 @@ function draw() {
 
 they move — often to take someone's place, or be in someone else's space. 
 
-![[z_images/vid 1.mov]]
+![[z_images/vid 1.mp4]]
 
 ``` js
 function draw() {
@@ -101,7 +101,7 @@ class People {
 
 they're always moving, especially in new-york. it's chaotic. 
 
-![[z_images/moving.mov]]
+![[z_images/moving.mp4]]
 
 ``` js
 function draw() {
@@ -111,7 +111,7 @@ function draw() {
 
 somewhere between all this, is me. perhaps i am lost, in the movement of the crowd; or there are people who carry little parts of me in the world.
 
-![[z_images/Screen Recording 2025-09-06 at 18.31.46.mov]]
+![[z_images/Screen Recording 2025-09-06 at 18.31.46.mp4]]
 
 either way — the parts of my 'self' are lost, inconsequential, and small; and i wait to be whole again. 
 
@@ -270,7 +270,7 @@ img.pixels[4] //this would be the red value for the next pixel (1,0).
 ---
 # cool outputs during the process: 
 
-![[z_images/vid.mov]]
+![[z_images/vid.mp4]]
 
 ![[z_images/Screenshot 2025-09-05 at 17.02.19.webp]]
 
@@ -360,7 +360,7 @@ class People {
 ```
 
 
-![[z_images/Screen Recording 2025-09-06 at 17.53.01.mov]]
+![[z_images/Screen Recording 2025-09-06 at 17.53.01.mp4]]
 
 
 ![[z_images/Screenshot 2025-09-06 at 17.53.45.webp]]

@@ -1,4 +1,5 @@
 ---
+date: 2026-08-26
 tags:
   - resources
   - shell-stuff

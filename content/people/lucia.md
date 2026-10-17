@@ -1,3 +1,6 @@
+---
+date: 2025-09-15
+---
 https://www.lucia-gomez.dev/about-me
 
 resident at itp in 2025. her description, in her own words: 

@@ -1,3 +1,6 @@
+---
+date: 2026-06-09
+---
 https://www.youtube.com/watch?v=f5liqUk0ZTw
 
 a vector is simply an arrow that contains the following: 
