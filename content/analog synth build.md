@@ -23,4 +23,8 @@ another explainer: https://www.youtube.com/watch?v=gbUXbaxvX94
 
 wein bridge oscillator frequency calculation: 
 
-![[Screenshot 2026-10-15 at 11.06.15.webp]]
+![[Screenshot 2026-10-15 at 11.06.15.webp|571]]
+
+made three oscillators: 
+
+![[IMG_8609.webp]]
