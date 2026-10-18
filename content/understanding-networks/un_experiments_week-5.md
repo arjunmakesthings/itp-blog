@@ -125,6 +125,33 @@ all the thousand rfs are indexed in that one document.
    would be along by and by to bring the word.
 
 ---
+
+wrote origins draft on [shared document](https://docs.google.com/document/d/1J8u5oWiHi9bKhDAi6mZAYXRDgqxkxgR-nybV9K-KvxY/edit?tab=t.0#heading=h.v1q1eqvgniag): 
+
+origin: 
+written by arjun; 261018:
+
+for anyone familiar with a little bit of networks-history, it is no mystery that the internet didn’t just appear overnight.
+
+the foundations can be traced back to the ‘arpanet’ — a project by the advanced-research-projects-agency (now darpa), in 1966, to share computational-resources between four universities on the west-coast via a network. 
+
+stephen crocker writes in rfc-1000 about the first meeting: 
+
+“That first meeting was seminal.  We had lots of questions ... No one had any answers, but the prospects seemed exciting.  We found ourselves imagining all kinds of possibilities ... but no one knew where to begin.  We weren't sure whether there was really room to think hard about these problems; surely someone from the east (coast) would be along by and by to bring the word.  But we did come to one conclusion: We ought to meet again.”
+
+and writes about further meetings: 
+
+“The BBN folks, led by Frank Heart, Bob Kahn, Severo Ornstein and Will Crowther, found themselves talking to a crew of graduate students they hadn't anticipated.  And we found ourselves talking to people whose first concern was how to get bits to flow quickly and reliably but hadn't ... spent any time considering the thirty or forty layers of protocol above the link level.  And while BBN didn't take over the protocol design process, we kept expecting that an official protocol design team would announce itself.
+
+A month later, after a particularly delightful meeting in Utah, it became clear to us that we had better start writing down our discussions.  We had accumulated a few notes on the design of DEL and other matters, and we decided to put them together in a set of notes. I remember having great fear that we would offend whomever the official protocol designers were, and I spent a sleepless night composing humble words for our notes.  The basic ground rules were that anyone could say anything and that nothing was official.  And to emphasize the point, I labeled the notes "Request for Comments."”
+
+thus began the ‘request for comments’ — essentially documents that summarized collective-thought about the implementation of protocols for the arpanet; so that when the (non-existent) protocol-designers showed up,  the arpa-network-working-group would be able to share their thoughts succinctly. 
+
+little did stephen crocker know that the request-for-comments or rfc-s would become a technical-record that archived the work (implemented or not) of different working groups that contribute to the internet.  
+
+---
+
+---
 footnotes: 
 
 [^1]: https://archive.nytimes.com/www.nytimes.com/library/tech/99/12/biztech/articles/122099outlook-bobb.html
