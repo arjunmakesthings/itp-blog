@@ -19,7 +19,7 @@ banhmi at banhmigos: soft bread; picked vegetables; fresh-off-the-grill meat. sa
 
 ---
 
-[[matt]]'s humanness to ask for a hug. [[gwen]]'s invitations for conversations. [[ryan]]'s respect. [[aram]]'s care. [[alanna]]'s smile. [[rob]]'s struggle. [[cody]]'s anxiety. [[ivan]]'s cheerfulness. [[gabriel]] & [[nataly]]'s playfulness. [[tvishaa]]'s random email. [[christina tran]]'s invite. [[phil]]'s eagerness. [[greg-shakar]]'s curiosity. [[daniel shiffman]]'s excitement. bumping into [[tom-igoe]]. [[shloka]]'s mention of blog. [[matt]]'s mention of blog. [[christina tran]]'s mention of blog. [[shobhan]]'s github comment on blog. blog open on [[aram]]'s  computer screen. [[sofi]]'s laser-engraving question. [[sharleen]]'s unannounced conversations. [[b]], [[nikolai]], [[nasif]]'s inclusion at the lunch table. [[prisha]]'s request for reviving the synth-wall. [[ian cox]]'s journey as a father. 
+[[matt]]'s humanness to ask for a hug. [[gwen]]'s invitations for conversations. [[ryan]]'s respect. [[aram]]'s care. [[alanna]]'s smile. [[rob]]'s struggle. [[cody]]'s anxiety. [[ivan]]'s cheerfulness. [[gabriel]] & [[nataly]]'s playfulness. [[tvishaa]]'s random email. [[tunapee]]'s invite. [[phil]]'s eagerness. [[greg-shakar]]'s curiosity. [[daniel shiffman]]'s excitement. bumping into [[tom-igoe]]. [[shloka]]'s mention of blog. [[matt]]'s mention of blog. [[tunapee]]'s mention of blog. [[shobhan]]'s github comment on blog. blog open on [[aram]]'s  computer screen. [[sofi]]'s laser-engraving question. [[sharleen]]'s unannounced conversations. [[b]], [[nikolai]], [[nasif]]'s inclusion at the lunch table. [[prisha]]'s request for reviving the synth-wall. [[ian cox]]'s journey as a father. 
 
 ---
 

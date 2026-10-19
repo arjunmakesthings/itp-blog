@@ -31,4 +31,4 @@ i was so competitive last year — like an inhibitor implanted in my brain that
 
 ---
 
-thanks to: [[matt]], [[cody]], [[nataly]], [[sophia]] for the frequent climbing; folks at the [[recurse center]]; fabrication & electronics shop-staff; all the summer-course(s)-people i got to interact with; [[christina tran]] for making this blog (and, therefore, me) feel seen; [[ryan]] & [[gwen]] for [[thesis brainstorming with gwen & ryan]]; [[marlon]] for putting up with my [[2608-mapping]]; [[prisha]] for the camera help.
+thanks to: [[matt]], [[cody]], [[nataly]], [[sophia]] for the frequent climbing; folks at the [[recurse center]]; fabrication & electronics shop-staff; all the summer-course(s)-people i got to interact with; [[tunapee]] for making this blog (and, therefore, me) feel seen; [[ryan]] & [[gwen]] for [[thesis brainstorming with gwen & ryan]]; [[marlon]] for putting up with my [[2608-mapping]]; [[prisha]] for the camera help.

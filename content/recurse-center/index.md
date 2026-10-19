@@ -8,7 +8,7 @@ done in summer-2026.
 
 ---
 
-first heard about the [recurse-center](https://www.recurse.com/?ref=darklang) via [[phil]]'s sharing of their [social rules](https://www.recurse.com/manual#sub-sec-social-rules), during [[intro-to-fabrication/index|intro-to-fabrication]]. later, heard more about it from [[christina tran]], [[michael suguitan]] & [[nikolai]]. 
+first heard about the [recurse-center](https://www.recurse.com/?ref=darklang) via [[phil]]'s sharing of their [social rules](https://www.recurse.com/manual#sub-sec-social-rules), during [[intro-to-fabrication/index|intro-to-fabrication]]. later, heard more about it from [[tunapee]], [[michael suguitan]] & [[nikolai]]. 
 
 it is meant to be a place where a bunch of talented programmers come together (under the social premise of a 'programming-retreat'), work at the edge of their abilities & produce self-directed work. i was accepted into the summer cohort of 2026.
 

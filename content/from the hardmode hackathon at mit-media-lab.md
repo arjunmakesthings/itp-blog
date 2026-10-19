@@ -6,7 +6,7 @@ tags:
 noteOrder: "272"
 draft: "false"
 ---
-did with [[fabri]], [[christina tran]], michael suguitan & shenai chan.
+did with [[fabri]], [[tunapee]], michael suguitan & shenai chan.
 
 ---
 

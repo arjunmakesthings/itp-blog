@@ -15,7 +15,7 @@ photos:
 
 ![[christina-1.webp]]
 
-^ taken by [[christina tran]]
+^ taken by [[tunapee]]
 
 ![[jisoo-1-1.webp]]
 
