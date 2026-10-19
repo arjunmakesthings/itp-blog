@@ -29,3 +29,7 @@ being around [[aram]] has made me better at thinking about a neat system from th
 
 ---
 
+achieved with [[making 2-d automata]]. 
+
+![[IMG_8618.mp4]]
+
