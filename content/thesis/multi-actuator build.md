@@ -33,3 +33,4 @@ achieved with [[making 2-d automata]].
 
 ![[IMG_8618.mp4]]
 
+i had a thought about treating each display mechanism as exploring a paradigm of human expression: movement; communication; sharing (perhaps touch?). 
