@@ -97,3 +97,7 @@ will give you smoother interpolation between edges:
 
 ![[Screenshot 2026-10-16 at 23.17.23.webp|480]]
 
+did a few things afterwards: https://cs.nyu.edu/~ay3020/graphics/hw5/
+
+tried changing geometry (visually) of the shape. got claude to build out a small list of equations for all possible quadric-shapes. 
+

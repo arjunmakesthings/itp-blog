@@ -58,7 +58,79 @@ speaks about gestalt showing how the brain 'constructs' reality. was an interest
 > 
 > Try develop a interface for "navigation by creation" where as a person changes their picture or text they move in the vast space of the neural net to see other people are making
 
+i got interested in dimensionality. made this first: 
 
+![[on-dimensionality.webp]]
+
+then had an idea from [[total pixel space, by jacob adler]]. programmed by hand. 
+
+``` js
+/*
+an exploration of pixel space. 
+
+think of an image as a 2-d grid of pixels. now, think of each pixel within that grid as a walker in 3-dimensional-space (rgb). each dimension is finite, meaning that the space ranges from 0 - 255. 
+
+the origin position of the walker at px[a] is (r,g,b) of px[a]. 
+
+given a point in time t, in t + 1 the walker moves in one of 3 possible directions: move forward (increment); move backward (decrement) or stay (neither). then, the walker has 27 possible positions for each t + 1. 
+*/
+
+let img;
+let px_space = [];
+
+function preload() {
+  img = loadImage("./test-image.jpg");
+}
+
+function setup() {
+  createCanvas(800, 800);
+  pixelDensity(1);
+  noStroke();
+
+  img.resize(0, width);
+  //image(img, 0, 0);
+
+  let px = img.pixels;
+  console.log(px);
+}
+
+function draw() {
+  //for each pixel, we go over their values and update them.
+  img.loadPixels();
+  //image pixels are stored as [r,g,b,a].
+  for (let i = 0; i < img.pixels.length; i++) {
+    if (i % 4 === 3) continue; // Skip alpha
+
+    let p = Math.random();
+
+    if (p < 1 / 3) {
+      img.pixels[i] = (img.pixels[i] - 1 + 256) % 256;
+    } else if (p < 2 / 3) {
+      continue;
+    } else {
+      img.pixels[i] = (img.pixels[i] + 1) % 256;
+    }
+  }
+  img.updatePixels();
+
+  image(img, 0, 0);
+}
+
+
+```
+
+
+![[Screen Recording 2026-10-20 at 15.18.12.mp4]]
+
+i also tried to implement the noise stuff i did for [[cg_experiments_week-6 | computer-graphics_week-6]], but failed. 
+
+for my next making task, i decided to simply 'vibe' with claude-code. i wondered: what happens if i think of complex ideas, and the code is merely the tool for me to realize it?
+
+my idea came when [[dan-o]] said that opposing people still relate to someone in some dimensions. i wondered how lovely it would be for a person to come to a website, enter the names of two people that they think have drastically opposing views (say a democrat & a republican), and a model gets all the data they have on them (quotes & such), and show in what ways they might be similar. each dimension can be thought of as grounds for separation or similarity. 
+
+from here on, i refer to claude-code & myself as we: 
+
+first, we checked what a navigable multidimensional space would look like on a computer: what is the 'n' that it can handle? 
 
 
 
