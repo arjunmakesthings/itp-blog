@@ -1,0 +1,1 @@
+part of itp-'27. made a rocket-ship-controller in undergrad, that flew 10, 000 feet or something. snowboards. 

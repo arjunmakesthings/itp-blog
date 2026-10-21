@@ -29,7 +29,6 @@ from case against reality:
 
 speaks about gestalt showing how the brain 'constructs' reality. was an interesting premise; but i wasn't particularly convinced. 
 
-
 ---
 
 # writing: 
@@ -46,6 +45,20 @@ speaks about gestalt showing how the brain 'constructs' reality. was an interest
 > Do the many correlations of machine learning give you a new tool for more nuanced connections between people? Can you depict more connection than a linear feed? Will they allow our pluralistic societies have less binary choices in finding bonds with other people.
 > 
 > What should you put adjacent to what? How will depict 1000 dimensions on using your two dimensional phone or laptop?
+
+i think thinking about dimensionality was interesting (as proved by my drawing below), and so was hoffman's case. the example of the beetle is an astute observation. 
+
+i guess the problem is that we can't really find out. we can't really find out what reality is, if not for the one we perceive (i.e through the interface that our existence affords us). 
+
+however multidimensional our thinking may be, i still think it must be reduced (and i use that word carefully) to navigable space, to be able to be communicated with the larger world. the wiki on [dimensions](https://en.wikipedia.org/wiki/Dimension) discusses that. 
+
+i am actually at a loss for how one may represent a navigable higher-dimensional space. the maximum that i could achieve was 4-d (with the fourth dimension being time). i think it must be one of the great interface-design problems. while pondering about this, it occurs to me that maybe a whole new device must be invented for people to navigate higher-dimensional spaces. i wonder if such movement would be disorienting — however. fascinating; fascinating challenge. 
+
+in another line of thought (see [[diagrams to understand & explain]]), i argued that all work is translation (and that it leads to loss and what-not). i think, connecting my thesis-enquiries with this & [[sapolsky's lectures]], i think all human (thought)work is dimension-reduction. actually, it's all reductive. 
+
+![[IMG_8621.webp|356]]
+
+funnily enough, i'm reminded of [[prachi]] saying: "everything is divergence, convergence ... that's it — there's nothing more to it".  
 
 ---
 
@@ -99,7 +112,7 @@ function draw() {
   img.loadPixels();
   //image pixels are stored as [r,g,b,a].
   for (let i = 0; i < img.pixels.length; i++) {
-    if (i % 4 === 3) continue; // Skip alpha
+    if (i % 4 === 3) continue; //skip alpha.
 
     let p = Math.random();
 
@@ -132,6 +145,53 @@ from here on, i refer to claude-code & myself as we:
 
 first, we checked what a navigable multidimensional space would look like on a computer: what is the 'n' that it can handle? 
 
+these got extremely complicated for a person to handle:
+![[Screenshot 2026-10-20 at 23.03.28.webp]]
+i decided to reduce dimensions. it's easy for us to view something in 3-dimensions. therefore, even in an n-dimensional comparison, one can see their n-dimensional similarity; but that doesn't tell you anything. 
+
+think of each parameter as a number line. therefore, the max you can see in one go — atleast that is navigable — is three. so, i'll work with that constraint. 
+
+after that, we spent a long time thinking about the architecture of this thing: must results be fetched by a model, or should it be scraped? if scraped, from where? how recent must the data be? should we cache or not? and so on. 
+
+then, while claude programmed, i wrote the poetic anchors: 
+
+``` txt
+
+if two people seem different, how different are they really? 
+
+---
+
+this webpage allows you to view popular us-politicians as vectors in multidimensional space. each 'dimension' is a topic that they've both spoken about, and therefore can be assessed for the polarity of stance that they take. dimensions are selectable & represented live; stances are extracted from linked sources (wikiquote, ontheissues.org, the american presidency project); polarity or similarity is assessed by averaging analyses by two different popular large-language-models. 
+
+--- 
+
+discarded stuff: 
+
+on this webpage, you can view two people as vectors in multidimensional space. seeing them in all n-dimensions at once might show you difference 
 
 
+think of two people
+on earth
+as vectors
+in multidimensional space. 
 
+of-course, they seem dissimilar & separated. 
+
+if you reduce dimensions, however, you may find that the same two people might actually agree on a few things.
+
+this project displays that; for the following people: 
+
+
+```
+
+in response to a question that [[joy]] asked me (and it was mentioned in class too), i realized that ==shared-minds is a good way to explore what code as a tool (as opposed to a medium (see [[notes from light exhibition by zach lieberman]])) looks like.==
+
+review files for each pair: 
+
+![[Screenshot 2026-10-21 at 00.55.54.webp]]
+
+video demo: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FOynoBpITP8?si=1q5XW8yPDFJFytpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+url: https://arjunmakesthings.github.io/shared-minds_f26/week-6/how-similar-are/
