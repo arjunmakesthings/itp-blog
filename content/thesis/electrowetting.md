@@ -109,5 +109,14 @@ he gave me a conductive ito sheet.
 
 ![[IMG_8565.webp|340]]
 
+---
 
+[[nikolai]] helped me figure out that for an svg, you want to export it as 'inline style' and not internal css. 
 
+bantam-milled a pcb to test 1-d movement with high-voltage transistors. 
+
+![[IMG_8624.jpg|409]]
+
+small build: https://www.youtube.com/watch?v=V_h0AEX9wQo
+
+waiting for my high-voltage transistors to come in on monday.
