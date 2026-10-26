@@ -23,7 +23,7 @@ the other bit of reflection worth articulating about is that cubist painters wer
 
 look at this pollock sketch: 
 
-![[IMG_8640.jpg|395]]
+![[IMG_8640.webp|395]]
 
 it such a beautiful exploration of form — what can the human head look like? i don't know the exact question he was trying to explore, but the sheet reveals that he was trying to find a form; ==a way to look at something in a way that hasn't been done before==. 
 
