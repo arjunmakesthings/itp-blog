@@ -84,13 +84,11 @@ curl -L https://itp.nyu.edu/classes/undnet/assignments/#Web_Server -v
 
 ---
 
-had a hard time collaborating with people; perhaps because it wasn't as interesting to them.
+had a hard time collaborating with people; perhaps because of time & interest-levels.
 
 for my report, since i already worked on some sections earlier, i decided to do some more digging about the structure of an rfc. 
 
-if you run curl the same rfc from rfc editor — [rfc 2026](https://www.rfc-editor.org/info/rfc2026/) — and from the ietf website — [rfc 2026 @ietf](https://datatracker.ietf.org/doc/rfc2026/), you get different results. 
-
-![[Screenshot 2026-10-26 at 09.38.35.webp]]
+if you run curl the same rfc from rfc editor — [rfc 2026](https://www.rfc-editor.org/info/rfc2026/) — and from the ietf website — [rfc 2026 @ietf](https://datatracker.ietf.org/doc/rfc2026/), you get different results. ![[Screenshot 2026-10-26 at 09.38.35.webp]]
 
 one is a minimized file (rfc-editor) — perhaps to save space — while the other is more readable.
 
@@ -173,9 +171,6 @@ the page was damn confusing.
 cluster page: https://authors.ietf.org/rfc-publication-process
 
 ![[Screenshot 2026-10-26 at 10.26.28.webp]]
-
-
-
 rfcxml files. now using kramdown-rfc: https://rpc-wiki.rfc-editor.org/doku.php?id=pilot_test_kramdown_rfc
 
 policies: 
@@ -208,3 +203,10 @@ A stream representative for the Independent Stream: either the Independent Submi
 The RFC Series Consulting Editor (RSCE)
 
 from: https://www.rfc-editor.org/info/rfc9920/#section-2
+
+---
+
+wrote and made more changes to the written report; thought about how to present. 
+
+https://docs.google.com/document/d/1J8u5oWiHi9bKhDAi6mZAYXRDgqxkxgR-nybV9K-KvxY/edit?usp=sharing
+
