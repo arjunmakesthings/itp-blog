@@ -23,6 +23,21 @@ watch: [moonwalking with einstein](https://www.ted.com/talks/joshua_foer_feats_o
 > 
 > Importantly for this class can you make different locations in space bring you in contact with other people. You may have heard of the multiverse theory in Physics of parallel universes that in superimposition which can seem a little hard to swallow. But it is easy to imaging 8 billion parallel universes, one for the internal life of each inhabitant of earth. Can you building a interface that conjures the superimpositions of all those people.
 
+as i wrote in [[sm_experiments_week-6]], all work is dimension reduction.
+
+![[IMG_8621.webp|356]]
+
+therefore, since an interface is a space, dimension-reduction (and, therefore, loss) is inevitable. 
+
+i also once heard that navigating more than 3-dimensions feels unnatural (therefore only mathematicians can comprehend that). but we exist in many dimensions — we just never needed to represent them in space. 
+
+if you separate the inner world of the mind, and the physical world that we live in, the body is the interface between the two worlds. on one side, we have incomprehensible space — one that we, perhaps, can never map in our time as human-beings; on the other, we have perfectly navigable 3-dimensional space. and then we have time — one that we have zero control over, but we live across it. 
+
+wandering in the brain is amazing, because we don't need to retrace the steps of how we got there. we also don't need to survey the extent of that space, but we need to do so for the physical space. 
+
+i realized i wasn't going anywhere with all of what i wrote above. 
+
+i don't know — the idea of dimensional-spaces is exciting. i don't think the question is whether these spaces need to be navigated how bodies do (and therefore are restricted to 3-axes-of-freedom). i think an entirely new modality to navigate higher-dimensional spaces must be looked at. what that is — i don't currently know. 
 
 ---
 
@@ -40,9 +55,33 @@ watch: [moonwalking with einstein](https://www.ted.com/talks/joshua_foer_feats_o
 > Car Commercial 1 and 2,
 > Inception 
 
-got steps to work. 
+showing 3-d on a computer screen was not exciting enough for me. 
+
+i was excited by the idea of 'space', and wanted to re-explore the idea of [[total pixel space, by jacob adler]]. 
+
+i explain what i did in this video: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FZNw20aMkZg?si=wnstOjaNC41Ib-6C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+the math: 
+
+``` txt
+
+a 100x100 image has 30,000 channel values (r, g, b for each of 10,000 pixels), so there are about 10^72,247 possible images. the room is a 2-d grid of cells, one cell per step. every cell is a fixed address in that space and holds exactly one image. the same cell always shows the same image, and in practice no two cells share one.
+
+the images are scrambled across the grid, so neighboring cells hold unrelated images. almost all of them look like static. a recognizable picture exists somewhere in the space, but it is astronomically far from any cell you could walk to.
+
+```
+
+to do so, i first thought about this whole thing: 
 
 ![[IMG_8647.webp|523]]
+
+calibrated the sensors, and worked with them (code files are [here](https://github.com/arjunmakesthings/shared-minds_f26/tree/main/week-7)), and then made this simple prototype. 
+
+i think it's more meaningful to explore a 4-dimensional space (r,g,b,a) by translating real-world movement (x, y, z, time). and i think a more 1:1 translation would be more effective. 
+
+also, you can think of people walking across space as pixels. therefore, movement by people can also be expressed as r, g, b, a transformations. anyhow, this is definitely a larger idea — and i just didn't have enough time to explore that this week. 
 
 
 
