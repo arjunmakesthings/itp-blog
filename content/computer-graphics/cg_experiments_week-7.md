@@ -484,3 +484,239 @@ in glsl:
 vec4 nor = vec4(a_nor, 0.) * uMI;
 ```
 
+broken sphere implementation: 
+
+![[Screen Recording 2026-10-27 at 23.01.11.mp4]]
+
+i looked at lighting in depth. 
+
+``` c
+      void main(){
+        vec3 l_pos = vec3(0., 1., 1.); 
+        float d = max(0., dot(v_nor, l_pos)); 
+
+        frag_col = vec4(vec3(d), 1.); 
+      }
+
+```
+
+this shows you which normal is facing the light.
+
+from ken's notes: 
+
+``` txt
+A simple light source at infinity can be defined as an rgb color, together with an xyz light direction:
+
+   vec3 lightColor;     // rgb
+   vec3 lightDirection; // xyz
+A diffuse simple surface material can be defined by an rgb "ambient" component, which is independent of any particular light source, and an rgb "diffuse" component, which is added for each light source:
+   vec3 ambient;   // rgb
+   vec3 diffuse;   // rgb
+The figure to the right shows a diffuse sphere, where the point at each pixel is computed as:
+ambient + lightColor * diffuse * max(0, normal • lightDirection)
+ 	
+
+Ray tracing: Multiple light sources
+
+If the scene contains more than one light source, then pixel color for points on the sphere can be computed by:
+
+ambient + ∑n ( lightColorn * diffuse * max(0, normal • lightDirectionn) )
+where n iterates over the lights in the scene.
+
+```
+
+``` txt
+
+with spec: 
+
+ambient + ∑ₙ lightColorₙ ( diffuse max(0, normal • lightDirectionₙ) + specular max(0, reflectionDirectionₙ • eyeDirection)^power )
+
+or 
+
+ambient + lightColor * ( diffuse * max(0, normal • lightDirection) + specular * max(0, reflectionDirection • eyeDirection)^power )
+
+or ambient + diffuse * max(0, normal • lightDirection) + specular * max(0, reflectionDirection • eyeDirection)^power
+
+```
+
+surface colors: https://learnwebgl.brown37.net/10_surface_properties/surface_properties_color.html
+
+once i understood all of that, i made one more sketch with multiple spheres: 
+
+![[Screen Recording 2026-10-28 at 01.23.46.mp4]]
+
+still:
+
+![[Screenshot 2026-10-28 at 01.24.18.webp]]
+
+code: 
+
+``` html
+<!-- multiple spheres: -->
+
+<body bgcolor="black">
+  <canvas id="canvas" width="800" height="800"></canvas>
+
+  <!-- scripts: -->
+  <script src="../assets/webgl-2.1.js"></script>
+  <script src="../assets/library.js"></script>
+
+  <!-- webgl: -->
+  <script>
+
+    const num = 20;
+    let sca = 0.5; 
+
+    function Scene() {
+      //helpers:
+      let make_cube = () => [
+        1, -1, 1, 1, 0, 0, 1, 1, -1, 1, 0, 0, 1, -1, -1, 1, 0, 0, 1, -1, 1, 1,
+        0, 0, 1, 1, -1, 1, 0, 0, 1, 1, 1, 1, 0, 0, -1, -1, 1, -1, 0, 0, -1, 1,
+        -1, -1, 0, 0, -1, -1, -1, -1, 0, 0, -1, -1, 1, -1, 0, 0, -1, 1, -1, -1,
+        0, 0, -1, 1, 1, -1, 0, 0,
+
+        -1, 1, 1, 0, 1, 0, 1, 1, -1, 0, 1, 0, -1, 1, -1, 0, 1, 0, -1, 1, 1, 0,
+        1, 0, 1, 1, -1, 0, 1, 0, 1, 1, 1, 0, 1, 0, -1, -1, 1, 0, -1, 0, 1, -1,
+        -1, 0, -1, 0, -1, -1, -1, 0, -1, 0, -1, -1, 1, 0, -1, 0, 1, -1, -1, 0,
+        -1, 0, 1, -1, 1, 0, -1, 0,
+
+        -1, 1, 1, 0, 0, 1, 1, -1, 1, 0, 0, 1, -1, -1, 1, 0, 0, 1, -1, 1, 1, 0,
+        0, 1, 1, -1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, -1, 1, -1, 0, 0, -1, 1, -1,
+        -1, 0, 0, -1, -1, -1, -1, 0, 0, -1, -1, 1, -1, 0, 0, -1, 1, -1, -1, 0,
+        0, -1, 1, 1, -1, 0, 0, -1,
+      ];
+
+      //sphere with n 'segments':
+      function make_sphere(n) {
+        let vs = [];
+
+        let point = (u, v) => {
+          let theta = 2 * Math.PI * u;
+          let phi = Math.PI * v - Math.PI / 2;
+          let x = Math.cos(theta) * Math.cos(phi);
+          let y = Math.sin(theta) * Math.cos(phi);
+          let z = Math.sin(phi);
+          return [x, y, z, x, y, z]; //unit sphere: normal is the same as position.
+        };
+
+        for (let i = 0; i < n; i++)
+          for (let j = 0; j < n; j++) {
+            let u0 = i / n,
+              u1 = (i + 1) / n;
+            let v0 = j / n,
+              v1 = (j + 1) / n;
+            vs.push(
+              ...point(u0, v0),
+              ...point(u1, v0),
+              ...point(u1, v1),
+              ...point(u0, v0),
+              ...point(u1, v1),
+              ...point(u0, v1),
+            );
+          }
+
+        return vs;
+      }
+
+      this.vertex_size = 6;
+
+      this.vertex_attributes = {
+        a_pos: { size: 3, position: 0 },
+        a_nor: { size: 3, position: 3 },
+      };
+
+      let gold = {
+        amb: [0.3, 0.2, 0.0],
+        diff: [0.3, 0.2, 0.0],
+        spec: [0.6, 0.4, 0, 20],
+      };
+
+      let jade = {
+        amb: [0.135, 0.2225, 0.1575],
+        diff: [0.54, 0.89, 0.63],
+        spec: [0.63, 0.72, 0.63, 55],
+      };
+
+      //accept a number, and make shapes:
+      function make_shapes(n){
+        let temp = []; 
+        for (let i = 0; i<n; i++){
+          let r = 10 + Math.random() * (50 - 10);
+          let rand_material = {
+            amb: [Math.random(), Math.random(), Math.random()],
+            diff: [Math.random(), Math.random(), Math.random()],
+            spec: [Math.random(), Math.random(), Math.random(), r],
+          };
+          temp.push({material: rand_material, matrix: new Matrix(), vertices: make_sphere(100)}); 
+        }
+
+        return temp; 
+      }
+
+      this.shapes = make_shapes(num); 
+
+
+      this.vertex_shader = `#version 300 es
+      uniform mat4 u_mf, u_mi;
+      in vec3 a_pos, a_nor;
+      out vec3 v_pos, v_nor;
+
+      void main(){
+        vec4 pos = u_mf * vec4(a_pos, 1.);
+        vec4 nor = vec4(a_nor, 0.) * u_mi;
+        v_pos = pos.xyz / pos.w;
+        v_pos.z *= -1.;
+        v_nor = nor.xyz;
+        gl_Position = vec4(v_pos, 1.);
+      }`;
+
+      this.fragment_shader = `#version 300 es
+      precision highp float; 
+
+      in vec3 v_pos, v_nor; 
+      out vec4 frag_col; 
+
+      uniform float u_time; 
+      uniform vec3 u_amb, u_diff; 
+      uniform vec4 u_spec; 
+
+      void main(){
+        vec3 l_dir = normalize(vec3(cos(u_time), 1. + 1. * sin(u_time), 1.)); 
+        vec3 n = normalize(v_nor); 
+
+        vec3 v = vec3(0., 0., 1.); 
+
+        float sim = dot (n, l_dir); 
+        vec3 ref = 2. * dot(n, l_dir) * n - l_dir; 
+
+        vec3 light = u_amb + noise(v_pos) + u_diff * max (0., sim) + u_spec.rgb * pow(max(0., dot(ref, v)), u_spec.w); 
+
+        frag_col = vec4(light, 1.); 
+      }
+      `;
+
+      //define variables:
+      let start_time = Date.now() / 1000;
+
+      this.update = () => {
+        let t = Date.now() / 1000 - start_time;
+        set_uniform("1f", "u_time", t);
+
+        for (let i = 0; i<this.shapes.length; i++){
+          let m = this.shapes[i].matrix; 
+          m.identity(); 
+          const x = sca * i - 2 + sca; 
+          const y = 0.5 + 0.5 * Math.sin(t + x);
+          const z = 0;
+          m.move(x, y, z);  
+          m.scale(1 + 1 * Math.sin(t)); 
+        }
+      };
+
+    }
+
+    gl_start(canvas, new Scene());
+  </script>
+</body>
+
+```
