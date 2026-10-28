@@ -40,7 +40,9 @@ watch: [moonwalking with einstein](https://www.ted.com/talks/joshua_foer_feats_o
 > Car Commercial 1 and 2,
 > Inception 
 
+got steps to work. 
 
+![[IMG_8647.webp|523]]
 
 
 

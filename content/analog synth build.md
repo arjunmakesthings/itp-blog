@@ -5,7 +5,7 @@ tags:
 noteOrder: "526"
 draft: "false"
 ---
-with [[prisha]]. 
+![[IMG_8646.mp4]]with [[prisha]]. 
 
 ---
 # 261013: 
@@ -28,3 +28,17 @@ wein bridge oscillator frequency calculation:
 made three oscillators: 
 
 ![[IMG_8609.webp]]
+
+---
+
+# 261027: 
+chaining 555-s together: 
+
+![[chaining-555-s.webp|555]]
+
+atari punk circuit:
+
+![[atari-punk_555.webp|555]]
+
+source: https://electroidiot.com/idiots-guide-to-the-555-timer-ic/#chaining-555-timers
+

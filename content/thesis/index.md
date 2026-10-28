@@ -17,5 +17,6 @@ mentored by [[sharleen]].
 - [syllabus](https://sites.google.com/nyu.edu/itp-thesis/). 
 - [part-1 updates](https://docs.google.com/forms/d/e/1FAIpQLScWKaMuefF3hngzNL4moAkExczsI6bxse2zeiB2smDvdhsvPQ/viewform). 
 - self [code repo](https://github.com/arjunmakesthings/itp-thesis).
+- [sharleen's presentation](https://docs.google.com/presentation/d/1CBwveNNDPVSLbAipR5BR5A9UN9X_w6tAr14Rom23lR0/edit?usp=sharing).
 
 ---
