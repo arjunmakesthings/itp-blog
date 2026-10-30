@@ -79,3 +79,9 @@ Wireworld
 
 ---
 
+continuous spatial automatons: 
+
+https://en.wikipedia.org/wiki/Continuous_spatial_automaton
+
+> Unlike a cellular automaton, which has a discrete grid of states, a continuous spatial automaton has a continuum of locations in one or more dimensions.
+

@@ -11,6 +11,10 @@ thesis specific to-do list, hidden from the public-website.
 - [ ] explore alternative pixel representations -> conceptually. 
 - [ ] write 2d cellular automata programs in js. 
 
+articulate connections between: https://drive.google.com/file/d/1txGs52j9oIYGe18dB9MkCFHHcw4euINB/view: 
+
+shobhan asked me what is wonder, and curiosity: and there's a link between explorative curiosity (where interaction-design is largely exploitative (rewards; feedback)). 
+
 ---
 # academic formalities:
 

@@ -19,6 +19,30 @@ an always evolving list of things to do and read; hidden from the public website
 - [ ] comp graphics — program
 - [ ] shared-minds — assignments
 - [ ] look at sewing machine
+
+with tom: 
+
+- tushar goyal -> red hat, blue hat class. 
+- info sec -> 
+
+thesis is a way to reflect where you're at
+
+tom says i'm doing science — not art. 
+
+where does it fail? 
+
+deeply irrational things. 
+
+some easy to control -> some not easy to control. 
+
+speaking with radio transmitter vs receiver 
+
+the medium determines the messages that can be sent on it.
+
+with dan shiffman: 
+
+- https://ncase.me/polygons/
+
 ---
 
 # parked:
