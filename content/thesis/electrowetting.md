@@ -120,3 +120,20 @@ bantam-milled a pcb to test 1-d movement with high-voltage transistors.
 small build: https://www.youtube.com/watch?v=V_h0AEX9wQo
 
 waiting for my high-voltage transistors to come in on monday.
+
+---
+
+didn't work because the heights were not double of that of the droplet. milled again. 
+
+![[IMG_8658.jpg|397]]
+
+![[IMG_8659.jpg|399]]
+
+[[david rios]] helped me figure out the electronics. 
+
+got no actuation after multiple attempts. could not figure out why. 
+
+---
+
+[[nikolai]] suggested using an a.i. model to suggest an experiment design ... i had a lot of problems doing that. it kept hallucinating and suggesting more complicated builds. 
+

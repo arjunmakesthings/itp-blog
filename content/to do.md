@@ -43,6 +43,10 @@ with dan shiffman:
 
 - https://ncase.me/polygons/
 
+send autonomous agent definition to dan shiffman — differences between wiki and his definitions
+
+
+
 ---
 
 # parked:

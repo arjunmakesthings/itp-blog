@@ -5,7 +5,9 @@ tags:
 noteOrder: "526"
 draft: "false"
 ---
-![[IMG_8646.mp4]]with [[prisha]]. 
+build with [[prisha]]. 
+
+![[IMG_8646.mp4]]
 
 ---
 # 261013: 
@@ -41,4 +43,11 @@ atari punk circuit:
 ![[atari-punk_555.webp|555]]
 
 source: https://electroidiot.com/idiots-guide-to-the-555-timer-ic/#chaining-555-timers
+
+---
+
+# 261031:
+jam -1: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/REOZ9q-hsw4?si=BSak2K48ilMk1RH6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
