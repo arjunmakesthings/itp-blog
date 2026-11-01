@@ -16,3 +16,139 @@ draft: "false"
 > 
 > As usual, use your imagination, and have fun with it!
 
+before i made anything, there was a lot of backend work to do. 
+
+first, i made a shapes library; so that i can define multiple shapes: 
+
+``` js
+//return a sphere with n-segments:
+function make_sphere(n) {
+  let vs = [];
+
+  let point = (u, v) => {
+    let theta = 2 * Math.PI * u;
+    let phi = Math.PI * v - Math.PI / 2;
+    let x = Math.cos(theta) * Math.cos(phi);
+    let y = Math.sin(theta) * Math.cos(phi);
+    let z = Math.sin(phi);
+    return [x, y, z, x, y, z]; //unit sphere: normal is the same as position.
+  };
+
+  for (let i = 0; i < n; i++)
+    for (let j = 0; j < n; j++) {
+      let u0 = i / n,
+        u1 = (i + 1) / n;
+      let v0 = j / n,
+        v1 = (j + 1) / n;
+      vs.push(
+        ...point(u0, v0),
+        ...point(u1, v0),
+        ...point(u1, v1),
+        ...point(u0, v0),
+        ...point(u1, v1),
+        ...point(u0, v1),
+      );
+    }
+
+  return vs;
+}
+
+//return a unit-length cube;
+function make_cube() {
+  return [
+    //+x face:
+     1, -1,  1,    1,  0,  0,
+     1,  1, -1,    1,  0,  0,
+     1, -1, -1,    1,  0,  0,
+     1, -1,  1,    1,  0,  0,
+     1,  1, -1,    1,  0,  0,
+     1,  1,  1,    1,  0,  0,
+
+    //-x face:
+    -1, -1,  1,   -1,  0,  0,
+    -1,  1, -1,   -1,  0,  0,
+    -1, -1, -1,   -1,  0,  0,
+    -1, -1,  1,   -1,  0,  0,
+    -1,  1, -1,   -1,  0,  0,
+    -1,  1,  1,   -1,  0,  0,
+
+    //+y face:
+    -1,  1,  1,    0,  1,  0,
+     1,  1, -1,    0,  1,  0,
+    -1,  1, -1,    0,  1,  0,
+    -1,  1,  1,    0,  1,  0,
+     1,  1, -1,    0,  1,  0,
+     1,  1,  1,    0,  1,  0,
+
+    //-y face:
+    -1, -1,  1,    0, -1,  0,
+     1, -1, -1,    0, -1,  0,
+    -1, -1, -1,    0, -1,  0,
+    -1, -1,  1,    0, -1,  0,
+     1, -1, -1,    0, -1,  0,
+     1, -1,  1,    0, -1,  0,
+
+    //+z face:
+    -1,  1,  1,    0,  0,  1,
+     1, -1,  1,    0,  0,  1,
+    -1, -1,  1,    0,  0,  1,
+    -1,  1,  1,    0,  0,  1,
+     1, -1,  1,    0,  0,  1,
+     1,  1,  1,    0,  0,  1,
+
+    //-z face:
+    -1,  1, -1,    0,  0, -1,
+     1, -1, -1,    0,  0, -1,
+    -1, -1, -1,    0,  0, -1,
+    -1,  1, -1,    0,  0, -1,
+     1, -1, -1,    0,  0, -1,
+     1,  1, -1,    0,  0, -1,
+  ];
+}
+
+
+
+```
+
+[[ken-perlin]]'s library passes u, v coordinates for each shape too. but, since we don't use them at the moment, i decided against that. 
+
+changed all operations to operate on a stack data-structure: 
+
+``` js
+  //implement a stack:
+  let m = [[1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]],
+    top = 0;
+
+  //operations:
+  this.get = () => m[top].slice();
+  this.set = (_m) => (m[top] = _m.slice());
+
+  
+  this.push = () => { m[top+1] = m[top].slice(); top++; }
+  this.pop  = () => --top;
+
+  this.identity = ()    => m[top] = [ 1,0,0,0, 0,1,0,0, 0,0,1,0, 0,0,0,1 ];
+  this.inverse = () => {
+     let co = (c, r) => {
+        let s = (i, j) => m[top][c+i & 3 | (r+j & 3) << 2];
+        return (c+r & 1 ? -1 : 1) * ( (s(1,1) * (s(2,2) * s(3,3) - s(3,2) * s(2,3)))
+                                    - (s(2,1) * (s(1,2) * s(3,3) - s(3,2) * s(1,3)))
+                                    + (s(3,1) * (s(1,2) * s(2,3) - s(2,2) * s(1,3))) );
+     }
+     let d = [], e = 0;
+     for (let n = 0 ; n < 16 ; n++) d.push(co(n >> 2, n & 3));
+     for (let n = 0 ; n <  4 ; n++) e += m[top][n] * d[n << 2];
+     for (let n = 0 ; n < 16 ; n++) m[top][n] = d[n] / e;
+  }
+  this.move  = (x,y,z)  => { [x,y,z] = xyz(x,y,z); m[top] = mxm(m[top], [1,0,0,0, 0,1,0,0, 0,0,1,0, x,y,z,1]); }
+  this.perspective = fl => m[top] = mxm(m[top], [1,0,0,0, 0,1,0,0, 0,0,1,-1/fl, 0,0,0,1]);
+  this.scale = (x,y,z)  => { [x,y,z] = xyz(x,y,z); m[top] = mxm(m[top], [x,0,0,0, 0,y,0,0, 0,0,z,0, 0,0,0,1]); }
+  this.rotate_x = t        => m[top] = mxm(m[top], [1,0,0,0, 0,C(t),S(t),0, 0,-S(t),C(t),0, 0,0,0,1]);
+  this.rotate_y = t        => m[top] = mxm(m[top], [C(t),0,-S(t),0, 0,1,0,0, S(t),0,C(t),0, 0,0,0,1]);
+  this.rotate_z = t        => m[top] = mxm(m[top], [C(t),S(t),0,0, -S(t),C(t),0,0, 0,0,1,0, 0,0,0,1]);
+};
+```
+
+
+
+
