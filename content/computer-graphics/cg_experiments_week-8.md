@@ -16,7 +16,7 @@ draft: "false"
 > 
 > As usual, use your imagination, and have fun with it!
 
-before i made anything, there was a lot of backend work to do. 
+before i made anything, there was a lot of library-work work to do. 
 
 first, i made a shapes library; so that i can define multiple shapes: 
 
@@ -149,6 +149,30 @@ changed all operations to operate on a stack data-structure:
 };
 ```
 
+simple joint movement: 
 
+![[261101_1.mp4]]
 
+``` js
+        //global transforms:
+        m.identity();
+        m.perspective(10);
+
+        m.push();
+        m.move(0., .2, 0.);
+        m.scale(0.1, 0.2, 0.1);
+        draw(sphere, Material.red_plastic, m);
+        m.pop();
+
+        m.push();
+        m.move(0., 0., 0.);
+        //m.rotate_z(Math.PI + Math.cos(t) / 2);
+        let a = map(Math.sin(t), -1., 1., 0., 1.); 
+        m.rotate_z(a + Math.PI); 
+        m.move(0., .2, 0.);
+        m.scale(0.1, 0.2, 0.1);   // stretch first, then rotate
+        draw(sphere, Material.blue_plastic, m);
+        m.pop();
+
+```
 
