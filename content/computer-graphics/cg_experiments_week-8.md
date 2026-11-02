@@ -176,3 +176,15 @@ simple joint movement:
 
 ```
 
+order of operations is very important. 
+
+``` js
+        m.push(); 
+        m.scale(0.1, 0.2, 0.1); 
+        m.move(0., -4., 0.); 
+        draw(sphere, Material.red_plastic, m); 
+        m.pop(); 
+
+```
+
+moving and scaling won't work.
