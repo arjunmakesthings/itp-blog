@@ -44,9 +44,12 @@ words to water:
 
 https://www.engadget.com/2008-02-03-aquascript-paints-words-onto-water.html
 
-
-
 ---
+
+from brett victor: the humane representation of thought: 
+
+![[Screenshot 2026-11-03 at 13.11.43.webp]]
+
 
 
 
