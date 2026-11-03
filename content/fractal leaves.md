@@ -7,6 +7,6 @@ draft: "false"
 ---
 saw these on a walk with [[minami]]. 
 
-![[IMG_8398.webp|438]]
+![[IMG_8398.webp|389]]
 
 sometimes nature shows things that just make you marvel. related to [[other automaton stuff]]. 

@@ -187,4 +187,78 @@ order of operations is very important.
 
 ```
 
-moving and scaling won't work.
+---
+
+manual branching: 
+
+``` js
+      //this.update = () => {
+      //  let t = Date.now() / 1000 - start_time;
+        
+      //  //global transforms:
+      //  m.identity();
+      //  //m.perspective(10);
+
+      //  let bl = 0.09; 
+      //  let bw = 0.05; 
+
+      //  //set origin to base top:
+      //  m.move(0., -1. + bl + (bl * 0.2) ,0.); 
+
+      //  //base:
+      //  m.push(); 
+      //    m.scale(bw, bl, 0.1); 
+      //    draw(sphere, Material.red_plastic, m); 
+      //  m.pop();
+
+      //  //branch:
+      //  for (let y_off = 0.; y_off < 1.2; y_off+=bl * 2.){
+      //    for (let i = 0; i<2; i++){
+      //      m.push(); 
+      //        let a = (i < 1)? 0.2 : -0.2;
+      //        m.rotate_z(a * y_off);
+      //        m.move(0., bl * 2 + y_off, 0.); 
+      //        m.scale(bw, bl, 0.1); 
+      //        draw(sphere, Material.blue_plastic, m); 
+      //      m.pop();
+      //    }
+      //  }
+      //}
+
+```
+
+i implemented a recursive l-systems algorithm: 
+
+
+
+```js
+        let branch = (angle, l, w, max_depth) => {
+          if (max_depth < 0) return;
+            m.push();
+              m.rotate_z(angle);
+              m.move(0., l, 0.); //move to the center of this branch.
+
+                m.push(); //scale only drawing; not transformations.
+                  m.scale(w, l, bw);
+                  //let mat = Material.rand; 
+                  draw(shp, Material.shiny_purp, m);
+                //  if (checker == true){
+                //  console.log(mat); 
+                //  checker = false;
+                //}
+                m.pop();
+
+                //let z_displace = map(noise.simplex2(w + t * 0.2,l), -1.,1.,-0.005,0.005)
+                let z_displace = 0.021; 
+
+                //console.log(noise.simplex2(w,l)); 
+
+              m.move(0., l, z_displace); //move to tip of the branch.
+              m.rotate_x(l * Math.sin(t)); 
+              branch(angle_dev, l * scale_dev, w * scale_dev, max_depth - 1); //left:
+              branch(-angle_dev, l * scale_dev, w * scale_dev, max_depth - 1); //right.
+            m.pop();
+        };
+```
+
+![[l-systems.mp4]]
