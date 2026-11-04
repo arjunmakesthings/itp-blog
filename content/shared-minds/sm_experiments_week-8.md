@@ -22,3 +22,4 @@ watch https://www.youtube.com/watch?v=gmc4wEL2aPQ
 
 # making:
 > ask: Create an interface the challenges your perception beyond the mouse and keyboard. Ask for more from your body. As AI moves our conception of ourselves as minds, it might be helpful to redirect the craziness in a more real direction to remind ourselves that we are biological organisms with bodies. Consider both directions, your body reflecting your mind or your mind reflecting your body. Engage it in a flow rather than a sequence. Involve your buttocks. See if you can use 1) the webcam with p5Live Media to transmit real time video and audio or 2) ML5 to track motion or 3) a VR headset with ThreeJS,a to engage your neck.
+

@@ -107,16 +107,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thesis/part-1_update-5.md",
+                "file": "shared-minds/sm_experiments_week-8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "part-1_update-5"
+              "title": "sm_experiments_week-8"
+            }
+          },
+          {
+            "id": "86d695972216360a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thesis/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "dd0a1904fd58e972",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "for students confused about the value of applications.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "for students confused about the value of applications"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -323,10 +351,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b137cffad78067dc",
+  "active": "dd0a1904fd58e972",
   "lastOpenFiles": [
-    "thesis/electrowetting.md",
+    "thesis/index.md",
+    "for students confused about the value of applications.md",
+    "shared-minds/sm_experiments_week-8.md",
     "thesis/part-1_update-5.md",
+    "thesis/electrowetting.md",
     "musical-connections/mc_work-log.md",
     "understanding-networks/un_experiments_week-7.md",
     "thesis/communication expression.md",
@@ -357,11 +388,8 @@
     "nature-of-code/noc_experiments_week-5.md",
     "nature-of-code/noc_experiments_week-4.md",
     "nature-of-code/noc_experiments_week-3.md",
-    "nature-of-code/noc_class-5.md",
     "z_images/l-systems.mp4",
-    "fractal leaves.md",
     "z_images/261101_1.mp4",
-    "resources & tools/ellen & carrie's project list.md",
     "z_images/Inspiration.pdf",
     "z_images/Screenshot 2026-11-01 at 01.20.30.webp",
     "z_images/IMG_8659.jpg",
