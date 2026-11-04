@@ -8,6 +8,10 @@ draft: "false"
 # reading: 
 watch https://www.youtube.com/watch?v=gmc4wEL2aPQ
 
+people think with their hands to remember directions: 
+
+![[Screenshot 2026-11-04 at 00.31.02.webp|515]]
+
 ---
 
 # writing: 

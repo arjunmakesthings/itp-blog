@@ -24,5 +24,4 @@ hence, experiments in each week follow the same structure.
 ---
 # resources: 
 - [class website](https://itpima.web.app/smf26)
-- 
 ---

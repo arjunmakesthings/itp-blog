@@ -3,7 +3,7 @@ date: 2026-10-29
 tags:
   - writings
 noteOrder: "559"
-draft: "true"
+draft: "false"
 ---
 i need to be able to explain to a person ==what i'm doing; why i'm doing it; and why they might care==, and the way i do it must be ==convincing==.
 
