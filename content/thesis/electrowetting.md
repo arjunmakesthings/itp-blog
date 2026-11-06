@@ -137,3 +137,20 @@ got no actuation after multiple attempts. could not figure out why.
 
 [[nikolai]] suggested using an a.i. model to suggest an experiment design ... i had a lot of problems doing that. it kept hallucinating and suggesting more complicated builds. 
 
+---
+
+# 261106: 
+i asked claude to read through all of the papers i'd collected, and design an experiment protocol for me. i then followed it to the t. it took me about 12 hours — although in the middle i helped [[gabriel]] mill a pcb during my shop shift. 
+
+it is currently 0206. but i'm happy — i made progress. 
+
+actuation, with oil-suspension: 
+
+![[actuation_261106_0210.mp4]]
+
+longer video: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iz0Id-YJFns?si=80XvOKTCvUKMkzVi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+i'm too sleep to document right now, but shall do so tomorrow.
+
