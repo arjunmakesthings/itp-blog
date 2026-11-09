@@ -73,4 +73,29 @@ using lerp (val, val, amt).
 ```
 
 
+---
+
+# 261108: 
+i wrote this email to dan after looking at a couple of mid-term projects. 
+
+``` txt
+
+dear dan, 
+
+sharing some thoughts: 
+
+i think students need to be able to critically examine what they're producing. i don't think we make the space for them to do so in the class, and all of their projects become explorations with a given technology. considering that the midterm is a good marker of technical-progress — "you now know the basics", i think it's a good opportunity for them to start thinking about what they might choose to make. 
+
+a good starting point would be to get them to reflect on their projects, or for other students to give critical feedback (instead of saying "this was so cool"). i've found that forcing students to articulate good & bad things allows them to uncover what is often buried under the veil of politeness. 
+
+i don't know if you have space for this sort of work in this class, but i think it's important. if we're teaching them how to build anything, we should also help them articulate what they want to build & why. 
+
+i did a session on similar lines last year in physical-computing, in an attempt to get students to articulate what a 'good' project is to them. i believe something — something before they hop on to thinking about their final — along these lines would be helpful. 
+
+sorry; unorganized, rambling thoughts. 
+
+best, 
+arjun. 
+
+```
 
