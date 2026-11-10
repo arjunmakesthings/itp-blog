@@ -74,4 +74,45 @@ Or watch a movie that you find relevant or pick among the ones below.
 > 
 > Shared Minds are like bars
 
-from the interface theory of perception, the video about pixel space, and the video on multiverses, the obvious metaphor to me is that we move viewfinders across an infinite space of possibilities. 
+a few metaphors: 
+
+we move viewfinders across an infinite space of possibilities: all cinema; conversations; images; reality is this. 
+<figcaption>from the interface theory of perception; the video about pixel space; the video on multiverses.</figcaption>
+
+![[sm_meta-1.webp|423]]
+
+connecting people is a problem of finding dimensional space where two people (or vectors) align. [[st_experiments_week-6]] explores one such representation of this metaphor. 
+
+![[sm_meta-2.webp|414]]
+
+minds are like water-streams that meet at points, but continue flowing in their unique directions; before all of them ending up in the ocean (decay into death). ~~a social-interface~~ an interface is a force (rock, wind, obstacle) that guides the current to either points of peaceful confluence , or chaotic dissonance; or both. 
+
+![[sm_meta-3.webp|425]]
+
+minds, over time, are ~~like~~ infinite lines in space: some meet; some don't; some move in; some move out. 
+
+![[sm_meta-4.webp|429]]
+
+the more i think about these, the more strongly i believe that this shouldn't be an app. i think the whole connecting across continents is kind-of an impersonal ruse: we need more people in front of each other, with an interface helping them see each other's expansion of dimensions; so as to find one that you align with. 
+
+borrowing from [[notes from strangers need strange moments together]]: 
+
+![[Screenshot 2026-01-28 at 15.44.06.webp|470]]
+
+![[Screenshot 2026-01-28 at 15.44.17.webp|476]]
+
+new-york is more explicit with its social differences. i think it's quite beautiful. back in india, you won't find many places where the homed and homeless share space together, but you do so in new-york. people write [covetous notes](https://www.craigslist.org/search/area/newyork?cat=mis#search=2~list~0) to each other on the internet, without knowing anything about them.
+
+really, i mean: what does it take for people to find points of similarity between them? to see that you both may share the same overlap of lyrical-rap, but just the specifics are different (because either of you weren't exposed to each other's contexts).
+
+that's ~~an~~ a good social interface. it is not merely on a screen. it allows people to see what always was, but isn't apparent. it helps them see beyond visible differences of age, color, caste, creed, gender, identity, preferences, et-cetera. can you — neural network — do that? can you run your multidimensional embedding space to help me find similarities with this person that is oh-so-dissimilar, in a way that isn't forced? or better yet, can you help me see where they're coming from; can you open me up to new possibilities instead of shrinking me down to only the one in my head? 
+
+you can't. but a designer can. should. must. 
+
+am i that designer? i don't know. would i like to be? yes. 100%. i think [daily-tous-les-jours](https://www.dailytouslesjours.com/en) are that. i can strive to be. 
+
+i came into shared-minds wanting to evolve dialectic thinking partner (see [[sm_experiments_week-2]]into a physical, embodied form. probably as portfolio-padding. 
+
+but perhaps what i write about now is a more noble endeavor. 
+
+

@@ -100,23 +100,9 @@
               "icon": "lucide-file",
               "title": "mc_work-log"
             }
-          },
-          {
-            "id": "6269db9ed35389bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "understanding-networks/un_experiments_week-8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "un_experiments_week-8"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -322,14 +308,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6269db9ed35389bd",
+  "active": "1a0ea2cc40dbf0a0",
   "lastOpenFiles": [
-    "understanding-networks/un_experiments_week-7.md",
+    "shared-minds/sm_experiments_week-2.md",
+    "shared-minds/sm_experiments_week-9.md",
+    "z_images/sm_meta-4.webp",
+    "z_images/sm_meta-3.webp",
+    "z_images/sm_meta-2.webp",
+    "z_images/sm_meta-1.webp",
+    "notes from strangers need strange moments together.md",
+    "shared-minds/sm_experiments_week-6.md",
+    "shared-minds/sm_experiments_week-7.md",
     "understanding-networks/un_experiments_week-8.md",
+    "understanding-networks/un_experiments_week-7.md",
     "computer-graphics/cg_experiments_week-2.md",
     "computer-graphics/cg_experiments_week-3.md",
     "computer-graphics/cg_class-2.md",
-    "shared-minds/sm_experiments_week-9.md",
     "z_images/IMG_8703.webp",
     "z_images/IMG_8700.webp",
     "people/guy.md",
@@ -348,21 +342,12 @@
     "anannya.md",
     "eshaan.md",
     "people/olivia.md",
-    "shared-minds/index.md",
-    "computer-graphics/cg_experiments_week-8.md",
     "z_images/IMG_8694.webp",
     "z_images/IMG_8693.webp",
-    "working principles to deal with electricity.md",
-    "prototyping-electronic-devices/index.md",
-    "thesis/electrowetting.md",
     "z_images/actuation_261106_0210.mp4",
     "z_images/electrowet_260917.mp4",
     "z_images/Screenshot 2026-11-04 at 00.31.02.webp",
     "z_images/IMG_8675.mp4",
-    "z_images/IMG_8676.webp",
-    "z_images/IMG_8677.webp",
-    "z_images/Screenshot 2026-11-03 at 13.31.16.png",
-    "z_images/Screenshot 2026-11-03 at 13.11.43.webp",
     "z_images/Screen Recording 2026-11-03 at 12.35.16.mp4",
     "z_images/Screen Recording 2026-11-03 at 00.16.35.mp4",
     "z_images/l-systems.mp4",
