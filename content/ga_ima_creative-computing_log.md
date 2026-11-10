@@ -99,3 +99,16 @@ arjun.
 
 ```
 
+---
+
+for good project session: 
+
+- what skills do you have now — what can you do comfortably? 
+- what projects have you seen — what about them makes it 'good'? 
+
+borrowed from [[shobhan]]'s staging an experience: 
+- what do you want to say (concept)
+- what do you want to use (effect)
+- what do you want people to feel (affect). 
+
+what is the simplest version of this project? bring that to class. 
