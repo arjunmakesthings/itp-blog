@@ -116,7 +116,7 @@ wrote all the code over a day. took me a while, understanding node, express, and
 
 with [[ryan]] & [[matt]], i discovered that you could redirect a person with: 
 
-![[IMG_8700.jpg|575]]
+![[IMG_8700.webp|575]]
 
 took a while to add git to the pi, so that i could upload my code files. 
 
@@ -230,6 +230,6 @@ ${winners.map(w => `
 
 put this advert on the floor: 
 
-![[IMG_8703.jpg|354]]
+![[IMG_8703.webp|354]]
 
 used pm2 to keep it running, and left for the night.

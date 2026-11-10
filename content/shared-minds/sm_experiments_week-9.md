@@ -74,3 +74,4 @@ Or watch a movie that you find relevant or pick among the ones below.
 > 
 > Shared Minds are like bars
 
+from the interface theory of perception, the video about pixel space, and the video on multiverses, the obvious metaphor to me is that we move viewfinders across an infinite space of possibilities. 

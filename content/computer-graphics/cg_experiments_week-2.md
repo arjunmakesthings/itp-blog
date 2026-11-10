@@ -1,6 +1,5 @@
 ---
-date:
-  "{ date }":
+date: 2026-09-13
 tags:
   - experiments
 noteOrder: "467"
