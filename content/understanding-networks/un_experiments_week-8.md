@@ -233,3 +233,11 @@ put this advert on the floor:
 ![[IMG_8703.webp|354]]
 
 used pm2 to keep it running, and left for the night.
+
+---
+
+i came back today to find out that there were no winners. i can check the log to see if anyone accessed it, but i doubt so. 
+
+right when i was about to be dejected, [[antonia]] came up to me and said: "i've been doing your puzzle thing since the morning". she also wanted no hints, and wanted to do it herself. she said: "i love doing these things". that was wonderful. 
+
+it's okay — many people at itp are busy. it was nice to see one person curious. i see her walking around the pillars now — she missed the clue, but it's okay. 
