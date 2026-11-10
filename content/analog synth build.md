@@ -51,3 +51,10 @@ jam -1:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/REOZ9q-hsw4?si=BSak2K48ilMk1RH6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+---
+
+# 261110: 
+did some adventurous re-soldering of all joins on the panel.
+
+![[IMG_8723.webp|315]]
+

@@ -249,3 +249,26 @@ this email is sent to people on the floor that i think may be interested in netw
 ```
 
 to try and spark some competitiveness. now i shall wait & see. 
+
+photos of people trying to find it: 
+
+![[IMG_8711.webp|376]]
+
+
+![[IMG_8714.webp|382]]
+
+![[IMG_8725.webp|385]]
+
+![[IMG_8727.webp|379]]
+
+![[IMG_8728.webp|378]]
+
+![[IMG_8729.webp|376]]
+
+winners: 
+
+![[Screenshot 2026-11-10 at 15.15.36.webp]]
+
+---
+
+thanks to: [[guy]]; [[daniel shiffman]]; [[nikolai]]; [[phil]]; [[tom-igoe]]; [[antonia]]; [[gabriel]]. [[ryan]] & [[matt]] for helping me.
