@@ -178,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.1506652832031
+    "width": 271.1506652832031,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -324,6 +325,11 @@
   },
   "active": "735860b24c3a96ba",
   "lastOpenFiles": [
+    "z_images/Screenshot 2026-11-10 at 17.34.31.webp",
+    "understanding-networks/index.md",
+    "understanding-networks/un_experiments_week-8.md",
+    "understanding-networks/un_experiments_week-3.md",
+    "understanding-networks/un_experiments_week-4.md",
     "z_images/Screenshot 2026-11-10 at 15.15.36.webp",
     "z_images/IMG_8729.webp",
     "z_images/IMG_8727.webp",
@@ -333,14 +339,12 @@
     "z_images/IMG_8711.webp",
     "analog synth build.md",
     "z_images/IMG_8723.webp",
-    "understanding-networks/un_experiments_week-8.md",
     "musical-connections/mc_work-log.md",
     "brainwrite_261108.md",
     "shared-minds/sm_experiments_week-2.md",
     "shared-minds/sm_experiments_week-9.md",
     "z_images/sm_meta-4.webp",
     "z_images/sm_meta-3.webp",
-    "z_images/sm_meta-2.webp",
     "notes from strangers need strange moments together.md",
     "shared-minds/sm_experiments_week-6.md",
     "shared-minds/sm_experiments_week-7.md",
@@ -350,7 +354,6 @@
     "computer-graphics/cg_class-2.md",
     "people/guy.md",
     "understanding-networks/un_class-7.md",
-    "understanding-networks/index.md",
     "computer-graphics/cg_experiments_week-7.md",
     "computer-graphics/index.md",
     "ga_ima_creative-computing_log.md",
@@ -358,8 +361,6 @@
     "computer-graphics/cg_experiments_week-9.md",
     "thesis/the thesis does not need to be impressive.md",
     "thesis/the thesis just needs to be honest.md",
-    "anannya.md",
-    "eshaan.md",
     "z_images/actuation_261106_0210.mp4",
     "z_images/electrowet_260917.mp4",
     "z_images/IMG_8675.mp4",

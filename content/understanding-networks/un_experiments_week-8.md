@@ -272,3 +272,17 @@ winners:
 ---
 
 thanks to: [[guy]]; [[daniel shiffman]]; [[nikolai]]; [[phil]]; [[tom-igoe]]; [[antonia]]; [[gabriel]]. [[ryan]] & [[matt]] for helping me.
+
+---
+
+afterwards, in class, a bad actor that i do not wish to name flooded the site with a post-exploit (injecting html into the winners page). i already knew this could happen, but didn't feel the need to patch it (because i didn't expect anyone at itp to be an asshole). they got the endpoint because the code was publicly accessible, and just flooded it with shit to garner attention (they can't handle that they're not revered (or, sadly, even respected)). 
+
+![[Screenshot 2026-11-10 at 17.34.31.webp|596]]
+
+anyhow, i think this exposes a good problem. i'm always going to be surrounded by bad-actors — even in good spaces like itp. i need to figure out a way to deal with these. 
+
+this is a perfect example of one bad actor ruining it for everybody: shiffman, gabe, antonia, niko, phil: everyone who tried it. i had to restart the server to remove his injection. 
+
+and i didn't think twice because i knew no one at itp would have malicious intent. 
+
+forgot about assholes; sadly.
