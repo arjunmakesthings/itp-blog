@@ -275,23 +275,20 @@ thanks to: [[guy]]; [[daniel shiffman]]; [[nikolai]]; [[phil]]; [[tom-igoe]]; [[
 
 ---
 
-afterwards, in class, a bad actor that i do not wish to name flooded the site with a post-exploit (injecting html into the winners page). i already knew this could happen, but didn't feel the need to patch it (because i didn't expect anyone at itp to be an asshole). they got the endpoint because the code was publicly accessible, and just flooded it with shit to garner attention (they can't handle that they're not revered (or, sadly, even respected)). 
+afterwards, in class, a bad actor was likely jealous, and decided to spend his time flooding the site with exploits. i was aware of post & html exploits, but didn't feel the need to patch them; because i didn't expect anyone at itp to be an asshole. 
 
-to prove that this wasn't educational, and simply them acting poorly, this is the first line they injected: 
-
-``` txt
-arjun is an attention whore
-
-```
-
-clearly we can see who is the attention whore. amusing irony. 
+but, well, there, of-course, are some. he read code that i made publicly-accessible, just to get the post-endpoints, to do this: 
 
 ![[Screenshot 2026-11-10 at 17.34.31.webp|596]]
 
-anyhow, i think this exposes a good problem. i'm always going to be surrounded by bad-actors — even in good spaces like itp. i need to figure out a way to deal with these. 
+and just to be clear that this wasn't educational, his first line was: 
 
-this is a perfect example of one bad actor ruining it for everybody: shiffman, gabe, antonia, niko, phil: everyone who tried it. i had to restart the server to remove his injection. 
+> Arjun is an attention whore
 
-and i didn't think twice because i knew no one at itp would have malicious intent. 
+which is ironical. but anyhow. 
 
-forgot about assholes; sadly.
+i think this exposes a fantastic problem. i'm always going to be surrounded by bad actors — even in good spaces like itp. 
+
+this is a perfect example of one bad actor ruining it for everybody: shiffman, gabe, antonia, niko, phil: everyone who tried it. i had to restart the server to remove his injection, which meant that my running scoreboard had to be removed. 
+
+so, if you're working on a networks project — even if it is in a learning-environment — be careful: you must always account for assholes. 

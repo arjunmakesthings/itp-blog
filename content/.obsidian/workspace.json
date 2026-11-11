@@ -178,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.1506652832031
+    "width": 254.18838500976562,
+    "collapsed": true
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -324,9 +325,10 @@
   },
   "active": "735860b24c3a96ba",
   "lastOpenFiles": [
+    "brainwrite_261108.md",
+    "understanding-networks/un_experiments_week-8.md",
     "z_images/Screenshot 2026-11-10 at 17.34.31.webp",
     "understanding-networks/index.md",
-    "understanding-networks/un_experiments_week-8.md",
     "understanding-networks/un_experiments_week-3.md",
     "understanding-networks/un_experiments_week-4.md",
     "z_images/Screenshot 2026-11-10 at 15.15.36.webp",
@@ -339,11 +341,9 @@
     "analog synth build.md",
     "z_images/IMG_8723.webp",
     "musical-connections/mc_work-log.md",
-    "brainwrite_261108.md",
     "shared-minds/sm_experiments_week-2.md",
     "shared-minds/sm_experiments_week-9.md",
     "z_images/sm_meta-4.webp",
-    "z_images/sm_meta-3.webp",
     "notes from strangers need strange moments together.md",
     "shared-minds/sm_experiments_week-6.md",
     "shared-minds/sm_experiments_week-7.md",
