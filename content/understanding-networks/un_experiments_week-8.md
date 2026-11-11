@@ -275,22 +275,14 @@ thanks to: [[guy]]; [[daniel shiffman]]; [[nikolai]]; [[phil]]; [[tom-igoe]]; [[
 
 ---
 
-afterwards, in class, a bad actor was likely jealous, and decided to spend his time flooding the site with exploits. i was aware of post & html exploits, but didn't feel the need to patch them; because i didn't expect anyone at itp to be an asshole. 
+afterwards, in class, a student spent time flooding the site with exploits. i was aware of the possibility of these exploits, because i *chose* to make the source-code publicly accessible; since we're in a learning environment. 
 
-but, well, there, of-course, are some.
+just to be clear: their intent wasn't educational; since their first line says: "Arjun is an attention whore". ironical; but alright. they went through the source-code to get the end-point just to send that message. that's sad. 
 
 ![[Screenshot 2026-11-10 at 17.34.31.webp|596]]
 
-just to be clear that this wasn't educational, his first line was: 
+i think this exposes a fantastic problem though. one bad actor — even in a space where you don't expect one to be in — can, single-handedly, take a networked project down. these are also the types of people who're running scripts to steal valuable information from people who don't know what they're doing on the internet. 
 
-> Arjun is an attention whore
+because i didn't make a database, and was simply keeping an array to keep track of the winners, i had to restart my server and lose all the entries that people had put through the day. 
 
-which is ironical. but anyhow. 
-
-he also got the post-endpoints from reading my code: either from this blog-post or from github — both of which were done *because* this was an educational exercise. 
-
-anyhow, i think this exposes a fantastic problem. i'm always going to be surrounded by bad actors — even in good spaces like itp. 
-
-this is a perfect example of one bad actor ruining it for everybody: shiffman, gabe, antonia, niko, phil: everyone who tried it. i had to restart the server to remove his injection, which meant that my running scoreboard had to be removed. i still haven't added a fix for it, because, honestly: i don't want to. no one except an asshole would want to this. 
-
-so, if you're working on a networks project — even if it is in a learning-environment — be careful: there are always bad-actors. 
+==especially in a networked project, always account for assholes.== 
