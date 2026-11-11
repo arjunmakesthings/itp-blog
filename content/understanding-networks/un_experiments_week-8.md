@@ -277,6 +277,15 @@ thanks to: [[guy]]; [[daniel shiffman]]; [[nikolai]]; [[phil]]; [[tom-igoe]]; [[
 
 afterwards, in class, a bad actor that i do not wish to name flooded the site with a post-exploit (injecting html into the winners page). i already knew this could happen, but didn't feel the need to patch it (because i didn't expect anyone at itp to be an asshole). they got the endpoint because the code was publicly accessible, and just flooded it with shit to garner attention (they can't handle that they're not revered (or, sadly, even respected)). 
 
+to prove that this wasn't educational, and simply them acting poorly, this is the first line they injected: 
+
+``` txt
+arjun is an attention whore
+
+```
+
+clearly we can see who is the attention whore. amusing irony. 
+
 ![[Screenshot 2026-11-10 at 17.34.31.webp|596]]
 
 anyhow, i think this exposes a good problem. i'm always going to be surrounded by bad-actors — even in good spaces like itp. i need to figure out a way to deal with these. 
