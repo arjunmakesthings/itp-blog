@@ -277,18 +277,20 @@ thanks to: [[guy]]; [[daniel shiffman]]; [[nikolai]]; [[phil]]; [[tom-igoe]]; [[
 
 afterwards, in class, a bad actor was likely jealous, and decided to spend his time flooding the site with exploits. i was aware of post & html exploits, but didn't feel the need to patch them; because i didn't expect anyone at itp to be an asshole. 
 
-but, well, there, of-course, are some. he read code that i made publicly-accessible, just to get the post-endpoints, to do this: 
+but, well, there, of-course, are some.
 
 ![[Screenshot 2026-11-10 at 17.34.31.webp|596]]
 
-and just to be clear that this wasn't educational, his first line was: 
+just to be clear that this wasn't educational, his first line was: 
 
 > Arjun is an attention whore
 
 which is ironical. but anyhow. 
 
-i think this exposes a fantastic problem. i'm always going to be surrounded by bad actors — even in good spaces like itp. 
+he also got the post-endpoints from reading my code: either from this blog-post or from github — both of which were done *because* this was an educational exercise. 
 
-this is a perfect example of one bad actor ruining it for everybody: shiffman, gabe, antonia, niko, phil: everyone who tried it. i had to restart the server to remove his injection, which meant that my running scoreboard had to be removed. 
+anyhow, i think this exposes a fantastic problem. i'm always going to be surrounded by bad actors — even in good spaces like itp. 
 
-so, if you're working on a networks project — even if it is in a learning-environment — be careful: you must always account for assholes. 
+this is a perfect example of one bad actor ruining it for everybody: shiffman, gabe, antonia, niko, phil: everyone who tried it. i had to restart the server to remove his injection, which meant that my running scoreboard had to be removed. i still haven't added a fix for it, because, honestly: i don't want to. no one except an asshole would want to this. 
+
+so, if you're working on a networks project — even if it is in a learning-environment — be careful: there are always bad-actors. 

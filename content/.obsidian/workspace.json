@@ -102,7 +102,7 @@
             }
           },
           {
-            "id": "735860b24c3a96ba",
+            "id": "c4053765a831a628",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.18838500976562,
-    "collapsed": true
+    "width": 254.18838500976562
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -323,10 +322,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "735860b24c3a96ba",
+  "active": "c4053765a831a628",
   "lastOpenFiles": [
-    "brainwrite_261108.md",
+    "musical-connections/mc_work-log.md",
     "understanding-networks/un_experiments_week-8.md",
+    "brainwrite_261108.md",
     "z_images/Screenshot 2026-11-10 at 17.34.31.webp",
     "understanding-networks/index.md",
     "understanding-networks/un_experiments_week-3.md",
@@ -340,7 +340,6 @@
     "z_images/IMG_8711.webp",
     "analog synth build.md",
     "z_images/IMG_8723.webp",
-    "musical-connections/mc_work-log.md",
     "shared-minds/sm_experiments_week-2.md",
     "shared-minds/sm_experiments_week-9.md",
     "z_images/sm_meta-4.webp",
