@@ -115,4 +115,14 @@ i came into shared-minds wanting to evolve dialectic thinking partner (see [[sm_
 
 but perhaps what i write about now is a more noble endeavor. 
 
+---
+
+
+# from class: 
+- temporality — i'm connected to you now; may not be connected post now
+- spectrum vs bucketing / binary? 
+- jackie says: lock people in a room and they'll be connected
+- lense — spherical
+- can we go back from death? 
+
 

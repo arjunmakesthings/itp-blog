@@ -48,3 +48,8 @@ trace width should just be more than bit width.
 
 you can edit hole size too so that you can basically mill the whole pcb with one bit (1/32"). 
 
+---
+
+# 261111: 
+[[gabriel]]
+

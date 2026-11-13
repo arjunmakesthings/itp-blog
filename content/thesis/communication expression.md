@@ -360,3 +360,12 @@ basic call & response:
 ![[IMG_8675.mp4]]
 
 to actually make this, i'd need to figure out the electronics first — which i assume to be a simpler problem, and then write the software. this'll differ from the 2-d automata that i programmed in c earlier.
+
+---
+
+# research here: 
+- [acoustic swarm](https://communities.springernature.com/posts/acoustic-swarms-robotic-swarms-that-cooperatively-navigate-using-sound)
+  ![[robot-swarm.webp]]
+  
+- 
+

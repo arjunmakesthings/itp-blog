@@ -283,6 +283,6 @@ just to be clear: their intent wasn't educational; since their first line says: 
 
 i think this exposes a fantastic problem though. one bad actor — even in a space where you don't expect one to be in — can, single-handedly, take a networked project down. these are also the types of people who're running scripts to steal valuable information from people who don't know what they're doing on the internet. 
 
-because i didn't make a database, and was simply keeping an array to keep track of the winners, i had to restart my server and lose all the entries that people had put through the day. 
+because i didn't make a database, and was simply keeping an array to keep track of the winners, i had to restart my server and lose all the entries that people had put throughout the day.
 
 ==especially in a networked project, always account for assholes.== 
