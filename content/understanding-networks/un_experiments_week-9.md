@@ -36,11 +36,136 @@ didn't understand what the ip being shown was. her site showed the ip as: `216.1
 
 [[gabriel]]'s only accounted for get requests. 
 
+[[cody]]'s had nothing. i don't know what that site was supposed to do. 
+
 with [[alua]]'s, i was able to figure out her address & phone-number and stuff because of how she registered her domain. 
 
 ![[Screenshot 2026-11-14 at 12.28.51.webp]]
 
 sent an email to her warning her about this. 
+
+hers also had a bug where if i click all the time, it just stores values: 
+
+``` js
+    { red: '', blue: '', green: '', x: 304, y: 307 },
+    { red: '', blue: '', green: '', x: 173, y: 44 },
+    { red: '', blue: '', green: '', x: 173, y: 44 },
+    { red: '', blue: '', green: '', x: 173, y: 44 },
+    { red: '', blue: '', green: '', x: 173, y: 44 },
+    { red: '', blue: '', green: '', x: 173, y: 44 },
+    { red: '', blue: '', green: '', x: 173, y: 44 },
+    { red: '', blue: '', green: '', x: 173, y: 44 },
+    { red: '', blue: '', green: '', x: 173, y: 44 },
+    { red: '', blue: '', green: '', x: 173, y: 44 },
+    { red: '', blue: '', green: '', x: 170, y: 77 },
+    { red: '', blue: '', green: '', x: 170, y: 70 },
+    { red: '', blue: '', green: '', x: 170, y: 70 },
+    { red: '', blue: '', green: '', x: 170, y: 70 },
+    { red: '', blue: '', green: '', x: 170, y: 70 },
+    { red: '', blue: '', green: '', x: 170, y: 70 },
+    { red: '', blue: '', green: '', x: 170, y: 70 },
+    { red: '', blue: '', green: '', x: 170, y: 70 },
+    { red: '', blue: '', green: '', x: 170, y: 70 }
+
+```
+
+i was trying to programmatically add to her json, and it also accepts any kind of input: 
+
+``` js
+    { red: '', blue: '', green: '', x: 170, y: 70 },
+    { red: '', blue: '', green: '', x: 170, y: 70 },
+    { x: 0, y: 0 },
+    { x: 0, y: 0 }
+
+```
+
+i couldn't figure out why the color values weren't being posted. 
+
+figured it out, and posted: 
+
+``` js
+    { red: '127', blue: '127', green: '127', x: 'arjun', y: 70 }
+
+```
+
+made a simple scaffold to send data to (and view data from) alua's sketch: 
+
+``` js
+//for alua's sketch:
+const url = "https://letmesleeponthursdays.online/color-data";
+
+async function send_data(r,g,b,x,y) {
+  const data = {r: r, g: g, b: b, x: x, y: y}
+  const response = await fetch(url, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(data),
+  });
+
+  console.log(response.status);
+  console.log(await response.text());
+}
+
+send_data(127, 127, 127, 0, 0); 
+
+//to view:
+async function get_data() {
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`Response status: ${response.status}`);
+    }
+
+    const result = await response.json();
+    console.dir(result, { maxArrayLength: null });
+  } catch (error) {
+    console.error(error.message);
+  }
+}
+
+get_data(); 
+
+
+```
+
+will now send a circle: 
+
+![[Screenshot 2026-11-14 at 14.27.55.webp]]
+
+then i thought: 
+
+why not make it move?
+
+bad attempt (messed up math):
+
+![[Screenshot 2026-11-14 at 14.32.28.webp]]
+
+good attempt, reloading really quickly: 
+
+![[Screen Recording 2026-11-14 at 14.34.46.mp4]]
+
+^ used the scaffold and sent data for a circle which gets modified with a sine wave:
+
+``` js
+const base_x = 300; 
+const radius = 50; 
+const amplitude = 150;
+
+for (let ty = 0; ty < 1080; ty += radius * 1.5) {
+  // the center sways left/right as ty grows -> a wave down the page
+  const cx = base_x + amplitude * Math.sin(ty * 0.01);
+
+  for (let a = 0; a < Math.PI * 2; a += 0.1) {
+    const x = Math.round(cx + radius * Math.cos(a)); // circle shape, unchanged
+    const y = Math.round(ty + radius * Math.sin(a));
+    await send_data(255, 0, 0, x, y);
+  }
+}
+```
+
+sent her this email afterwards: 
+
+> also, please remove my recent json entries from your json file if you feel like it's disruptive (i recorded a video of making a red circle move with your api).
 
 [[jasmine-chou]]'s is interesting, because she chooses to let me edit previous messages. and i can figure that out, because the id of each message is exposed in the response: 
 
@@ -73,3 +198,11 @@ Names are limited to 50 characters and sentences to 280.
 so, i wonder: why didn't the the llm catch the bug (since this is a big flaw)?
 
 sent her an email too. 
+
+---
+
+just want to point out that this is — as far as i can tell — is an example of a good actor (except for in [[alua]]'s case where i got carried away (i then texted her to remove my entries)). if you're decently-versed with programming or networks, you have the ability to uplift the collective. we can spend time testing each other's projects; giving them feedback on where it might possibly break (technically or conceptually), and helping them figure out solutions; instead of trying to overwrite or destroy it just to show-off. 
+
+---
+
+api-s are fun. and people must do a lot of work to prevent abuse.
