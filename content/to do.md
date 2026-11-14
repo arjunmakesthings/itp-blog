@@ -116,3 +116,8 @@ siddharth's:
 
 ai 'scientists' accelerate research: https://www.youtube.com/watch?v=yrcztoCOYL8&t=935s
 
+
+deqing uno chip: https://github.com/DeqingSun/Prototyping-Electronic-Devices/blob/master/class07/ATmega328P-PU%20Pinout%20label%20array.pdf
+
+
+
