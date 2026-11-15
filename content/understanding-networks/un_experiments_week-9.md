@@ -39,7 +39,6 @@ didn't understand what the ip being shown was. her site showed the ip as: `216.1
 [[cody]]'s had nothing. i don't know what that site was supposed to do. 
 
 with [[alua]]'s, i was able to figure out her address & phone-number and stuff because of how she registered her domain. 
-
 ![[Screenshot 2026-11-14 at 12.28.51.webp]]
 
 sent an email to her warning her about this. 
@@ -81,14 +80,14 @@ i was trying to programmatically add to her json, and it also accepts any kind o
 
 i couldn't figure out why the color values weren't being posted. 
 
-figured it out, and posted: 
+figured it out (while her display reads "red", "green", etc, her source code (accessed via chrome -> source) actually posts it as 'r:', 'g:', etc). so the keys were wrong. once i figured that out, i could curl to her json. 
 
 ``` js
     { red: '127', blue: '127', green: '127', x: 'arjun', y: 70 }
 
 ```
 
-made a simple scaffold to send data to (and view data from) alua's sketch: 
+then, i wrote a simple scaffold in js to send data to (and view data from) alua's sketch: 
 
 ``` js
 //for alua's sketch:
@@ -128,17 +127,17 @@ get_data();
 
 ```
 
-will now send a circle: 
+then sent a circle by looping over x & y coordinates (cos(a) * r & sin(a) * r): 
 
-![[Screenshot 2026-11-14 at 14.27.55.webp]]
+![[Screenshot 2026-11-14 at 14.27.55.webp|496]]
 
 then i thought: 
 
-why not make it move?
+why not make it move over time?
 
 bad attempt (messed up math):
 
-![[Screenshot 2026-11-14 at 14.32.28.webp]]
+![[Screenshot 2026-11-14 at 14.32.28.webp|509]]
 
 good attempt, reloading really quickly: 
 
@@ -166,6 +165,8 @@ for (let ty = 0; ty < 1080; ty += radius * 1.5) {
 sent her this email afterwards: 
 
 > also, please remove my recent json entries from your json file if you feel like it's disruptive (i recorded a video of making a red circle move with your api).
+
+she chose to keep it. 
 
 [[jasmine-chou]]'s is interesting, because she chooses to let me edit previous messages. and i can figure that out, because the id of each message is exposed in the response: 
 
@@ -201,8 +202,22 @@ sent her an email too.
 
 ---
 
-just want to point out that this is — as far as i can tell — is an example of a good actor (except for in [[alua]]'s case where i got carried away (i then texted her to remove my entries)). if you're decently-versed with programming or networks, you have the ability to uplift the collective. we can spend time testing each other's projects; giving them feedback on where it might possibly break (technically or conceptually), and helping them figure out solutions; instead of trying to overwrite or destroy it just to show-off. 
+just want to point out that this is — as far as i can tell — is an example of a good actor. if you're decently-versed with programming or networks, you have the ability to uplift the collective. we can spend time testing each other's projects; giving them feedback on where it might possibly break (technically or conceptually), and helping them figure out solutions; instead of trying to overwrite their work or destroy it just to show-off. 
+
+even in [[alua]]'s case (which i consider the most disruptive action), i first verified how she was storing her data. she was smarter than me (i'd just kept a long array running; so as to not bother with reading from & writing to the file-system) — and had chosen to keep a separate .json file. so, she had the power to edit it afterwards (which is why i emailed her to remove my json entries (although she chose to keep them)). 
 
 ---
 
 api-s are fun. and people must do a lot of work to prevent abuse.
+
+---
+
+the only thing i didn't do was to register a domain and pursue a ssl certificate. i glanced over the process, and it looked straightforward enough. i didn't want to pay for & register under my name a silly domain. unless i would've missed out on a key learning or collaboration opportunity; which it didn't seem like i did.
+
+i also think there was something pretty about having to enter an ip. we're so used to writing in words, that we forget that internet addresses ~~can be~~ actually are numbers. 
+
+---
+
+also realized, while doing [[computer-graphics/index|computer-graphics]] homework, that js calls actually use the same rest protocol to fetch internal files that are needed. 
+![[Screenshot 2026-11-14 at 21.08.51.webp]]
+in the above, i load 4 scripts (and an image as texture that can't be seen in this log). the browser must make a GET request 
