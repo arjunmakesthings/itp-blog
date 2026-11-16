@@ -167,4 +167,6 @@ you will bring a printout of this sheet to the next class. please cut out each i
 - **swap connections (7m)**:
 	- take someone else's sheet and draw connections that they may have missed. 
 
+---
 
+kyle mcdonald weird intelligence talk
