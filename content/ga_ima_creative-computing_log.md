@@ -112,3 +112,59 @@ borrowed from [[shobhan]]'s staging an experience:
 - what do you want people to feel (affect). 
 
 what is the simplest version of this project? bring that to class. 
+
+---
+
+# workshop: 
+
+# what we're doing: 
+students are now familiar with the basics of computer-programming & electronics; and have managed to put the two together in their mid-term projects. the final project challenges them to go further: demonstrate the intentional use of programming and / or electronics. 
+
+since most of them are new to art, it is difficult for them to articulate (and subsequently defend) their intention. this workshop is designed to aid that. 
+
+---
+
+notes: 
+- each student must partake in this workshop individually, even if they wish to pair up later. 
+- we will do this whole workshop on paper, which the instructors will bring with them. 
+
+---
+# prework: 
+this week, your assignment is simply to *collect*. 
+
+throughout the week, research & build a 'repository' of work that you find inspiring or interesting. these can be images, videos, music, performances, et-cetera. you must collect atleast 9 pieces of work, out of which atleast 4 must be directly related to 'creative-computing'. you are encouraged collect as many as you can. 
+
+towards the end of the week, put an image from each piece of work on this sheet, and fill out the details. 
+
+![[Screenshot 2026-11-15 at 20.37.40.webp]]
+
+you will bring a printout of this sheet to the next class. please cut out each individual image before class on monday.
+
+---
+
+# in class: 
+- **introduction + goal framing (10m):**
+	- discuss midterms. can they be something more than just a submission? 
+	- introduce why we're doing this workshop. 
+	- make these sections on the paper: 
+	  ![[Screenshot 2026-11-15 at 21.02.44.webp|263]]
+	- goal frame: what do you want from this project? i carve out that it's not *just* about submitting, but that students may have other goals. we start with "i want to" statements. 
+	- quick sharing: you can choose to speak or not, if you're not comfortable. (2m)
+- **projects that inspire you & why (15m):**
+	- for each project, paste the image. 
+	- then, outwards, make branches for why that piece makes you feel interested. each project can have multiple branches. 
+	- dan & arjun will walk around to probe students to go deeper ("it was interesting" -> but what about it was interesting? and why is that interesting to you?)
+	- quick sharing: you can choose to speak or not, if you're not comfortable. describe the project, and share the branch that you think is most interesting. 
+- **rapid concept generation buckets (15m):**
+	- we now work on the bottom three sections. in each one, we take 5m to write whatever word comes into our heads. 
+	- 1: things i want to talk about (these will later translate into *concepts*)
+	- 2: technology that i want to explore (this will later translate into *effect*)
+	- 3: things i want people to feel (this will later translate into *affect*)
+	- show them the three buckets: 
+	- ![[staging-experience_shobhan.webp|429]]
+- **find connections (7m):**
+	- each student looks at the different sections, and makes connections between them. 
+- **swap connections (7m)**:
+	- take someone else's sheet and draw connections that they may have missed. 
+
+
