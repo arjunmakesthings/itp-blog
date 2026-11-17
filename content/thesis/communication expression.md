@@ -367,5 +367,18 @@ to actually make this, i'd need to figure out the electronics first — which i
 - [acoustic swarm](https://communities.springernature.com/posts/acoustic-swarms-robotic-swarms-that-cooperatively-navigate-using-sound)
   ![[robot-swarm.webp]]
   
-- 
+---
 
+originally, i'd thought of using electret microphones for this build. 
+
+figured out that using an i2s microphone was probably better, because it requires less signal conversion & gave a cleaner signal. 
+
+![[Screenshot 2026-11-17 at 09.27.15.webp]]
+
+ordered the parts to make two cubes: 
+
+- inmp441 mics
+- teensy 4.0
+- small 8ohm 2w speakers. 
+
+i think there is enough complexity in two of my displays, and making three just wouldn't be feasible. movement & communication display that specific representation-systems could be made, and that different paradigms display can effect expression of thought. 
