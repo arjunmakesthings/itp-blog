@@ -58,3 +58,8 @@ did some adventurous re-soldering of all joins on the panel.
 
 ![[IMG_8723.webp|315]]
 
+---
+
+# 261117: 
+555 lfo: http://scott.joviansynth.com/fatman/vcolfo1.html
+
