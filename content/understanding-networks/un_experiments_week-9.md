@@ -39,6 +39,7 @@ didn't understand what the ip being shown was. her site showed the ip as: `216.1
 [[cody]]'s had nothing. i don't know what that site was supposed to do. 
 
 with [[alua]]'s, i was able to figure out her address & phone-number and stuff because of how she registered her domain. 
+
 ![[Screenshot 2026-11-14 at 12.28.51.webp]]
 
 sent an email to her warning her about this. 
