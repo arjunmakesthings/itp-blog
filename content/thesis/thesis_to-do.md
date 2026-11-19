@@ -22,6 +22,8 @@ shobhan asked me what is wonder, and curiosity: and there's a link between explo
 
 with margaret: 
 
+zoe's conversation: zrc235@nyu.edu
+
 ---
 
 # with ryan and aram: 
