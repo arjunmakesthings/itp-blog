@@ -50,7 +50,7 @@ had to cut these multiple times, perhaps because of the coating on the piece of 
 
 then, i began gluing them together. the pieces were tiny, and no glue on the floor was keeping them together (even hot glue). 
 
-![[z_images/IMG_6375.webp]
+![[z_images/IMG_6375.webp]]
 
 began supergluing things together. 
 

@@ -12,7 +12,7 @@ draft: "false"
 
 storing some pages from the book here.
 
-![[z_images/aram_saroyan_1.webp]
+![[z_images/aram_saroyan_1.webp]]
 
 ![[z_images/aram_saroyan_0.webp]]
 

@@ -7,7 +7,7 @@ draft: "false"
 ---
  began with a bunch of unconnected thoughts, and a conversation with [[tom-igoe]]. 
 
-![[z_images/IMG_6445.webp]
+![[z_images/IMG_6445.webp]]
 
 i then began to do [[intro-to-physical-computing/research|research]]. i was primarily inspired by [programmable droplets](https://tangible.media.mit.edu/project/programmable-droplets/). i remember seeing this a couple of years ago, when i was thinking of responsive graphic design (which didn't quite pan out). 
 
@@ -99,7 +99,7 @@ i'm going to figure out why. my first guess is that the motor is not receiving e
 second test: 
 the id.webpto use a transistor to amplify the voltage given to the servo. 
 
-![[z_images/IMG_6457.webp
+![[z_images/IMG_6457.webp]]
 
 i also tried this, since the problem last time was the current not being regulated. 
 
@@ -107,15 +107,15 @@ i also tried this, since the problem last time was the current not being regulat
 
 i then bugged [[people/nikolai|nikolai]] for help. we discussed how transistors are used, and how i may use a different power source to power the servo. he also suggested using an oscilloscope to debug my circuit. 
 
-![[z_images/IMG_6459.webpbp]]
+![[z_images/IMG_6459.webp]]
 
 i decided to do this, and have two different circuits. 
 
-![[z_images/IMG_6460..webp
+![[z_images/IMG_6460.webp]]
 
 this worked. 
 
-![[z_images/IMG_6461.webp
+![[z_images/IMG_6461.mp4]]
 
 i then started to look at the oscilloscope. 
 
@@ -153,15 +153,15 @@ i don't get it. <mark>what is wrong?  this should essentially boost the pulse</m
 
 but, when i measure with an oscilloscope, there *is* an increased voltage being passed via the transistor. 
 
-![[z_images/IMG_6478.webp
+![[z_images/IMG_6478.mp4]]
 
 to verify this, i plugged in another scope to measure the 'in' and 'out' via the transistor. 
 
-![[z_images/IMG_6479.webp
+![[z_images/IMG_6479.webp]]
 
 and, as expected, the voltage out from the transistor is much higher. why, then, does it not affect the servo motor? 
 
-![[z_images/IMG_6480.webp
+![[z_images/IMG_6480.mp4]]
 
 why, then, does this not work? 
 
