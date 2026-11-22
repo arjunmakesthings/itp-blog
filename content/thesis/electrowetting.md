@@ -154,3 +154,44 @@ longer video:
 
 i'm too sleep to document right now, but shall do so tomorrow.
 
+---
+
+my multiple pcb-s: 
+
+![[IMG_8742.webp|396]]
+
+after speaking with [[michael-knox]], who graciously gave time to answer my questions, i redid the math for my transistor setup. i went back to the set-up that they had on *A Fast Fabricating Electro-wetting Platform to Implement Large Droplet Manipulation* (li, et. al), and used the pad to turn the electrode off when the pin was set high. this, to me, has always been coutnerintuitive, but it seems like the best method for now. 
+
+``` txt
+
+since i need very little current across the pad, i got these values with ohm's law: 
+
+r = v of supply / current of pad 
+
+current supplied by the boost-converter is 
+
+255 / 0.25ma (to account for heating for the resistor). 
+
+that's a 1m resistor. 
+
+typical resistors can only handle 200v. so instead of using a 1m resistor, i use 470k resistors in series. 
+
+```
+
+added a [[bleeder-resistor]] as well for safety. 
+
+hand tested all transistors that i had. they all worked. i don't know what the problem was last time. 
+
+there is a voltage drop across the transistors. it drops to 235v, which is lesser than my 253v originally. 
+
+it doesn't drop to 0v with more transistors. goes to 50mv. 
+
+carefully built this out in 10-ish hours. 
+
+![[IMG_8768.webp|495]]
+
+video at 4x speed: 
+
+![[4xspeed_261121_720.mp4]]
+
+

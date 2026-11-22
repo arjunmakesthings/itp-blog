@@ -1,0 +1,1 @@
+electronics inventor; met him via [[anna palumbo]] at [[musical-connections/index|musical-connections]]. 

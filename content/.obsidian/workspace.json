@@ -102,49 +102,21 @@
             }
           },
           {
-            "id": "bb7697b713cb78e2",
+            "id": "d0172bf0a3589f97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "people/nikolai.md",
+                "file": "thesis/electrowetting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nikolai"
-            }
-          },
-          {
-            "id": "8a6a54998a1d99b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "how weird is it that we don't obsess over transistors anymore?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "how weird is it that we don't obsess over transistors anymore?"
-            }
-          },
-          {
-            "id": "54e89c614b791df6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "intro-to-physical-computing/ipc_experiments_week-4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ipc_experiments_week-4"
+              "title": "electrowetting"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -206,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.18838500976562,
-    "collapsed": true
+    "width": 254.18838500976562
   },
   "right": {
     "id": "9cae2ce350fe3f78",
@@ -238,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "how weird is it that we don't obsess over transistors anymore?.md",
+                "file": "prototyping-electronic-devices/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -329,7 +300,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -351,13 +322,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8a6a54998a1d99b7",
+  "active": "d0172bf0a3589f97",
   "lastOpenFiles": [
-    "people/nikolai.md",
+    "z_images/4xspeed_261121_720.mp4",
+    "z_images/IMG_8768.webp",
+    "musical-connections/mc_work-log.md",
+    "resources & tools/sandbox password.md",
+    "thesis/electrowetting.md",
+    "terms & concepts/bleeder-resistor.md",
+    "z_images/bleeder-circuit.webp",
+    "people/michael-knox.md",
+    "z_images/IMG_8742.webp",
+    "prototyping-electronic-devices/index.md",
+    "prototyping-electronic-devices/class-11.md",
+    "artist material drafts.md",
+    "thesis/communication expression.md",
+    "z_images/freq-detection.mp4",
+    "people/eric-singer.md",
     "intro-to-physical-computing/ipc_experiments_week-4.md",
+    "people/nikolai.md",
     "how weird is it that we don't obsess over transistors anymore?.md",
     "people/justina.md",
-    "musical-connections/mc_work-log.md",
     "thesis/alumni chats.md",
     "the secret of good metaphors, by louis charron.md",
     "computer-graphics/index.md",
@@ -371,10 +356,6 @@
     "shared-minds/sm_experiments_week-10.md",
     "shared-minds/index.md",
     "my principles as a creator.md",
-    "understanding-networks/un_class_week-10.md",
-    "understanding-networks/un_experiments_week-9.md",
-    "analog synth build.md",
-    "thesis/communication expression.md",
     "z_images/Screenshot 2026-11-17 at 09.27.15.webp",
     "z_images/Screenshot 2026-11-16 at 22.30.00.webp",
     "z_images/Screenshot 2026-11-16 at 22.27.40.webp",
@@ -382,23 +363,13 @@
     "z_images/Screenshot 2026-11-16 at 22.07.36.webp",
     "z_images/Screenshot 2026-11-16 at 21.50.58.webp",
     "z_images/Screenshot 2026-11-16 at 21.34.52.webp",
-    "shared-minds/sm_experiments_week-9.md",
-    "resources & tools/seeed studio pinouts.md",
-    "thesis/proposal_261116.md",
-    "z_images/Screenshot 2026-11-16 at 16.05.26.webp",
-    "computer-graphics/cg_experiments_week-11.md",
     "z_images/Screen Recording 2026-11-16 at 15.01.53.mp4",
-    "ga_ima_creative-computing_log.md",
-    "computer-graphics/cg_experiments_week-6.md",
-    "z_images/Screenshot 2026-11-16 at 10.35.45.webp",
-    "z_images/staging-experience_shobhan.webp",
     "z_images/Screen Recording 2026-11-14 at 14.34.46.mp4",
     "z_images/actuation_261106_0210.mp4",
     "z_images/electrowet_260917.mp4",
     "z_images/IMG_8675.mp4",
     "z_images/Screen Recording 2026-11-03 at 12.35.16.mp4",
     "z_images/Screen Recording 2026-11-03 at 00.16.35.mp4",
-    "z_images/l-systems.mp4",
     "Untitled.canvas",
     "damp vision finding canvas.canvas",
     "artists i look up to and why.canvas",

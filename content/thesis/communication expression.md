@@ -382,3 +382,251 @@ ordered the parts to make two cubes:
 - small 8ohm 2w speakers. 
 
 i think there is enough complexity in two of my displays, and making three just wouldn't be feasible. movement & communication display that specific representation-systems could be made, and that different paradigms display can effect expression of thought. 
+
+---
+
+# 261119: 
+realized the teensy would be very expensive to buy. moved over to the esp32-s3. 
+
+the right side port is uart, and the left one is its own usb port (can chain multiple esp-s). [[eric-singer]] had done this when he showed a demo in [[musical-connections/index|musical-connections]]. 
+
+used a sketch found [here](https://dronebotworkshop.com/esp32-i2s/): 
+
+``` cpp
+/*
+  ESP32 I2S Microphone Sample
+  esp32-i2s-mic-sample.ino
+  Sample sound from I2S microphone, display on Serial Plotter
+  Requires INMP441 I2S microphone
+
+  DroneBot Workshop 2022
+  https://dronebotworkshop.com
+*/
+
+// Include I2S driver
+#include <driver/i2s.h>
+
+// Connections to INMP441 I2S microphone
+#define I2S_WS 17
+#define I2S_SD 15
+#define I2S_SCK 18
+
+// Use I2S Processor 0
+#define I2S_PORT I2S_NUM_0
+
+// Define input buffer length
+#define bufferLen 64
+int16_t sBuffer[bufferLen];
+
+void i2s_install() {
+  // Set up I2S Processor configuration
+  const i2s_config_t i2s_config = {
+    .mode = i2s_mode_t(I2S_MODE_MASTER | I2S_MODE_RX),
+    .sample_rate = 44100,
+    .bits_per_sample = i2s_bits_per_sample_t(16),
+    .channel_format = I2S_CHANNEL_FMT_ONLY_LEFT,
+    .communication_format = i2s_comm_format_t(I2S_COMM_FORMAT_STAND_I2S),
+    .intr_alloc_flags = 0,
+    .dma_buf_count = 8,
+    .dma_buf_len = bufferLen,
+    .use_apll = false
+  };
+
+  i2s_driver_install(I2S_PORT, &i2s_config, 0, NULL);
+}
+
+void i2s_setpin() {
+  // Set I2S pin configuration
+  const i2s_pin_config_t pin_config = {
+    .bck_io_num = I2S_SCK,
+    .ws_io_num = I2S_WS,
+    .data_out_num = -1,
+    .data_in_num = I2S_SD
+  };
+
+  i2s_set_pin(I2S_PORT, &pin_config);
+}
+
+void setup() {
+
+  // Set up Serial Monitor
+  Serial.begin(115200);
+  Serial.println(" ");
+
+  delay(1000);
+
+  // Set up I2S
+  i2s_install();
+  i2s_setpin();
+  i2s_start(I2S_PORT);
+
+
+  delay(500);
+}
+
+void loop() {
+
+  // False print statements to "lock range" on serial plotter display
+  // Change rangelimit value to adjust "sensitivity"
+  int rangelimit = 3000;
+  Serial.print(rangelimit * -1);
+  Serial.print(" ");
+  Serial.print(rangelimit);
+  Serial.print(" ");
+
+  // Get I2S data and place in data buffer
+  size_t bytesIn = 0;
+  esp_err_t result = i2s_read(I2S_PORT, &sBuffer, bufferLen, &bytesIn, portMAX_DELAY);
+
+  if (result == ESP_OK)
+  {
+    // Read I2S data buffer
+    int16_t samples_read = bytesIn / 8;
+    if (samples_read > 0) {
+      float mean = 0;
+      for (int16_t i = 0; i < samples_read; ++i) {
+        mean += (sBuffer[i]);
+      }
+
+      // Average the data reading
+      mean /= samples_read;
+
+      // Print to serial plotter
+      Serial.println(mean);
+    }
+  }
+}
+```
+
+when left / right is low, this sets the microphone to give a left channel out. when it's high, it goes to the right channel. 
+
+watched this good [video](https://www.youtube.com/watch?v=m-MPBjScNRk). 
+
+fft to identify peak frequency. works well with a keyboard. 
+
+![[freq-detection.mp4]]
+
+didn't work too well with an 8-ohms speaker. 
+
+``` cpp
+/*
+  sketch adapted from dronebot workshop. 
+
+  source video: https://www.youtube.com/watch?v=m-MPBjScNRk
+
+  to display microphone input on the plotter: 
+*/
+
+// Include I2S driver
+#include <driver/i2s.h>
+#include <arduinoFFT.h>
+
+// Connections to INMP441 I2S microphone
+#define I2S_WS 17
+#define I2S_SD 15
+#define I2S_SCK 18
+#define speaker 16
+
+// Use I2S Processor 0
+#define I2S_PORT I2S_NUM_0
+
+// Define input buffer length
+#define bufferLen 64
+int16_t sBuffer[bufferLen];
+
+// fft settings
+const uint16_t samples = 1024;          // must be a power of 2. 1024 at 44100 = ~43 hz steps
+const float samplingFrequency = 44100;  // must match the i2s sample rate below
+
+float vReal[samples];
+float vImag[samples];
+
+ArduinoFFT<float> FFT = ArduinoFFT<float>(vReal, vImag, samples, samplingFrequency);
+
+void i2s_install() {
+  // Set up I2S Processor configuration
+  const i2s_config_t i2s_config = {
+    .mode = i2s_mode_t(I2S_MODE_MASTER | I2S_MODE_RX),  //controller; in receiver mode.
+    .sample_rate = 44100,
+    .bits_per_sample = i2s_bits_per_sample_t(16),
+    .channel_format = I2S_CHANNEL_FMT_ONLY_LEFT,
+    .communication_format = i2s_comm_format_t(I2S_COMM_FORMAT_STAND_I2S),
+    .intr_alloc_flags = 0,
+    .dma_buf_count = 8,
+    .dma_buf_len = bufferLen,
+    .use_apll = false
+  };
+
+  // install the data:
+  i2s_driver_install(I2S_PORT, &i2s_config, 0, NULL);
+}
+
+// set pins;
+void i2s_setpin() {
+  // Set I2S pin configuration
+  const i2s_pin_config_t pin_config = {
+    .bck_io_num = I2S_SCK,
+    .ws_io_num = I2S_WS,
+    .data_out_num = -1,
+    .data_in_num = I2S_SD
+  };
+
+  i2s_set_pin(I2S_PORT, &pin_config);
+}
+
+void setup() {
+
+  // Set up Serial Monitor
+  Serial.begin(115200);
+  Serial.println(" ");
+
+  delay(1000);
+
+  // Set up I2S
+  i2s_install();
+  i2s_setpin();
+  i2s_start(I2S_PORT);
+
+  delay(500);
+}
+
+void loop() {
+  // fill vReal with `samples` samples, reading the mic 64 at a time
+  uint16_t filled = 0;
+  while (filled < samples) {
+    size_t bytesIn = 0;
+    esp_err_t result = i2s_read(I2S_PORT, &sBuffer, sizeof(sBuffer), &bytesIn, portMAX_DELAY);  // size is in bytes
+
+    if (result == ESP_OK) {
+      int16_t samples_read = bytesIn / 2;  // 2 bytes per 16-bit sample
+      for (int16_t i = 0; i < samples_read && filled < samples; ++i) {
+        vReal[filled] = sBuffer[i];
+        vImag[filled] = 0;
+        filled++;
+      }
+    }
+  }
+
+  // remove the dc offset (otherwise the fft reports a big peak at 0 hz)
+  float mean = 0;
+  for (uint16_t i = 0; i < samples; i++) mean += vReal[i];
+  mean /= samples;
+  for (uint16_t i = 0; i < samples; i++) vReal[i] -= mean;
+
+  // fft
+  FFT.windowing(FFTWindow::Hamming, FFTDirection::Forward); /* weigh data */
+  FFT.compute(FFTDirection::Forward);                       /* compute fft */
+  FFT.complexToMagnitude();                                 /* compute magnitudes */
+  float x = FFT.majorPeak();                                /* strongest frequency, in hz */
+
+  // "lock range" on the serial plotter: 0 to 5000 hz
+
+  Serial.print("min:0,max:5000,frequency:");
+  Serial.println(x);
+}
+
+```
+
+realized that the ==mic is very sensitive==.  
+
+[[david rios]] was right. the plastic base speakers don't work, and change the frequency. 
