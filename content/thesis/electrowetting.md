@@ -115,7 +115,7 @@ he gave me a conductive ito sheet.
 
 bantam-milled a pcb to test 1-d movement with high-voltage transistors. 
 
-![[IMG_8624.jpg|409]]
+![[IMG_8624.webp|409]]
 
 small build: https://www.youtube.com/watch?v=V_h0AEX9wQo
 
@@ -125,9 +125,9 @@ waiting for my high-voltage transistors to come in on monday.
 
 didn't work because the heights were not double of that of the droplet. milled again. 
 
-![[IMG_8658.jpg|397]]
+![[IMG_8658.webp|397]]
 
-![[IMG_8659.jpg|399]]
+![[IMG_8659.webp|399]]
 
 [[david rios]] helped me figure out the electronics. 
 
@@ -194,4 +194,9 @@ video at 4x speed:
 
 ![[4xspeed_261121_720.mp4]]
 
+[[sofi]] took this picture of me while i worked on this build. 
+
+![[662c6f6e-6781-46e0-8b79-6bd928adf7a3.webp|285]]
+
+---
 

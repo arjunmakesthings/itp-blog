@@ -169,4 +169,8 @@ you will bring a printout of this sheet to the next class. please cut out each i
 
 ---
 
-kyle mcdonald weird intelligence talk
+kyle mcdonald weird intelligence talk. 
+
+---
+
+corpora for json files. 
