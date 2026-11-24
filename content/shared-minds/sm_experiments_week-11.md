@@ -37,4 +37,8 @@ see: https://arnicas.substack.com/?utm_campaign=profile_chips and https://medium
 > 
 > On the technical side, try going further with one your projects. or research some of your technical gaps in your final proposal.
 
+this is the starting point of my project: 
 
+![[ny-city.mp4]]
+
+if you think of people moving in space, 
