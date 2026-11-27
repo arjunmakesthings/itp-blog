@@ -36,6 +36,15 @@ and becoming whole;
 all of this going on at the individual,
 indecipherable as a whole.
 
+
+---
+
+the experience of the self
+versus others 
+and my relationship with everyone else
+
+
+
 ---
 
 for [[communication expression]]: 

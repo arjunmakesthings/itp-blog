@@ -53,6 +53,10 @@ the interface i propose invites people to make choices. when atleast two people 
 
 for example, if i showed you options of three artists, and asked you to select one (say you selected 'pollock'). and someone else selected 'casey reas', the two of us have some similarity that a lot of conversation may or may not expose. embedding models expose this upfront: what word(s) connects these two together? 
 
+tried it with a few people: 
+
+![[IMG_8778.webp|436]]
+
 the build is simple: a computer, a projector face-down from the ceiling, and a camera next to it. the program identifies moving people, and exposes choices when it detects them stopping. each round must be timed, so that people make their directional movements at the same time. maybe choices must be exposed upfront. so there needs to be a timer. 
 
 i didn't care much for google notebooks — it just seemed like an ai-powered search engine. i was satisfied with the idea. i still tried it, and got it to build on my idea. 
@@ -60,4 +64,5 @@ i didn't care much for google notebooks — it just seemed like an ai-powered s
 here's a prototype: 
 
 ![[IMG_8786.mp4]]
+
 
